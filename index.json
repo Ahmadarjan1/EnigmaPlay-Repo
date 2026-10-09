@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-09T22:42:42Z",
+ "generated": "2026-10-09T22:44:37Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1878,7 +1878,8 @@
     "ru": {
      "description": "Магазин плагинов Enigma2: устанавливайте и обновляйте плагины и восстанавливайте их на любом имидже через аккаунт."
     }
-   }
+   },
+   "featured": true
   },
   {
    "id": "epggrabber",
@@ -10717,6 +10718,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "34Mgh/HOkYBj5AF2Nx5ACYbDod7vZgfgg0Rb0kjk55Mxgo9z/go/g5WK3MH2KRM5vLgX1bwK3PGfY0zxx/MaBA=="
+  "sig": "J10y5PHEDklnqSwPOHdccoZ5KnzK/6VW/6A7cioDsfrV9l72pabkQ17RoKDAH9ERWXwrKZMDtG614wL0+DbICg=="
  }
 }

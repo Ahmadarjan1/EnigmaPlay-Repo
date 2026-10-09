@@ -30,6 +30,5 @@
   "subcategory": "Uti",
   "author": "Lululla · Linuxsat-support",
   "homepage": "https://www.linuxsat-support.com",
-  "batch": "linuxsat",
-  "featured": true
+  "batch": "linuxsat"
 }

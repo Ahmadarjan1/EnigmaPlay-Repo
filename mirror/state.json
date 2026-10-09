@@ -325,6 +325,11 @@
 "sha256": "9e7e2c2828bdea53c84381fbb1d0f1310a8a72389c8768fb380b7600eb26d11a",
 "size": 1938784
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-Blue-Gold-Glass-V1.0-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "cc4ecc3cf7d92fced4091004264e99f000031ab66b61f433ce67cef51a4aa648",
+"size": 1539378
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-ClassPlus-HD-v1.0-MOD-By-RAED.ipk": {
 "date": "2026-10-09",
 "sha256": "46165152eeb98cacf62c38d0a9a533026fc82b4d8ed493dd989ffe6596dfcc3c",
@@ -334,6 +339,11 @@
 "date": "2026-10-09",
 "sha256": "f21dd5744ecfc8aff3e5a7f8b939cb1e23a1d13c53588772ed872a87cc534ec9",
 "size": 1081020
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-DarkSky-HD-V1.0-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "953c2dffd1799647f5bc72ff2d9d3b94c96c7a10c1c580491cbda9a4591ee574",
+"size": 2539446
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-Design-HD-V1.0-MOD-By-RAED.ipk": {
 "date": "2026-10-09",
@@ -400,6 +410,11 @@
 "sha256": "ca1dd76b080271db8ab04e6e2cc41499e4f99996ec4af098bbea54a17b9ccf2a",
 "size": 2742360
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-LN.HD-ME-V1.1-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "3ebf20f65beebff2e8680dece0a00fddacc148bd726fd801bd7bd487b5dfe932",
+"size": 2032048
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-MX-HC2-v1.0-MOD-By-RAED.ipk": {
 "date": "2026-10-09",
 "sha256": "f7d64ffea79c82a5eeae55275f8d27e9ff461393e0bb94a333376def1ffefdf0",
@@ -414,6 +429,16 @@
 "date": "2026-10-09",
 "sha256": "f72b51ce9b483eedc0e840af27dee228db0446ef975974fd4d7bba90a6778ab4",
 "size": 1863544
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-MX-X2-R-V1.0-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "58aaeebe7a31441f3fd796906efd4910e903545b995bb745e10c2c00a5d97395",
+"size": 2227262
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-Mahagoni-HD-V1.0-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "6c6fbeb5eb944752fecc823cb15921d8f8de65395d3ff430072ad7c32a128323",
+"size": 4370196
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-MeTrO-V2.0-MOD-By-RAED.ipk": {
 "date": "2026-10-09",
@@ -450,6 +475,11 @@
 "sha256": "fb4500bb9bbd3cf8cec19feea1429d0fbe71c994936f375d6b7c46a8f975b337",
 "size": 1584130
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-PKT-SilverHD-V1.0-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "1169f5dbe244033ccef433adfb2f48588ae8688e2fd03a95a2fcb797ff8627a0",
+"size": 1359950
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-Rihanna3-V1.0-MOD-By-RAED.ipk": {
 "date": "2026-10-09",
 "sha256": "8f5b1d8dfc609d1f284d9cd257516995fa2b56430db8040890195247d80dd6bd",
@@ -459,6 +489,11 @@
 "date": "2026-10-09",
 "sha256": "2032507c5d0a4b3718f8b3c4243d6ee61a7725f2ba33736829edb5024c05ae80",
 "size": 3002852
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-The-Beginning-HD-v1.0-MOD-By-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "093ec315e4fdaa0a0028a6897bd32e6004f15b28cfecb61589b83b07dc9fea7a",
+"size": 1203600
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-adriatic32-turquoise_1.0_mips32el.ipk": {
 "date": "2026-10-09",
@@ -494,6 +529,11 @@
 "date": "2026-10-09",
 "sha256": "749cee0e99f8d995c6bd7150755656507072b979d834e42994306fb45d471b71",
 "size": 2428950
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-metrixhd-mod-by-binicknich_0.9_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "19e8a42c42889b01d1bf584a799ca55715462ad43c5f42fcbf7120958d2b29c2",
+"size": 3257034
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skin-metrixhd-mod_4.5_all.ipk": {
 "date": "2026-10-09",
@@ -620,6 +660,11 @@
 "sha256": "25381371e80726382fc648d38e310097136e96cd73601fc7af84f878efacbdcd",
 "size": 806352
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skins-frankensky-night-mod-rc_01.06.15_all.ipk": {
+"date": "2026-10-09",
+"sha256": "64ebe5927c27c1a7b913e52336e1353d5296360cabd08ff40c9e6adcd3664270",
+"size": 5480800
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk": {
 "date": "2026-10-09",
 "sha256": "be09fd146e81426a374ffb146c08309e36123afe6f192d54afd55031339e70dc",
@@ -649,6 +694,11 @@
 "date": "2026-10-09",
 "sha256": "3ffbbf5924ac4d71c82031a0e245737d707f7d71dceb90ccd518e1698c32b2b0",
 "size": 1244986
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skins-ts-eins_1.0-r22_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4ebeca06ae034efd741bcd10b3ad36f163f2a4aa26200704b06ffcdccc169379",
+"size": 723064
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Hd/enigma2-plugin-skins-vanity_1.3_all.ipk": {
 "date": "2026-10-09",
@@ -969,6 +1019,416 @@
 "date": "2026-10-09",
 "sha256": "59d2f589e2eea2d5a262976af3a36d9eba6a227ec3d986fe66bdeac3fdd1f57f",
 "size": 764670
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/GOLDSKY MONTANA 4K_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d4304531a29aaa3e565481d32ad42395824f980b129a81d9c0672e9da7065881",
+"size": 3062356
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/Skin-Army-Touch-FHD_1.1-r2-OpenPLi7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "13c2f42c135f533e0158571cec036ce3325e33c32bafdc03ca9494654881482d",
+"size": 19325140
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/Skin-MX-Titanium-By-Matrix10-MoD-By-RAED_packed.Lucek.OpenPLi6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9f18bc77cbfa13cfb1ab723a8dd983b49913531168044e7aae5ee639fbe52fa7",
+"size": 1750788
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/Skin-MetropolisHD-by.Franc.MoD_OpenPLi6.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "170ce24ea65d554d49e34b336e8ece364f5b9a6bc7f4389a5d57b7f9ae835207",
+"size": 3087740
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/Skin-Universum-by-spartak73-4.1_OpenPLi7_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "15e855bedf111648386ba76938828dd5d8486778c1c1fed6bae4a479536136f1",
+"size": 4239918
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/Skin-redream-mod2fhd_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8d51bef55e326860355bf2ab05768a485ed216b52ad5089c99e4d9de17900163",
+"size": 4710578
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-EkselanceBlackMontanaV3all.ipk": {
+"date": "2026-10-09",
+"sha256": "3dc97c808b539e3a450d4da7e4861f120d8694680d4e0bed1b22c126142fd7b8",
+"size": 11061744
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-cobaltfhd-openpli_09.02.2021_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7a8ca7774e48607f46829509c4a9c5e3525891324927e7030d403e0d89e5d170",
+"size": 48989840
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-e2-darkos_0.9.9.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f3455fada6f75ed84fb0ef479a070e91387ee50765a6fb6b970c748c08c9c1bc",
+"size": 3678890
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-ilookhd-openpli_alpha_all.ipk": {
+"date": "2026-10-09",
+"sha256": "aa83dd7aa22317b0dd61f47b7d51324ecff0a0fad6b7366e31617e4eb172f12c",
+"size": 5374734
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-metrixhd-wpstyle-mod-pli_3.1a_all.ipk": {
+"date": "2026-10-09",
+"sha256": "dd6f15f23c6dc368ea87e4152c4e6554c01c9173c4c1bc3e64c91b7f039e3304",
+"size": 3029838
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-pimp-my-pli-hd-by-talbs_2.74_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6ca4d69742b3c932d96349ec577cd3ca8e39e5417f114b259bf7a248d688c377",
+"size": 1468986
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-pli-hd-talbs-mod-shd-picon_0.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "dab03181aaf3cc57b8bc10d6317fdd9055fc7132c6ecace20a6840de6525415b",
+"size": 312384
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-swain-hd_SR-OpenPLi_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "a6666d15f04c2e7d8b8a14f3b58d7f9a569f635f7c21e5d8a9f957800f0b0efc",
+"size": 260592
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skin-xmas-allinone-hd-mod-pli6.1_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3bb1f1fd995a476ff895aa8184a7369a2c83375019182ab24ce420aabad9c880",
+"size": 6804662
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skinbymontana2023-obsplus-fhd-all_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4e68a0a77ed9fc378487b98dbee805c09719a476afab3fb75afff9f0d6fdce1b",
+"size": 4271982
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-EkselanceV3 Black Montana all.ipk": {
+"date": "2026-10-09",
+"sha256": "5363989ca7eb0feb2061c63322b7722e2c01729e8dbd788e48a60c90b2701672",
+"size": 9799970
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI-OpenBH-OpenVIX_v1.0.3.ipk": {
+"date": "2026-10-09",
+"sha256": "79bad58093fafa7301853e224e763f744ab1a32bf667674427d03eb217c19a6d",
+"size": 26893362
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-Youchie-PLI-FHD-For-OpenPLI_v1.0.2.ipk": {
+"date": "2026-10-09",
+"sha256": "1b47dc6c976461c16476d50f41607534f2e7d24c91666cf4235b42eaea9b0ce9",
+"size": 26033862
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-adreamy-hd_1.00_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9e13d5ca011cadd64ffcf6f721aa6a421c32d44126398386ebc659679aa1cd7f",
+"size": 597478
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6b7b8550aff2f5cbf804ebef6b8cc7a265c792bbf127b66f7d6753c79775f18c",
+"size": 10239386
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ec42af29857a6501fab6096d72aa6f0a826a07d8ad911d953a693d803a640387",
+"size": 10627266
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-army-touch-fhd-pli_1.1-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d68f1004d1bc2742bdada7bb9f096644f777b0cc6bf138e6ffc75ffc4c469752",
+"size": 9494906
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-bluemetalfhd_2.20_all.ipk": {
+"date": "2026-10-09",
+"sha256": "aea8d34c09900d7e51e6158a8915f8761dc46cd67c4ad6ce32ba62f6d91384d2",
+"size": 9056064
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cino.pli.fhd_by.drsat.OpenPLi_all.ipk": {
+"date": "2026-10-09",
+"sha256": "494991f985595d03e3d96a3c5f6a6744467871a8643d99acd243cb95c6a95120",
+"size": 922932
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinogripli-hd-converted_1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "612721151e7ebebb4576b6de6fe7aca5878414fd39e603eb06d97e0907337058",
+"size": 1788208
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinogripli_20230221_OpenPLi_Python3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "45cd3abd06fdc102795bbe29684769970f5606ed69645a0cad45c48f2b2e6813",
+"size": 1658152
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinopli-fullhd_x_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3fc36c1b53231d09fc117cd96faab0f6c4d128e3b7f32e4c8b30c155500df4f0",
+"size": 1061198
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cinopli-hd-sat-lodge_6.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "317f4360837e952a5653869692484d0910788561e7eb1ad436dc179c71d4d378",
+"size": 1482836
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cobaltfhd_OpenPLI_9.0_py3_08.01.2024_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9d1cefb822aa55d70d7059fcc164cc221eb691e9de4039280d24296673bd9ed5",
+"size": 41259704
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-component-army-pli_1.1-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1c4d2f963fc2246847db22a9b53dd780af6035034e35691ebd03ac6e7fb13c81",
+"size": 124300
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cyber-fhd_by.Sirius0103.OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7a9c0f3efcf893c60147204b74415be430fb7d0e4e087e296506cf956a891715",
+"size": 816756
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-darkstar_OpenPLi_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1bbdda66b8aac50a4ff249c28a20fd3574e76c8c56e61633d1a607c66296263c",
+"size": 1824758
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-eclipse.hd.sr_by.Matrix10.MOD.MarcinO.packed.Lucek.OpenPLi6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fa6a3b2959c6c1498313a096c1d8fb7715c0d10da4737937f61d0083ef11559f",
+"size": 1894594
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ekselancexe-BLACK-MONTANA2020-openpli7.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "03d3d87c9bc95a9327e0cfb2a426ddf8c1acc5af61c99d273dcb764aeef1811a",
+"size": 6221130
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ekselancexe-fhd-dragon-py3_4.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4a7195847b98ec4cd638c7fd7385f368713118fcff2af41e61105b5642218f75",
+"size": 8092488
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-elgato-cino-weather-pli_r1.2b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "687c3e3a74e2b40af79c84a0004d16c2df9c50d8c63262634551d90dd7437b79",
+"size": 952768
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-era-neo-x_OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3014e81c18abe23225088e30f10f74b21be97106d85ba48cc46d8aeed6142a81",
+"size": 4970098
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-extremegolden-fhd-all_V1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "237343a45a6ab980cc3ee992a37c7be5429fc061d6b5ecb4221937e87d704259",
+"size": 4799600
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ghost-hd_OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c68d829208ebe7a4928b865af180716fdc91cab7bb57a7c9907ad3e1d2071a21",
+"size": 5331602
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "779e8db0af4ca0b2f0f1e01864de125729a55650c5a741c926ac92d880732689",
+"size": 9760192
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk": {
+"date": "2026-10-09",
+"sha256": "1fb65c3f16023a91ed25c32319d08ba9012819d0be202db92233f050cc87127a",
+"size": 9335430
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8c8cd0b8ba020a550cf63c9d6724e283b72d3ed22f9b9e6f9fc7c2097ead5dc5",
+"size": 5625892
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metrix-pli_py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b7ad187dc47ee024ec39c96068f17a8da999eda3286baba4553c11e99bffe693",
+"size": 3470364
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metrixhd-mod-fhd_OpenPLi_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e0ab097ebf33d20c4e603592450945569b9cd2e46f02109cf09477489a006b9e",
+"size": 3612738
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metrixhd-mod_OpenPLi_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7cc9fae13fc6ce145ec7099baa4ce738458cd5a0d02201119277eac196183185",
+"size": 4260868
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metrixhd-mod_OpenPLi_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "08b6a47767bb6ee5b0ecc01ba09f4a7b74be14b3f7dd9d52ea589c9ea51ecb5f",
+"size": 4261082
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metrixhd-wpstyle-mod-pli_3.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "75c39ce4925387683ac98f2033940044a5e6e3e79c62f1d3318627fd80ae42d5",
+"size": 3061558
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-metro-black-tm_OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "45306deeeb3eb942564ad67529a8f98d269a0125505800581fbdf0ec4902ca5e",
+"size": 515234
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-mx.titanium-hd_by.Matrix10.MoD.RAED.packed.Lucek.OpenPLi6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f75b010fff1df1a15d5dbeeecdce7087e4e675db289e86f041905ea7aa073464",
+"size": 1910838
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-my.skin.hd.transparent_mod_Pingu_tm-packed.Lucek.OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a71e733c4ca987cf7bcb53bdc5e95f45c46100f0026073ea855ceacbcfb8405f",
+"size": 3265322
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-mymetrixfhdpy3_2.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "69cc4d2388fb31dcb73bb6649168eb647b7551d101fc90a726fdbb1d043129e2",
+"size": 16028066
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-mypd1loi-pli-hd_1.1a_all.ipk": {
+"date": "2026-10-09",
+"sha256": "29786e1a912f8d852ed0b7774521a3983eb3edf2d61296d6d0c58af4c722b6b4",
+"size": 2744720
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-obselite-fhd-all_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9979a772d7192383cbcd1e00d89cd41765b5a4f18af0ce910e74f21d55c16dcf",
+"size": 5348092
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-obsplusblack-fhd-all_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "42c8c0fc54439a5f3b3e59a198bbe77c0c50a41bfd8ea1332b926b82409666c1",
+"size": 4264550
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-ozeta_1.5.1_all_pli.ipk": {
+"date": "2026-10-09",
+"sha256": "70665b7c2c12d0db2a7c3d38b78447a5437f3961ed46b922cdafae7d52656496",
+"size": 2256676
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-full-hd-night_2.6.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b74336be0e19ff2aa9c249c53dfea5626829ff9ca2343d015db9d01a3096a714",
+"size": 4380228
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-full-hd_3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "59b9d2fc7a425611e6373dec6f33d0de3348fdcac3142184c464cd6ad6123811",
+"size": 3670064
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night-light_1.0.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0d065f85f4c8a252d9be477a4b7c94e1d25b785868c7ba2a4417703a3825e149",
+"size": 6911874
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night-mod-converted_2.5a_all.ipk": {
+"date": "2026-10-09",
+"sha256": "dbe6c6982c3de11a6773d13f01f0bc6ec87fd8f8b6167ed97e62effca717420c",
+"size": 3682464
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night-weatherfull_3.1.17_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0771cd1ca336f3fad6e1ab45889480431cf6d1515318459461d014182d87dc05",
+"size": 6434154
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night_3.1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f89bd96e57c1604a60b80e1dcc0ddc639f0ca3fe1a263fd22820424094b1bc1b",
+"size": 7694318
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pd1loi-hd-night_7.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b9250b3377d3bad8505d415f27c80ce031b4e8c56bda546761b1a12834fdba9d",
+"size": 4416948
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pdreamy-fhd_1.0-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "74918218846f2f2950db34b969d7b78af9dcd40f1fc618681b131a6eac7c520b",
+"size": 1291866
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pli-fullnight-hd-dr-sat_20241021_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a0d63f988e116426d12d40639abf3ca353ef442cddd1569993b80b23f53425c7",
+"size": 579098
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-pli-hd-m-mod_2.2_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "4a85096247dd42f0b74938ec52eff93971f69453b40a342102dbe315c324c4e0",
+"size": 605306
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-revolution-pro_1.5.openpli.dragon_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e60e18c0a604e7641e98180a3a22493b910c27de504a0c59e6e78ef036af2ef1",
+"size": 14529614
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-simple-gray_git275-1-d437c9e-r0.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a949dd1b88da2b7efa90adf84c453e870bf165500272efc5770a3d8013544893",
+"size": 440340
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-utopia-hd_OpenPLi4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "75b768a2d4353b266572e323c3de103a5ff47975ee77a6afcfc0d84a8ceab637",
+"size": 2542568
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-zentellas-fhd-all_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "442940a85d5dd293cfea3677cc5b9fec3ea48efc44135d04af645a59fc335a6a",
+"size": 13804536
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-aeonfhdmod_sharp987_openpli8.3-r2.32_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b63e7fed972fbba4fb30d4becc6235d1e8bf05d3b96dfd592bbc67d7fb8c10b2",
+"size": 10396486
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-black-white-pli-image_1.0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "81e45e379dce67ce141a977444412e0b3214558b58bd2ff6dc3d5498757da534",
+"size": 1155656
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-cinogriplifhd-7_20190109-r3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "43686716fc3d27701181eb941758600fcf28cb66c6e207c250d0b82f93a6f8de",
+"size": 2052216
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-gradientfhd_sharp987_openpli9.0-r1.00_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fe985740d3a68094513df3790f4a85481cec66e531597ebd09d7ed25597065d9",
+"size": 6344518
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-moderonfhd_sharp987_openpli9.1-r1.01_all.ipk": {
+"date": "2026-10-09",
+"sha256": "91f084b52ce465e588355930f49c6b51ad82b796799973bcaf995ea8f5a74b71",
+"size": 7575582
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-whiteshadowfhd_sharp987_openpli9.0-r2.00_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0ad672af9e09197cbb44bc832ebea53448664c5b52dc4dec67ed1fc6dcbb364c",
+"size": 8266530
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skin-zflatgyrfhd_sharp987_openpli8.1-r1.06_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f7c0dc06ae275f222275c5f0061a1a0114b4956d1921d37285b391c2984ff169",
+"size": 6844850
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-skins-gigabluepax-mod-by-ds-openpli6_v.2.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c0e4f5d562501911d617d702388d5b936603c00ab2666eaa625083bd7482931f",
+"size": 8172664
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/skin-DarkFHD-v1.7_OpenPLi7.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7d52a4e0c8adfbe739e939e5dcd605b83b2429c62fad6c0bc2244a7db3896912",
+"size": 1217806
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/skin-pal-5-fullhd_V1.0-By-Palikao-Khaled-MOD-RAED-Modded-PLi6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4029be2b055703dcf0fa7d1aec36edd30a2f6ccaf41106d38d06e7a8e798e1c3",
+"size": 3428606
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/skin-pal-5-hd_V1.0-By-Palikao-Khaled-MOD-RAED-Modded-PLi6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "011b0ba7b1e31b63895e21188282a1933e418e7c05d8e53d80f6374a4883ed99",
+"size": 3135778
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/skins-dmconcinnity-hd-m-mod-pli_3.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "8c4ceb25f582fb853f19fba2aab146a06223f4d24dd4f839016d197a58957ae0",
+"size": 1419734
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenSpa/enigma2-plugin-skin-revolution-pro_full.1.0.Openspa.dragon_all.ipk": {
 "date": "2026-10-09",
@@ -1434,6 +1894,216 @@
 "date": "2026-10-09",
 "sha256": "6c50f58d422e038c312047fcf18ddb0bc2bc031d3a0569669b2391ea5bf33133",
 "size": 51768
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/TrialTuner_2.0.0b_DM800se_oe_2.0.ipk": {
+"date": "2026-10-09",
+"sha256": "0de10bcacc4ae89be8f7ac386ed7c9e63262c5e203462ac6c10ec048410bcb73",
+"size": 24978
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/dvbt-dib0700_dm800_07-2011-2.6.18-7.4_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "c0907bced9a97721981d954f960d988ba57cade31c94199be2eab6e09048483f",
+"size": 166520
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-install-dvbt-dib0700_1.0_openpli40_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7a6ee145330829e4807c36fb103569707030c2d50cbae1fafae57d8e1d0155cf",
+"size": 1030
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-atsc-usb-hauppauge_1.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "be7852a6d66e5db502c9923b5d71c9576605c056a296c63fa9c9ab2411dc0a07",
+"size": 764
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dm800se-tripletuner_2.0b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a47ddf807251d6b119c4cf34f9271360668116001773a5ebceb467c2ef030ef6",
+"size": 25694
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dm800seV2-tripletuner_2.0b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a96f03a8c92542e50990a1cbbee2c008fefb878a5830e7e01a9921619639c1e1",
+"size": 25154
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-a867_1.0-r2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7c9141fee16bdedd12fd38305f58a762b69ac61280478e5e64940972d9e198ab",
+"size": 688
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-af9015_1.0-r6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f6087870a50f039a5b52e615fd001a37350ebe499a9e2fb8b6d57f5bd207fb73",
+"size": 756
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-af9035_1.0-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3ff80d9065528185aa4feeae6f6704fe1a1d9fe02fac0142640f3e4107b7fe16",
+"size": 732
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-as102_1.0-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "166ea798c5f496186942762acdc534d44e66737743d246e56dbff12508eeaac1",
+"size": 692
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r3_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "f0f133d5d6167d83f05e6450dcff030cdfe01ae257fa0d11b966d571c2324c85",
+"size": 744
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dib0700_1.0-r8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9f72f01d45ff5cf0d0c0cd4cde5b31dbeae53992cea5b188c066d3f13488c641",
+"size": 814
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dtt200u_1.0-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b5f09f935381e83ccf7a3d3813526a13bf00230a9e882f14a0f6037d22c97823",
+"size": 712
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dvbsky_2.0-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "120477f8188bdf19d16edc3e94b0900f3c9a494a5251f9efb23aa52360564fd0",
+"size": 728
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dw2102_1.0-r2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "20263cb2a8178277986a8efc536ccc4eecf93fed87807fecf891d8e35463f97e",
+"size": 704
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-dw2102_1.1-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f12f84ab857aa3d417c78ccbbb46c0a1f4d500690d24bbd62a1633d90f31d563",
+"size": 724
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-em28xx_1.0-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4ad36075e3f527fa75ac5cea74d30833bdb787e679f7faf682c891301909be55",
+"size": 700
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-it913x_1.0-r2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d07e923647dbcda21c27a100203f58ba0cc8aca422ae0d9484b7cbcc0d757f4a",
+"size": 684
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-pctv452e_1.0-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "04e77da6da45575cbf178a0cdc0ddf2e84a401cd4270eed72361dd16b23fc73e",
+"size": 664
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-rtl2832_1.0-r2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2ffc462db7c862caa3fc758dd2ba3ea396000bcdf13ffa1f0f61521fbc27b270",
+"size": 742
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-siano_1.0-r8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fe2bcb5dee4a305a8dfda0d15ad903cd0107b1405a59326a86ccf8e862cf5e0d",
+"size": 718
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-drivers-dvb-usb-tbs_1.1-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "41f39c363146c6ef33344799f81e1286d42d62b9cb0e07dc3cb87bec9a24f8f0",
+"size": 738
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-systemplugins-wirelesslan_1.0_fix_dm800.ipk": {
+"date": "2026-10-09",
+"sha256": "03b118d9feab7aed46ad4be0fbad81d6a0b117d3548a2eb6a634d22ca73ac943",
+"size": 22732
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/enigma2-plugin-usbtuner_0.7.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d626d0da33cd3fc5de572f7aa17da1774cd0d0ecb89afd9ecb47cb518eaf5127",
+"size": 39120
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/firmware-dvb-usb-dib0700-1.20_1.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "63e108050ef5280a5a3bf783115309eb4b178f75304c064180e87f1f74e2784a",
+"size": 22478
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/kernel-module-dvb-usb-a867_3.1.1-r4.16_vuduo.ipk": {
+"date": "2026-10-09",
+"sha256": "4223cddc0d9215f41412263368143ee78df6c4290e79f4be7bb27000afca31b4",
+"size": 75050
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/kernel-module-dvb-usb-af9035-4.1.20-1.9_4.1.20-r0.1.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4d646480f5a4a067244bbaf275531c51e487144fe8c409e704f74a5039f5802c",
+"size": 18816
+},
+"gh/Belfagor2005/upload/oe2.0/drivers/ralink-wifi-firmwares_1.0_dm800se.ipk": {
+"date": "2026-10-09",
+"sha256": "230f8fb57b51c47526bec24ac23555cb40cd0e8f15aa1e7f2b17aa90813da547",
+"size": 13400
+},
+"gh/Belfagor2005/upload/oe2.0/feed/OpenATV_softcam_feed_v8.0.ipk": {
+"date": "2026-10-09",
+"sha256": "cc550e6b74a85f4746b51592472a88ae10e582936cdfa0af6091fd78185c1ad8",
+"size": 2036
+},
+"gh/Belfagor2005/upload/oe2.0/feed/OpenATV_softcam_feed_v9.0.ipk": {
+"date": "2026-10-09",
+"sha256": "cc550e6b74a85f4746b51592472a88ae10e582936cdfa0af6091fd78185c1ad8",
+"size": 2036
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-plugin-external-extra-feed_2.1_arm.ipk": {
+"date": "2026-10-09",
+"sha256": "afe1c9fd845a1fc76576f1aeb78880bae4cbaba81efb2980a15923976592594d",
+"size": 744
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-plugin-external-extra-feed_2.1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "322c18ceb155cf81e09eeef57eaf432d465071e123ce30234b861324b83c9fa0",
+"size": 738
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-plugin-extra_opendroid_ARM_r0.ipk": {
+"date": "2026-10-09",
+"sha256": "07b2807d54ede5445dcf72a3935a73222185e8729636014e5e38a70bb4b625f8",
+"size": 696
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-plugin-softcams-dream-elite-6.0-manager_3.7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ebfe989f3a00d94dc45146f5dfdeddae0a3ee25f56e5b00dcc9c1ee1fa59c297",
+"size": 964
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-plugin-softcams_extra_mipsel_Opendroid.ipk": {
+"date": "2026-10-09",
+"sha256": "4a4bfe0fef15c3bc9d0c716064d038d7e7c76bfbee1225edb8f88cd660ea8826",
+"size": 692
+},
+"gh/Belfagor2005/upload/oe2.0/feed/enigma2-softcams-cccam-all-images_2.3.8_cccam_mips_all.ipk": {
+"date": "2026-10-09",
+"sha256": "acecf265fd0c78f504eaaac5b6f773fd462c1f6c96ca8b31cfc1f56652c0489a",
+"size": 519462
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcam-feed-arm-ahf_1.1_armv7ahf-vfp-neon.ipk": {
+"date": "2026-10-09",
+"sha256": "8b8d6e53ef5a69729fe63d3d83698d73da36db95d9a1c6f2fbb18f25886d40bc",
+"size": 848
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcam-feed-opd_7.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b59cf7db4a9bbeeed2db936a261695c3a140ee87cc436e19027313e4ba427da7",
+"size": 1640
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcam-feed-universal_4.5-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cc550e6b74a85f4746b51592472a88ae10e582936cdfa0af6091fd78185c1ad8",
+"size": 2036
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcam-feed-universal_4.7-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f85b7ec82f7eeb04654a88e151321c1de67bd137bd036672d18ab48dfe6eec38",
+"size": 2078
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcam-feed-universal_7.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cc550e6b74a85f4746b51592472a88ae10e582936cdfa0af6091fd78185c1ad8",
+"size": 2036
+},
+"gh/Belfagor2005/upload/oe2.0/feed/softcamfeed-openeight-armv7_1.0.ipk": {
+"date": "2026-10-09",
+"sha256": "0c1b66d7c5ab108ab188aea893ece9fe3114833bc6ff3770f97ee8a3a9dc72c1",
+"size": 860
 },
 "gh/Belfagor2005/upload/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk": {
 "date": "2026-10-09",
@@ -2475,6 +3145,1411 @@
 "sha256": "f0ec17f24a14870f9c646c18ee41c56026caece3f671afe4360a3792007362df",
 "size": 44168
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-extension-cccam-arm_BlackHole-2.3.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c88249c0f27dcdc784a29c9c52705b530b9d78933204138c494ac2bd67a97b61",
+"size": 715126
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-extension-cccam-arm_BlackHole-2.3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ba25b8d30ee99b053d074a085f516c343e7d2e095b6c17d0fe4fcc0f4322d3e6",
+"size": 719530
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-Wicardd-BlackHole_1.19-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "236838dca5c440cc7e2631bdd9d16c20e6661ce869e5939dfe787dc187d0e021",
+"size": 341556
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-cccam_2.3.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "a4b575c6be3ac19099ee5ed9b2e77738b3dbb783415e0284197e3cd97cda0ee4",
+"size": 506454
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-doscam-0.25_black_hole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6f007005f0239846ef1815f81854cfd5fb1aa53824f855b31302a3cea16e8c62",
+"size": 554476
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-doscam22_bh_all.ipk": {
+"date": "2026-10-09",
+"sha256": "84b16d125b62e6e9c6cdf450bae17bf25155d2bc3725449ac573fafe5b09a44f",
+"size": 511086
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-gbox.net806-fix1-blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "646d4bb884642ed378472b5bfc13bef3a26fd5853eeaff0f9cbf7731a96795f3",
+"size": 296498
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-hypercam-2.17-full-blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "72457e994937e4001993e861de8f52f5455372eafc5c3b09d3131887113df384",
+"size": 381844
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-mgcamd-1.38d_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "88fcbefd665737e221d39eb80589a3d0e73a2cf5f93507f899ffe8aedb98d6f2",
+"size": 334714
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam-emu-svn10656_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "228c9bf43ddd37b2b71e6992f88b61187c5c3f8f066528b0b756b919282e6f35",
+"size": 621348
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam-svn10077_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5cbf9504a89c0217c56182a0fb8d80e497d603c2ab28b70b9e60374e5b516d51",
+"size": 575042
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam-svn11280_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "23fa99550d57c8ec99ae90af607bec3134fc0b30979b76ad4371e5e9640d1fea",
+"size": 559202
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam-svn11290_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "19c0209f944ed2398adec753a562285dd019da381e13238bb48723ff0d5baa49",
+"size": 725412
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam-ymodv18-56_blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "bc0990bd097afedf12833d2a80c7732d671fbedb049aa858ea3c7c05e6ff5913",
+"size": 481038
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-oscam11213-blackhole_solo4k_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5554baa52d2b2da17354a6a2cfc0e9ac0d3fcf547b2c5a50a763b5c656857016",
+"size": 558086
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-cams-scam-3.60-blackhole_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1b2675fa2304143539f1e1de475e27b5ae7fe306f98cf1d702bc5f87adaeee80",
+"size": 220760
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-extensions-cccam-osemu-bh_2.3.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "1de26ae191466a2005f428df1c5bec30350d944a1241adf0a1bb5dbe2624388a",
+"size": 678142
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/BlackHole/enigma2-plugin-softcams-mgcamd-1.45a_blackhole_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "c09c50fedb5ce90b053bf1f9e5a45b019a8ceb2221b2ff84416d17656cc2343a",
+"size": 334764
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-cccam-221-dreamelite-4.0-oe2_v1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "4d233f8eb76ea2e84d5342b1f879aa6c27574e2f37ffd09b4fbb6218c0f8ab70",
+"size": 605478
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-cccam-230-dreamelite-4.0-oe2_v1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fce312fd400aa0e7165fd3d1854d947dd9b88f9ac5bb76420fc61f5141e64d9c",
+"size": 609944
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-cccam-230-dreamelite-4.0-oe2_v1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "1d1a52fa6976fe0fb49c9a15a670c3dd8a40e3f449144cf16fd7166db228ff87",
+"size": 609988
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-oscam-emu-svn10656_dreamelite-4.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "302c40ad1041212b7b9e9d7f9942dcc46b1b33ae57fd5776cf3eac33ac43aeec",
+"size": 624920
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-oscam-emu-svn9966_dreamelite-4.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "28d2120f3347d56d22af30c9ad6381e2166130a257ec332652a0465aa3bcbf87",
+"size": 616028
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-oscam-svn11160_dreamelite-4.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "655274d86f1df8cd5e56663c295547b59524154c8a4ad78858da1e2f266f907a",
+"size": 604398
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-oscam-svn11280_dreamelite-4.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "583fe0e7e5c92df21bc9e19466a210eddf5c5592a4a7131936a4949a7d6dfd16",
+"size": 709096
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-cams-oscam-svn9908_dreamelite-4.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "d3916ea1decea46a4260d7e21c625347b46f15fdd65be8e5f5cfcbdecca3f2e5",
+"size": 494520
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-softcams-oscam-ymod_v18t55_all.ipk": {
+"date": "2026-10-09",
+"sha256": "367bd454dce95ba32ebaa32b610d124f47383507479fca9b3ac48cd147b2fcf7",
+"size": 462066
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Dreamelite/enigma2-plugin-softcams-oscam-ymod_v18t56_all.ipk": {
+"date": "2026-10-09",
+"sha256": "329dbea9420833d3b0fb2e23fc8ce9fcd8800eb8b47fd20d1f081549efbd2681",
+"size": 462514
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-ccam230-egami_1.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "8d1eec29e3384e5bc636e9ba92dce137844b68cf365bd3a8a26ccb774cce6d34",
+"size": 507220
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-cccam221-oscam8540-egami_1.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "62223c3dd741b0544c0d1e584d45e10ef26bd3fbb36e1ff92c5c55c78bcafd10",
+"size": 857110
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-doscam-egami_0.22_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "84304240a46f53221f33056429d8aeab94f5d75fa78f3e04e6974bcdd0c32250",
+"size": 496744
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-doscam_0.25_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "81bab007efac7de8f5daa0b8d634e574d1b36bfea70a70b7e6b3a756ec595991",
+"size": 504316
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-mgcamd-egami_135_all.ipk": {
+"date": "2026-10-09",
+"sha256": "985ececa798b5c339d2ca3b9af74bf30e2da69e8c7bc4cc2e8d8805b353601d5",
+"size": 335860
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-oscam-egami_11280_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "dbbd6183ee668e01c6dd7b45ee17b15c637777d4c20c7d63078ccfec9dff5ade",
+"size": 709126
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Egami/enigma2-plugin-softcams-wicardd-egami_1.19-RAED_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1eec4494dce70f9dcaeafa0745af7b57cdd1aa136357891d79f2da895860b5ff",
+"size": 377002
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/Hdf/enigma2-plugin-cams-pack_openhdf_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "e2d75495e7bc8efce1d3876ea1424096385e8bd5c59077520482b04efcc0a93e",
+"size": 1363112
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "eabeb5756e4ccf1a8a4d413ef7828fcaf6182d3a7b0d9d97571be7e81ee038e6",
+"size": 60464
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_svn-3385-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cec2fb9b34ea146604e13f992cde40b694d3930165cf8a41cca05092bf409df9",
+"size": 33288
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_v3.0-Marwen_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cc57dc77b79fd6fc7ca50ab79f14ea0a775b83a9f7d3dc7605e3b756fa6c1eb2",
+"size": 44648
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncaminfo_1.1-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ac6a37c14daf9c1c29aa7b42b13eb9548a187912667900516c01290c14b2f289",
+"size": 37776
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncamstatus_3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c419bcc615766fd71dd838d37901a83253891bc34909ef612d2ca6f1d91d7524",
+"size": 84348
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "733f763953f92c8a0fdff6e0da924d97cc3423fe458b410ff29b9582a13c8c1a",
+"size": 161208
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7e7993257be9aaa8e2d3b924b5733ff2274c093ad1ffc7ee1d49392087f985a6",
+"size": 167842
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatusview_1.0rc1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "30ba2ac4f36fbb00b539e9b96cbd4e22bcd571d73e7e440dfe81333552ed6f01",
+"size": 727194
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatusview_1.3.1.mod.by.Pr2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8c8417c097fc25a972f77106eb04c8270d764f4e0b55968ec3726ab779f8ce15",
+"size": 60750
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamupdater_0.1e_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "09068b55c2afd6c46a61eb921efc787a71e17f24dc3fb2d133fa9425692588ee",
+"size": 14692
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-pli-softcamsetup-new_3.0-r2_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "7951eb1e86bbf9afbccec674af274baa00e13809cc6ac461a5e95bde86722836",
+"size": 18642
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-doscamstatus_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "505e8781acbcbc1f6ef7f25ab24fa90c715c889cd8d455e7fc4b20b9396dc8e8",
+"size": 67444
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-gcamstatus_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cf26f8efafe49181fbfcc2e8f183a1104455dbea5bdc17af2248498c7da297b9",
+"size": 40946
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_0.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ef787a14d2517977092ed4a319fd1856f3b18cd69bfd75885c926b0e8bf1da73",
+"size": 25994
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-systemplugins-oscaminfo_2.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8e87a3856ae7e3617ebd01e8bc6f78fe3b2f85655fc81394f4279e0e9c616204",
+"size": 11406
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/InfoCam/oud-cammanager_V1.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fb90f69268755ce91c3b14941aba7deafea67d3ef8630886e5debe86bf086459",
+"size": 4253274
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-cccam_2.1.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "796465aa6dad531bf9904553240e858e4b48c033a252cc135e98482e80e7e7bb",
+"size": 470468
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-cccam_2.1.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e8459b1e7563137d4e5a9ee7e29b044d68bdee10b0cc574bb025faebe8a794bd",
+"size": 476840
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-cccam_2.3.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "37edb4806b3b7c0c3518ed93e8b8c504ee949d585bb126a99d7d562beb21305d",
+"size": 498100
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-doscam_0.24b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9cfc4ec8130128cdcdcd9f73ed867c7386d3f98e17b616b97069f4ef8af47186",
+"size": 495250
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-mgcamd_1.38c_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e910b22f29ee7840012e660e3ad93085e9f039802169d1e7d6ff21e27790077f",
+"size": 337368
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-oscam-emu_10641_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1aad5a2f175c417cd1362d6cef53d9d19eab252d31d4920aefabdd9347a51aaa",
+"size": 572514
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-oscam_10641_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ff574e5b9014aed39c66be07ee3c190150d0fe257b265313600c6a6a7708cc39",
+"size": 572510
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-oscam_11280_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8239eabb667fcf0edc51407b9cd05705f8a2eaf8884b22ece5379546a0f1225e",
+"size": 709074
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-scam_3.60_all.ipk": {
+"date": "2026-10-09",
+"sha256": "99cacc380af3333c530816540745ba65852b2bacf2cd16a595a3fd0843f00c70",
+"size": 219920
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-unicam311008_3.1.1008_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9ccfb070a9b67b22079a7dfa0ed2c99fa33c9f48d9f090ac9492044004a280ae",
+"size": 694136
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/ItalySat/enigma2-plugin-softcams-wicardd-italysat_1.19-RAED_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3227dc5304b9f92fd2c00930e539d4475144457da4ffc9762800ee378ad5ec8c",
+"size": 343144
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-cams-oscamymod18-56_openatv_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2945276f9911fc171a7569116b78e1e10d208e017e004ac85ebe0140aabf8487",
+"size": 460906
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-extensions-openatv_0.1_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "193944a798feb19924ae4dbd9a06b1bd37b3463f50338e40cef68cea19763920",
+"size": 76090
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-extensions-softcammanager_0.1-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e19b8caed46cd4cd56fb30a405e7cf237b3096250d7012cc3abef23b813617b3",
+"size": 12178
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-camd-3.908_3.908-r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "a11a42447321b13484c335da78d643085536755fed4e1538721305f69256d946",
+"size": 68218
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.0.9_2.0.9-r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "4980899edb8aa6c0a70dcc2095aa5e180a337db3f02f61bc84d87f43f08545d4",
+"size": 404300
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.2.1_2.2.1-r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "4cf18e2bce7af89b700f34fabf2743ad86619b7d1585a8cbd628b2c0b21aea8c",
+"size": 502868
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.3.0_2.3.0-r1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "d0be5d2e2351e4a788a99965f6d95700adf3e9a693e3c0dd5f38fd15cf1b8630",
+"size": 508398
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.3.1_atv_armv7ahf-neon.ipk": {
+"date": "2026-10-09",
+"sha256": "1268596f525651a359238fa552d03cbd7e9f04777dd27bcc692784f6a04add9d",
+"size": 275834
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.3.1_atv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "a3b02853acbaef3475e13a11531cd2f7513cb26a408e3eee287505d2c0e19a81",
+"size": 341312
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.3.2_atv_armv7ahf-neon.ipk": {
+"date": "2026-10-09",
+"sha256": "1b4103a92140900908eea4d921e30fc70efd855c7f8c9bcda986fb6f9d9ce7ac",
+"size": 276680
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-cccam-2.3.2_atv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "66c1ceacabe70188d600d58810e4f157189ff1745447f3c779e28a0e59bcdbbf",
+"size": 338424
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-doscam-atv_0.25_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "90b7627b65bc7dca96f443d192b9cb7403cb98a0d70ba199c37288e20765b702",
+"size": 504682
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-evocamd-2.17_2.17-r2_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "2265f87ad8ed020e993bb6537c1ff4e91cfe52bf86e8974c6696c266e40bf83c",
+"size": 352090
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-gbox-807_807_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "99995a422c10d4d9e1c5de23babb80607a1e8a5c9e8e1398a83745cd20d68c76",
+"size": 274480
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-mgcamd-1.38_1.38-r1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "194ad08a01ef9ef58736769924ab9e824f7b788102d3a39820379a6acc1fe8a2",
+"size": 336984
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-ncam-1.1-linuxsat_openatv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "2aaf71cf9207f9015cca0256a0c766062b5ac27200c34835b20328a97c19b4d6",
+"size": 683632
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-newcs-1.67rc1_1.67rc1-r2_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "45cc377b32dd43624d54534a165b383b9f797ab130e87877cbabaf9ccf01fb34",
+"size": 289660
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-oscam-11277_Emu_openATV_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "06da9287860fd33f43b288f1ce3b70acf1facbfe377eaa91e2da31a979d2de32",
+"size": 1469050
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-oscam-11290_openatv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "f34639d45cfc4325ef06e7d7dfc0fcb1eb5ffcd5c87117f7a6f979b8cdc46496",
+"size": 710356
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-oscam-svn11160-cccam-2.3.0_openatv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "82f9153aca89c6b8b0af39a00ae64c7539553076fa2e238c2ee797650e38513b",
+"size": 1117926
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-oscam-svn11160-mgcamd-1.38_openatv_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "8247f123bafb209dec9147508a40fb333d580502e177af80fd42649a08e30cd0",
+"size": 956936
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-scam-3.60_3.60-r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "8e365190a55a5f6942e2b8fe8bc8dad99bb80da492b193a7d0e87a479503356e",
+"size": 220860
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-vizcam-1.04_1.04-r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "d05c1b81b58724bcadf3881d688cf2d2888015a7919984fdb0da794eea87406f",
+"size": 326138
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugin-softcams-wicardd-1.17_1.17-r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "5f3b0a6667ad3534079a1b8bb24e0ef85148eab18d95fa256d146727ff7716f3",
+"size": 312380
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenATV/enigma2-plugins-softcams-oscam-emu-svn10041-oscam-ymodv18-56_openatv_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d0c59525ff8b521019aea81236555b8e7d41bbff228b19820975f80b0c933ada",
+"size": 1123962
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-cams-oscam-emu-svn10656_opendroid_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cdca2d3bec79234a4da348a09a082718418c8c707cab6fb1bbc4f393b818297d",
+"size": 621290
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-cams-oscam-emu-svn11280_opendroid_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b3bc7366e9d3cbaa54ab3b3d86ecbf5eb0d8e839d5c81a21bc9b54300e20a7e3",
+"size": 709346
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-cccam_2.3.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e2d2b5b1c94a30fc5e8aa95fd247971d9b85b8d7053d7d8d7cccb0623be222a4",
+"size": 510046
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-evocamd_2.17-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8e9a6b817991bf8ab25acffbee61e524191257659b30e44092553a78a51ea2c9",
+"size": 352552
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-mgcamd-1.38d_opendroid_all.ipk": {
+"date": "2026-10-09",
+"sha256": "54a8f7808c0d243d6699f944f1b25078d3cb1f6118a22e617cdb3095dccd2e7c",
+"size": 344020
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-newcs_1.67RC1-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6396eb05508ef66df9825e79540e532a481c3e3e71ec8fc26288e1c09bf33032",
+"size": 287704
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-rqcamd_1.31-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "773deac71a94a33c3d92e46923b0157bab135c1c2566e45b892d0fb2c8b16428",
+"size": 158506
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-scam_3.60_all.ipk": {
+"date": "2026-10-09",
+"sha256": "abdaacb16aaacd106d85738914e38827769196397fde8be6ace09c8f0b70c502",
+"size": 221356
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenDroid/enigma2-plugin-softcams-wicardd-opendroid_1.19-RAED_all.ipk": {
+"date": "2026-10-09",
+"sha256": "664b68972cc3b02436615ccb928cccdf3c800653ca16c9d5fb058a9aec447e5a",
+"size": 376312
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-camd-3.908_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "64115c212038eea730bddb06d8afe8ec652ed25cec8a5ca6e40e9f71fb34df5c",
+"size": 68572
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.0.11_r1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "de10d4c3981c30cd569448c48c29f59721a5001f766fd96f367d5eaa4d185bfb",
+"size": 400366
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.0.9_r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "c3d5143a1b1b34153456be759e6f75466d6f68780a8a5a0152e3332a01d07c1a",
+"size": 398568
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.1.1_r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "ac67536607aa961ffc47aa5908dc3085ec983b468665d988075659d24693f2de",
+"size": 393626
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.1.4_r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "c7b52ae9b39a50cc3e600955fb53d841a1f5bda16a8733ffa540bf989b50d7b3",
+"size": 479358
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.2.1_r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "a7d04cb883e640e42e241b6ab55c00b831df020a98209cf439703b4118cf961b",
+"size": 497056
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.3.0_r1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "762cc6af9ea0be0d9a5647169ab356006ade2ba2224c8b70fe3b931c066f0773",
+"size": 501544
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.3.2_ESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "271b5a36236464b89c9370e6109bbda880b320d032cd8162a2662929a764dae9",
+"size": 337390
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-2.3.8_ESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f0fafe09e6523134b3302ca7054c09072216de8cff8a0741725c89a417f4119e",
+"size": 510580
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-cccam-arm-openesi_2.32_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e4c557222f5cec21e2ada3a7a2f51130a222c1ebc196cdbffee78b77571a62c9",
+"size": 276358
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-doscam_0.24b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d6abbcf85e204676e0f7d774695a0f5ab11d10e17e2beaa8d868d03e19cb239f",
+"size": 496634
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-gcam-2.0-arm_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "79a07177a3b6ce6bfbfadd426b5a75f859e76c61994151525c85b2aea3a72d86",
+"size": 750578
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-gcam-2.0_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9d5bcc2ea45f59a4eff534501a3ff69a22178bc244830652f16c80fe59ebd1e0",
+"size": 838194
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-mgcamd-1.38_r1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "aeaea918475e104a09b00de5959ab2de9cac8be20229f695f828c736b17ecc8b",
+"size": 341198
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-ncam-9.7_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "368e41e3a04e2eb4167f4d63e0aff89e1b2e0f30d196399465bf070916e830bb",
+"size": 751634
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-newcs-1.67rc1_r2_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "7af9d91f96edfb9f897b4c53c71b3759b74a49d417b61ab375558593e7c13932",
+"size": 289720
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-11505_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "85a818346ab9e295c61d23c912347f37f423eadd438c99e391acec6dd0b8790c",
+"size": 722972
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-11516_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ca24db5b2ec929ba57be14095edb2be7f37821f9acf4301dabf8576be139a951",
+"size": 724442
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-11517-arm_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e18bb1035e1903bf63a5aebf413f050f74bccefe77476fcaed6ef57adc9208a7",
+"size": 658914
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-11517_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7ea32b562077d0188b30957d95c8da776d59027d31a68069e273d819491f16a4",
+"size": 724400
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-cable_9963_sh4.ipk": {
+"date": "2026-10-09",
+"sha256": "e024113c55fb83a46cbc05dd25a40c3e06c21bce4e5ff122bfd86796bc823810",
+"size": 546548
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-emu-modern_1105_sh4.ipk": {
+"date": "2026-10-09",
+"sha256": "42195274d17cb379bca699984de5b5f015ce8beabe4d17bd7a3a95c1a5c52ef1",
+"size": 532902
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-emu_9963_sh4.ipk": {
+"date": "2026-10-09",
+"sha256": "954edfd8f5bbaf1811040968481a69f4d4a736336b5c2a640f28a1f7755e3617",
+"size": 546782
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-svn11202_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7a10257121ba21ec8070d038e0675665668fbc549e0641766bef296dd79817ed",
+"size": 559062
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam-ymod-v18.59-arm_openESI_all.ipk": {
+"date": "2026-10-09",
+"sha256": "efec187f19eae96d7954b3860682aaeaffcb72dbd1e9296767252132836cc3d5",
+"size": 382710
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscam.emu-11392_openesi_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "ef8e1e8facc831b0db4b3ac327b6eb0462a5f88f81a5bc71a46dc4919120ed59",
+"size": 804598
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-oscamsmartcard_1.2b_sh4.ipk": {
+"date": "2026-10-09",
+"sha256": "158043e17cbc1d73f4ac98a83940f022da721bcf45e7046b79d3d1e59ca98f44",
+"size": 1357006
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-scam-3.60_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "bae538af81b69daedbef1380d65b18a58d36b8b4ab7ca76194377569fc14cea9",
+"size": 221266
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-vizcam-1.04_r3_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "d014862e50a090be8fda4ea0a20e6a82780037dca0865e89519d2d920aa3e0be",
+"size": 327846
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/enigma2-plugin-softcams-wicardd-1.19_r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "c8c81f9ed988b1eebe3c6230d46e4cf241bf3d850677d79890ce04aab695c91f",
+"size": 341412
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenEsi/extra-url-2.0.ipk": {
+"date": "2026-10-09",
+"sha256": "e78185109017b5f8d1ea5a033c4ba48a78b6d454d61ed38f6ba4b7dbd200d9f4",
+"size": 712
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-extensions-cccam-osemu-openpli_2.3.0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "6609ad580a10a11188e9055966d1cac9a46f961c97f50bb5921ebacf7320c4ca",
+"size": 677974
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-cam-Wicardd-OpenPLI_1.19-RAED.ipk": {
+"date": "2026-10-09",
+"sha256": "5ecb1e73bcfa66c71e8185d93101be6592fceba2d36b998c4c3dc378901a7eed",
+"size": 340276
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-cccam-arm_2.3.1-r0_OpenPLi-6.x_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b071768a3da2a745ea63ce6bf6043f367e8c5b4d899e2743484d06d396a5ce7a",
+"size": 278500
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-cccam-arm_2.3.2-r0_OpenPLi-6.x_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0e320b5ab3909a34ebf3732f4fb19efa9be9e795509d70f554e8ffd671300663",
+"size": 337968
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-cccam_2.3.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e2d2b5b1c94a30fc5e8aa95fd247971d9b85b8d7053d7d8d7cccb0623be222a4",
+"size": 510046
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-doscam-pli_0.22_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "98987958cdb851a55a2a0d449560e85e040768e0d5930e0aa7792daecfffdd82",
+"size": 497238
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-doscam-pli_0.24b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f37202b8549cab435009fa11746c429c8d35541dbe9afa1c4fd9d164dc96d0cb",
+"size": 497458
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-evocamd_2.17-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8e9a6b817991bf8ab25acffbee61e524191257659b30e44092553a78a51ea2c9",
+"size": 352552
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-mgcamd-1.38d_openpli_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7ec0d74f17a82f8d9fcc1b9acc86cd97992ffd457be2eca3bc31156e455e046b",
+"size": 355684
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-mgcamd_1.38_all.ipk": {
+"date": "2026-10-09",
+"sha256": "eab5f04bf33f8d9ac31d0359c8154cc13c50f928df2a6c1408b803a741f143ea",
+"size": 381340
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-ncam-1.0-linuxsat_openpli_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "cef330346b18f5a6fc4357fa10d1c19d2d27795626811870a2e7d1ba83ff6f5d",
+"size": 718380
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-newcs_1.67RC1-r4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6396eb05508ef66df9825e79540e532a481c3e3e71ec8fc26288e1c09bf33032",
+"size": 287704
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-11213-openpli_solo4k_all.ipk": {
+"date": "2026-10-09",
+"sha256": "336bd5e4bcb2af0200f5e4bdafb7b172b4cca30a644395cfc6de4bc9aeeb0dbc",
+"size": 558172
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-11226_openpli_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "a2287dfa6a19e888871f62324575a3d0b73f2e5e8295a9f39925eca025550094",
+"size": 619958
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-11280_openpli_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "4eee0f91973a90a25a85d782d51e5402584f9da3ece09b0c0bf59867c50c2e52",
+"size": 709832
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-emu-svn11277_openpli_4.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c8fd6beb5813306284117df44de827c1f8340f26f2a7c1b495c223a80979f6b8",
+"size": 743090
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-ymod_v18t56_all.ipk": {
+"date": "2026-10-09",
+"sha256": "27a404b192e9c932c9b93425b05329ea24a0e3ba91228a9aafb46413643adcec",
+"size": 460744
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-oscam-ymodv18-56-cccam-2.3.0_openpli_all.ipk": {
+"date": "2026-10-09",
+"sha256": "86e203c7d708268fdc14f9cbb2c8ab85f65a73374f43f2cb68fb0fa02fedd062",
+"size": 1089766
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-rqcamd_1.31-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2560fa3b6f5996fbcac6d098a0f5591c1ef31574718d6912cbd9de427b9531a1",
+"size": 129452
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenPli/enigma2-plugin-softcams-scam_3.60_all.ipk": {
+"date": "2026-10-09",
+"sha256": "abdaacb16aaacd106d85738914e38827769196397fde8be6ace09c8f0b70c502",
+"size": 221356
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-cccam-2.3.0_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1a8ca3817fc0e6bc8e0792a38799353b709961e3bd1d3ef674e8e3f573f3fe14",
+"size": 1614
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-doscam024_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "89028201f77ab5357b8caf4579af5754b46b9054c74e9a1ed2e36be791ee3a09",
+"size": 513237
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-mgcamd-1.38c_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "db3228be3ea07c75cc5a383f40e7094538590a1f895b86e1113d0b5a9132c132",
+"size": 335396
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-oscam-emu-svn10656_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "748c0940df2ffdfac9666f351a12a35058129b5ac854f0738a32494b041f3e07",
+"size": 654000
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-oscam-emu-svn11277_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "37738a79ed0f9c34c533bb068ec0cbff1a292174617a0aa4fd2354cdb0c73a95",
+"size": 777258
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-oscam-svn10650_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "bd0b1f109afa4c3747ae6113db04f7e69d3c93ec1fe79f1c541dd89dd6efd9ae",
+"size": 576078
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-oscam-ymod-18t56_openspa_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f94d8eac3a8cebc00dc31ebfdafea4ad7761c698ab51010927bae48f1e6c2c86",
+"size": 460776
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/OpenSpa/enigma2-plugin-cams-wicardd-openspa_1.19-RAED_all.ipk": {
+"date": "2026-10-09",
+"sha256": "32ead47b50ce9928613044f9e6c52df35a66fb63c627be59ba8b6257037d7c37",
+"size": 376914
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/enigma2-plugin-softcams-oscam-11280_powersat_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "f9a7d2aeafbb48a07fdf102b284eee5f739520c2ce23a99c67a6648dc313ebb4",
+"size": 709874
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/enigma2-plugin-softcams-oscam-11283_powersat_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "18d8145c63af1ff992a7438762dff00fb6fbf245a34882135a1b548e4df39d2a",
+"size": 709658
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/enigma2-plugin-softcams-oscam-11290_powersat_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "5d545dfdfe2b372226472b223fd04b6c787f2719329aab35b4c0dc4a7d0072dd",
+"size": 710388
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-CCcam2.2.1_OE2.0.ipk": {
+"date": "2026-10-09",
+"sha256": "f0410e1bb7988b8c5197cb723da536731733b34ccecf550eec751d3aa08fb2e3",
+"size": 503262
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-CCcam2.3.0_OE2.0.ipk": {
+"date": "2026-10-09",
+"sha256": "91fb66a8c9426b1768011b0fad9bb57be715b91533246a3aaac8097876888bc1",
+"size": 508124
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-doscam24b_OE2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "293982252478d3b811788fb62a44b8cb22d1ef344d38b006c0bc19a57e775061",
+"size": 517658
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-doscam25_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "659dbb657f3dea79da1ab98d094f8d641f21571ae8d0546a69f610ee6b303d4a",
+"size": 525880
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-gbox-806_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3439ee94928c3d749967618022132724b088a756c73622b2255a9ca504016e3d",
+"size": 366178
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-mgcamd-srg-1.38_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fd66a863fff7c42f27ac04df3d759b39a337923ca0d0f9d305c155916b2eaac6",
+"size": 414026
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-oscam-11208_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "57a4bf69cf275a13a21744ed9be9e0b003fa13b3ab692cdf2c21d77ef1566559",
+"size": 668446
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-oscam-11209_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ce50bfc2d06333d00fa4a00b2e0ce702871d82b91b9352a94ebc1d968ea2a349",
+"size": 791486
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-oscam-11212_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "82a829f931882cd7f2f03df0f424ad773c33d1f9a0d0b250baa950a58e33c70b",
+"size": 668574
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-oscam-11245_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "67b01f4b2eb42d001267af52da12bde2a6ca2b0e668c0dd8aae60b75f0829bdf",
+"size": 616758
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-oscam-ymodv18-56_OE2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e3e76831f9ac8a1520f888d489c29e00651862d457e799ddf30ea5e0d2fe87c1",
+"size": 473964
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/PowerSat/softcam-powersat-unicam-3.1.0.all.ipk": {
+"date": "2026-10-09",
+"sha256": "528c76e2025cfbefde75620a8476f44d83622abd917d79072bb194b542c33145",
+"size": 624502
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-cams-oscam.1.20.11720_t-j_armv7ahf-vfp-neon.ipk": {
+"date": "2026-10-09",
+"sha256": "bbe1d9e18063a48130563b153311caa7c5c298ca5cb86c3bdd62280594b274c9",
+"size": 730668
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-cams-oscam.1.20.11720_t-j_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "21adac2e84c116ec01f320185c669d6c7820c5ebf1b0a35f1076e8412de75940",
+"size": 823568
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "40456da2b026c4584292e280a09e0c78f14e8ef32c475821ee3953e5a11683f4",
+"size": 293606
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-cccam-arm_232_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ad4db7c2dab1e4ef83b48c132b5238ebbba29b46d6ed1ab8aa893d6ec140ec91",
+"size": 367242
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-cccam-mips_232_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f3bbcecca6732530623546fc00bdb1355c0d3f717dc44749bb367f9f81deae8a",
+"size": 428478
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5c2c8e5e5a3674fc22e6db77af0b82e3d320a79ed48082d331064cde46063849",
+"size": 2257624
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ef0654c19dc2713a407eeceb86863d826b5d1a837ba967e5e2d01ab5331d5363",
+"size": 3253604
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b6c7a5e0beee08a24f1c48928101eb23a25f30053f5a2ddbb4f4af049c517064",
+"size": 1193936
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-revcamv2_V12.9-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b5cc53a89a68d3788d2010f44c664ce7e3b3957cfac0bd6c6b06803df1dbcb88",
+"size": 3987376
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam-supcam_V12.9-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5aa870a91eb7ca1c7ad42a3420e8d36cee8785bb95eb0551003cf943e98ad759",
+"size": 3961078
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.8-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2b329b82b8bf672a5ef30ac112bf93a05ea458520e63366b61f10577d6324fc2",
+"size": 5070764
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11968-803_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f05a35b4c07de4cced9591b7734d882bd6512fedbb3d05102121cfdf78ea9620",
+"size": 14105946
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py2_11777-emu-r801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9fbbbf07c4a7d2a1d9b1d1578ea04eb0e876bd9b54cb1e81b414b6a3dbbb1ea6",
+"size": 3460204
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py3.10_11777-emu-r801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a9a5c1be190b847b974e967b25f7f619b25eeff07c4be6fd7d1f3ec045a900b1",
+"size": 3523682
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py3.21_11777-emu-r801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "393841a21fb1623afaa41558b43416d073c96577f85829baba468924baa9c129",
+"size": 3417564
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py3.9_11777-emu-r801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fa30ab57487efadbba4e52abd4d43c10d8b0472a5826c16da36e3a34fa0938f8",
+"size": 3534422
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-revcamv2_11.697-emu-r798_all.ipk": {
+"date": "2026-10-09",
+"sha256": "22d930794c9898e3438eb5fdfc4d2f1f2648ea9ffad44a986cbe261597892f4f",
+"size": 6639134
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat-Egami.ipk": {
+"date": "2026-10-09",
+"sha256": "99e205c7a052f208a5045a131e64fe4cdf29868c89ee8ca991442f26e339003f",
+"size": 1446390
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat-openBH.ipk": {
+"date": "2026-10-09",
+"sha256": "937bdc989c851962aaad520b5997e02503cb0cc81385f5352991528c4a1df78e",
+"size": 1446457
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-tvsat.ipk": {
+"date": "2026-10-09",
+"sha256": "da81b6a4a325ba15ba2bfd88f3800330738a47574b4680a741748a9a97893282",
+"size": 1450524
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8d83bcf65823efaf3070fd45ea70d1212c4f7f0c3b48327f3d6b8baa355b6419",
+"size": 4094476
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1b2dbc9da2ceef96fb13f855d54838a89f9147f451c2cd969854e1e20891fbda",
+"size": 2256926
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e1d2123652f342520e5220518ad7999ad5127704e85ec216e54ecdea5715b2b2",
+"size": 3254224
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam_3.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e1506d3d62f2700788dfb0c54a306df234560d80d15814ee5afbb2fc5bcfd932",
+"size": 984006
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-revcam-oscam_11722-emu-r798_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e2f4763ff4ac823ff2bcf28abff71b24b08f2fc79bc2ab82b957a214efacbbc4",
+"size": 4078864
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "21bd2aad047624f788fffdd1a25e7259d33597bd27c6fe74fe71090669cfd421",
+"size": 2257540
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ff3b08780bd6497756557547986fe814b9965d757cd3f33dcd1910f1fb8c8ff6",
+"size": 3254018
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-ncam_14.4-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cb1d4456e4c6eed3b5b604bbcb0e15309727f0c10e12fcebabee5b8ed56ce1d3",
+"size": 815958
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5a30f1560eabdff05c8a5530af07e0ea19f84eafcd724c1e1300c47e4216e9fe",
+"size": 748236
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "849878af35beda2dd749bb25dc20d88328fb3d1346ef969fc2e253d45833d2c8",
+"size": 239680
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_232_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c27986f9c211b8b03d255ceefa47ca8c3ae0ed8a2a7243bee14ffa6da8090ce3",
+"size": 1412438
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-softcams-cccam-all-images_239-r6-RAED_OE2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b0305b2022c01241d84bd02d6f7ae10c4dcdbf021d7f28583f75c25988df2569",
+"size": 1411096
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/Config-Oscam/oscam-config-services-srvid-provid.tar.gz": {
+"date": "2026-10-09",
+"sha256": "7968a2cb4ab0aeeee6186202bb56182d0e285e13aec136bd008c9f6dee4fcf8f",
+"size": 357888
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-aarch_64-2.3.9_all.deb": {
+"date": "2026-10-09",
+"sha256": "6ee51e3e1c709af2b2c9fb1e9f41daf87c4644f4ddaf02332aceb977030d43ae",
+"size": 216540
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-aarch_64-2.3.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "182007cb8cf4d4c9150068e4da07d3e490b72616f50ef64a30a1006b7d089c6a",
+"size": 268364
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-arch64_2.3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "99f55c5897d6a4adc79fb0423e021e2cbb32460737d58090121815e25f5c0287",
+"size": 268372
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-arm_2.3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "23717779e3a52e72acdd9722928c765c4bce5744d31a362a6356255c60eb3c61",
+"size": 268368
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-arm_2.3.9_all.deb": {
+"date": "2026-10-09",
+"sha256": "346b6edb0aac5b4831efbc5bdb40582b4aee040a3b1b5bbd975e3399ae5fde77",
+"size": 216588
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-arm_2.3.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "754c1eb80568a8fc72fd18441e9403e96793ba1bf816eda39554dc7118a9f4c0",
+"size": 268366
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-mips16_2.3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6e8b9850854484218cb61ba35feb1d60b99050eabaaa905b86e0cd0d7e765b7a",
+"size": 330392
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-mips_2.3.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "feeb571c84c7a3fc9fc940c413db3c24efc511ba7e62b39be80304f4c4a06d71",
+"size": 330386
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-mips_2.3.9_all.deb": {
+"date": "2026-10-09",
+"sha256": "a8f10eac9d3c84505237544ac33ec009dff301a10901870ada750197ce8557e0",
+"size": 255776
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/cccam/enigma2-plugin-cams-cccam-mips_2.3.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a604c2d58a9e9a4eaba7ae2229b9c6e46a6112332cddc45a90e4808e3a12156e",
+"size": 330382
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/doscam/enigma2-plugin-cams-doscam-mips_0.25_all.deb": {
+"date": "2026-10-09",
+"sha256": "5450055c08c66528ddf534c33f4251d786163818c1e3edb23cba0c9e85d08203",
+"size": 384144
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/doscam/enigma2-plugin-cams-doscam-mips_0.25_all.ipk": {
+"date": "2026-10-09",
+"sha256": "da1b7f3bc2d5156e1c348e5ef8cb9e8354981f08c5da5ddf9352854941281322",
+"size": 496544
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/gcam/enigma2-plugin-cams-gcam-arm_2.1_all.deb": {
+"date": "2026-10-09",
+"sha256": "5475291c99c8e5e762a8095591eb49d2ccc2294fe65a947ccd2d17d308295ca5",
+"size": 559836
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/gcam/enigma2-plugin-cams-gcam-arm_2.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "24c9c707bb3e55795da45ab69e61e6c0799f795439db456609d8325146aa7b17",
+"size": 736994
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/gcam/enigma2-plugin-cams-gcam-mips_2.1_all.deb": {
+"date": "2026-10-09",
+"sha256": "efcdcdb3653d170f6dfd28c4b81b289a70c694fa48d952d4bd6e4bf333f7d4a4",
+"size": 553176
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/gcam/enigma2-plugin-cams-gcam-mips_2.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "48cbef3c4b93f3a7723828735f7c7f1c46022682c8a80c50c07f34b158162fe0",
+"size": 746528
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.deb": {
+"date": "2026-10-09",
+"sha256": "1e5f17ed4e400a067a8ddf1c11afa470805172733fcc3f7d2a9b2a35b0b38505",
+"size": 2137248
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py2_11788-801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f4065a9ed2a8d5092a3d7ac3b122cf9c48b3e719a16af3e5bbd57abfa901785e",
+"size": 3462052
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.10_11788-801_all.deb": {
+"date": "2026-10-09",
+"sha256": "8223953861963791e9ed504d14485e7e2319aac15a61a8800bc2b4449b6a5eb5",
+"size": 2185056
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.10_11788-801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "11d152c7f6a07b0069008d7d9b2a2befa4cb2f7e3c7568af334e204800082af4",
+"size": 3523540
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.deb": {
+"date": "2026-10-09",
+"sha256": "74ae3f346648a0d7d09767b3ce7943d6bce18f4e41b84a2cf50da586057d0fca",
+"size": 2112356
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.21_11788-801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "dbd3cf95425aac56997e89ec7172e37fe811bc07e3663761fb7df5ab33eab4df",
+"size": 3418868
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.deb": {
+"date": "2026-10-09",
+"sha256": "8fc190eb021bd45dae258435e0706b670be23b9d474f6887be1e17cae6ecfcf9",
+"size": 2187528
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/icam/enigma2-plugin-softcams-oscam-icam-emu-py3.9_11788-801_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6bac24f218e4452ee1faa6a102cdb4341f0a17e1301e89bb4d7ff901c6418b59",
+"size": 3534022
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/mgcam/enigma2-plugin-cams-mgcamd-arm_1.45_all.deb": {
+"date": "2026-10-09",
+"sha256": "a9dc43d7eeb7e62a2fdd919197258f34d653924d279d617a433eb8439d94eb3c",
+"size": 343696
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/mgcam/enigma2-plugin-cams-mgcamd-arm_1.45_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7f7977b08f66cb3f31a38e3b35d86abbc3db15b757904500a80e90fc0ac16ac8",
+"size": 685868
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/movicam/enigma2-plugin-extensions-movicam-arm_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "eb600e3aedcb6e9b47bdfba7ca83f8d4c941531190b9f865734cf96547ad75a5",
+"size": 1142942
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/movicam/enigma2-plugin-extensions-movicam-mips32el_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "57ea24b99b8d6761b645681f52dfb265615e9c1337409857a2432fe2e198fe12",
+"size": 1758456
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-aarch64_14.3_all.deb": {
+"date": "2026-10-09",
+"sha256": "eb8b3da0fb28387db23ed821a5d7ed0831b22890b42577d5c0e4ae7a262318a8",
+"size": 806820
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-aarch64_14.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5d092d0c2d55ea701fddd11e5fe3c490e362e2b848ca66f6cd0f548a9fa29bbd",
+"size": 974810
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arch64_14.7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3b3a5f62b73ea581bb4b482384e692d4137a7057311f4ee2b755489f6962ca23",
+"size": 970838
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arch64_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "30a9847450ad367d9d341b8d802bb8f6c4ad7af50427ab71c2247175e04e0951",
+"size": 973904
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arm_14.3_all.deb": {
+"date": "2026-10-09",
+"sha256": "adbc9cef648248d99925e8ba265b0354ba733c56baf47a3322276a0f3b522212",
+"size": 802620
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arm_14.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "239786226459e13de7dad2fbe4178c0eb7006b511f589966621b18997a94b861",
+"size": 978938
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arm_14.7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ce4b2040aabc6592cc268e08b2d2396cec428e1d61bd7b6752a03901c65814c2",
+"size": 973628
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-arm_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "95da77c30462e1f447471418b0c0d46c433d4387d1eb92ff47b2ee90ee2418af",
+"size": 973904
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-mips_14.3_all.deb": {
+"date": "2026-10-09",
+"sha256": "4a64b5e895737827e861e4ae9cb55766a159bf8675b9795b892241d437e9f2b8",
+"size": 787504
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-mips_14.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "04ed82436b2f511eeb88b6f60c072a72d36436701e83215aef8fbf96bbd5df24",
+"size": 972754
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-mips_14.7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "314ef09c56445d0468deef312834f2c3db708c76bdad12befaee6246b861b31f",
+"size": 975766
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam-mips_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "49dc9871c4283350b16e7aada1ec8d8ba62b3c029449a620736a1574171f0e3c",
+"size": 976186
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/ncam/enigma2-plugin-cams-ncam_14.9-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "054db89004d41996157ce496d0ea496b5ddfd3e49f82bdc8a8728d0adaafdf71",
+"size": 3832492
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-arm_11.718-r798_all.deb": {
+"date": "2026-10-09",
+"sha256": "b82b1d58e9094d1d734bc28d03c4b5d130bee3b4f2cbb11b411cf801b72e48d4",
+"size": 591716
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-arm_11.718-r798_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4eb96d7e2c3c681e604b5eb01d957e65a7c7c6b85b59ef211a0b927a6abcfe89",
+"size": 724284
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-mips_11.718-r798_all.deb": {
+"date": "2026-10-09",
+"sha256": "eef14200b82422ca7ea8a3f8400b7022fa5d6f8a821cf65ed248aa84e2e20528",
+"size": 584460
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-mips_11.718-r798_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2a56ccfb873cbc6424e4615e16e5245d7102aa19f877a5a1d2519db2d753aad9",
+"size": 727126
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-smargo-mips_11.391_all.deb": {
+"date": "2026-10-09",
+"sha256": "8f34e72d23e27489f2931e69c14fff348c46224259bfc551bcb23cc8c5326174",
+"size": 658528
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-emu-smargo-mips_11.391_all.ipk": {
+"date": "2026-10-09",
+"sha256": "79f598e668f839c7aa72866faaf2a0c2580c73631ee7d142548589d354eb34f4",
+"size": 840650
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-modern-arm_15.21_all.deb": {
+"date": "2026-10-09",
+"sha256": "3d8164ca6a044a8585d4a2ee7740f7857a0ae72f7607199e0a80a6b61dafbaec",
+"size": 663744
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-modern-arm_15.21_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e7076d9f474e6bc10add0a21ea918ad1fbc3f15aa62a75ad25e9d33cff7112be",
+"size": 661136
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-modern-mips_11.452_all.deb": {
+"date": "2026-10-09",
+"sha256": "bd31637e114b202398fc6c7b8f8142d2d1822aaa15fca5adea064edfa1921ded",
+"size": 553076
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscam-modern-mips_11.452_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9be9d19201d16eaa5ebac893dee83490c8938eb5b9bcf64c9d808437739b7519",
+"size": 681918
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscamymod-arm_1859_all.deb": {
+"date": "2026-10-09",
+"sha256": "f8fcb1ed3f7970d197e2eeb57913b46bb6ae580146ddc2c096de7d6ae483e34d",
+"size": 293512
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-cams-oscamymod-arm_1859_all.ipk": {
+"date": "2026-10-09",
+"sha256": "015e0001478f1820a6cd40cb511d9c43051e8ebbff4d49f58000d9a7f6b6b282",
+"size": 370228
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-aarch_64-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "4c6deea0dc5bf1aac5fe114ba69f8baf3886ecd82e1fea407cbd55967c24eee6",
+"size": 652288
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-aarch_64-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "58070d3b4438cfd44d0e3b3de7389e77e50f587452c42b7791284b89a764e40d",
+"size": 814910
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_2-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "f46da6de238d1471f66fde044d3fb3567ca89a5a8886661042b9b87ed7590b7f",
+"size": 603092
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_2-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e06ffb95cbd07beb9be0bb968c57ea7c1d598aeeba13769d22d848539c093c70",
+"size": 762926
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_3.10-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "a520c9b0ce6f8ba6f7b8a10350182a41d018dfb6022a1a9bc513ef3667493bb3",
+"size": 625728
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_3.10-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8a0ed190ef6169aebc34783ca8af21fef15d182dc7361bd549c1f58acbbee4d7",
+"size": 790520
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_3.9-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "4d167eeed05897803fd7d1de9921e085f4dc55220e2e0aab70c06146022dde8f",
+"size": 617764
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_3.9-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "00df5ff4cb6c050d3e20f9d3fa16b0c0269404c46f4cfe184d6e9154ce810d32",
+"size": 779854
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm-py_3.9-11751_all.ipk": {
+"date": "2026-10-09",
+"sha256": "bbaaeaeb663341ec09c2315185f84fd00c17f50fe6eaf50cdef4d50dcdf63d3d",
+"size": 620744
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm_64-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "8591371f5df7a58989d609df051733483ddc2a6d274a2c1f4020b0515e500fbd",
+"size": 666988
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-arm_64-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4b3930fdf37e0b32400e6d9c75a28c366adac21648a77dc8d70e022397c41e10",
+"size": 833420
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_2.7-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "11d739aa360778c6e7740c07665525808abf710efdda0686acfb7ec2603b8980",
+"size": 605524
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_2.7-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cb9de042f3f20532302729ba65d17535dd2f2ae4cdd0b648d7678cf7cfa58d10",
+"size": 786216
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_3.10-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "3f2a52fb9d45ddb3d3b2cbb799b07878b98a771b8f3f688a279d86066a32abed",
+"size": 641392
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_3.10-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "05f3c132f2edbfd2de24099e9609832c7e80dcc539ead0d971f783669cec496b",
+"size": 832670
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_3.9-11725_all.deb": {
+"date": "2026-10-09",
+"sha256": "220efd6458d9699f9526bfc1fcd9bbec8a0447da14f6abec82bd0a9922ab0746",
+"size": 633712
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/oscam/enigma2-plugin-extensions-oscam-mips-py_3.9-11725_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f3141c1153a8d13ce81b252a5a36610692d27c0d3f9bb721221781dcd2c16ced",
+"size": 824314
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/scam/enigma2-plugin-cams-scam-mips_0.25_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1b0b2475e790eb2535b7b18108f88cf0839cf92f3fa492e1d1dd5985a542b85d",
+"size": 221378
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/scam/enigma2-plugin-cams-scam-mips_3.60_all.deb": {
+"date": "2026-10-09",
+"sha256": "57cacc0679b380fc78f2a62723d2d830cf20f9b9360e28fccadd7d62514d5d66",
+"size": 171164
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/scam/enigma2-plugin-cams-scam-mips_3.60_all.ipk": {
+"date": "2026-10-09",
+"sha256": "aa78c07023461bd87549e6da5ba45cc121f60a2805bc12ee363cc338f915f56f",
+"size": 221146
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/unicam/enigma2-plugin-cams-unicam-mips_3.1.0_all.deb": {
+"date": "2026-10-09",
+"sha256": "785df2d5f8da0ab3ba4b382b2198325226ecac98db4d61c526f46045bb4a8572",
+"size": 515320
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/unicam/enigma2-plugin-cams-unicam-mips_3.1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "08ce5a14da2bcff47ee380126b3c170d221ca486a706ef394f7f11490f542c10",
+"size": 599128
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/vicam/enigma2-plugin-cams-vicam-mips_2.1_all.deb": {
+"date": "2026-10-09",
+"sha256": "ddfb81165c040c9acb3caa40830c17a9dd6cdcecfb5ad7b5d4ec7c271c60a666",
+"size": 800472
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/tvManager/vicam/enigma2-plugin-cams-vicam-mips_2.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9e664dedf9c31f97394f9179cc3b446ca8e42060a46572a1838a4b5f6179e02a",
+"size": 799780
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_epg/enigma2-plugin-extensions-EPGImport-mod-dorik1972_1.9.1_all.ipk": {
 "date": "2026-10-09",
 "sha256": "4415ab37b3503e894e3484bd68b52c8c8ae8fc9fbfb114befd3d24b049032a8c",
@@ -2660,6 +4735,441 @@
 "sha256": "a16bd2701ef5b1489de79b25681fb421e91c8c8a4ae1f720a6c3207fdea539c8",
 "size": 303914
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/Athantimes_2.9_PY3-PY2.ipk": {
+"date": "2026-10-09",
+"sha256": "53a130a91228d33ee386e2f9b234402f21be95f43969e8c7976016cfb8d709f5",
+"size": 3115104
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/JournalSAT_IPTV_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "672329df6983f66d243fb284e755a76b76d075fdc6a95c5d50ba8b515b763a07",
+"size": 63136
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/XtreamTVarmv7a_4K_0.2.3.ipk": {
+"date": "2026-10-09",
+"sha256": "89cbad5a4f7f9751bff35b047d463136e34b8e244380cf75fbe8ae6fbb3c7efb",
+"size": 2690262
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/XtreamTVmips32el_0.2.3.ipk": {
+"date": "2026-10-09",
+"sha256": "f275ac5a2dc06483fa6c06d8cbfdd2c443da29708b6548c3ccdce5a68d124d5d",
+"size": 1652712
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ce7f2b12b640e1d7dd09eee04f3fc0869af04618d4395099a23d6794dceee309",
+"size": 24540
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-albatros_7.1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4cce4b767b28733b28d39286d33a3e88ab42e5ba982a8cb9384b32a41bd63087",
+"size": 5626384
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-ardmediathek_v1.5-plus-minitv_all.ipk": {
+"date": "2026-10-09",
+"sha256": "95bd2423995926e184e17930bc1abf70528221940072a8fc2f4941a8ae27f683",
+"size": 52562
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-autocut_3.11_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b35f35443fc58e76498de84509bc928e54242321e85f653fa242721e485e0a40",
+"size": 68369
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk": {
+"date": "2026-10-09",
+"sha256": "cd46cc40d8757c005dadf617cb0eabfa18ec477f7a37dfbb10277125dbaeb2a0",
+"size": 388353
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3218e293dead6ebd1aa72a6d1dab7bb9c30ea23b55a983072ae682da1812fcbe",
+"size": 1981404
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-deps_1.0+git9+2adf2670+2adf267a1c-r4_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-10-09",
+"sha256": "1c872f053e3c5a6c9802b9dc60545602005805bcf60855a11682800c77d42462",
+"size": 205864
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer-ts_17.05-2024_all.ipk": {
+"date": "2026-10-09",
+"sha256": "cceeb7fb3202e117d5f6920b24edd1a8180a410563c14a37d709a50fa793cc2c",
+"size": 2858
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iplayer_git4734+d7355cb0+d7355cb9c6-r0_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-10-09",
+"sha256": "f9ba061620f67b16e0e651a138065b942eda7c0553aaf5e1d1cba4b91ef0f18f",
+"size": 10390370
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4f37de44324fc4f00d6f41a3c8c86802532411da4619d7fb67b58027459c0922",
+"size": 2486494
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-enhancedmoviecenter-5-0git20210126-all.ipk": {
+"date": "2026-10-09",
+"sha256": "5c5a3811e1071d797b5fa37377a05ba9a2eced61e4a9d9246b2a5b41bbdbfdfd",
+"size": 1026286
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c736e658624ba68a9c8539def3d2a30d6a1c26566bedab542144e754bb3606b4",
+"size": 17404
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-exodus_7.0_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b07b30213ae803cb67ca8d0ea47cb3b224a5908a8e2d88267fe25356700a1044",
+"size": 321964
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-freechannels_py2-git21-735d86d-r0.0.ipk": {
+"date": "2026-10-09",
+"sha256": "61ff437a12df4be31cf6133de3a7aea7901af8b0aac2d55660efc472454f61c7",
+"size": 18908
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-freechannels_py3-git21-735d86d-r0.0.ipk": {
+"date": "2026-10-09",
+"sha256": "5f89fd66ae48375103769a47ab34641516cd92689b05f30d20b37ee79df6b605",
+"size": 18744
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "14b6a7be49bf0fc061196928df1de5fd72b7b8b888ac0e5ac15248c9c1d332b8",
+"size": 39544136
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "198963a63a74bac422e9ae77a31684891d66e26fd7d84df3077d38eb6a8dbaea",
+"size": 201174
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptosat_1.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d851b4e107f6a2895b171651eae575b732ac040a762fad63b7f2bfef9f53ff5c",
+"size": 13638
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptv-openpli-japhar_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c341f7307b6e067b9c31329dff3c6bbeb17b5d4954b5c24ffad4e4416a257d24",
+"size": 892
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptv-org-playlists_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f15b5edf2a3040b1d46fe9fe2f7f2d51b6b2a60c5fc879a29d5c5c2f7905a9ee",
+"size": 25174
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b51a3ff0fe6fb724d89fcacc034666cae549a59c79dc90c6e76ed17222bac6cf",
+"size": 1167886
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "09b61033fd395951da9f0e31da3f82c8dacd8689c8d0d565a25f5d11b7319798",
+"size": 151206
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b4220660f8563c641ed99a2070e9a7342fc3a0425baf2f54978cd6fcc537a880",
+"size": 323054
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "771d635d48d7a5162ce54c6ac406d5dbe9e49e68c543c0539edf339b56a71fee",
+"size": 1990264
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvmanager_1.1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3c952eace3c395560981ef258f074d916e5eee8367283cbf565d077b6a6143d0",
+"size": 26138
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvremote_1.0.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ba500e3b487367d2f1792b4259396faf101e0e0fd65ee7c28a650f512901eff4",
+"size": 30720
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvupdater_1.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f7c35bee1de770e6f7ae96429f9e14491a889d6c7ec21cc2d805af9af97595a0",
+"size": 891482
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvworld_6.0_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ef793be0137ab2e4efdfce6a667ef733057ecd0066cd55e842a047f336dc246d",
+"size": 86858
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-italysmart-240510.1_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "806dc0502c223d873cb1392ad3adf2856a6d88df7f5edb4285051b45814e1f54",
+"size": 7275534
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-justwatch_1.2.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "101dfe8aae0a2d8c43b353e635395ecb116fd7e9a7b5b999b73c8eef6a271035",
+"size": 559468
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "12a61022c5e265b2a4329c8e042df86698475a34bce1e1c04deaa8962e8bdafd",
+"size": 21284
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-m2b_2.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "635e8134c0fbca5355309516f24752ab5575af114361140574a7d08c67718c9d",
+"size": 36154
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-m3uplayer_1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fabd3be3feac59a8c66399d7cbb072f2aab19fc8650daff5ae01c3ba3ece5aad",
+"size": 1891890
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-magentamusik360_2.0+git14+a3998e2-r0.ipk": {
+"date": "2026-10-09",
+"sha256": "f0adc5f9cffaeba8edbfb4f3b38452c398bd6b38fe07e78167a4109ac95fb9db",
+"size": 57782
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-mediaplayer2_git26+17c9822_all.ipk": {
+"date": "2026-10-09",
+"sha256": "82779a89ab951fd1954e7c9b798b6e394cc41e41875e340b8f776e88a60315af",
+"size": 44012
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "9a00f51e7bcd14dbd6d90268bb10575a8d204d77250799d7aa6a32f4c4e0ad91",
+"size": 2931972
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk": {
+"date": "2026-10-09",
+"sha256": "262bd11122579c4e2fe176c4b84d7224506440200e03ffdb8923a3cfa9ccf7bd",
+"size": 181082
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-movietime_1.0_r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "80fec70935934844ca49a01f73fd602cb9ba64dbbde4d62b02efc402f3c6224c",
+"size": 3552044
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-mp3browser_2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "393d488331c36f1f81a2f3fbb14dd96a0cf3059c01731dca09e27ff9ef3b918d",
+"size": 780478
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-mpgz_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3e21613c050244f96346f2a0984cadfda43a9681ef693bbdab14c849c75d08d7",
+"size": 32676
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3c57377ed37b625cfb3300b27d0856fc70a156fc8eca1cb508a8263cf6d47376",
+"size": 3725462
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py2_v1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "347aac575b032aa73f238ccc48ddb05376127519183f0682d134ce3d1dd03a13",
+"size": 955682
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "451539db4c27989a92e4c335884c834f335d8844525d5a6fbce2d9fc43607660",
+"size": 929526
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git16+ab1d5a0-r0_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-10-09",
+"sha256": "09bece458f2ae4a4ceacfae340289c84cbdfe506d3eebd627970e80376f8ade8",
+"size": 703298
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "31c89fb79ce2cab2e2354b053079fcf056ee53ff3f18815783b55bef71282dd5",
+"size": 954680
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_armv7ahf-neon.ipk": {
+"date": "2026-10-09",
+"sha256": "bc02db24346853bec8f09c6e475a62683b52b336c11e3537cfd7cb68002d8929",
+"size": 721254
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.0+git17+3e81926-r0_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "2f7fed6d2089677e73ef35c5f251e0655ff37efc9b9a405a7357a5171737b96b",
+"size": 664340
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git161+e7a638f-r0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "27813205bc8fbb2ff2b6ab0c5ee2d7aff83c5f5bbdb88fbbb9bd202ec7a2c02d",
+"size": 2848084
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+git165+24295f8-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d6516d64512918b5b53acbb1c32081a2173fb64db584da486282b8f47fa6f351",
+"size": 2932786
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+nss_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e876e5c0610bdfad93eed6a39299dff043f7d6612809ceffc8f6447bbeb2f0f8",
+"size": 2932794
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+r5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b9db274bd1ead1396e3bef1bda0ad79aae90b301d2b8873e30584867cd45efb2",
+"size": 6748264
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.2+nss_all.ipk": {
+"date": "2026-10-09",
+"sha256": "07fd5c03ccbbc82c18d2f4cf5c579099d63cb62074d4bc551e3525478eae13ba",
+"size": 3185518
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-panda-m3userviceconverter_v.1.b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "bb98102e19cff027d1d011778e054d33f1ab66acca9270b13b56fd2321ce950f",
+"size": 421778
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-picturecenterfs_8.52_all.ipk": {
+"date": "2026-10-09",
+"sha256": "055c5930309d3c450f13fd9c5035a3d502846624d81c2fbb2d5ac1a5fedad1d4",
+"size": 235974
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-pictureplayer2_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5b9c5991dcfd09756b25baccfd508323ecad23e3d37319ae136cc1a7b078c9e4",
+"size": 18758
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-playstream_0.9c_all.ipk": {
+"date": "2026-10-09",
+"sha256": "32bc7319724b45de2133bc86bef4375ef8ef017a180331276605fbbb8417a749",
+"size": 1872034
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-plutotv_3.0.2-git33+a7261760+a7261764a1-r0_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-10-09",
+"sha256": "0e1c519468a17ece881110133e13fd817a683319f62d40a1588ed419b2527a67",
+"size": 77592
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-rakutentv_20240324_all.ipk": {
+"date": "2026-10-09",
+"sha256": "6a12cf73e0eb635b583b591b6ea5af9fa68fce63144d3e52c67e1701b0f14e11",
+"size": 564096
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-remotestreamconvert_2.0+mod_all.ipk": {
+"date": "2026-10-09",
+"sha256": "32d75da916cc7729bbf69ef388185351bef90394b4b4ccf68ad485c0193526d5",
+"size": 13532
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk": {
+"date": "2026-10-09",
+"sha256": "84dcde5ce11443cc6d0bc862910e4b071efd83a2b816014102d3f68724bdbda0",
+"size": 174972
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-seasondream-ng_3.0.200331b_all.ipk": {
+"date": "2026-10-09",
+"sha256": "254416e9684e303d2fad144272c83c5a0654c6bc75b1ddb370b3f2695a462305",
+"size": 1800360
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-serienrecorder_4.7.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0f9c790b8de4827b9f7106c55fa9f8277e259e7d7454dcd80debb0313268cf5c",
+"size": 723512
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-seriesplugin_5.9.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8273a86147596e7b4a7d94503a3c8c57c3426bda1ac3794d6b09a326c66f1f07",
+"size": 155866
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-skyrecorder_2.1.3-py2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5609e8add4de7680b13fc8513f95c453157286823d7ec9c695ac500e560a98c7",
+"size": 392218
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-streamtitle_1.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8cc3981465dd4cb477c9bdac6ad206aa16f51ff0954d92bcc084fb2ec6222171",
+"size": 3660
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a09be8dde6c172a1589eff805ef679b71e46e9666fe506744530bf2e179dabc3",
+"size": 3824756
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-torrentplayer_2.1_f020920201_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2dc32e2f3189644c3931378268f7712b08a0a85f459c8a4528b04fe6906c092e",
+"size": 4081750
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-torreplayer_1.3a_all.ipk": {
+"date": "2026-10-09",
+"sha256": "528f8b937593f96af4a985fed1bda2cd249adf4277fdb5dfcc01457159ac9bbb",
+"size": 50358
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-tsmedia_17.2.29.07.21_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ae835160b2023ad22468313b4024cb813d715f937a3362395cc82a4a83692269",
+"size": 8089918
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvdream_1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "60206c01057d46a36f6855a5ff75790cb7578e665b5bb1b1a56606b46306d7a6",
+"size": 982354
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvshows_1.0_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "237121b656c60a6ef87afc0b516ac9928f03bee07d1a768b7b5a035465d8279e",
+"size": 4387022
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-tvspielfilmfix_1.1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "87846d34c40c72b8687912eaa48a454a51e307959aafc5ef7fd2c03ddc71ea4b",
+"size": 33479
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-videoplayer-simple_3.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "45b65249f62c740da517d2394a335f63c1f9f47d16054fd69af66e49330ce180",
+"size": 24368
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-visionvivapro_240525_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a73f89c565cff7a56f16579246cdf94aae198038c9a2481ab234fb8c7d4721d4",
+"size": 2348
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-vlcplayer_3.999+git5056+e504cee-r2_mips32el.ipk": {
+"date": "2026-10-09",
+"sha256": "facb9edd6cf9cb51930d6fe465b1b606f542d107d63cebeb13095c40a1eee588",
+"size": 74314
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-weather-msn_0.8-r1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fce99ec2b577f0bcd5aec1022b6e80329c36063e821127fa9b8a012cdc6276c0",
+"size": 473154
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmc-addons.ipk": {
+"date": "2026-10-09",
+"sha256": "c3e0b13e874b1c5940144c531bd2d6db62fa50989f79cdabab2d50457f9314c8",
+"size": 1844734
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-xbmcaddons_8.0_r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "781e7140ef2e82ea3f1e47f0b5d13fbfc984512f41c907c9a9420fc5d9c406e2",
+"size": 1857948
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-xtreameditor_2.12_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c4c55b4d6cc88d161623532f1803963c31a8e3d93efa61454a6df3c2297ed63f",
+"size": 52896
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-zattoo_1.5.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c9020be13c3d47e4b14ee3d8a08e5ad4da7eefc36241a7d12ec89cdf5ac03b20",
+"size": 681374
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-freeplayer_1.70.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "67d1588f7a4f186cdcc61fbc985ec4e16b6cb3991c49770f201c399726727cd6",
+"size": 17080
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-systemplugins-m3uiptv_1.0+git252_all.ipk": {
+"date": "2026-10-09",
+"sha256": "dfc992329a99db88582ce82240750e7b4935d90f6b2e0aa85268ae84344a817a",
+"size": 61132
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/stream_hunter8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "5aee72b500f418b1b1e09a3695fa4b6efa7767fea9a1e62e2c30cad35fcff391",
+"size": 576034
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_multiboot/enigma2-plugin-extensions-barryallen_11.3_all.ipk": {
 "date": "2026-10-09",
 "sha256": "e2da31d139da12c46470f8a133b0ae3e1d8fba0f156fcfe61abb3b5ed3a316b6",
@@ -2749,6 +5259,206 @@
 "date": "2026-10-09",
 "sha256": "e441af45e409cc8e01cf50c2f9a49271ef9b0b434770f4362a0c335603278017",
 "size": 111848
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-e2piconizer_1.28.20250517_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2fb6473377976489bb8d4ef84de7752ebe007a1df3b3e57cc4de96236a72d15a",
+"size": 1580086
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_08_13_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ed9f583ad0330252d923280f23e5fcb788f9fe923b3067de9fffe399d4c47026",
+"size": 4450
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_12_20_all.ipk": {
+"date": "2026-10-09",
+"sha256": "3b6ee065931ba47d89d0bdc5643099b251f69bdc72be10efc8d00da82bb3402a",
+"size": 5822
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0ec6894ff6658484e63fd616ecda961c042db0efd43ea509628888ecf745d3e4",
+"size": 1465116
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcleaner_1.6-r3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "77d428178a8a358e4acb1a2daa34b761e9d1b89f5f2b43103eeebb0cf4ed5cb9",
+"size": 9118
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconcockpit_5.6.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "460a729641ff26973e0343c78c11f8d0c412779e9adf0d3d017bed2116fc3de6",
+"size": 90806
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "81d5fa826e6936e8210926073873a9ba57897345792242f55a7210345b2246ee",
+"size": 33124
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconremover_0.1-r1-20240806_all.ipk": {
+"date": "2026-10-09",
+"sha256": "82bca06dffbbd618a258fece8b6b425d34a825bbe410ccddbb767e4c5fd97d3f",
+"size": 6870
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconsupdater_0.3.7.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "79842fed11909ca881c31d9ad9dead84d21493f7b0b95d8541744ef1b1591646",
+"size": 18888
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-renamepicons_2024_08_04_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e0f32d7b8ce0e81e40176153f59c1eef981b3b0e01a9b855727650b728b93079",
+"size": 7066
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-virtualzappicon_1.8_py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b4bef228cd8f2ef849413a0189fef7db1b561e8b69f2f28f1619a005cee23515",
+"size": 19522
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-luxsat-menu_12.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "346c81b48ae04880bdad67e2a0782e7e34a063354bf1b2237a829f0c27535616",
+"size": 662116
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ajpanel_v10.2.3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e9d2735c68565c3f568864ea703b8151127a3b0aa20f273d845a28430c746b64",
+"size": 518872
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "c0ec8e48eb2cad8102caed9ebf1e8f45baa2a8f43801bf70c18e5a47a63e6ced",
+"size": 24336
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "b54dd0347694854e17fe91bca208b4b34a0eca435332458fc35fd6674a00c41a",
+"size": 8774548
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-boxpirates-cammanager_1.9.6-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4481fd6983e07d9125ef544c6f86612c6fb1a6857d9d3753a517b7e63f90c478",
+"size": 1076664
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-camcenter_3.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "411fc0543c183e82d3773a01c3452f95116c2c1f96881e0cb679349dd4c26557",
+"size": 15087146
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-cammanger_1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ca61d7e80a695ee12df94cb996a2ebbd012aea93233117d31749b678b1340a29",
+"size": 12082972
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-ciefpplugins_v2.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1153a5b4f26d487a65fb8dc6fd8dc6f6590e3320913813f122817d927d6f9857",
+"size": 1035964
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-dreamsatpanel-py-3.10.4_1.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "01c86c3a103543de7455b0a5af7cb91cf21f977ea3c0770a89d3c90198396edf",
+"size": 742332
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-dreamsatpanel_1.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4d99afdaa1c8cdf67ce37c991e94222027c764679bce3a7bdfeca70073bc58b4",
+"size": 6452
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-emilpanel_v1.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1751b61c422fcab920c1acd9aaa47d63b6e7917487cf40f2b0d957a0519baf5c",
+"size": 1856712
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk": {
+"date": "2026-10-09",
+"sha256": "06025ba87f080e69b75758d26bd3d79f8deac4dd0ece7d969fde4cd9f9b33d58",
+"size": 168808
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-goldenfeed_6.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1313c029bc49730cc964b824449476a0a366eaddc4898a10d730d59c323cb673",
+"size": 121014
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "d5134a375839939b99807df6c209f9070bdadaa9b5fd0d0c570b58006150a6d9",
+"size": 460814
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.1-r31_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1e809fb8ade842b74307e349533f324721d6c8b5a112576133fe3d272a87efc0",
+"size": 134070
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "112353a6d4a8e452fceb7c5072b5e7913359d01cac79584ec74483ffee09ec47",
+"size": 1049126
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a3d6d76e0bfdc75214b242dddb43333d23dce14c71d126b26a924e02bf0ca9fd",
+"size": 15800994
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-magicpanel_v5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "8d9d8da7a4b8eae5968b386d89c184a929976a485f93e1bc21f8e8739c281d4f",
+"size": 163798
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-newmenu-OE-2.v0.all.ipk": {
+"date": "2026-10-09",
+"sha256": "e2261b06e52c00a8221b0fce4dae91391c869ecdc2b75bd7b32db084476ed98e",
+"size": 205846
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-novacampro-py3.9_3.0-r0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "1d9d35bb6a7f51e6b5868c7497cb495a6c52d1eb0c73a01fb8d785e7e627b983",
+"size": 702432
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-oscamforall_1.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7934a9890b2abff9efd3ae3977c4a081fcd5e782e1417b365e6be283363c1249",
+"size": 4905336
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_16.0.0_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a7bab2f5d364ba7f96baa99d2b8481429a42d2c18c6fbe37804a21be77b68406",
+"size": 301820
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk": {
+"date": "2026-10-09",
+"sha256": "e41255ca5fe03a8f42ccb76324a58873ca41e69742e5a109e942a78637b1e4a6",
+"size": 60538
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk": {
+"date": "2026-10-09",
+"sha256": "ce41c4686f8fb56110cc5b5b170a6b22709a441f9d9d39dc83df5aed860ad38e",
+"size": 240960
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-tspanel_8.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "62bec81c4aeae0c51615a615a09b09b07df7082e119766aab7fa7cf0749e7fe0",
+"size": 2567070
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-tunisiasat-addons-manager_3.0_mipsel.ipk": {
+"date": "2026-10-09",
+"sha256": "46d883b1f9e19f2e4bafb4aa12c46c172973b41becf5d0aed56b23e851cdd6f3",
+"size": 43908
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-vuplus-images-panel_3.1_all.ipk": {
+"date": "2026-10-09",
+"sha256": "86575a7a5d35d2265add727809435016b0209db71180ea09f8bad764e5b80c02",
+"size": 416278
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-systemplugins-autocamsetup_0.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a0995e8e3644fc3b8115b52f778a89786b526b7a95554925bd3d4d15820df8e9",
+"size": 49872
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/japhar-addons-manager_5.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "fa835f7a56d20614b874539a5296c8c83b513191f26d5691722590243e7251bd",
+"size": 9332
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.17.8_py2_cortexa15hf-neon-vfpv4.ipk": {
 "date": "2026-10-09",
@@ -4265,6 +6975,71 @@
 "sha256": "a5532d302f6e8450d687f28cc3b88598dca6ac445f3de1f27be6d8ac124c8447",
 "size": 83020
 },
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-nordvpnconnector_0.6-r1-by-raed-mod-lululla_all.ipk": {
+"date": "2026-10-09",
+"sha256": "645a0b20b398e2b35674ae4becbf036e2050e6dc2fd218180492baadc9204f1c",
+"size": 83892
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-openvpnsetupnord_0.6_all.ipk": {
+"date": "2026-10-09",
+"sha256": "f172992da495ed931ba5c6e2a8677ded4c2ddf54ed3d5417019cb5a16434c707",
+"size": 32156
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4-py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2012e4003fe324ae806dba0ea7095f8792c47899c619f26a143b89d8cf3147dd",
+"size": 674952
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-perfectprivacy_1.4.4_all.ipk": {
+"date": "2026-10-09",
+"sha256": "a98a232bac8d747357932f66b652ae77ce735611dfde4f8aa97e8faab557ca35",
+"size": 701246
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-purevpn_1.0.9_all.ipk": {
+"date": "2026-10-09",
+"sha256": "885e1b33d5f41ce015f43421cd491a6b138fdb2361d1bc67fd03d980e03d3db6",
+"size": 326900
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-purevpn_1.1.0-py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "4e0cfba901de4fcdbeed773e63c0d67e7dde99a121c7b86a4dfe23cb6efebc32",
+"size": 325957
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5-py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "0024f72561d77ecb84d3257a07558896b381e30369e2814435725f5054fffa28",
+"size": 918284
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-surfsharkvpn_1.0.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "216aa2ceacac55810b5bc715e9ee36aa72b4ed63758e737d7bfa606803b2dfb6",
+"size": 900616
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-vpnmanager_1.1.7-py3_all.ipk": {
+"date": "2026-10-09",
+"sha256": "7dac521969b0aeb0e0b1c4847d69ffcb95ebedf3fe94da025e6f4630f53bcc56",
+"size": 491660
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-aarch64_13.5_all.ipk": {
+"date": "2026-10-09",
+"sha256": "971966b77919faeff355898f8d5c0a478d5de41e0166d49b8f691b5ac98ca0e2",
+"size": 2679660
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-h82h_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2ccb70ea78fa8e929b59ea670844e7a059205421cef06c02ff3ea8e20e3b2d75",
+"size": 3114026
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn-mips_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "98ff5b45225869e280172f0e1ebb93a0ea11908f9ef508d0c4221197234cff5e",
+"size": 2770462
+},
+"gh/Belfagor2005/upload/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_14.8_all.ipk": {
+"date": "2026-10-09",
+"sha256": "2ccb70ea78fa8e929b59ea670844e7a059205421cef06c02ff3ea8e20e3b2d75",
+"size": 3114026
+},
 "gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.3_all.deb": {
 "date": "2026-10-09",
 "sha256": "072054244092cc629ad6610ca481fbb81f27b21ef4d1a75a59513c98288cc212",
@@ -5666,13 +8441,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-09 22:35",
-"pending_uploads": 556,
+"last_run": "2026-10-09 23:50",
+"pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-09",
-"files": 1133,
+"files": 1688,
 "upstream": "ok"
 }
 }

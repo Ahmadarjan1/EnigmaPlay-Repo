@@ -1,0 +1,32 @@
+{
+  "id": "ciefpplugins",
+  "name": "CiefpPlugins",
+  "category": "panels",
+  "version": "latest",
+  "updated": "2026-10-09",
+  "description": "بانل تسطيب اضافات خاصة ببافل سييف",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-panels.png",
+  "screenshots": [
+    "screenshots/category-panels/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "url": "https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "latest"
+    }
+  ],
+  "batch": "bulk1",
+  "subcategory": "Pan"
+}

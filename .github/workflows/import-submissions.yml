@@ -1,0 +1,40 @@
+name: Import developer submissions
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # approved plugins appear in the store within ~10-15 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index           # never run together with the index build
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Import approved submissions
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          # same derivation as deploy-api.yml (no extra secret needed)
+          export SYNC_KEY=$(printf '%s' "$CF_TOKEN:enigmaplay-sync" | sha256sum | cut -c1-64)
+          git config user.name  "enigmaplay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 tools/import_submissions.py
+      - name: Rebuild index and push
+        env:
+          INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+        run: |
+          if [ "$(git rev-list --count origin/main..HEAD)" = "0" ]; then echo "Nothing imported"; exit 0; fi
+          python3 tools/build_index.py --require-signature
+          git add index.json
+          git diff --cached --quiet || git commit -m "Update index.json [skip ci]"
+          git push

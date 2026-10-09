@@ -1,0 +1,33 @@
+{
+  "id": "copper-fhd",
+  "name": "Copper-fhd",
+  "category": "skins",
+  "version": "2.3",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Copper v.2.3 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-skins.png",
+  "screenshots": [
+    "screenshots/category-skins/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · FHD Copper v.2.3 all"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

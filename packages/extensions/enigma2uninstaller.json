@@ -1,0 +1,39 @@
+{
+  "id": "enigma2uninstaller",
+  "name": "Enigma2uninstaller",
+  "category": "extensions",
+  "version": "1.0",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Uninstaller-iet-1.0_all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-extensions.png",
+  "screenshots": [
+    "screenshots/category-extensions/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.deb",
+      "sha256": "skip"
+    },
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · Uninstaller-iet-1.0_all"
+    }
+  ],
+  "subcategory": "Uti",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

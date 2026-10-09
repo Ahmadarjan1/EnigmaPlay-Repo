@@ -1,0 +1,33 @@
+{
+  "id": "gosatplus-oscam",
+  "name": "Gosatplus-Oscam",
+  "category": "softcams",
+  "version": "11966.emu.r802",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: GosatPlus Oscam 11860-emu-r802 ipk",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-softcams.png",
+  "screenshots": [
+    "screenshots/category-softcams/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · GosatPlus Oscam 11860-emu-r802 ipk"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

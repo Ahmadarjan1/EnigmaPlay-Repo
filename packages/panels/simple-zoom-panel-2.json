@@ -1,0 +1,32 @@
+{
+  "id": "simple-zoom-panel-2",
+  "name": "Simple-zoom-panel",
+  "category": "panels",
+  "version": "latest",
+  "updated": "2026-10-09",
+  "description": "بانل تسطيب اضافات",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-panels.png",
+  "screenshots": [
+    "screenshots/category-panels/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "url": "https://raw.githubusercontent.com/Belfagor2005/SimpleZooomPanel/main/installer.sh",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "latest"
+    }
+  ],
+  "batch": "bulk1",
+  "subcategory": "Pan"
+}

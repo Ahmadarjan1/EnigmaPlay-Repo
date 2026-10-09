@@ -1,0 +1,34 @@
+{
+  "id": "zouplayer",
+  "name": "Zouplayer",
+  "category": "iptv",
+  "version": "1.1",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: ZouPlayer v.1.1 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-iptv.png",
+  "screenshots": [
+    "screenshots/category-iptv/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · ZouPlayer v.1.1 all"
+    }
+  ],
+  "subcategory": "Ipt",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

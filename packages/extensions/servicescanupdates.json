@@ -1,0 +1,39 @@
+{
+  "id": "servicescanupdates",
+  "name": "Servicescanupdates",
+  "category": "extensions",
+  "version": "1.3.2",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Service Scan Updates v.1.3.2 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-extensions.png",
+  "screenshots": [
+    "screenshots/category-extensions/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.ipk",
+      "sha256": "skip"
+    },
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.deb",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · Service Scan Updates v.1.3.2 all"
+    }
+  ],
+  "subcategory": "Sys",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

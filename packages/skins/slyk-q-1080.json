@@ -1,0 +1,33 @@
+{
+  "id": "slyk-q-1080",
+  "name": "Slyk-q-1080",
+  "category": "skins",
+  "version": "1.52.20250817",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Slyk Q 1080 r19 v.1.52.20250817 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-skins.png",
+  "screenshots": [
+    "screenshots/category-skins/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · FHD Slyk Q 1080 r19 v.1.52.20250817 all"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

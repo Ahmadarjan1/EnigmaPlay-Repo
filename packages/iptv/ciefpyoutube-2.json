@@ -1,0 +1,34 @@
+{
+  "id": "ciefpyoutube-2",
+  "name": "Ciefpyoutube",
+  "category": "iptv",
+  "version": "1.2",
+  "updated": "2026-10-09",
+  "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-iptv.png",
+  "screenshots": [
+    "screenshots/category-iptv/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "url": "https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: المطوّر ciefp"
+    }
+  ],
+  "subcategory": "Ipt",
+  "author": "ciefp",
+  "homepage": "https://github.com/ciefp/CiefpYouTube",
+  "batch": "dev-source"
+}

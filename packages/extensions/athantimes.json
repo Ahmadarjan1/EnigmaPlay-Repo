@@ -1,0 +1,34 @@
+{
+  "id": "athantimes",
+  "name": "Athantimes",
+  "category": "extensions",
+  "version": "3.9",
+  "updated": "2026-10-09",
+  "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-extensions.png",
+  "screenshots": [
+    "screenshots/category-extensions/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "url": "https://raw.githubusercontent.com/biko-73/AthanTimes/main/installer.sh",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: المطوّر biko-73"
+    }
+  ],
+  "subcategory": "Qur",
+  "author": "biko-73",
+  "homepage": "https://github.com/biko-73/AthanTimes",
+  "batch": "dev-source"
+}

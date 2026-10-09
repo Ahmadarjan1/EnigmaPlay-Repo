@@ -1,0 +1,33 @@
+{
+  "id": "oscamicamall",
+  "name": "Oscamicamall",
+  "category": "softcams",
+  "version": "10.0",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Oscam IcamEmu v.10.0.Update-no-Kitte888 all ipk",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-softcams.png",
+  "screenshots": [
+    "screenshots/category-softcams/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · Oscam IcamEmu v.10.0.Update-no-Kitte888 all ipk"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

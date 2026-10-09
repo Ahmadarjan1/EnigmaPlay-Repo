@@ -1,0 +1,33 @@
+{
+  "id": "metrixfhd-neo",
+  "name": "Metrixfhd-neo",
+  "category": "skins",
+  "version": "7.5.6",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Metrix Neo v13 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-skins.png",
+  "screenshots": [
+    "screenshots/category-skins/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · FHD Metrix Neo v13 all"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

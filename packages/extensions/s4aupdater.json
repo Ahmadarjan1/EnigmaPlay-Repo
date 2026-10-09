@@ -1,0 +1,39 @@
+{
+  "id": "s4aupdater",
+  "name": "S4aupdater",
+  "category": "extensions",
+  "version": "23.04.05.1156",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: S4aupdater 23.04.05.1156 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-extensions.png",
+  "screenshots": [
+    "screenshots/category-extensions/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb",
+      "sha256": "skip"
+    },
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · S4aupdater 23.04.05.1156 all"
+    }
+  ],
+  "subcategory": "Pan",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

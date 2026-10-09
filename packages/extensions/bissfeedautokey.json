@@ -1,0 +1,39 @@
+{
+  "id": "bissfeedautokey",
+  "name": "Bissfeedautokey",
+  "category": "extensions",
+  "version": "2.8.0",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: BissFeedAutoKey Plugin v.2.8.0 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-extensions.png",
+  "screenshots": [
+    "screenshots/category-extensions/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb",
+      "sha256": "skip"
+    },
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · BissFeedAutoKey Plugin v.2.8.0 all"
+    }
+  ],
+  "subcategory": "Enc",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

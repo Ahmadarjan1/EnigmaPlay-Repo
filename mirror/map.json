@@ -1,0 +1,2513 @@
+{
+"generated": "2026-10-09 21:18 UTC",
+"items": {
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "FHD Metrix Neo 7S v.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novaler-s-fhd-green_4.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novax-fhd_2.1_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "FHD Novax v.2.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-novax-fhd_2.0_all.ipk"
+},
+{
+"name": "FHD Novax v.2.0 all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9737a4c1cd8cbb0c70acf23ffd4432e712fc1f09"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-black_3.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "HD Line Super 1.2 Sami-Noor all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super_1.2-sami-noor_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.21_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/84a86524a4c11344790e5004aba87fa169d35d01"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "FHD Aglare pli v.5.5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "FHD Malek v.2.3 py3 11.2",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Auto-dcw-key-add v.1.0.7 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.deb"
+},
+{
+"name": "Auto-dcw-key-add v.1.0.7 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/97bb100360d6d915cd72224fe49c170d58e12dde"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "BissFeedAutoKey Plugin v.2.8.0 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb"
+},
+{
+"name": "Bissfeed autokey py2 V2.8 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk"
+},
+{
+"name": "BissFeedAutoKey Plugin v.2.8.0 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8997aa3ad429cdc37f9572c43c612bd49904a331"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-dreamosatxline_1.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Levi45 freeserver v.2.6 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb"
+},
+{
+"name": "Levi45 freeserver -py2 1.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.ipk"
+},
+{
+"name": "Levi45 freeserver v.2.6 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/900ca13fe8d33ea24659c4b150de6b8fa805215d"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Skin e2sentials v.1.05.20251116 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Skin e2sentials v.1.05.20251116 DREAMOS DEB",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.deb"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Screen Names v.1.07.20250608 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.07.20250608_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.07.20250608_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Screen Names v.1.06.20240825",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-screennames_1.06.20240825_all.deb"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12.20260123_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Visual Weather v.1.12_20260123",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12_20260123_all.deb"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12_20260123_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Visual Weather v.1.12.20260123 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-visualweather_1.12.20260123_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-acherone_1.4_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uconverter_3.3_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.5_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Ansite v.1.5 PY3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-ansite_1.5.py3_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.3_r1_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Astronomy v.1.3 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-astronomy_1.3_all.deb"
+},
+{
+"name": "Astronomy v.1.3 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/87fb32d42722ea8cbd2aa7ee4f4f3f09c727b6e3"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupflashe_9.5_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Backupflashe v.9.5 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupflashe_9.5_all.deb"
+},
+{
+"name": "Backupflashe v.9.5 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7593e390e27db9270ea03fb956076f7205b23d82"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupsuite_3.0-r11_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_1.0_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Plugin Skin Mover v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginskinmover_1.0_all.deb"
+},
+{
+"name": "Plugin Skin Mover v.1.0 (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2dc9116da7eb97946d72e26199d16c0feb740d4b"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.9_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncamstatus_3.2_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Oscam Status 6.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk"
+},
+{
+"name": "Oscam Status 1.3.3 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.3_all.deb"
+},
+{
+"name": "Oscam Status 1.3.3 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7890a41eadcc905a31fdb2c0cc4dbc524987d020"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgplugin_v23.7_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Epggrabber v.22.5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epggrabber_22.5_all.ipk"
+},
+{
+"name": "Epg Grabber v.22.5 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb"
+},
+{
+"name": "Epg Grabber v.22.5 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2af809e97ab38ad652c8ed138d9a63fa23dd5b0b"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgtranslator_git3300+4a35314-r0_PY3.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-imdb_2.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-xtraevent_v7.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-schiffe_7.1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-sudoku_7.1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_game/enigma2-plugin-extensions-tetris_7.1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "E2m3u2bouquet v.2.0.12 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.deb"
+},
+{
+"name": "E2m3u2bouquet v.2.0.12 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4f9b8323d0f76e37c9ff827438c7ab4ce78831b2"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Iptv Archive v.2.0.91 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb"
+},
+{
+"name": "Iptv Archive v.2.0.91 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4b94bc316b7edc435ee8e7efe8ac10468abf2da8"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Iptv Dream v.6.0.4 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvdream_6.0.4_all_dreamos.deb"
+},
+{
+"name": "Iptv Dream v.6.0.4 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/dee8c331383e837d8f8e081b3f4c5cfbbf874ccc"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.3_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Multistalker v.1.0 PY3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk"
+},
+{
+"name": "Multistalker v.1.4 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"
+},
+{
+"name": "Multistalker v.1.4 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2dff5103d5d1a5011bdf493458b0258491f79567"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-rakutentv_20240324_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Samsung Tv Plus 20250815 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20250815_all.deb"
+},
+{
+"name": "Samsung Tv Plus 20250815 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8efe1ecf287f02a67b1dbe7367dc5511e9013327"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-egamiboot_10.6+git36161+df20ccb0+df20ccb7f0-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multiboot-flashonline_7.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multibootselector_1.14-r0_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Multiboot Selector v.1.14-r0 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multibootselector_1.14-r0_all.deb"
+},
+{
+"name": "Multiboot Selector v.1.14-r0 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4c13430330fa9c55d3c2a934c8608392fb46f76d"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-duo4k_5.3_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Neoboot v.9.69 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-neoboot_9.69_all.deb"
+},
+{
+"name": "Neoboot v.9.69 vip all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot_9.69_all.ipk"
+},
+{
+"name": "Neoboot v.9.69 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/948e3d2a83ed8e1f3e03ffbd084e7941b0db59ce"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-neoboot-e2turk_3.9.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_12_20_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-magicpanel_v5_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-novacampro-py3.9_3.0-r0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "S4aupdater 23.04.05.1156 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"
+},
+{
+"name": "S4aupdater 23.12.27.1727 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"
+},
+{
+"name": "S4aupdater 23.04.05.1156 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7c1e8a35347d996914c38e90e50e6a78e3e3ec89"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Servicescanupdates v.1.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.ipk"
+},
+{
+"name": "Service Scan update v.1.3.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.deb"
+},
+{
+"name": "Servicescanupdates v.1.2 all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/24e318728637ac804cbc377cdbe353d57f15e97f"
+},
+{
+"name": "Service Scan update v.1.3.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-5/56f4f23fefd4bc79f6a3b8058d3ca7c0e4f31628"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-gioppygio_12.2_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ts-sateditor_4.4_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Ts-sateditor v.4.4 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ts-sateditor_4.4_all.deb"
+},
+{
+"name": "Ts-sateditor v.4.4 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/831a78512571a7c430851cffb871c64c3302fac9"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4799ac6b917d748dd4cf1c2a4be59695da1e67d5"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/feeds-finder_20191220-V1.0-momi133-OE2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Feeds Finder 20201016 v.1.6 momi133 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb"
+},
+{
+"name": "Feedsfinder PY3 v.3.1 Mod. Bahaa all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-feedsfinder_PY3_v3.1_Mod_BY_Bahaa_all.ipk"
+},
+{
+"name": "Feeds Finder 20201016 v.1.6 momi133 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/75afd382d32c4e70fce8b5ec7a43d689849fe50d"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Levi45 settings_2.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Levi45 settings v.2.3 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45-settings_2.3_all.deb"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-aisubtitlehybrid_v2.5_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-aisubtitles_v2.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-bitrate_2.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-bootlogoswapper_v2.4_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-boxtools_1.7_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cacheflush_2.2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "CacheFlush v.2.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.2_all.deb"
+},
+{
+"name": "CacheFlush v.2.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3d9530bb6fdb292d2077c7f9565befbc0c9ee547"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-calculatore2_v1.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cutsclear_1.2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Cutsclear-1.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cutsclear_1.2_all.deb"
+},
+{
+"name": "Cutsclear-1.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/e10653570da4d04287c6885828c43432d6074fba"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-dreamexplorer_7.7_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Uninstaller-iet-1.0_all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.deb"
+},
+{
+"name": "Uninstaller-iet-1.0_all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a852f0e7ec117a6623b7eaa13aa87073fded072e"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-filecommander_2.14_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_5.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-historyzap_1.0.44_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-internet-speedtest_1.8_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newpermanentclock_1.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-opkg-tools_1.4_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Quarterpounder v.6.2.0.20201122 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"
+},
+{
+"name": "Quarterpounder v.6.2.0.20201122 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a6cb56c12bba76db35d1b4f668e251f38a5ee42b"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_3.2_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "ScreenGrabber mod by Lululla v.3.1 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-screengrabber_3.1_all.deb"
+},
+{
+"name": "ScreenGrabber mod by Lululla v.3.1 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/dee048d3d5a70d71280bb1e538750e9ec1ef9c2d"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-shootyourscreen_0.3_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-showclock_0.9_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupportpro_1.4_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Subs Support Pro by Odem2014 v.1.4",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupportpro_1.4_all.deb"
+},
+{
+"name": "Subs Support Pro by Odem2014 v.1.4 (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a345890e6866f11d836dce66644ccea69c104b06"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-suptv_4.4_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "The Xmlupdate v.5.1.4 Mod. by iet5 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.deb"
+},
+{
+"name": "The Xmlupdate v.5.1.4 Mod. by iet5 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/fddb5cb0224715c9057c0b838c4a323e8837dc7a"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-zaptimer_1.0_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Oaweatheriet-1.4B_all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.deb"
+},
+{
+"name": "Oaweatheriet-1.4B_all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60c52fe079f6e1ffd5f0e9e254d787a6bd4057c6"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_5.8_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "The Weather v.5.8 Mod. by iet5 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_5.8_all.deb"
+},
+{
+"name": "The Weather v.5.8 Mod. by iet5 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/11d727d622e492c8a5dc5472523ef6bc1396ace8"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk": {
+"alive": true,
+"alt": [
+{
+"name": "Weather Msn v.0.8 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weather_msn_0.8-r1_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_youtube/enigma2-plugin-extensions-quran-karim_2.1_all.ipk": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/bissfeed-autokey_20201016_V2.8_momi133-OE2.5.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Bissfeed autokey py3 2.8 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-bissfeed-autokey-py3_2.8_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8997aa3ad429cdc37f9572c43c612bd49904a331"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Service Scan Updates v.1.3.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ServiceScanUpdates_1.3.2_all.ipk"
+},
+{
+"name": "Servicescan update v.1.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-servicescanupdates_1.2_all.deb"
+},
+{
+"name": "Servicescan update v.1.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/094143f2b41ab3e34dcddd2a2d42388c4a025e7a"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-5/56f4f23fefd4bc79f6a3b8058d3ca7c0e4f31628"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.deb": {
+"alive": true,
+"alt": [],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/c9b19f026e0a3895f75e16de7aeb2bb0c95b1a9e"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-astronomy_1.3_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Astronomy v.1.3_r1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/other/enigma2-plugin-extensions-astronomy_1.3_r1_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/87fb32d42722ea8cbd2aa7ee4f4f3f09c727b6e3"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Auto-dcw-key-add_v1.0.7 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-auto-dcw-key-add_v1.0.7_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/97bb100360d6d915cd72224fe49c170d58e12dde"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-backupflashe_9.5_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Backupflashe v.9.5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-backupflashe_9.5_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7593e390e27db9270ea03fb956076f7205b23d82"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cacheflush_2.2_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Cache Flush v.2.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cacheflush_2.2_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3d9530bb6fdb292d2077c7f9565befbc0c9ee547"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cutsclear_1.2_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Cutsclear iet-1.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-cutsclear_1.2_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/e10653570da4d04287c6885828c43432d6074fba"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb": {
+"alive": true,
+"alt": [],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/ae9a138806a7f1c3e9e77abdbfa89f309c1fe2c9"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "E2m3u2bouquet v.2.0.12 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4f9b8323d0f76e37c9ff827438c7ab4ce78831b2"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Uninstaller iet-1.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a852f0e7ec117a6623b7eaa13aa87073fded072e"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epggrabber_22.5_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Epggrabber v.23.7 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgplugin_v23.7_all.ipk"
+},
+{
+"name": "EPG Grabber v.99.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_99.2_all.deb"
+},
+{
+"name": "EPG Grabber v.99.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/b68c750c899c482921edf6fa242dc629f010cc0f"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2af809e97ab38ad652c8ed138d9a63fa23dd5b0b"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-historyzap_1.0.44_all.deb": {
+"alive": true,
+"alt": [],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/996cf37fd83ffb9dd0343c063f1f7401db48f42e"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Iptv Archive v.2.0.91 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4b94bc316b7edc435ee8e7efe8ac10468abf2da8"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvdream_6.0.4_all_dreamos.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Iptvdream v.6.6.7 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/dee8c331383e837d8f8e081b3f4c5cfbbf874ccc"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Levi45 freeserver py2 v.1.4 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.deb"
+},
+{
+"name": "Levi45 freeserver 2.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk"
+},
+{
+"name": "Levi45 freeserver py2 v.1.4 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7fa5d748b62f53a34863081c8fe1924c41a94b40"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/900ca13fe8d33ea24659c4b150de6b8fa805215d"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45iptv_1.3_all.deb": {
+"alive": true,
+"alt": [],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/69d9b5f9e1af348c39e9677bac20ff7d15c533d7"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multibootselector_1.14-r0_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Multiboot Selector v.1.14-r0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-multibootselector_1.14-r0_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4c13430330fa9c55d3c2a934c8608392fb46f76d"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Multistalker v.1.5a PY3.10 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2dff5103d5d1a5011bdf493458b0258491f79567"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "OaWeather-iet v.1.4B all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60c52fe079f6e1ffd5f0e9e254d787a6bd4057c6"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.3_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Oscam Status 6.5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7890a41eadcc905a31fdb2c0cc4dbc524987d020"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-pluginskinmover_1.0_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Plugin Skin Mover 1.0",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_backup/enigma2-plugin-extensions-pluginskinmover_1.0_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2dc9116da7eb97946d72e26199d16c0feb740d4b"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Quarter Pounder 6.2.0m all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a6cb56c12bba76db35d1b4f668e251f38a5ee42b"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "S4aupdater 23.05.16 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7c1e8a35347d996914c38e90e50e6a78e3e3ec89"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20250815_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Samsung Tv Plus 20250815 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8efe1ecf287f02a67b1dbe7367dc5511e9013327"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-screengrabber_3.1_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "ScreenGrabber mod by Lululla v.3.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-screengrabber_3.2_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/dee048d3d5a70d71280bb1e538750e9ec1ef9c2d"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupportpro_1.4_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Subs Support Pro 1.4 by Odem2014 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupportpro_1.4_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a345890e6866f11d836dce66644ccea69c104b06"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweatheriet5_5.8_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "The Weather v.5.8 Mod. by iet5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-theweatheriet5_5.8_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/11d727d622e492c8a5dc5472523ef6bc1396ace8"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ts-sateditor_4.4_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Ts Sateditor v. 4.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-ts-sateditor_4.4_all.ipk"
+},
+{
+"name": "Ts Sateditor v. 4.4 all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4799ac6b917d748dd4cf1c2a4be59695da1e67d5"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/831a78512571a7c430851cffb871c64c3302fac9"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Xmlupdate by iet5 v.1.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-xmlupdatebyiet5_1.4_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/fddb5cb0224715c9057c0b838c4a323e8837dc7a"
+},
+"https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/feeds-finder_20201016_V1.6_momi133-OE2.5.deb": {
+"alive": true,
+"alt": [
+{
+"name": "Feeds finder 20191220 V1.0 momi133 OE 2.0 All mips",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/feeds-finder_20191220-V1.0-momi133-OE2_all.ipk"
+}
+],
+"mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/75afd382d32c4e70fce8b5ec7a43d689849fe50d"
+},
+"https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanel/emilpanel.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Emil Panel v.1.6",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-emilpanel_v1.6_all.ipk"
+}
+],
+"mirror": null
+},
+"https://github.com/emilnabil/download-plugins/raw/refs/heads/main/EmilPanelPro/emilpanelpro.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://github.com/emilnabil/download-plugins/raw/refs/heads/main/corvoboys-panel/corvoboys-panel.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/ForecaOne/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/LinuxsatPanel/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Linuxsat-Panel v.3.0.6 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_3.0.6_all.deb"
+},
+{
+"name": "Linuxsat-Panel v.3.0.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.6_all.ipk"
+},
+{
+"name": "Linuxsat-Panel v.3.0.6 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/11ef2f2c8ce4cec4ac9aa604f1363a75bf904831"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/SimpleZooomPanel/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/WiFi-Manager/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "WiFi Manager v.1.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.4_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/tvManager/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Belfagor2005/tvPanel/main/installer.sh": {
+"alive": false,
+"alt": [],
+"dead_since": "2026-10-09",
+"mirror": null
+},
+"https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OliOli2013/PanelAIO-Plugin/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Panelaio v.16.0.0-r2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-panelaio_16.0.0-r2_all.deb"
+},
+{
+"name": "Panel AIO v.16.0.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_16.0.0_all.ipk"
+},
+{
+"name": "Panelaio v.16.0.0-r2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/98410078d26bfdca511a2f1b93abcb6c5134c500"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/Calendar/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Calendar Planner v.2.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-calendar_2.1_all.ipk"
+},
+{
+"name": "Calendar",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/Calendar/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/Ciplushelper/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Ciplus helper Merged Lululla v.7.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_7.0_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/CommandCenter/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Command Center v.1.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-commandcenter_1.4_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/CrashlogViewer/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "CrashLogViewer v.2.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-crashlogviewer_2.0_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/Filmon/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "FilmOn v.2.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.6_all.ipk"
+},
+{
+"name": "FilmOn v.2.6",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.6_all.deb"
+},
+{
+"name": "Filmon",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/Filmon/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/HasBahCa/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "HasBahCa v.2.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.3_all.ipk"
+},
+{
+"name": "HasBahCa v.2.3",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hasbahca_2.3_all.deb"
+},
+{
+"name": "HasBahCa",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/HasBahCa/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/Horoscope/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Horoscope Gloabal Int v.1.2",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-horoscope_1.2_all.ipk"
+},
+{
+"name": "Horoscope",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/Horoscope/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/MovieBrowser/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Movie Browser v.4.1 edit Lululla all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.1_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/SLwebcams/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "SLWebcam 1.0.3 Mod Lululla",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-slwebcams_1.0.3_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/StalkerPortalConverter/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Stalker Portal Converter v.1.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stalkerportalconverter_1.6_all.ipk"
+},
+{
+"name": "Stalker Portal Converter",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/StalkerPortalConverter/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/TVGarden/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "TVGarden v.2.9 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_2.9_all.ipk"
+},
+{
+"name": "TVGarden",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/TVGarden/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/WorldCam/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "World Cam v.7.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.1_all.ipk"
+},
+{
+"name": "World Cam v.7.1",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.1_all.deb"
+},
+{
+"name": "Worldcam",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/WorldCam/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/apod/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Apod Picture of the Day v.2.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.ipk"
+},
+{
+"name": "Apod Picture of the Day v.2.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.deb"
+},
+{
+"name": "Apod",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/apod/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/freearhey/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Freearhey v.3.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.2_all.ipk"
+},
+{
+"name": "Freearhey v.3.2",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-freearhey_3.2_all.deb"
+},
+{
+"name": "Freearhey",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/freearhey/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/mmPicons/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "mmPicons v.1.6 mMark all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.6_all.ipk"
+},
+{
+"name": "mmPicons v.1.6 mMark",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.6_all.deb"
+},
+{
+"name": "mmPicons",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/mmPicons/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/revolutionpro/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "FHD Revolution Pro Full HDF V7.3 by Dragon all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_HDF/enigma2-plugin-skins-revolution-pro_full.HDF.V7.3.dragon_all.ipk"
+},
+{
+"name": "FHD Revolution Pro Full HDF V7.3 by Dragon all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/184c24bc275308e1803f7513a9298c145cf28093"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/scsearch/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Scsearch v.1.30.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.ipk"
+},
+{
+"name": "Scsearch v.1.30.1 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/tvManager/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Softcam Manager v.3.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.ipk"
+},
+{
+"name": "Softcam Manager v.3.4",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/OwnerPlugins/vavoo/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Vavoo Stream online v.1.88 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.88_all.ipk"
+},
+{
+"name": "Vavoo",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/vavoo/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/Sat-Club/ONEupdaterE2/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/AthanTimes/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Athantimes v.2.9 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Athantimes_2.9_PY3-PY2.ipk"
+},
+{
+"name": "Athantimes v.2.9 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.9_DreamOS.deb"
+},
+{
+"name": "Athantimes v.2.9 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/f84e74a7cf808ac0cba3813c857ce16ce29658f0"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/BarryAllen/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Barryallen v.14.4 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/barryallen_14.4_all.deb"
+},
+{
+"name": "Barryallen v.11.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-barryallen_11.3_all.ipk"
+},
+{
+"name": "Barryallen v.14.4 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/b75adeffb9331c3033487510ada6731ca68d4b31"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/BouquetMakerXtream/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Bouquet Maker Xtream v.1.77.20260626 all all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.77.20260626_all.ipk"
+},
+{
+"name": "Bouquet Maker Xtream v.1.77.20260626 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-bouquetmakerxtream_1.77.20260626_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/Estalker/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "eStalker v.1.44.20260807 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-estalker_1.44.20260807_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/EvgQuickSignal/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Evg Quicksignal v.1.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-evgquicksignal_1.3_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/FootOnSat/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Footonsat v.1.9-r0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-footonsat_1.9-r0_all.deb"
+},
+{
+"name": "Footonsat 1.9-r0 MOHAMED_OS all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_sport/enigma2-plugin-extensions-footonsat_1.9-r0_all_MOHAMED_OS.ipk"
+},
+{
+"name": "Footonsat v.1.9-r0 (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9f02ee6547e4bdaaf450c30c6c2a16ac0c207892"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/JediMakerXtream/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Jedimakerxtream v.6.40_20250212 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40.20250212_all.ipk"
+},
+{
+"name": "Jedimakerxtream v.6.40_20250212 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jedimakerxtream_6.40_20250212_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/NitroAdvanceFHD/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/OAWeather/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "OaWeather v.4.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweather_4.1_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/Sherlockmod/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Sherlock mod 1.4.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-sherlockmod_1.4.1_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/SubsSupport/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Subs Support v.1.5.8-r55",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupport_1.5.8-r55_all.deb"
+},
+{
+"name": "Subs Support 1.7.0-r18-py3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupport_1.7.0-r18-py3_all.ipk"
+},
+{
+"name": "Subs Support v.1.5.8-r55 (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/d7bccbb7e08ec0130ed935ec97a9e23b8a84311b"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/TMBD/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "TMBD 8.6-r7 by Dima73 Mod.RAED Py3",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-TMBD_8.6-r7-by-Dima73-Mod-RAED_Py3.ipk"
+},
+{
+"name": "TMBD v.8.6-r5-by-Dima73-Mod-RAED",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/TMBD_8.6-r5-by-Dima73-Mod-RAED_DreamOS.deb"
+},
+{
+"name": "TMBD v.8.6-r5-by-Dima73-Mod-RAED (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/03eb3825f0d4dbf4b353d76dc4a58508fbb8fc2c"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/TheWeather/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "The Weather v.3.2 mod. Caught all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_3.2_all.deb"
+},
+{
+"name": "The Weather v.3.2 mod. Caught all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/284c249926cc269cafea60f79d5bc84db5b06caf"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/ip2sat/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/ipaudio/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Ipaudio v.6.5 all.deb",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ipaudio_6.5_all.deb"
+},
+{
+"name": "Ipaudio v.6.5 all.deb (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/70fec83f2d4fa30c7bde93cb4e93481763098625"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/jediepgxtream/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Jedi EPG Xtream v.2.12.20241030 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12.20241030_all.ipk"
+},
+{
+"name": "Jedi EPG Xtream v.2.12_20241030",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-jediepgxtream_2.12_20241030_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/openmultiboot/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "OpenPLI Multiboot v.2.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_multiboot/enigma2-plugin-extensions-openmultiboot_2.6_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/radiogit/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "RadioGit v.1.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.ipk"
+},
+{
+"name": "RadioGit v.1.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.deb"
+},
+{
+"name": "Radio Git",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/RadioGit/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/weatherplugin/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Weatherplugin v.2.0 mod lululla all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-weatherplugin_2.0_all.deb"
+},
+{
+"name": "Weather Plugin py3 v.7.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-weatherplugin-py3_7.0_all.ipk"
+},
+{
+"name": "Weatherplugin v.2.0 mod lululla all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9746a242d1200c7e06ff912d2d05d4510f7b0c5f"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/xklass/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "XKlass v.1.80.20260325 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80.20260325_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/biko-73/xstreamity/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "XStreamity v.5.62-20261007 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.62.20261007_all.ipk"
+},
+{
+"name": "XStreamity v.5.62-20261007 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.62_20261007_all.deb"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpBouquetUpdater/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpChannelManager/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpE2Converter/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpEPGshare/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpEasySetup/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpIPTVBouquets/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpKingSat/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpMojTvEPG/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpOpenDirectories/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpOpenSubtitles/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpOscamEditor/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpParabolaCZ/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpPicturePlayer/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpRottenTomatoes/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSRTplayer/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSatelliteAnalyzer/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSatelliteXmlEditor/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpScreenGrab/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSelectSatellite/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSettingsDownloader/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelay/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelayPY2/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertis/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTMDBSearch/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTvProgram/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTvProgramA1HR/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTvProgramSBB/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTvProgramSK/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpTvTodayDE/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpVibes/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpVideoPlayer/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpWhitelistStreamrelay/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/Ciefpe2editor/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "CiefpE2editor",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/ciefp/CiefpE2editor/main/installer.sh"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/TitloviBrowser/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/emilnabil/MultiStalkerPro/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Multistalker NSS v.1.1 PRO all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+nss_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/emilnabil/download-plugins/refs/heads/main/SmartAddonspanel/smart-Panel.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Smart Addons Panel v.5.0.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/emilnabil/ncam/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Ncam 15.8 r0 2ARM-RCH-MIPS 64",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.8-r0_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/emilnabil/oscam/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Oscam for All 1.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-oscamforall_1.2_all.deb"
+},
+{
+"name": "Oscam for All 1.2 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/870aece916c43dc6bf9613908831d0b68274c3a2"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/fairbird/ArabicSavior/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/fairbird/KeyAdder/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "New Virtual Keyboard 12.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-newvirtualkeyboard_v12.3_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/levi-45/Addon/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/levi-45/Levi45Emulator/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Levi45emulator v1.3 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.3_all.ipk"
+},
+{
+"name": "Levi45emulator 1.3 all  all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.3_all.deb"
+},
+{
+"name": "Levi45emulator 1.3 all  all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/ea8268584f605cbf6701b449ac5f5ba2a0b5b6c9"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/m4dhouse/Wireguard-Vpn/python-3.12/WireGuard.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Wireguard Vpn v.14.8 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_14.8_all.ipk"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/popking159/OrangeAudio/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/EPGImport/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "-Epg Import MOD LULULLA v.99.2 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_epg/enigma2-plugin-extensions-epgimport_99.2_all.ipk"
+},
+{
+"name": "EPGImport v.2.22.20210523 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-epgimport_2.22.20210523.deb"
+},
+{
+"name": "EPGImport 99",
+"type": "sh",
+"url": "https://raw.githubusercontent.com/Belfagor2005/EPGImport-99/main/installer_source.sh"
+},
+{
+"name": "EPGImport v.2.22.20210523 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8abd73d49c8d114b134faaff25d250af8171efb3"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/IPAudioPlus/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/MultiCamAdder/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/MultiIptvAdder/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/YouTube/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/iptosat/main/installer.sh": {
+"alive": true,
+"alt": [
+{
+"name": "Iptosat v.1.8 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptosat_1.8_all.ipk"
+},
+{
+"name": "Iptosat v.1.8 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"
+},
+{
+"name": "Iptosat v.1.8 all (mirror)",
+"type": "deb",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/942d85e7cfe7458ae74adb9784f2c3539cc72290"
+}
+],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/setpicon/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/tarek/df/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/tarekzoka/xcplugin/main/installer.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+},
+"https://raw.githubusercontent.com/wwwgoper77-wq/MohamedStore/main/install.sh": {
+"alive": true,
+"alt": [],
+"mirror": null
+}
+}
+}

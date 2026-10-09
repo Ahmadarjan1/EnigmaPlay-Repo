@@ -1,0 +1,14 @@
+[
+  {"id": "extensions", "name": "بلجنات", "order": 1, "color": "#01875f"},
+  {"id": "iptv", "name": "IPTV", "order": 2, "color": "#e91e63"},
+  {"id": "audio", "name": "AUDIO", "order": 3, "color": "#3949ab"},
+  {"id": "skins", "name": "سكنات", "order": 4, "color": "#1a73e8"},
+  {"id": "softcams", "name": "إيميوهات", "order": 5, "color": "#d93025"},
+  {"id": "panels", "name": "بانلات", "order": 6, "color": "#e37400"},
+  {"id": "picons", "name": "بيكونات", "order": 7, "color": "#8e24aa"},
+  {"id": "settings", "name": "ملفات قنوات", "order": 8, "color": "#00897b"},
+  {"id": "tools", "name": "أدوات وإصلاح", "order": 9, "color": "#b06000"},
+  {"id": "display", "name": "واجهات وإقلاع", "order": 10, "color": "#00838f"},
+  {"id": "feeds", "name": "فيدات", "order": 11, "color": "#689f38"},
+  {"id": "images", "name": "صور الأنظمة", "order": 12, "color": "#455a64"}
+]

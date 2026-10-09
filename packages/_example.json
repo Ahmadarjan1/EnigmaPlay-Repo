@@ -1,0 +1,42 @@
+{
+  "id": "my-plugin",
+  "name": "My Plugin",
+  "category": "extensions",
+  "subcategory": "Uti",
+  "version": "1.0.0",
+  "updated": "2026-10-08",
+  "description": "وصف قصير يظهر تحت اسم البلجن",
+  "author": "Ahmad",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/my-plugin.png",
+  "screenshots": [
+    "screenshots/my-plugin/1.png",
+    "screenshots/my-plugin/2.png",
+    "screenshots/my-plugin/3.png"
+  ],
+  "package": "enigma2-plugin-extensions-myplugin",
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/my-plugin-1.0.0/enigma2-plugin-extensions-myplugin_1.0.0_all.ipk"
+    },
+    {
+      "type": "deb",
+      "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/my-plugin-1.0.0/enigma2-plugin-extensions-myplugin_1.0.0_all.deb"
+    },
+    {
+      "type": "sh",
+      "file": "files/my-plugin/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-08",
+      "text": "1.0.0 - أول إصدار"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "ipaudioplus",
+  "name": "IPAudioPlus",
+  "category": "extensions",
+  "subcategory": "Aud",
+  "tags": [
+    "Spo"
+  ],
+  "version": "2.5.1 Beta",
+  "updated": "2026-10-04",
+  "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية للصورة والصوت",
+  "author": "Ahmad Alarjan",
+  "python": [
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/ipaudioplus.png",
+  "screenshots": [
+    "screenshots/ipaudioplus/1.jpg",
+    "screenshots/ipaudioplus/2.jpg",
+    "screenshots/ipaudioplus/3.jpg"
+  ],
+  "package": "enigma2-plugin-extensions-ipaudioplus",
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ipaudioplus/installer.sh",
+      "python": [
+        "3.9",
+        "3.11",
+        "3.12",
+        "3.13",
+        "3.14"
+      ]
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.11/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.11.ipk",
+      "python": "3.11",
+      "arch": "aarch64"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.11/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.11.ipk",
+      "python": "3.11",
+      "arch": "arm"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.11/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.11.ipk",
+      "python": "3.11",
+      "arch": "mipsel"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.12/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.12.ipk",
+      "python": "3.12",
+      "arch": "aarch64"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.12/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.12.ipk",
+      "python": "3.12",
+      "arch": "arm"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.12/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.12.ipk",
+      "python": "3.12",
+      "arch": "mipsel"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.13/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.13.ipk",
+      "python": "3.13",
+      "arch": "aarch64"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.13/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.13.ipk",
+      "python": "3.13",
+      "arch": "arm"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.13/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.13.ipk",
+      "python": "3.13",
+      "arch": "mipsel"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.14/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.14.ipk",
+      "python": "3.14",
+      "arch": "aarch64"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.14/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.14.ipk",
+      "python": "3.14",
+      "arch": "arm"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.9/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.9.ipk",
+      "python": "3.9",
+      "arch": "aarch64"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.9/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.9.ipk",
+      "python": "3.9",
+      "arch": "arm"
+    },
+    {
+      "type": "ipk",
+      "file": "files/ipaudioplus/v2.5.1/python3.9/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.9.ipk",
+      "python": "3.9",
+      "arch": "mipsel"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-04",
+      "text": "أوتو سنك v3.1: يقيس والمعلّق شغّال، يقرأ صوت الجمهور الضعيف، يتجاهل انقطاعات المعلّق، ولا يطبّق التطابق الضعيف إلا بعد قياسين متفقين"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "ينتظر استقرار المعلّق دقيقة بعد التشغيل قبل القياس"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "حارس انزياح الصورة: يرجّع الصورة لمكانها تلقائياً بعد قفزات الإشارة طوال المباراة"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "الزر الأخضر بعد التطبيق يعرض آخر قياس للتعديل اليدوي بدون قياس جديد"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "تعديل ثابت يُحفظ لكل قناة صوتية لوحدها (الزر الأزرق)"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "Live Info: القنوات والمعلّقين الحقيقيين من jdwel.com مع أعلام وشعارات الفرق وتحديث كل دقيقة"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "جدول المباريات (EPG) جنب كل قناة صوتية مع شريط تقدّم المباراة"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "مشغل الصوت ipa_core 1.0.6"
+    },
+    {
+      "date": "2026-10-04",
+      "text": "سكربت تثبيت جديد يعمل على كل الصور ولا يحذف النسخة القديمة إذا فشل التثبيت"
+    }
+  ]
+}

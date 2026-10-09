@@ -1,0 +1,92 @@
+name: Mirror download sources (backup)
+
+# Backs up the LinuxsatPanel packages as release assets and
+# writes mirror/map.json (fallback links used by build_index.py and the plugin).
+# Runs hourly, but does the heavy work only when an upload batch is pending or once a day.
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Run the full mirror now"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: mirror-sources
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decide
+        id: go
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os, datetime
+          run = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+          try:
+              st = json.load(open("mirror/state.json"))
+          except Exception:
+              st = {}
+          if st.get("pending_uploads"):
+              run = True
+          last = st.get("last_run")
+          if not last or datetime.datetime.utcnow() - datetime.datetime.strptime(last, "%Y-%m-%d %H:%M") > datetime.timedelta(hours=20):
+              run = True
+          print("run=%s" % ("1" if run else "0"))
+          PY
+      - name: Respect the hourly API budget
+        if: steps.go.outputs.run == '1'
+        run: |
+          python3 - <<'PY'
+          import json, datetime, time
+          try:
+              last = json.load(open("mirror/state.json")).get("last_run")
+              age = (datetime.datetime.utcnow() - datetime.datetime.strptime(last, "%Y-%m-%d %H:%M")).total_seconds()
+          except Exception:
+              age = 99999
+          wait = int(max(0, 3700 - age))
+          print("waiting %d s for the GitHub API budget" % wait)
+          time.sleep(min(wait, 3700))
+          PY
+      - name: Free disk space
+        if: steps.go.outputs.run == '1'
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL || true; df -h /
+      - name: Mirror + fallback map
+        if: steps.go.outputs.run == '1'
+        id: mirror
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 tools/mirror_sources.py --work "$RUNNER_TEMP/upstream" --revive
+      - name: Commit map / state
+        if: steps.go.outputs.run == '1'
+        run: |
+          git config user.name  "enigmaplay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mirror packages
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -qm "Mirror: update backup map (pending ${{ steps.mirror.outputs.pending }}, revived ${{ steps.mirror.outputs.revived }})"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep $((i * 10))
+          done
+          exit 1
+      - name: Rebuild the index
+        if: steps.go.outputs.run == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run build-index.yml --ref main || true
+      - name: Continue with the next batch
+        if: steps.go.outputs.run == '1' && steps.mirror.outputs.pending != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run mirror-sources.yml --ref main -f force=true || true

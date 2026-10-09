@@ -1,0 +1,33 @@
+{
+  "id": "oscam",
+  "name": "Oscam",
+  "category": "softcams",
+  "version": "11.708",
+  "updated": "2026-10-09",
+  "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-softcams.png",
+  "screenshots": [
+    "screenshots/category-softcams/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "url": "https://raw.githubusercontent.com/emilnabil/oscam/main/installer.sh",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: المطوّر emilnabil"
+    }
+  ],
+  "author": "emilnabil",
+  "homepage": "https://github.com/emilnabil/oscam",
+  "batch": "dev-source"
+}

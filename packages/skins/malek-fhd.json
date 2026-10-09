@@ -1,0 +1,33 @@
+{
+  "id": "malek-fhd",
+  "name": "Malek-fhd",
+  "category": "skins",
+  "version": "2.0",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Malek v.2.0 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-skins.png",
+  "screenshots": [
+    "screenshots/category-skins/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · FHD Malek v.2.0 all"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

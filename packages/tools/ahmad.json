@@ -1,0 +1,51 @@
+{
+  "id": "ahmad",
+  "name": "AjPanel",
+  "category": "tools",
+  "version": "10.8.6",
+  "description": "أداة إدارة شاملة (Swiss Army Knife) لأجهزة الاستقبال العاملة بنظام Enigma2، حيث يجمع معظم أدوات التحكم بالسوفتوير وإدارة النظام والملفات في واجهة رسومية واحدة تغني المستخدم والمطور عن فتح جلسات Telnet/SSH الخارجية",
+  "i18n": {
+    "en": {
+      "description": "\"A comprehensive 'Swiss Army Knife' utility for Enigma2-based set-top boxes, integrating essential software controls, system tools, and file management into a unified GUI so users and developers don't need external Telnet/SSH sessions.\""
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "package": "enigma2-plugin-tools-ahmad",
+  "author": "biko-73",
+  "icon": "icons/ahmad.png",
+  "screenshots": [
+    "screenshots/ahmad/1.jpg",
+    "screenshots/ahmad/2.jpg",
+    "screenshots/ahmad/3.jpg",
+    "screenshots/ahmad/4.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ahmad/10.8.6/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "الإصدار الأول في المتجر"
+    }
+  ],
+  "restart": true,
+  "updated": "2026-10-09",
+  "source": {
+    "repo": "biko-73/AjPanel",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "version",
+    "version_regex": "version\\s*=\\s*['\"]?([0-9][\\w.\\-]*)"
+  }
+}

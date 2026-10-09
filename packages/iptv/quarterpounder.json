@@ -1,0 +1,39 @@
+{
+  "id": "quarterpounder",
+  "name": "QuarterPounder",
+  "category": "iptv",
+  "version": "6.2.0.20201122",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Quarterpounder v.6.2.0.20201122 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-iptv.png",
+  "screenshots": [
+    "screenshots/category-iptv/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb",
+      "sha256": "skip"
+    },
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · Quarterpounder v.6.2.0.20201122 all"
+    }
+  ],
+  "subcategory": "Ipt",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

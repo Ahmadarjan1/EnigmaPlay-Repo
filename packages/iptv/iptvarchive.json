@@ -1,0 +1,39 @@
+{
+  "id": "iptvarchive",
+  "name": "Iptvarchive",
+  "category": "iptv",
+  "version": "2.0.91",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Iptv Archive v.2.0.91 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-iptv.png",
+  "screenshots": [
+    "screenshots/category-iptv/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk",
+      "sha256": "skip"
+    },
+    {
+      "type": "deb",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · Iptv Archive v.2.0.91 all"
+    }
+  ],
+  "subcategory": "Ipt",
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

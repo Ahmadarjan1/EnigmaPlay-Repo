@@ -1,0 +1,33 @@
+{
+  "id": "aglare-fhd",
+  "name": "Aglare-fhd",
+  "category": "skins",
+  "version": "8.5",
+  "updated": "2026-10-09",
+  "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare v.8.5 all",
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": false,
+  "icon": "icons/category-skins.png",
+  "screenshots": [
+    "screenshots/category-skins/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk",
+      "sha256": "skip"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-09",
+      "text": "المصدر: Linuxsat-support · FHD Aglare v.8.5 all"
+    }
+  ],
+  "author": "Lululla · Linuxsat-support",
+  "homepage": "https://www.linuxsat-support.com",
+  "batch": "linuxsat"
+}

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-09T22:58:14Z",
+ "generated": "2026-10-09T23:51:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -365,7 +365,13 @@
     },
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-alternativesoftcammanager_2-git46-a25a9b3-r0.0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/fe889ab5a22f53e976ece58e1391db8f03e4613b"
+      }
+     ]
     }
    ],
    "python": [
@@ -617,6 +623,10 @@
       {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/Athantimes_2.9_DreamOS.deb"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9c2621ce2ea4913e990dc12cf5199a2694d38dcf"
       },
       {
        "type": "deb",
@@ -1199,7 +1209,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.9_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-cccaminfo_1.9_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/afd877625dd1e9224a71988db874e20ee74bc98a"
+      }
+     ]
     }
    ],
    "python": [
@@ -2689,7 +2705,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-image-downloader_2.5_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/a5550cf8351d284f67eeccb9c4f7a1ae4c67d2dc"
+      }
+     ]
     }
    ],
    "python": [
@@ -3304,6 +3326,10 @@
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.3_all.deb"
       },
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/64144f7c9337835dc7dd4980409112fd5f27e1da"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/ea8268584f605cbf6701b449ac5f5ba2a0b5b6c9"
       }
@@ -3342,7 +3368,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.3_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-levi45iptv_1.3_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/f2dde64dd65eca6e8692299e23630a155576ac7a"
+      }
+     ]
     },
     {
      "type": "deb",
@@ -3537,7 +3569,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-magicpanel_v5_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-magicpanel_v5_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0d976104e5525bc7a23ef87016772b0ba8f69b85"
+      }
+     ]
     }
    ],
    "python": [
@@ -3572,7 +3610,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_12_20_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-missingpicons_2024_12_20_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3923073103a5371e292330cdcfb55ed5edf1dbe4"
+      }
+     ]
     }
    ],
    "python": [
@@ -3669,6 +3713,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.1_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9371773ebbe67c4b7a0bb5853e28d6cbdf4c8f5f"
       }
      ]
     }
@@ -3848,7 +3896,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncamstatus_3.2_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-ncamstatus_3.2_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/10fd89cdd49ed182e6c18ca48f4262bec3249c2d"
+      }
+     ]
     }
    ],
    "python": [
@@ -4067,7 +4121,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-novacampro-py3.9_3.0-r0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-novacampro-py3.9_3.0-r0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/74f32b344b8608d2fb2b1b2133d230e4c0ca692a"
+      }
+     ]
     }
    ],
    "python": [
@@ -4263,11 +4323,19 @@
      "mirrors": [
       {
        "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0893b9f02eea868a08ee46475901e7b7dee52a2a"
+      },
+      {
+       "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.4_all.ipk"
       },
       {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-oscamstatus_1.3.3_all.deb"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7eb8a88196afeea9e4c7893b795ba1ae7cb4c94e"
       },
       {
        "type": "deb",
@@ -4286,6 +4354,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/InfoCam/enigma2-plugin-extensions-oscamstatus_6.5_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0893b9f02eea868a08ee46475901e7b7dee52a2a"
       }
      ]
     }
@@ -4322,7 +4394,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_picon/enigma2-plugin-extensions-picon-buddy_1.1_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/bca37d793b17300bf030317a6c40543e4a3e724d"
+      }
+     ]
     }
    ],
    "python": [
@@ -4598,7 +4676,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-rakutentv_20240324_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-rakutentv_20240324_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3aefdb5fcffae355826ee82a0c676f5589313522"
+      }
+     ]
     }
    ],
    "python": [
@@ -4642,6 +4726,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0adc206c23d46db8864e6b660af6563cd1f7ce6f"
       }
      ]
     },
@@ -4649,6 +4737,10 @@
      "type": "ipk",
      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-s4aupdater_23.05.16.2143_all.ipk",
      "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0adc206c23d46db8864e6b660af6563cd1f7ce6f"
+      },
       {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-s4aupdater_23.04.05.1156_all.deb"
@@ -4703,6 +4795,10 @@
      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk",
      "mirrors": [
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/b337a19b32932a654984f9671e4d7c49058d5831"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-samsungtvplus_20250815_all.deb"
       },
@@ -4723,6 +4819,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-samsungtvplus_20250815_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/b337a19b32932a654984f9671e4d7c49058d5831"
       }
      ]
     }
@@ -5277,7 +5377,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/aada26952d07c1172a9e983d481d068b33efff44"
+      }
+     ]
     }
    ],
    "python": [
@@ -6104,6 +6210,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/vpn/enigma2-plugin-extensions-wireguard-vpn_14.8_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/aa4feb22757b7133f673f1d1e03cfe1fe3a194db"
       }
      ]
     }
@@ -6466,7 +6576,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/9bea55cf8a8cf81b86bdbf9893a327532af7d6f9"
+      }
+     ]
     }
    ],
    "python": [
@@ -6504,6 +6620,10 @@
      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk",
      "mirrors": [
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/72b5605da7c5761057239d525230dceea77653a2"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.deb"
       },
@@ -6524,6 +6644,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/72b5605da7c5761057239d525230dceea77653a2"
       }
      ]
     }
@@ -6605,7 +6729,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-estalkerwebcontrol_1.0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/ce93003ec1f03bc00d823f5e97a9d198a3b25591"
+      }
+     ]
     }
    ],
    "python": [
@@ -6640,7 +6770,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/c347749927c68f50612af6460956d86dde30a4bc"
+      }
+     ]
     }
    ],
    "python": [
@@ -6721,6 +6857,10 @@
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptosat_1.8.deb"
       },
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/78c2cd614a7de00f3a79507f49932ed98fb82207"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/942d85e7cfe7458ae74adb9784f2c3539cc72290"
       }
@@ -6762,6 +6902,10 @@
      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk",
      "mirrors": [
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/f5ce92b6c81958018a5bce45f14378073c454a6c"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb"
       },
@@ -6782,6 +6926,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-f/f5ce92b6c81958018a5bce45f14378073c454a6c"
       }
      ]
     }
@@ -6821,6 +6969,10 @@
      "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk",
      "mirrors": [
       {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/217c9aaea3f56e38d62c725300ffa9fb4d2590e1"
+      },
+      {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvdream_6.0.4_all_dreamos.deb"
       },
@@ -6841,6 +6993,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/217c9aaea3f56e38d62c725300ffa9fb4d2590e1"
       }
      ]
     }
@@ -7051,11 +7207,19 @@
      "mirrors": [
       {
        "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4632053af1f6e5eab1ae16ceb2af38c354e3af76"
+      },
+      {
+       "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro-py3_v1.0_all.ipk"
       },
       {
        "type": "deb",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-multistalker_1.4_all.deb"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-5/57c32ee08be132b4cad56bf2c89cbe3695a59633"
       },
       {
        "type": "deb",
@@ -7074,6 +7238,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalker_1.5a_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4632053af1f6e5eab1ae16ceb2af38c354e3af76"
       }
      ]
     }
@@ -7115,6 +7283,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-multi-stalkerpro_1.1+nss_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/ca500059beb0f9ef6e1da017bbb7eefdba9dd81d"
       }
      ]
     }
@@ -7435,7 +7607,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-ZouPlayer_1.1_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/02652c25d0753f79c40e32d6c4717ad21e84e6d6"
+      }
+     ]
     }
    ],
    "python": [
@@ -8992,6 +9170,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-emilpanel_v1.6_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/b2c4cc0eda957414774c06cb4c9082ebdd8f027b"
       }
      ]
     }
@@ -9063,7 +9245,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3928a22bb83cf3c8749bf0381488a21ee3edb125"
+      }
+     ]
     }
    ],
    "python": [
@@ -9181,6 +9369,10 @@
       {
        "type": "deb",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/11ef2f2c8ce4cec4ac9aa604f1363a75bf904831"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3c117c82a3dd395295765b0c2e322c6eabe46a63"
       }
      ]
     }
@@ -9335,6 +9527,10 @@
       {
        "type": "deb",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/98410078d26bfdca511a2f1b93abcb6c5134c500"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/670f112ece7302330a684850791f31eb124768a3"
       }
      ]
     }
@@ -9487,6 +9683,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-smartaddonspanel_v5.0.2_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/aada26952d07c1172a9e983d481d068b33efff44"
       }
      ]
     }
@@ -9615,7 +9815,15 @@
      "mirrors": [
       {
        "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2550447062244a255bae257410ab569042066e62"
+      },
+      {
+       "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_5.5_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/e3ddcbc7975f7afe2170baa583f7ae745ad48273"
       }
      ]
     }
@@ -9851,7 +10059,15 @@
      "mirrors": [
       {
        "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-0/0093dc72d6b2d6f29bf9e6dc3aa9aa4881f60d6e"
+      },
+      {
+       "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.3_py3.11.2.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/979a36466d4c2f94734a883b26f8048a87141845"
       }
      ]
     }
@@ -9923,7 +10139,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/46296cab9b4c5846a6e966bac36281facc7bb607"
+      }
+     ]
     }
    ],
    "python": [
@@ -10311,7 +10533,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/ec19fa1a23d32534d8af629787f686443c57259c"
+      }
+     ]
     }
    ],
    "python": [
@@ -10343,7 +10571,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/da6efb82a84e068bd32b2fa29d2c0ea94c4db6f8"
+      }
+     ]
     }
    ],
    "python": [
@@ -10380,6 +10614,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ncam_V15.8-r0_all.ipk"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/993feb10c20afa1738f70c79c1764fb94d3f6a78"
       }
      ]
     }
@@ -10455,7 +10693,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-8/8a66d19089cad385150d53769ece51f0ab8b63fc"
+      }
+     ]
     }
    ],
    "python": [
@@ -10487,7 +10731,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-b/bc9fea71b16cfb7d7f0f6f76401d3e6a3d3d22c5"
+      }
+     ]
     }
    ],
    "python": [
@@ -10519,7 +10769,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-1/1abce270550664f683a655ea1fa3c87b873c6363"
+      }
+     ]
     }
    ],
    "python": [
@@ -10551,7 +10807,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-a/af1d1ee6d0086e187e29ece63017cb168a7931c3"
+      }
+     ]
     }
    ],
    "python": [
@@ -10583,7 +10845,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/4774ca7e99825044abc062691c176da5d52e055b"
+      }
+     ]
     }
    ],
    "python": [
@@ -10615,7 +10883,13 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk"
+     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-4/488d4f908f806bdf903c069d4b00894f3ebc6ae6"
+      }
+     ]
     }
    ],
    "python": [
@@ -10719,6 +10993,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "HS/buhL8OaJSFp+bV7UblkSLGZ+bRGoFAVZTRbON3W60hZcQAFTLHhBgNyyPWNH6aM0V+crrvYI0W6Ylwnf/Bw=="
+  "sig": "BxLm4A3zJ6/SqJejgjGa4gVodrAP2jTfne1isGSyF0yJehPWk5dNyG3yl6/4QpYkFpYQrndJo1DrT/mZ1Q7MAg=="
  }
 }

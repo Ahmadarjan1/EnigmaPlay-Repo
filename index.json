@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-09T22:36:11Z",
+ "generated": "2026-10-09T22:41:14Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -246,7 +246,8 @@
     "3"
    ],
    "author": "Lululla · Linuxsat-support",
-   "homepage": "https://www.linuxsat-support.com"
+   "homepage": "https://www.linuxsat-support.com",
+   "featured": true
   },
   {
    "id": "aisubtitles",
@@ -10717,6 +10718,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "kO3C3Cmkn3PFkyYzq10t7XB2P0cemc06QAzodbNw+oFls+05Mki4ExXPPnkUnX4Ft77nAJBQKa6GhICaclKRCA=="
+  "sig": "nd4PimuKZmtLhU//kgLsiw/lN25yiM4PimKyjJIvVtgCGNV8rInFb1H8De1C78TeCJsi1kMWmoyhcvzkVhNAAA=="
  }
 }

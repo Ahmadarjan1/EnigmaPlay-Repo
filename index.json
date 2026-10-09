@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-09T22:44:37Z",
+ "generated": "2026-10-09T22:58:14Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3075,7 +3075,8 @@
     "3"
    ],
    "package": "enigma2-plugin-extensions-ipaudioplus",
-   "author": "Ahmad Alarjan"
+   "author": "Ahmad Alarjan",
+   "featured": true
   },
   {
    "id": "ipaudioplus-1",
@@ -10718,6 +10719,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "J10y5PHEDklnqSwPOHdccoZ5KnzK/6VW/6A7cioDsfrV9l72pabkQ17RoKDAH9ERWXwrKZMDtG614wL0+DbICg=="
+  "sig": "HS/buhL8OaJSFp+bV7UblkSLGZ+bRGoFAVZTRbON3W60hZcQAFTLHhBgNyyPWNH6aM0V+crrvYI0W6Ylwnf/Bw=="
  }
 }

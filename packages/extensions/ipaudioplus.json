@@ -6,19 +6,20 @@
   "tags": [
     "Spo"
   ],
-  "version": "2.5.1 Beta",
-  "updated": "2026-10-04",
-  "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية للصورة والصوت",
+  "version": "Beta 2.6.0",
+  "updated": "2026-10-10",
+  "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية دقيقة للصورة والصوت، وواجهة جديدة بالكامل",
   "author": "Ahmad Alarjan",
   "python": [
     "3"
   ],
-  "restart": false,
+  "restart": true,
   "icon": "icons/ipaudioplus.png",
   "screenshots": [
-    "screenshots/ipaudioplus/1.jpg",
-    "screenshots/ipaudioplus/2.jpg",
-    "screenshots/ipaudioplus/3.jpg"
+    "screenshots/ipaudioplus/1.png",
+    "screenshots/ipaudioplus/2.png",
+    "screenshots/ipaudioplus/3.png",
+    "screenshots/ipaudioplus/4.png"
   ],
   "package": "enigma2-plugin-extensions-ipaudioplus",
   "downloads": [
@@ -156,5 +157,22 @@
       "text": "سكربت تثبيت جديد يعمل على كل الصور ولا يحذف النسخة القديمة إذا فشل التثبيت"
     }
   ],
-  "featured": true
+  "featured": true,
+  "i18n": {
+    "en": {
+      "description": "Live match commentary audio with accurate automatic picture/audio sync and a completely new interface"
+    }
+  },
+  "source": {
+    "repo": "Ahmadarjan1/IPAudioPlus-Releases",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "version.json",
+    "version_regex": "\"version\"\\s*:\\s*\"([0-9][0-9.]*)\""
+  }
 }

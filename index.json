@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T19:28:37Z",
+ "generated": "2026-10-10T19:34:46Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3011,7 +3011,7 @@
      "سكربت تثبيت جديد يعمل على كل الصور ولا يحذف النسخة القديمة إذا فشل التثبيت"
     ]
    ],
-   "sha256": "723867d4e9a15d171f41d4630b571f5e3a524f17cea21db7b9b55d4abd002978",
+   "sha256": "5e9d35528f7363f74ecfbb80a08b33a177b954208d91cd8e30efea234260900c",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ipaudioplus.png?v=f84d78d04e",
    "screenshots": [
@@ -3024,13 +3024,13 @@
     {
      "type": "sh",
      "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ipaudioplus/2.6.0/installer.sh",
-     "sha256": "723867d4e9a15d171f41d4630b571f5e3a524f17cea21db7b9b55d4abd002978",
-     "size": 5110,
+     "sha256": "5e9d35528f7363f74ecfbb80a08b33a177b954208d91cd8e30efea234260900c",
+     "size": 5119,
      "mirrors": [
       {
        "type": "sh",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ipaudioplus/2.6.0/installer.sh",
-       "sha256": "723867d4e9a15d171f41d4630b571f5e3a524f17cea21db7b9b55d4abd002978"
+       "sha256": "5e9d35528f7363f74ecfbb80a08b33a177b954208d91cd8e30efea234260900c"
       }
      ]
     }
@@ -11528,6 +11528,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "UGhTDrm1+aLcsaCl7/CYRqbdobOUtm7PYhMkAnm7rC8C09sWLaubRS0HXil8o00U6Gegy4r0o4bBZjefesKGAw=="
+  "sig": "SIQJ2c2zRghP5zpnQrtWjVSC0hqdayCCUl4gRGAji6ZBXdA8ieCq+rSrSv2wz8sH18QlyjU8UgC5ZVZOh+UrDQ=="
  }
 }

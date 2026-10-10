@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T16:38:44Z",
+ "generated": "2026-10-10T16:59:31Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2030,7 +2030,10 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/e2tube.png?v=c05e69cb6b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/1.png?v=01b58acfca"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/1.png?v=52780c540e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/2.png?v=87025a3932",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/3.png?v=11490aabc3",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/4.png?v=7bccb0179c"
    ],
    "downloads": [
     {
@@ -2173,7 +2176,12 @@
     "3"
    ],
    "package": "enigma2-plugin-extensions-e2tube",
-   "author": "Ahmad Al-Arjan"
+   "author": "Ahmad Al-Arjan",
+   "i18n": {
+    "en": {
+     "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google."
+    }
+   }
   },
   {
    "id": "epggrabber",
@@ -11828,6 +11836,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "pMO+h2pLNhgfHg5W4QuAdS0UWvWv4v92YU9OkpKuXA8G/kTCBl0e2HBz1jrYMdRMYk9cYwzYZp9FTp/Mueu2BQ=="
+  "sig": "8Ysc+id5h16Xs3A/EmX8WFripVonTZu146aulU4JgMc0RGnkt7TqgfAHYXLbzQKBNDNhLHdBMZxlBf6IpaDxAQ=="
  }
 }

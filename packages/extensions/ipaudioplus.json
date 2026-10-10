@@ -6,7 +6,7 @@
   "tags": [
     "Spo"
   ],
-  "version": "Beta 2.6.0",
+  "version": "2.6.0",
   "updated": "2026-10-10",
   "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية دقيقة للصورة والصوت، وواجهة جديدة بالكامل",
   "author": "Ahmad Alarjan",
@@ -25,101 +25,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ipaudioplus/installer.sh",
-      "python": [
-        "3.9",
-        "3.11",
-        "3.12",
-        "3.13",
-        "3.14"
-      ]
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.11/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.11.ipk",
-      "python": "3.11",
-      "arch": "aarch64"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.11/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.11.ipk",
-      "python": "3.11",
-      "arch": "arm"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.11/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.11.ipk",
-      "python": "3.11",
-      "arch": "mipsel"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.12/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.12.ipk",
-      "python": "3.12",
-      "arch": "aarch64"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.12/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.12.ipk",
-      "python": "3.12",
-      "arch": "arm"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.12/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.12.ipk",
-      "python": "3.12",
-      "arch": "mipsel"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.13/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.13.ipk",
-      "python": "3.13",
-      "arch": "aarch64"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.13/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.13.ipk",
-      "python": "3.13",
-      "arch": "arm"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.13/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.13.ipk",
-      "python": "3.13",
-      "arch": "mipsel"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.14/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.14.ipk",
-      "python": "3.14",
-      "arch": "aarch64"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.14/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.14.ipk",
-      "python": "3.14",
-      "arch": "arm"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.9/aarch64/enigma2-plugin-extensions-ipaudioplus_2.5.1_aarch64_py3.9.ipk",
-      "python": "3.9",
-      "arch": "aarch64"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.9/arm/enigma2-plugin-extensions-ipaudioplus_2.5.1_arm_py3.9.ipk",
-      "python": "3.9",
-      "arch": "arm"
-    },
-    {
-      "type": "ipk",
-      "file": "files/ipaudioplus/v2.5.1/python3.9/mipsel/enigma2-plugin-extensions-ipaudioplus_2.5.1_mipsel_py3.9.ipk",
-      "python": "3.9",
-      "arch": "mipsel"
+      "file": "files/ipaudioplus/2.6.0/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.6.0 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/IPAudioPlus-Releases)"
+    },
     {
       "date": "2026-10-04",
       "text": "أوتو سنك v3.1: يقيس والمعلّق شغّال، يقرأ صوت الجمهور الضعيف، يتجاهل انقطاعات المعلّق، ولا يطبّق التطابق الضعيف إلا بعد قياسين متفقين"

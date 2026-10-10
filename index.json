@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T18:35:00Z",
+ "generated": "2026-10-10T19:28:37Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1757,15 +1757,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.40",
+   "version": "1.2.41",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "10.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.41/enigma2-plugin-extensions-enigmaplay_1.2.41_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "10.10.2026",
+     "1.2.41 - إصلاح إغلاق المتجر عند امتلاء ذاكرة الجهاز: الصور المؤقتة تنحفظ بالرام بدل الفلاش"
+    ],
     [
      "10.10.2026",
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
@@ -1841,109 +1845,9 @@
     [
      "09.10.2026",
      "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
-    ],
-    [
-     "09.10.2026",
-     "1.2.21 - نسيت كلمة المرور: تغييرها من نفس الرسيفر المربوط بحسابك"
-    ],
-    [
-     "09.10.2026",
-     "1.2.20 - حساب واحد لكل رسيفر (حماية الخادم من الحسابات الوهمية)"
-    ],
-    [
-     "09.10.2026",
-     "1.2.19 - مصادر احتياطية: إذا انحذف رابط البلجن عند المطوّر بيتثبت تلقائياً من النسخة الاحتياطية"
-    ],
-    [
-     "09.10.2026",
-     "1.2.18 - التثبيت والتحديث يتطلبان تسجيل الدخول (EnigmaPlay نفسه يتحدّث دائماً)"
-    ],
-    [
-     "09.10.2026",
-     "1.2.17 - إصلاح «تعذر تنزيل السكربت» على صور EGAMI وغيرها، ودعم روابط GitLab"
-    ],
-    [
-     "09.10.2026",
-     "1.2.16 - إصلاح توقف المتجر عند الفتح على صور EGAMI"
-    ],
-    [
-     "09.10.2026",
-     "1.2.15 - إخفاء سجل التثبيت من صفحة البلجن بعد انتهاء التثبيت"
-    ],
-    [
-     "09.10.2026",
-     "1.2.14 - متجر أسرع: فتح فوري من النسخة المحفوظة، تنزيل القائمة مضغوطاً، ولا يُعاد تنزيلها إن لم تتغير"
-    ],
-    [
-     "09.10.2026",
-     "1.2.13 - أقسام جديدة وتحميل أيقونات أخف (أيقونة مشتركة تُحمّل مرة واحدة)"
-    ],
-    [
-     "09.10.2026",
-     "1.2.12 - إزالة قسم «مصدر التثبيت» من صفحة البلجن"
-    ],
-    [
-     "09.10.2026",
-     "1.2.11 - إصلاح عدم التحميل على بعض الصور (تعارض أسماء الملفات مع بلجنات أخرى)"
-    ],
-    [
-     "09.10.2026",
-     "1.2.10 - إصلاح توقف البلجن عند فتح الإعدادات"
-    ],
-    [
-     "09.10.2026",
-     "1.2.9 - رسائل المتجر على الشاشة (يمكن إيقافها من الإعدادات)"
-    ],
-    [
-     "09.10.2026",
-     "1.2.8 - ترتيب البلجنات و«مختارات المتجر» من لوحة الإدارة"
-    ],
-    [
-     "08.10.2026",
-     "1.2.7 - إحصائيات استخدام مجهولة (مرة يومياً) لتحسين المتجر"
-    ],
-    [
-     "08.10.2026",
-     "1.2.6 - صورة شخصية للحساب (تُرفع من الجوال وتظهر على الرسيفر)"
-    ],
-    [
-     "08.10.2026",
-     "1.2.5 - حماية: قائمة المتجر موقّعة رقمياً (Ed25519)، والرسيفر يرفض أي قائمة معدّلة أو غير موقّعة"
-    ],
-    [
-     "08.10.2026",
-     "1.2.4 - التثبيت من الجوال: تصفّح المتجر من الجوال واضغط «ثبّت على الرسيفر»"
-    ],
-    [
-     "08.10.2026",
-     "1.2.3 - تقارير أعطال تلقائية للمطوّرين (يمكن إيقافها من الإعدادات)"
-    ],
-    [
-     "08.10.2026",
-     "1.2.2 - نسخ إعدادات البلجنات مع حسابك واستعادتها على أي صورة، إصلاح زر «فتح»"
-    ],
-    [
-     "08.10.2026",
-     "1.2.1 - تقييم البلجنات بالنجوم، عدد التنزيلات وقسم «الأكثر تحميلاً»، تنبيه بالتحديثات عند تشغيل الجهاز، EnigmaPlay في القائمة الرئيسية"
-    ],
-    [
-     "08.10.2026",
-     "1.2.0 - 21 لغة (مع تلقائي حسب لغة الجهاز) وواجهة تنقلب للغات اليسار، مظهر داكن (افتراضي) وفاتح، إصلاح كراش قائمة الحساب"
-    ],
-    [
-     "08.10.2026",
-     "1.1.0 - الإعدادات، زر الإزالة، سجل التثبيت، بلاجيناتي، تسجيل الدخول بالجوال (رمز + QR) والمزامنة واستعادة البلجنات"
-    ],
-    [
-     "08.10.2026",
-     "1.0.1 - التثبيت ينجح حتى لو اشتكى opkg من حزم أخرى معلّقة على الصورة"
-    ],
-    [
-     "08.10.2026",
-     "1.0.0 - أول إصدار: متجر من GitHub، حسابات ومزامنة، استعادة البلجنات، تحديث الكل، لقطات الشاشة"
     ]
    ],
-   "sha256": "0943bc6bdabe88cee3a129e8dfa578fa22887c03ff85e2c372958e9053878827",
+   "sha256": "cf9779e0da1864f7eb29c11801f80c0b55e16cc1c35c7558ee221840fdcbd404",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1955,27 +1859,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.ipk",
-     "sha256": "0943bc6bdabe88cee3a129e8dfa578fa22887c03ff85e2c372958e9053878827",
-     "size": 2112062,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.41/enigma2-plugin-extensions-enigmaplay_1.2.41_all.ipk",
+     "sha256": "cf9779e0da1864f7eb29c11801f80c0b55e16cc1c35c7558ee221840fdcbd404",
+     "size": 2112552,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.ipk",
-       "sha256": "0943bc6bdabe88cee3a129e8dfa578fa22887c03ff85e2c372958e9053878827"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.41/enigma2-plugin-extensions-enigmaplay_1.2.41_all.ipk",
+       "sha256": "cf9779e0da1864f7eb29c11801f80c0b55e16cc1c35c7558ee221840fdcbd404"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.deb",
-     "sha256": "00dfe3b8ae3245c2533c62191b588094facb0c4fe6422446dcb165f98bda5b05",
-     "size": 2112066,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.41/enigma2-plugin-extensions-enigmaplay_1.2.41_all.deb",
+     "sha256": "594b9264d67bcdeb2cc318d3663e868ada6959ab3c3f1705640f796cc241dc49",
+     "size": 2112556,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.deb",
-       "sha256": "00dfe3b8ae3245c2533c62191b588094facb0c4fe6422446dcb165f98bda5b05"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.41/enigma2-plugin-extensions-enigmaplay_1.2.41_all.deb",
+       "sha256": "594b9264d67bcdeb2cc318d3663e868ada6959ab3c3f1705640f796cc241dc49"
       }
      ]
     }
@@ -11624,6 +11528,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "0S5fuJJA170nYJakrwpgl/PNcEh7zOit3p4ZSDxL+k9qx8uaWSIf7UF0YEPrYMJN02hjZQRMhgozSuVSG8LyAg=="
+  "sig": "UGhTDrm1+aLcsaCl7/CYRqbdobOUtm7PYhMkAnm7rC8C09sWLaubRS0HXil8o00U6Gegy4r0o4bBZjefesKGAw=="
  }
 }

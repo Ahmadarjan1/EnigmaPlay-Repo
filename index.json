@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T10:55:36Z",
+ "generated": "2026-10-10T11:10:12Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1688,15 +1688,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.36",
+   "version": "1.2.37",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "10.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.36/enigma2-plugin-extensions-enigmaplay_1.2.36_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "10.10.2026",
+     "1.2.37 - بطاقات مميزة جديدة في الرئيسية بشكل جوجل بلاي"
+    ],
     [
      "10.10.2026",
      "1.2.36 - سؤال هل يعمل البلجن عندك، ونسبة نجاحه على صورتك، وإخفاء البلجنات المعطلة، وترجمة كاملة لكل اللغات"
@@ -1858,7 +1862,7 @@
      "1.0.0 - أول إصدار: متجر من GitHub، حسابات ومزامنة، استعادة البلجنات، تحديث الكل، لقطات الشاشة"
     ]
    ],
-   "sha256": "28d8994843ffc6fd422fff47fd97b7b7b6610b730d1f45648c766e3d4af4add4",
+   "sha256": "eb8488d6cb90c12c1df2b81cdb3b1bf66469cb61a9631a564e1b52882f67e675",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1869,27 +1873,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.36/enigma2-plugin-extensions-enigmaplay_1.2.36_all.ipk",
-     "sha256": "28d8994843ffc6fd422fff47fd97b7b7b6610b730d1f45648c766e3d4af4add4",
-     "size": 2104390,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.ipk",
+     "sha256": "eb8488d6cb90c12c1df2b81cdb3b1bf66469cb61a9631a564e1b52882f67e675",
+     "size": 2106024,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.36/enigma2-plugin-extensions-enigmaplay_1.2.36_all.ipk",
-       "sha256": "28d8994843ffc6fd422fff47fd97b7b7b6610b730d1f45648c766e3d4af4add4"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.ipk",
+       "sha256": "eb8488d6cb90c12c1df2b81cdb3b1bf66469cb61a9631a564e1b52882f67e675"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.36/enigma2-plugin-extensions-enigmaplay_1.2.36_all.deb",
-     "sha256": "b58cbc67c203f512509623899843a991d7d9c8096b1d657fe5efe256c6d5dd67",
-     "size": 2104394,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.deb",
+     "sha256": "feb103ca4efbf99aaafc11e000242a8d02a9eb08159c4fbf2fc3a8b79bb0cdc1",
+     "size": 2106028,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.36/enigma2-plugin-extensions-enigmaplay_1.2.36_all.deb",
-       "sha256": "b58cbc67c203f512509623899843a991d7d9c8096b1d657fe5efe256c6d5dd67"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.deb",
+       "sha256": "feb103ca4efbf99aaafc11e000242a8d02a9eb08159c4fbf2fc3a8b79bb0cdc1"
       }
      ]
     }
@@ -10966,6 +10970,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "y5r6qfS3nJrES3MJPmdyaxcTW9sbzAdbPXwepvSpwESwFx4aXQK5A5VWEY604M13UASlBLiSJ6pYe88KfSPJCg=="
+  "sig": "WsMgaJSu7uhInN9qTN/8ULTU4xxWMBI7muhHt8/vUSUIPIq6oOAK74rQ06vZjfGZV5Rlry9tEzbNcZgSY10SAw=="
  }
 }

@@ -2,7 +2,7 @@
   "id": "ciefptvprogram",
   "name": "CiefpTvProgram",
   "category": "panels",
-  "version": "1.1",
+  "version": "1.4",
   "updated": "2026-10-10",
   "description": "بانل تسطيب إضافات",
   "python": [
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefptvprogram/1.1/installer.sh"
+      "file": "files/ciefptvprogram/1.4/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTvProgram)"
+    },
     {
       "date": "2026-10-10",
       "text": "1.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTvProgram)"

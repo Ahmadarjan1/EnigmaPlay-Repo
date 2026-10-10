@@ -2,7 +2,7 @@
   "id": "ciefpyoutube-2",
   "name": "Ciefpyoutube",
   "category": "iptv",
-  "version": "1.2",
+  "version": "2.0",
   "updated": "2026-10-10",
   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpyoutube-2/1.2/installer.sh"
+      "file": "files/ciefpyoutube-2/2.0/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر ciefp"

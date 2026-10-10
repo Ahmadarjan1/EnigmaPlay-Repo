@@ -2,7 +2,7 @@
   "id": "ciefpkingsat-2",
   "name": "Ciefpkingsat",
   "category": "extensions",
-  "version": "1.1",
+  "version": "2.2",
   "updated": "2026-10-10",
   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpkingsat-2/1.1/installer.sh"
+      "file": "files/ciefpkingsat-2/2.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpKingSat)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر ciefp"

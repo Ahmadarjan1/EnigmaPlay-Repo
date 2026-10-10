@@ -2,7 +2,7 @@
   "id": "ciefsettingspanel",
   "name": "Ciefsettingspanel",
   "category": "panels",
-  "version": "1.5",
+  "version": "7.1",
   "updated": "2026-10-10",
   "description": "بانل تسطيب اضافات",
   "python": [
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefsettingspanel/1.5/installer.sh"
+      "file": "files/ciefsettingspanel/7.1/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "7.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    },
     {
       "date": "2026-10-10",
       "text": "1.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"

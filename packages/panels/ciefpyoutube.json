@@ -2,7 +2,7 @@
   "id": "ciefpyoutube",
   "name": "CiefpYouTube",
   "category": "panels",
-  "version": "1.2",
+  "version": "2.0",
   "updated": "2026-10-10",
   "description": "بانل تسطيب إضافات",
   "python": [
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpyoutube/1.2/installer.sh"
+      "file": "files/ciefpyoutube/2.0/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    },
     {
       "date": "2026-10-10",
       "text": "1.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"

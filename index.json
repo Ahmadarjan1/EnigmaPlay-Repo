@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T15:33:45Z",
+ "generated": "2026-10-10T16:22:28Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2879,9 +2879,9 @@
    "id": "ipaudioplus",
    "category": "extensions",
    "name": "IPAudioPlus",
-   "version": "2.5.1 Beta",
-   "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية للصورة والصوت",
-   "updated": "04.10.2026",
+   "version": "Beta 2.6.0",
+   "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية دقيقة للصورة والصوت، وواجهة جديدة بالكامل",
+   "updated": "10.10.2026",
    "status_codes": [
     "Aud",
     "Spo"
@@ -2927,11 +2927,13 @@
     ]
    ],
    "sha256": "20420e332885fbfeac34ce5bdb894a405045dbe9918adc65ff76347aac20aebc",
+   "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ipaudioplus.png?v=f84d78d04e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/1.jpg?v=4c52ca1f59",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/2.jpg?v=e8d26d4915",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/3.jpg?v=f0ae0d6a7a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/1.png?v=37c46df5c8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/2.png?v=97ff36c658",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/3.png?v=78625dc9a1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/4.png?v=57c12acd8a"
    ],
    "downloads": [
     {
@@ -3170,6 +3172,11 @@
    ],
    "package": "enigma2-plugin-extensions-ipaudioplus",
    "author": "Ahmad Alarjan",
+   "i18n": {
+    "en": {
+     "description": "Live match commentary audio with accurate automatic picture/audio sync and a completely new interface"
+    }
+   },
    "featured": true
   },
   {
@@ -11653,6 +11660,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "l21I67dGZFMp4p9BnthvN0j2YAKB8koeELbxFDDfGwqzpHoAkZdaLcf9vnZMReN8NuZ92iXhnKES/MVfS+W5Ag=="
+  "sig": "82ijFAm4nqKDy8/t8i8Z+mVhQy+VntGRmRBuDJ/xq0PBlYVIJIr9nYx5cwkfcxwKnU+i+Koz7Xx1fB/DegONDA=="
  }
 }

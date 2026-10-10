@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T16:22:28Z",
+ "generated": "2026-10-10T16:38:44Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2006,6 +2006,174 @@
     }
    },
    "featured": true
+  },
+  {
+   "id": "e2tube",
+   "category": "extensions",
+   "name": "EnigmaTube",
+   "version": "2.29.0",
+   "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google.",
+   "updated": "10.10.2026",
+   "status_codes": [
+    "Uti",
+    "Free"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.12/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.12.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "10.10.2026",
+     "2.29.0 - أول إصدار على متجر EnigmaPlay: مشفّر .so، رئيسية تتعلّم من اهتماماتك، تشغيل فوري مع بفر داخلي، 4K، اشتراكات وإشعارات، استكمال المشاهدة، فيديوهات ذات صلة، المشاهدة لاحقاً وأعجبني، فصول، سرعات، SponsorBlock، فلاتر بحث، الرائج، الوصف والتعليقات، Shorts، تحميل للهارد، ووضع أطفال"
+    ]
+   ],
+   "sha256": "e646bcf7f77ba5e335f8a7e8b53614ed48217abde1e85c217a4773b599960657",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/e2tube.png?v=c05e69cb6b",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/1.png?v=01b58acfca"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.12/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.12.ipk",
+     "sha256": "e646bcf7f77ba5e335f8a7e8b53614ed48217abde1e85c217a4773b599960657",
+     "size": 3853300,
+     "arch": "arm",
+     "python": "3.12",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.12/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.12.ipk",
+       "sha256": "e646bcf7f77ba5e335f8a7e8b53614ed48217abde1e85c217a4773b599960657"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.12/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.12.ipk",
+     "sha256": "3e746809d769439a2b9af6137f0691117749a57c66bbe1fc8903a0fb10b5bfd8",
+     "size": 3529442,
+     "arch": "aarch64",
+     "python": "3.12",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.12/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.12.ipk",
+       "sha256": "3e746809d769439a2b9af6137f0691117749a57c66bbe1fc8903a0fb10b5bfd8"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.12/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.12.ipk",
+     "sha256": "79c485b27f175652287580b2fc06ccec9ffabc314638e1420bc65bb57aa0ca27",
+     "size": 3763158,
+     "arch": "mipsel",
+     "python": "3.12",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.12/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.12.ipk",
+       "sha256": "79c485b27f175652287580b2fc06ccec9ffabc314638e1420bc65bb57aa0ca27"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.13/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.13.ipk",
+     "sha256": "009759ac67673df0efa08335f84abd13cac9dbc8e9572cb6755f13d911ebcf4c",
+     "size": 3848022,
+     "arch": "arm",
+     "python": "3.13",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.13/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.13.ipk",
+       "sha256": "009759ac67673df0efa08335f84abd13cac9dbc8e9572cb6755f13d911ebcf4c"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.13/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.13.ipk",
+     "sha256": "b8691729cfdfeaddbd295a63899f7a3ed0e9ffab9066f3c439da8930e5dfd046",
+     "size": 3521412,
+     "arch": "aarch64",
+     "python": "3.13",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.13/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.13.ipk",
+       "sha256": "b8691729cfdfeaddbd295a63899f7a3ed0e9ffab9066f3c439da8930e5dfd046"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.13/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.13.ipk",
+     "sha256": "262322dc543aeb998bb73d8ea0f1f74ed877eead753a9debb8592644805dfdf9",
+     "size": 3757756,
+     "arch": "mipsel",
+     "python": "3.13",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.13/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.13.ipk",
+       "sha256": "262322dc543aeb998bb73d8ea0f1f74ed877eead753a9debb8592644805dfdf9"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.14/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.14.ipk",
+     "sha256": "82f7e1ec2a68492217009c35d393b2f17f6a9d8c70f3d2711323f50073226358",
+     "size": 3834500,
+     "arch": "arm",
+     "python": "3.14",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.14/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.14.ipk",
+       "sha256": "82f7e1ec2a68492217009c35d393b2f17f6a9d8c70f3d2711323f50073226358"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.14/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.14.ipk",
+     "sha256": "81df7e10cb0cbaed540e09067564d0a83ec5bb9928f3de3a62a4d7e9ba38901c",
+     "size": 3566790,
+     "arch": "aarch64",
+     "python": "3.14",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.14/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.14.ipk",
+       "sha256": "81df7e10cb0cbaed540e09067564d0a83ec5bb9928f3de3a62a4d7e9ba38901c"
+      }
+     ]
+    },
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/e2tube/v2.29.0/python3.14/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.14.ipk",
+     "sha256": "90c634ade066ef182255099529583e8ba069b0ef7c2b4e1bee7f430bd4e830fc",
+     "size": 3792490,
+     "arch": "mipsel",
+     "python": "3.14",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/e2tube/v2.29.0/python3.14/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.14.ipk",
+       "sha256": "90c634ade066ef182255099529583e8ba069b0ef7c2b4e1bee7f430bd4e830fc"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "enigma2-plugin-extensions-e2tube",
+   "author": "Ahmad Al-Arjan"
   },
   {
    "id": "epggrabber",
@@ -11660,6 +11828,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "82ijFAm4nqKDy8/t8i8Z+mVhQy+VntGRmRBuDJ/xq0PBlYVIJIr9nYx5cwkfcxwKnU+i+Koz7Xx1fB/DegONDA=="
+  "sig": "pMO+h2pLNhgfHg5W4QuAdS0UWvWv4v92YU9OkpKuXA8G/kTCBl0e2HBz1jrYMdRMYk9cYwzYZp9FTp/Mueu2BQ=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T11:37:56Z",
+ "generated": "2026-10-10T15:30:12Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1255,6 +1255,63 @@
    ],
    "author": "ciefp",
    "homepage": "https://github.com/ciefp/CiefpKingSat"
+  },
+  {
+   "id": "ciefpkingsat",
+   "category": "extensions",
+   "name": "CiefpKingSat",
+   "version": "2.2",
+   "description": "KingOfSat Viewer هو إضافة (Plugin) لأجهزة الاستقبال التي تعمل بنظام Enigma2، تتيح عرض بيانات KingOfSat مباشرةً على شاشة التلفاز.\nالإصدار الجديد 2.2: ترددات محطات راديو DAB.",
+   "updated": "10.10.2026",
+   "status_codes": [
+    "Pan"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpkingsat/2.2/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "10.10.2026",
+     "2.2 - DAB Radio Station Frequencies"
+    ],
+    [
+     "10.10.2026",
+     "1.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpKingSat)"
+    ],
+    [
+     "09.10.2026",
+     "latest"
+    ]
+   ],
+   "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat.png?v=1af76834d1",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat/1.jpg?v=e9e4743106"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpkingsat/2.2/installer.sh",
+     "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
+     "size": 2856,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpkingsat/2.2/installer.sh",
+       "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "ciefp",
+   "i18n": {
+    "en": {
+     "description": "KingOfSat Viewer a plugin for Enigma2 receivers that allows viewing KingOfSat data directly on the TV screen. \nNew Version 2.2: DAB Radio Station Frequencies"
+    }
+   }
   },
   {
    "id": "ciefpwebcame2prenjsf-2",
@@ -8052,53 +8109,6 @@
    ]
   },
   {
-   "id": "ciefpkingsat",
-   "category": "panels",
-   "name": "CiefpKingSat",
-   "version": "1.1",
-   "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "status_codes": [
-    "Pan"
-   ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpkingsat/1.1/installer.sh",
-   "host": "github",
-   "changelog": [
-    [
-     "10.10.2026",
-     "1.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpKingSat)"
-    ],
-    [
-     "09.10.2026",
-     "latest"
-    ]
-   ],
-   "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
-   ],
-   "downloads": [
-    {
-     "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpkingsat/1.1/installer.sh",
-     "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
-     "size": 2856,
-     "mirrors": [
-      {
-       "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpkingsat/1.1/installer.sh",
-       "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc"
-      }
-     ]
-    }
-   ],
-   "python": [
-    "2",
-    "3"
-   ]
-  },
-  {
    "id": "ciefpmojtvepg",
    "category": "panels",
    "name": "CiefpMojTvEPG",
@@ -11495,6 +11505,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "+Ef+KBCZvaf5zu3iYw+d6a2S3Di43PWOHYua7P5FQrP33gAuo2IAuyGndCgfGlR4ZzO1pgAOwpHvwsoIbGVzBQ=="
+  "sig": "9XDlNaTq9OsjgjKmPtWC169VH2XqE6suAXLzbtUZbs9Y3L7eGd+M7s5hRESCUvQj5DUJSmA1w9Rb5DuP7HFSAg=="
  }
 }

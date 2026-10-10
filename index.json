@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T09:47:08Z",
+ "generated": "2026-10-10T10:10:35Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1688,15 +1688,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.33",
+   "version": "1.2.34",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "10.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.33/enigma2-plugin-extensions-enigmaplay_1.2.33_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.34/enigma2-plugin-extensions-enigmaplay_1.2.34_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "10.10.2026",
+     "1.2.34 - زر مشاركة (الأزرق) في صفحة البلجن مع رمز QR"
+    ],
     [
      "10.10.2026",
      "1.2.33 - شارة مطوّر موثّق للبلجنات التي يديرها مطوّرها بنفسه"
@@ -1846,7 +1850,7 @@
      "1.0.0 - أول إصدار: متجر من GitHub، حسابات ومزامنة، استعادة البلجنات، تحديث الكل، لقطات الشاشة"
     ]
    ],
-   "sha256": "fce764e9021fc53356149686f08e1164d26da44142b6a6087a04170e68791c53",
+   "sha256": "0a3a78136f68548a72788a2989f54f40404a50735390ca75ad0519ec7494543d",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1857,27 +1861,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.33/enigma2-plugin-extensions-enigmaplay_1.2.33_all.ipk",
-     "sha256": "fce764e9021fc53356149686f08e1164d26da44142b6a6087a04170e68791c53",
-     "size": 2090050,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.34/enigma2-plugin-extensions-enigmaplay_1.2.34_all.ipk",
+     "sha256": "0a3a78136f68548a72788a2989f54f40404a50735390ca75ad0519ec7494543d",
+     "size": 2090728,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.33/enigma2-plugin-extensions-enigmaplay_1.2.33_all.ipk",
-       "sha256": "fce764e9021fc53356149686f08e1164d26da44142b6a6087a04170e68791c53"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.34/enigma2-plugin-extensions-enigmaplay_1.2.34_all.ipk",
+       "sha256": "0a3a78136f68548a72788a2989f54f40404a50735390ca75ad0519ec7494543d"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.33/enigma2-plugin-extensions-enigmaplay_1.2.33_all.deb",
-     "sha256": "67c369bcbb85fcde085a6711490696558b3bda9c8fc7fb57b0cd3a106d360cbd",
-     "size": 2090056,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.34/enigma2-plugin-extensions-enigmaplay_1.2.34_all.deb",
+     "sha256": "6b2095b689d8ad44988306137ad9e3f94fe2bfac024478673a3ee723c974a78b",
+     "size": 2090732,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.33/enigma2-plugin-extensions-enigmaplay_1.2.33_all.deb",
-       "sha256": "67c369bcbb85fcde085a6711490696558b3bda9c8fc7fb57b0cd3a106d360cbd"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.34/enigma2-plugin-extensions-enigmaplay_1.2.34_all.deb",
+       "sha256": "6b2095b689d8ad44988306137ad9e3f94fe2bfac024478673a3ee723c974a78b"
       }
      ]
     }
@@ -10954,6 +10958,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "slbdm4vtF6HmFgg8hs2/D9xg4RnhfI14oy2IzBhnvQ47ulFL56xiwgUBDTzqg0dxCXNbDsrU1uLj1ItVn9VoAg=="
+  "sig": "0/UcxqTckGVJqz2K7eCf00qJ69nv4ZVQ9z/PxX8eYk4SZQIUz7o6p/TDm50U4ijRYPIxYDVFvgFcYDgOtQvEBA=="
  }
 }

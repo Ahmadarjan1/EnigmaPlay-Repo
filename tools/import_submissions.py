@@ -39,7 +39,14 @@ def api(path, body=None, raw=False):
     return out if raw else json.loads(out.decode("utf-8"))
 
 
+def raw_github(url):
+    """github.com/<o>/<r>/blob/<branch>/<path> (the web page) -> raw.githubusercontent.com file."""
+    m = re.match(r"^https://github\.com/([^/]+)/([^/]+)/(?:blob|raw)/(.+)$", url or "")
+    return "https://raw.githubusercontent.com/%s/%s/%s" % m.groups() if m else url
+
+
 def download(url):
+    url = raw_github(url)
     req = urllib.request.Request(url, headers={"User-Agent": "EnigmaPlay-import"})
     with urllib.request.urlopen(req, timeout=120) as r:
         data = r.read(MAX_URL_DOWNLOAD + 1)

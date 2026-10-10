@@ -30,5 +30,17 @@
   "subcategory": "Pic",
   "author": "tarekzoka",
   "homepage": "https://github.com/tarekzoka/setpicon",
-  "batch": "dev-source"
+  "batch": "dev-source",
+  "source": {
+    "repo": "tarekzoka/setpicon",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "_v?([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)(?:-r[0-9]+)?_all\\.(?:ipk|deb)"
+  }
 }

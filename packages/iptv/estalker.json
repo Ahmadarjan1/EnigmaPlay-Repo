@@ -30,5 +30,17 @@
   "subcategory": "Ipt",
   "author": "biko-73",
   "homepage": "https://github.com/biko-73/Estalker",
-  "batch": "dev-source"
+  "batch": "dev-source",
+  "source": {
+    "repo": "biko-73/Estalker",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "_v?([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)(?:-r[0-9]+)?_all\\.(?:ipk|deb)"
+  }
 }

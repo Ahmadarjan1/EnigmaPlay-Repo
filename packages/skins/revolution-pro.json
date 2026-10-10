@@ -29,5 +29,17 @@
   ],
   "author": "OwnerPlugins",
   "homepage": "https://github.com/OwnerPlugins/revolutionpro",
-  "batch": "dev-source"
+  "batch": "dev-source",
+  "source": {
+    "repo": "OwnerPlugins/revolutionpro",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
+  }
 }

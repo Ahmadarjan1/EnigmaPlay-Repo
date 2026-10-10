@@ -28,5 +28,17 @@
     }
   ],
   "batch": "bulk1",
-  "subcategory": "Pan"
+  "subcategory": "Pan",
+  "source": {
+    "repo": "ciefp/CiefpMojTvEPG",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
+  }
 }

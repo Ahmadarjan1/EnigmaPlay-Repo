@@ -30,5 +30,17 @@
   "subcategory": "Ipt",
   "author": "ciefp",
   "homepage": "https://github.com/ciefp/CiefpYouTube",
-  "batch": "dev-source"
+  "batch": "dev-source",
+  "source": {
+    "repo": "ciefp/CiefpYouTube",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
+  }
 }

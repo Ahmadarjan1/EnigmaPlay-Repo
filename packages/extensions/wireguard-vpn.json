@@ -30,5 +30,16 @@
   "subcategory": "Uti",
   "author": "m4dhouse",
   "homepage": "https://github.com/m4dhouse/Wireguard-Vpn",
-  "batch": "dev-source"
+  "batch": "dev-source",
+  "source": {
+    "repo": "m4dhouse/Wireguard-Vpn",
+    "branch": "python-3.12",
+    "files": [
+      {
+        "type": "sh",
+        "path": "WireGuard.sh"
+      }
+    ],
+    "version_file": "version"
+  }
 }

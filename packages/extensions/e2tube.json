@@ -1,0 +1,84 @@
+{
+ "id": "e2tube",
+ "name": "EnigmaTube",
+ "category": "extensions",
+ "subcategory": "Uti",
+ "tags": [
+  "Free"
+ ],
+ "version": "2.29.0",
+ "updated": "2026-10-10",
+ "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google.",
+ "author": "Ahmad Al-Arjan",
+ "python": [
+  "3"
+ ],
+ "restart": true,
+ "icon": "icons/e2tube.png",
+ "screenshots": [
+  "screenshots/e2tube/1.png"
+ ],
+ "package": "enigma2-plugin-extensions-e2tube",
+ "downloads": [
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.12/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.12.ipk",
+   "python": "3.12",
+   "arch": "arm"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.12/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.12.ipk",
+   "python": "3.12",
+   "arch": "aarch64"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.12/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.12.ipk",
+   "python": "3.12",
+   "arch": "mipsel"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.13/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.13.ipk",
+   "python": "3.13",
+   "arch": "arm"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.13/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.13.ipk",
+   "python": "3.13",
+   "arch": "aarch64"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.13/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.13.ipk",
+   "python": "3.13",
+   "arch": "mipsel"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.14/arm/enigma2-plugin-extensions-e2tube_2.29.0_arm_py3.14.ipk",
+   "python": "3.14",
+   "arch": "arm"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.14/aarch64/enigma2-plugin-extensions-e2tube_2.29.0_aarch64_py3.14.ipk",
+   "python": "3.14",
+   "arch": "aarch64"
+  },
+  {
+   "type": "ipk",
+   "file": "files/e2tube/v2.29.0/python3.14/mipsel/enigma2-plugin-extensions-e2tube_2.29.0_mipsel_py3.14.ipk",
+   "python": "3.14",
+   "arch": "mipsel"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-10",
+   "text": "2.29.0 - أول إصدار على متجر EnigmaPlay: مشفّر .so، رئيسية تتعلّم من اهتماماتك، تشغيل فوري مع بفر داخلي، 4K، اشتراكات وإشعارات، استكمال المشاهدة، فيديوهات ذات صلة، المشاهدة لاحقاً وأعجبني، فصول، سرعات، SponsorBlock، فلاتر بحث، الرائج، الوصف والتعليقات، Shorts، تحميل للهارد، ووضع أطفال"
+  }
+ ]
+}

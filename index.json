@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T00:40:29Z",
+ "generated": "2026-10-10T09:36:52Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1688,15 +1688,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.31",
+   "version": "1.2.32",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "10.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.32/enigma2-plugin-extensions-enigmaplay_1.2.32_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "10.10.2026",
+     "1.2.32 - صف جديد في الرئيسية: الرائج هذا الأسبوع"
+    ],
     [
      "10.10.2026",
      "1.2.31 - إصلاح توقف الواجهة إذا انتهى التنزيل بعد إغلاق المتجر"
@@ -1838,7 +1842,7 @@
      "1.0.0 - أول إصدار: متجر من GitHub، حسابات ومزامنة، استعادة البلجنات، تحديث الكل، لقطات الشاشة"
     ]
    ],
-   "sha256": "49ffd41c47969322171e10ccdb4c5e608f2396965c5c005bba76314dca2ed472",
+   "sha256": "8f8b13bfc2622be7b8ecda7afbef8bedcc2ae87f8918e2e64b5fec106ab47377",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1849,27 +1853,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.ipk",
-     "sha256": "49ffd41c47969322171e10ccdb4c5e608f2396965c5c005bba76314dca2ed472",
-     "size": 2089208,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.32/enigma2-plugin-extensions-enigmaplay_1.2.32_all.ipk",
+     "sha256": "8f8b13bfc2622be7b8ecda7afbef8bedcc2ae87f8918e2e64b5fec106ab47377",
+     "size": 2089704,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.ipk",
-       "sha256": "49ffd41c47969322171e10ccdb4c5e608f2396965c5c005bba76314dca2ed472"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.32/enigma2-plugin-extensions-enigmaplay_1.2.32_all.ipk",
+       "sha256": "8f8b13bfc2622be7b8ecda7afbef8bedcc2ae87f8918e2e64b5fec106ab47377"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.deb",
-     "sha256": "2d74d3c4f2fb982ff60347efe01e453aff4a282e07beb91bba5e216a82a387fd",
-     "size": 2089212,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.32/enigma2-plugin-extensions-enigmaplay_1.2.32_all.deb",
+     "sha256": "2f66cd22dc49aef627cee0d5e69fd1ccc34d3812f2efc3b51aaeb56ce3020daf",
+     "size": 2089708,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.deb",
-       "sha256": "2d74d3c4f2fb982ff60347efe01e453aff4a282e07beb91bba5e216a82a387fd"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.32/enigma2-plugin-extensions-enigmaplay_1.2.32_all.deb",
+       "sha256": "2f66cd22dc49aef627cee0d5e69fd1ccc34d3812f2efc3b51aaeb56ce3020daf"
       }
      ]
     }
@@ -10946,6 +10950,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "uJddpPGeRxDp5qSi2N0T98VbAQ+AsZtrmT41osZY2AxKsieYlkG5eMPcG2SIi1eZQssC1pIaeCsBcWHPKDlRAg=="
+  "sig": "UxYEj6iIOgNUF4dyQ6GIZ/Q5nw300ZyLG5FB/R9J6S+VaMBXS7TTyqVi8UFws9xHTji7jpomsgjxhzoQMYfmCQ=="
  }
 }

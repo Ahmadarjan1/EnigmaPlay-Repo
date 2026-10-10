@@ -1,0 +1,57 @@
+{
+  "id": "ciefpkingsat",
+  "name": "CiefpKingSat",
+  "category": "extensions",
+  "version": "2.2",
+  "updated": "2026-10-10",
+  "description": "KingOfSat Viewer هو إضافة (Plugin) لأجهزة الاستقبال التي تعمل بنظام Enigma2، تتيح عرض بيانات KingOfSat مباشرةً على شاشة التلفاز.\nالإصدار الجديد 2.2: ترددات محطات راديو DAB.",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/ciefpkingsat.png",
+  "screenshots": [
+    "screenshots/ciefpkingsat/1.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ciefpkingsat/2.2/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.2 - DAB Radio Station Frequencies"
+    },
+    {
+      "date": "2026-10-10",
+      "text": "1.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpKingSat)"
+    },
+    {
+      "date": "2026-10-09",
+      "text": "latest"
+    }
+  ],
+  "batch": "bulk1",
+  "subcategory": "Pan",
+  "source": {
+    "repo": "ciefp/CiefpKingSat",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "installer.sh"
+      }
+    ],
+    "version_file": "installer.sh",
+    "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
+  },
+  "author": "ciefp",
+  "developer": "ciefp",
+  "i18n": {
+    "en": {
+      "description": "KingOfSat Viewer a plugin for Enigma2 receivers that allows viewing KingOfSat data directly on the TV screen. \nNew Version 2.2: DAB Radio Station Frequencies"
+    }
+  }
+}

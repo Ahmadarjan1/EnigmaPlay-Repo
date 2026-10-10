@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.37",
+  "version": "1.2.38",
   "updated": "2026-10-10",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.ipk"
+      "file": "files/enigmaplay/1.2.38/enigma2-plugin-extensions-enigmaplay_1.2.38_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.37/enigma2-plugin-extensions-enigmaplay_1.2.37_all.deb"
+      "file": "files/enigmaplay/1.2.38/enigma2-plugin-extensions-enigmaplay_1.2.38_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -29,6 +29,10 @@
     "screenshots/enigmaplay/3.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.2.38 - تحسين سطر المعلومات في البطاقات المميزة"
+    },
     {
       "date": "2026-10-10",
       "text": "1.2.37 - بطاقات مميزة جديدة في الرئيسية بشكل جوجل بلاي"

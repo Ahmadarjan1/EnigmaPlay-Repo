@@ -2,8 +2,8 @@
   "id": "ciefpwebcame2prenjsf",
   "name": "CiefpWebCamE2PrenjSF",
   "category": "panels",
-  "version": "latest",
-  "updated": "2026-10-09",
+  "version": "1.5",
+  "updated": "2026-10-10",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/ciefpwebcame2prenjsf/1.5/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.5 - تحديث تلقائي من مصدر المطوّر (ciefp/WebCamE2PrenjSF)"
+    },
     {
       "date": "2026-10-09",
       "text": "latest"

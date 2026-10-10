@@ -2,8 +2,8 @@
   "id": "raedquicksignal",
   "name": "Raedquicksignal",
   "category": "extensions",
-  "version": "18.9",
-  "updated": "2026-10-09",
+  "version": "19.0",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/fairbird/RaedQuickSignal/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/raedquicksignal/19.0/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "19.0 - تحديث تلقائي من مصدر المطوّر (fairbird/RaedQuickSignal)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر fairbird"

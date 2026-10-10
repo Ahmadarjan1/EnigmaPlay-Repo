@@ -3,7 +3,7 @@
   "name": "Ciefpkingsat",
   "category": "extensions",
   "version": "1.1",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/ciefp/CiefpKingSat/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/ciefpkingsat-2/1.1/installer.sh"
     }
   ],
   "changelog": [

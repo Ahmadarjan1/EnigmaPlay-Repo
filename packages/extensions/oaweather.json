@@ -2,8 +2,8 @@
   "id": "oaweather",
   "name": "Oaweather",
   "category": "extensions",
-  "version": "4.0",
-  "updated": "2026-10-09",
+  "version": "3.5",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/OAWeather/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/oaweather/3.5/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "3.5 - تحديث تلقائي من مصدر المطوّر (biko-73/OAWeather)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

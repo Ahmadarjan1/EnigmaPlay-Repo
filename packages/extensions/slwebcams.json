@@ -3,7 +3,7 @@
   "name": "SLwebcams",
   "category": "extensions",
   "version": "1.0.3",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/SLwebcams/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/slwebcams/1.0.3/installer.sh"
     }
   ],
   "changelog": [

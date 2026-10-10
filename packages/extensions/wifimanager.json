@@ -3,7 +3,7 @@
   "name": "Wifimanager",
   "category": "extensions",
   "version": "1.4",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر Belfagor2005 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/Belfagor2005/WiFi-Manager/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/wifimanager/1.4/installer.sh"
     }
   ],
   "changelog": [

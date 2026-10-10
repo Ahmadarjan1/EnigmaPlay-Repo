@@ -3,7 +3,7 @@
   "name": "Iptosat",
   "category": "iptv",
   "version": "1.8",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/tarekzoka/iptosat/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/iptosat/1.8/installer.sh"
     }
   ],
   "changelog": [

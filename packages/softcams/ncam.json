@@ -3,7 +3,7 @@
   "name": "Ncam",
   "category": "softcams",
   "version": "13.5-r0",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/emilnabil/ncam/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/ncam/13.5-r0/installer.sh"
     }
   ],
   "changelog": [

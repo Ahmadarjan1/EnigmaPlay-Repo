@@ -3,7 +3,7 @@
   "name": "Setpicon",
   "category": "extensions",
   "version": "2.0",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/tarekzoka/setpicon/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/setpicon/2.0/installer.sh"
     }
   ],
   "changelog": [

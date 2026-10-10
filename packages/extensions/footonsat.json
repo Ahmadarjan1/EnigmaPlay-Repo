@@ -2,8 +2,8 @@
   "id": "footonsat",
   "name": "FootOnSat",
   "category": "extensions",
-  "version": "10.1",
-  "updated": "2026-10-09",
+  "version": "1.9",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/FootOnSat/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/footonsat/1.9/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.9 - تحديث تلقائي من مصدر المطوّر (biko-73/FootOnSat)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

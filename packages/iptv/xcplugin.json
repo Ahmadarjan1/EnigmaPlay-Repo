@@ -2,8 +2,8 @@
   "id": "xcplugin",
   "name": "XCplugin",
   "category": "iptv",
-  "version": "5.2",
-  "updated": "2026-10-09",
+  "version": "1.7",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/tarekzoka/xcplugin/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/xcplugin/1.7/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.7 - تحديث تلقائي من مصدر المطوّر (tarekzoka/xcplugin)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر tarekzoka"

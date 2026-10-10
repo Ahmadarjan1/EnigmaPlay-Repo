@@ -3,7 +3,7 @@
   "name": "Mmpicons",
   "category": "extensions",
   "version": "1.6",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/OwnerPlugins/mmPicons/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/mmpicons/1.6/installer.sh"
     }
   ],
   "changelog": [

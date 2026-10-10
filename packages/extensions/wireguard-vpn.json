@@ -2,8 +2,8 @@
   "id": "wireguard-vpn",
   "name": "Wireguard-vpn",
   "category": "extensions",
-  "version": "15.6",
-  "updated": "2026-10-09",
+  "version": "15.9",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر m4dhouse مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/m4dhouse/Wireguard-Vpn/python-3.12/WireGuard.sh",
-      "sha256": "skip"
+      "file": "files/wireguard-vpn/15.9/WireGuard.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "15.9 - تحديث تلقائي من مصدر المطوّر (m4dhouse/Wireguard-Vpn)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر m4dhouse"

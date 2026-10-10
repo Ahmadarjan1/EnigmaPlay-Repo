@@ -3,7 +3,7 @@
   "name": "Newvirtualkeyboard",
   "category": "extensions",
   "version": "14.0",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/fairbird/NewVirtualKeyBoard/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/newvirtualkeyboard/14.0/installer.sh"
     }
   ],
   "changelog": [

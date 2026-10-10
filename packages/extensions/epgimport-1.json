@@ -2,8 +2,8 @@
   "id": "epgimport-1",
   "name": "Epgimport",
   "category": "extensions",
-  "version": "2.0",
-  "updated": "2026-10-09",
+  "version": "1.9.1",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/tarekzoka/EPGImport/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/epgimport-1/1.9.1/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.9.1 - تحديث تلقائي من مصدر المطوّر (tarekzoka/EPGImport)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر tarekzoka"

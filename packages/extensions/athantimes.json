@@ -2,8 +2,8 @@
   "id": "athantimes",
   "name": "Athantimes",
   "category": "extensions",
-  "version": "3.9",
-  "updated": "2026-10-09",
+  "version": "2.8",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/AthanTimes/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/athantimes/2.8/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "2.8 - تحديث تلقائي من مصدر المطوّر (biko-73/AthanTimes)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

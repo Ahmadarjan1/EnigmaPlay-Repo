@@ -2,8 +2,8 @@
   "id": "estalker",
   "name": "Estalker",
   "category": "iptv",
-  "version": "1.52",
-  "updated": "2026-10-09",
+  "version": "1.50",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/Estalker/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/estalker/1.50/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.50 - تحديث تلقائي من مصدر المطوّر (biko-73/Estalker)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

@@ -3,7 +3,7 @@
   "name": "Multistalkerpro",
   "category": "iptv",
   "version": "1.2",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,8 +17,7 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/emilnabil/MultiStalkerPro/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/multistalkerpro-1/1.2/installer.sh"
     }
   ],
   "changelog": [

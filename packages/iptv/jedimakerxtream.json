@@ -2,8 +2,8 @@
   "id": "jedimakerxtream",
   "name": "Jedimakerxtream",
   "category": "iptv",
-  "version": "6.40",
-  "updated": "2026-10-09",
+  "version": "6.37",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/JediMakerXtream/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/jedimakerxtream/6.37/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "6.37 - تحديث تلقائي من مصدر المطوّر (biko-73/JediMakerXtream)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

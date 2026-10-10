@@ -2,8 +2,8 @@
   "id": "evgquicksignal",
   "name": "Evgquicksignal",
   "category": "extensions",
-  "version": "1.3",
-  "updated": "2026-10-09",
+  "version": "1.2",
+  "updated": "2026-10-10",
   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",
@@ -17,11 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/biko-73/EvgQuickSignal/main/installer.sh",
-      "sha256": "skip"
+      "file": "files/evgquicksignal/1.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.2 - تحديث تلقائي من مصدر المطوّر (biko-73/EvgQuickSignal)"
+    },
     {
       "date": "2026-10-09",
       "text": "المصدر: المطوّر biko-73"

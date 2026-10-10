@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.39",
+  "version": "1.2.40",
   "updated": "2026-10-10",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.39/enigma2-plugin-extensions-enigmaplay_1.2.39_all.ipk"
+      "file": "files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.39/enigma2-plugin-extensions-enigmaplay_1.2.39_all.deb"
+      "file": "files/enigmaplay/1.2.40/enigma2-plugin-extensions-enigmaplay_1.2.40_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
+    },
     {
       "date": "2026-10-10",
       "text": "1.2.39 - صور عرض عربية، وتحسين البطاقات المميزة"

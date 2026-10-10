@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T21:26:03Z",
+ "generated": "2026-10-10T23:35:01Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -237,6 +237,10 @@
       {
        "type": "ipk",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3670241ba2df10e591a10dc735b0e9504df82bd3"
+      },
+      {
+       "type": "ipk",
+       "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-acherone_1.0_all.ipk"
       }
      ]
     }
@@ -11671,6 +11675,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "RfZl4JV59RH2OeScmCimADQ2Y+mqtAKmf11eoASMa2ey1C/t+Jy3nMcCcJ/LmZ1++46gcInOuzfB9uMKQXLmCw=="
+  "sig": "72+SwJ+zgGKAaKHMoD77BOq1hP4gt8tYhO2dLGAwR+rZwMVfpgOe7uTtnRNl5js048fl8v7zaYb3dO8b+b2aCQ=="
  }
 }

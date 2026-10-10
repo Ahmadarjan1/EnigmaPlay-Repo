@@ -41,7 +41,7 @@
         "path": "installer.sh"
       }
     ],
-    "version_file": "installer.sh",
-    "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
+    "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpChannelManager/plugin.py",
+    "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   }
 }

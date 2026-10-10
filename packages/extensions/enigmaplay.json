@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.30",
-  "updated": "2026-10-09",
+  "version": "1.2.31",
+  "updated": "2026-10-10",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.30/enigma2-plugin-extensions-enigmaplay_1.2.30_all.ipk"
+      "file": "files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.30/enigma2-plugin-extensions-enigmaplay_1.2.30_all.deb"
+      "file": "files/enigmaplay/1.2.31/enigma2-plugin-extensions-enigmaplay_1.2.31_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -29,6 +29,10 @@
     "screenshots/enigmaplay/3.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-10",
+      "text": "1.2.31 - إصلاح توقف الواجهة إذا انتهى التنزيل بعد إغلاق المتجر"
+    },
     {
       "date": "2026-10-09",
       "text": "1.2.30 - خط عربي أوضح: إزالة التشكيل الذي يظهر منفصلاً على الشاشة"

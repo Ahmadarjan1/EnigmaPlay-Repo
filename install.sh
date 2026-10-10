@@ -58,7 +58,7 @@ say "Downloading: ${C}${URL}${N}"
 rm -f "$FILE"
 fetch "$URL" "$FILE"
 [ -s "$FILE" ] || fail "Download failed."
-[ "$(head -c 7 "$FILE")" = "!<arch>" ] || fail "The downloaded file is not a valid package."
+[ "$(dd if="$FILE" bs=7 count=1 2>/dev/null)" = "!<arch>" ] || fail "The downloaded file is not a valid package."
 
 # ---- wait while another package manager is running (image updates, other plugin installers) ----
 wait_pm() {

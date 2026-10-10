@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T00:04:59Z",
+ "generated": "2026-10-10T00:40:29Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10904,57 +10904,6 @@
    "homepage": "https://www.linuxsat-support.com"
   },
   {
-   "id": "ahmad",
-   "category": "tools",
-   "name": "AjPanel",
-   "version": "10.8.6",
-   "description": "أداة إدارة شاملة (Swiss Army Knife) لأجهزة الاستقبال العاملة بنظام Enigma2، حيث يجمع معظم أدوات التحكم بالسوفتوير وإدارة النظام والملفات في واجهة رسومية واحدة تغني المستخدم والمطور عن فتح جلسات Telnet/SSH الخارجية",
-   "updated": "09.10.2026",
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ahmad/10.8.6/installer.sh",
-   "host": "github",
-   "changelog": [
-    [
-     "09.10.2026",
-     "الإصدار الأول في المتجر"
-    ]
-   ],
-   "sha256": "29a2677616ca781bc7a382e6be2048e94eb3c84cc57b03d78aed8a0d86ac63e1",
-   "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ahmad.png?v=cb23d8cd3b",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ahmad/1.jpg?v=c1bea025c0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ahmad/2.jpg?v=c1bea025c0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ahmad/3.jpg?v=c8bb682772",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ahmad/4.jpg?v=71d3776c60"
-   ],
-   "downloads": [
-    {
-     "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ahmad/10.8.6/installer.sh",
-     "sha256": "29a2677616ca781bc7a382e6be2048e94eb3c84cc57b03d78aed8a0d86ac63e1",
-     "size": 3837,
-     "mirrors": [
-      {
-       "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ahmad/10.8.6/installer.sh",
-       "sha256": "29a2677616ca781bc7a382e6be2048e94eb3c84cc57b03d78aed8a0d86ac63e1"
-      }
-     ]
-    }
-   ],
-   "python": [
-    "2",
-    "3"
-   ],
-   "package": "enigma2-plugin-tools-ahmad",
-   "author": "biko-73",
-   "i18n": {
-    "en": {
-     "description": "\"A comprehensive 'Swiss Army Knife' utility for Enigma2-based set-top boxes, integrating essential software controls, system tools, and file management into a unified GUI so users and developers don't need external Telnet/SSH sessions.\""
-    }
-   }
-  },
-  {
    "id": "opkg-tools",
    "category": "tools",
    "name": "Opkg-tools",
@@ -10997,6 +10946,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "8VWMfC/EEcj0/DNxsOGMZslVQ0Mj3REXRJEdLvhCd9EglTUjE8eyMWzmqZs3hmLcvSDNmjudOoODtkHq5AcYDQ=="
+  "sig": "uJddpPGeRxDp5qSi2N0T98VbAQ+AsZtrmT41osZY2AxKsieYlkG5eMPcG2SIi1eZQssC1pIaeCsBcWHPKDlRAg=="
  }
 }

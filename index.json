@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-10T16:59:31Z",
+ "generated": "2026-10-10T17:01:14Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2181,7 +2181,8 @@
     "en": {
      "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google."
     }
-   }
+   },
+   "featured": true
   },
   {
    "id": "epggrabber",
@@ -11836,6 +11837,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "8Ysc+id5h16Xs3A/EmX8WFripVonTZu146aulU4JgMc0RGnkt7TqgfAHYXLbzQKBNDNhLHdBMZxlBf6IpaDxAQ=="
+  "sig": "V9YPciLXPrAPfvwBl/TGMNO4rojLKbzSFA93voGweyX1p7CnWGjeEei1Gs6lPi9yTeg3E3ixDrhzdyk3vGS6Ag=="
  }
 }

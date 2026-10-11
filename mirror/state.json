@@ -26,8 +26,8 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-10-09",
-"sha256": "e721de5a7275310eba5a9c12fa9700326962b21a813b74f68f665b763a10c70d",
+"date": "2026-10-11",
+"sha256": "5e9f54010dac75ac37445a86ee8e3b0197c525ff2bf2119e26b73996becd0363",
 "size": 93440
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -46,8 +46,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-09",
-"sha256": "a0dfc196e221f80dff7dd789fe72d710cdddeca9565df2dafe0980c074d92b70",
+"date": "2026-10-11",
+"sha256": "b0ab00409a5090cc6c4793d082884e10a97928a2ba82fb4b2b886591526f156a",
 "size": 323289
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2829,6 +2829,16 @@
 "date": "2026-10-09",
 "sha256": "4a7446cc2eca55b3cc3c79ad1d85dcf384eef397cd8af56a43d66a0208962fd7",
 "size": 1671594
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_3.0_all.deb": {
+"date": "2026-10-11",
+"sha256": "9db12e47ad45c1743195443bbcee85a6d5c299c45e81acf3227d8c35c3304281",
+"size": 1623896
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_3.0_all.ipk": {
+"date": "2026-10-11",
+"sha256": "843728ffcad7c0de02b25551a987aebb4cf4f6fccbdc9ef29a364646a1dbb9b4",
+"size": 2522650
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.deb": {
 "date": "2026-10-09",
@@ -8441,13 +8451,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-11 19:43",
+"last_run": "2026-10-11 20:51",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-11",
-"files": 1688,
+"files": 1690,
 "upstream": "ok"
 }
 }

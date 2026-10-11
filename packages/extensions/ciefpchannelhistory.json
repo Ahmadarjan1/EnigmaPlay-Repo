@@ -1,0 +1,39 @@
+{
+  "id": "ciefpchannelhistory",
+  "name": "CiefpChannelHistory",
+  "category": "extensions",
+  "version": "1.1",
+  "updated": "2026-10-11",
+  "description": "يُعد CiefpChannelHistory إضافةً لبرمجيات Enigma2 تتتبع سجل مشاهدة القنوات التلفزيونية وتوفر إحصائيات مفصلة، ​​كما تتميز بشاشة معلومات دليل البرامج الإلكتروني (EPG) بدقة FHD والمعززة ببيانات من TMDB وOMDb.",
+  "author": "ciefp",
+  "developer": "ciefp",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/ciefpchannelhistory.png",
+  "screenshots": [
+    "screenshots/ciefpchannelhistory/1.jpg",
+    "screenshots/ciefpchannelhistory/2.jpg",
+    "screenshots/ciefpchannelhistory/3.jpg",
+    "screenshots/ciefpchannelhistory/4.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ciefpchannelhistory/1.1/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-11",
+      "text": "1.1 - أول إصدار"
+    }
+  ],
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelHistory/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpChannelHistory is an Enigma2 plugin that tracks TV channel\nviewing history and provides detailed statistics, featuring an\nFHD EPG Info screen enriched with TMDB/OMDb data."
+    }
+  }
+}

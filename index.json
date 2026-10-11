@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T20:23:45Z",
+ "generated": "2026-10-11T21:27:42Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1210,6 +1210,56 @@
    ],
    "author": "Lululla · Linuxsat-support",
    "homepage": "https://www.linuxsat-support.com"
+  },
+  {
+   "id": "ciefpchannelhistory",
+   "category": "extensions",
+   "name": "CiefpChannelHistory",
+   "version": "1.1",
+   "description": "يُعد CiefpChannelHistory إضافةً لبرمجيات Enigma2 تتتبع سجل مشاهدة القنوات التلفزيونية وتوفر إحصائيات مفصلة، ​​كما تتميز بشاشة معلومات دليل البرامج الإلكتروني (EPG) بدقة FHD والمعززة ببيانات من TMDB وOMDb.",
+   "updated": "11.10.2026",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpchannelhistory/1.1/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "11.10.2026",
+     "1.1 - أول إصدار"
+    ]
+   ],
+   "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelhistory.png?v=73be893dae",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/1.jpg?v=5b50d6cc4f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/2.jpg?v=6e556763b0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/3.jpg?v=428d530503",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/4.jpg?v=ce08f96cb3"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpchannelhistory/1.1/installer.sh",
+     "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36",
+     "size": 5447,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpchannelhistory/1.1/installer.sh",
+       "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelHistory/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpChannelHistory is an Enigma2 plugin that tracks TV channel\nviewing history and provides detailed statistics, featuring an\nFHD EPG Info screen enriched with TMDB/OMDb data."
+    }
+   }
   },
   {
    "id": "ciefpkingsat-2",
@@ -11711,6 +11761,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "UfIHz+Re6QJvZMtwHwIYY31ASKVvmG7hhTdtd7aqpZSvq2ppzKhEYrtCaH7Xc7KqNFdxra9C1uIRZexobg9jCw=="
+  "sig": "Nh9UvOZgafV6DuSozJOUhsLzOMRmmAuEHHcgR0W5kr0bxVWqphXrRk2WrqnM5KAP9ZWBHSYOVKLXNGj5Uw8WDw=="
  }
 }

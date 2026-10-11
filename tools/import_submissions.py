@@ -165,6 +165,8 @@ def import_one(s):
     })
     if meta.get("package"):
         pkg["package"] = meta["package"]
+    if (meta.get("telnet") or "").strip():
+        pkg["telnet"] = " ".join(meta["telnet"].split())[:500]   # manual install command shown on the plugin page
     if meta.get("description_en"):
         pkg.setdefault("i18n", {}).setdefault("en", {})["description"] = meta["description_en"]
     pkg.pop("sha256", None)

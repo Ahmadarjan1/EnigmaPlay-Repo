@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T09:06:24Z",
+ "generated": "2026-10-11T13:00:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1757,15 +1757,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.44",
+   "version": "1.2.45",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "11.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.45/enigma2-plugin-extensions-enigmaplay_1.2.45_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "1.2.45 - إصلاح إغلاق الواجهة إذا سكّرت المتجر والتثبيت لسا شغال"
+    ],
     [
      "11.10.2026",
      "1.2.44 - رسائل المتجر اللي فيها رابط تعرض رمز QR تمسحه بكاميرا الجوال"
@@ -1859,7 +1863,7 @@
      "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     ]
    ],
-   "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f",
+   "sha256": "0272a2f61e9d4a35c6356b7cfd696b421770cbe125561549f9bf2998cf704e83",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1871,27 +1875,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
-     "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f",
-     "size": 2115130,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.45/enigma2-plugin-extensions-enigmaplay_1.2.45_all.ipk",
+     "sha256": "0272a2f61e9d4a35c6356b7cfd696b421770cbe125561549f9bf2998cf704e83",
+     "size": 2115332,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.ipk",
-       "sha256": "016408b44d5a26cca46113df13b38cc08075e2d7d85ae6d62c49dd35e5e0ab7f"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.45/enigma2-plugin-extensions-enigmaplay_1.2.45_all.ipk",
+       "sha256": "0272a2f61e9d4a35c6356b7cfd696b421770cbe125561549f9bf2998cf704e83"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.deb",
-     "sha256": "7e190532cae1da5bf2121f42a8620a59ed2aae8979cccf2dedb98fbb71ca07f4",
-     "size": 2115136,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.45/enigma2-plugin-extensions-enigmaplay_1.2.45_all.deb",
+     "sha256": "797851d2306bedf77869bcf4e62b8dd88d91338181e11d9749fa57f1e277e84b",
+     "size": 2115336,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.44/enigma2-plugin-extensions-enigmaplay_1.2.44_all.deb",
-       "sha256": "7e190532cae1da5bf2121f42a8620a59ed2aae8979cccf2dedb98fbb71ca07f4"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.45/enigma2-plugin-extensions-enigmaplay_1.2.45_all.deb",
+       "sha256": "797851d2306bedf77869bcf4e62b8dd88d91338181e11d9749fa57f1e277e84b"
       }
      ]
     }
@@ -11679,6 +11683,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "p4vwPYWe/ah7G93vzAt43R/Pp/mBW6U6KRjHX29lFX0dlBWIfaq47sR4rvA3T75Dq0CnR7InHwDHhGezHZskAg=="
+  "sig": "FrDKVLTTJgGPYC6V8NQXvUsvU+b4j6Wr0ubMygzKKUGU8yOvKtD35jrjOtMViskRV4NS47YNVPExWxHQ9WRoCg=="
  }
 }

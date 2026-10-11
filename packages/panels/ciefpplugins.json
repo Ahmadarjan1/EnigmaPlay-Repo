@@ -2,8 +2,8 @@
   "id": "ciefpplugins",
   "name": "CiefpPlugins",
   "category": "panels",
-  "version": "4.4",
-  "updated": "2026-10-10",
+  "version": "4.5",
+  "updated": "2026-10-11",
   "description": "بانل تسطيب اضافات خاصة ببافل سييف",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpplugins/4.4/installer.sh"
+      "file": "files/ciefpplugins/4.5/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-11",
+      "text": "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    },
     {
       "date": "2026-10-10",
       "text": "4.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"

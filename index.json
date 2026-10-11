@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T19:22:03Z",
+ "generated": "2026-10-11T20:23:45Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -5976,21 +5976,25 @@
    "id": "tvgarden",
    "category": "extensions",
    "name": "Tvgarden",
-   "version": "2.9",
+   "version": "3.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
+   "updated": "11.10.2026",
    "status_codes": [
     "Free"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/2.9/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/3.0/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "3.0 - تحديث تلقائي من مصدر المطوّر (OwnerPlugins/TVGarden)"
+    ],
     [
      "09.10.2026",
      "المصدر: المطوّر OwnerPlugins"
     ]
    ],
-   "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461",
+   "sha256": "09fb4d703929e8dda71ca93aeac4a4aa54a0c8b9b4aa321ed406e93183211d75",
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
    "screenshots": [
     "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
@@ -5998,14 +6002,14 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/2.9/installer.sh",
-     "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461",
-     "size": 8547,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/3.0/installer.sh",
+     "sha256": "09fb4d703929e8dda71ca93aeac4a4aa54a0c8b9b4aa321ed406e93183211d75",
+     "size": 11447,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/tvgarden/2.9/installer.sh",
-       "sha256": "6730a07e91908fcb7c84c76bc34282c0b02f29a0b059d914ceab994e9c67a461"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/tvgarden/3.0/installer.sh",
+       "sha256": "09fb4d703929e8dda71ca93aeac4a4aa54a0c8b9b4aa321ed406e93183211d75"
       }
      ]
     }
@@ -7782,15 +7786,19 @@
    "id": "ciefp-plugins",
    "category": "panels",
    "name": "Ciefp-plugins",
-   "version": "4.4",
+   "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "10.10.2026",
+   "updated": "11.10.2026",
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.4/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "10.10.2026",
      "4.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -7812,13 +7820,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.4/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.4/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.5/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -8488,15 +8496,19 @@
    "id": "ciefpplugins",
    "category": "panels",
    "name": "CiefpPlugins",
-   "version": "4.4",
+   "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "10.10.2026",
+   "updated": "11.10.2026",
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.4/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "10.10.2026",
      "4.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -8518,13 +8530,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.4/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.4/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.5/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -8845,15 +8857,19 @@
    "id": "ciefpsettingspanel",
    "category": "panels",
    "name": "CiefpsettingsPanel",
-   "version": "7.1",
+   "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "10.10.2026",
+   "updated": "11.10.2026",
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "10.10.2026",
      "7.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -8875,13 +8891,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.2/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -9751,15 +9767,19 @@
    "id": "ciefsettingspanel",
    "category": "panels",
    "name": "Ciefsettingspanel",
-   "version": "7.1",
+   "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "10.10.2026",
+   "updated": "11.10.2026",
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "10.10.2026",
      "7.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -9781,13 +9801,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.2/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -11691,6 +11711,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "eWcnKUJcBRLLpoHr0vR6jQlrZRcJ3ZwhBhbJokTF43uiHcPTmP4yUkJHnaonBUduBv1f1zd5SyUuwBDe+aa1BA=="
+  "sig": "UfIHz+Re6QJvZMtwHwIYY31ASKVvmG7hhTdtd7aqpZSvq2ppzKhEYrtCaH7Xc7KqNFdxra9C1uIRZexobg9jCw=="
  }
 }

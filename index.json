@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T15:42:44Z",
+ "generated": "2026-10-11T19:22:03Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1757,15 +1757,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.46",
+   "version": "1.2.47",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "11.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.46/enigma2-plugin-extensions-enigmaplay_1.2.46_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "11.10.2026",
+     "1.2.47 - إصلاح ترتيب البطاقات المميزة وصفحة البلجن باللغات الأجنبية"
+    ],
     [
      "11.10.2026",
      "1.2.46 - التثبيت من الجوال صار يشتغل كمان للبلاجن اللي بتنزل من رابط المطوّر مباشرة"
@@ -1867,7 +1871,7 @@
      "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     ]
    ],
-   "sha256": "5ebe333a46d72f7e58ce895a02c2ec31a547fa90481f2fd16b92522fa0a02095",
+   "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1879,27 +1883,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.46/enigma2-plugin-extensions-enigmaplay_1.2.46_all.ipk",
-     "sha256": "5ebe333a46d72f7e58ce895a02c2ec31a547fa90481f2fd16b92522fa0a02095",
-     "size": 2115418,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
+     "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0",
+     "size": 2115648,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.46/enigma2-plugin-extensions-enigmaplay_1.2.46_all.ipk",
-       "sha256": "5ebe333a46d72f7e58ce895a02c2ec31a547fa90481f2fd16b92522fa0a02095"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
+       "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.46/enigma2-plugin-extensions-enigmaplay_1.2.46_all.deb",
-     "sha256": "5a1180c41d812b6a9fa0591d998e6fdf66519f1bb8afa23bd42db1ab50d5a069",
-     "size": 2115422,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.deb",
+     "sha256": "6aa44d843114a096eb8b465f6c86c4a7eaee2c442bf483b68d705f3a5f7a97bc",
+     "size": 2115652,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.46/enigma2-plugin-extensions-enigmaplay_1.2.46_all.deb",
-       "sha256": "5a1180c41d812b6a9fa0591d998e6fdf66519f1bb8afa23bd42db1ab50d5a069"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.deb",
+       "sha256": "6aa44d843114a096eb8b465f6c86c4a7eaee2c442bf483b68d705f3a5f7a97bc"
       }
      ]
     }
@@ -2242,7 +2246,7 @@
    "author": "Ahmad Al-Arjan",
    "i18n": {
     "en": {
-     "description": "مشغّل يوتيوب حر لإنيجما2: بحث، تشغيل حتى 4K، اشتراكات، رئيسية تتعلّم من مشاهداتك، تحميل للهارد، وضع أطفال، والمزيد. مشفّر .so. غير تابع لـYouTube أو Google."
+     "description": "Free YouTube player for Enigma2: search, play up to 4K, subscriptions, a home page that learns from what you watch, download to HDD, kids mode and more. Not affiliated with YouTube or Google."
     }
    },
    "featured": true
@@ -11687,6 +11691,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "cefpHJCkyNTNB61O0GhRJYhJYmrwanqnl8aMs3MIlbL/PNEuEbupWVTrzDKZhHc6XoMfrnXCssTg4M2B1hsFBQ=="
+  "sig": "eWcnKUJcBRLLpoHr0vR6jQlrZRcJ3ZwhBhbJokTF43uiHcPTmP4yUkJHnaonBUduBv1f1zd5SyUuwBDe+aa1BA=="
  }
 }

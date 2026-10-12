@@ -3,16 +3,16 @@
   "name": "CiefpsettingsPanel",
   "category": "panels",
   "version": "7.2",
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "description": "بانل تسطيب اضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpsettingspanel.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpsettingspanel/1.jpg"
   ],
   "downloads": [
     {
@@ -51,5 +51,13 @@
     ],
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpsettingsPanel/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
+  },
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
+    }
   }
 }

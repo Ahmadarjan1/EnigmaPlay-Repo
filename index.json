@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T13:18:33Z",
+ "generated": "2026-10-12T15:43:52Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -6020,7 +6020,7 @@
      "المصدر: المطوّر OwnerPlugins"
     ]
    ],
-   "sha256": "688148933fdc9c8d8b01d3a09a03d17640c193145311c05d69974429643c61f7",
+   "sha256": "738774706dd0451a16eab6d1f494a7c23a15881d44f9d41e1bec0ca5342632ec",
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
    "screenshots": [
     "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
@@ -6029,13 +6029,13 @@
     {
      "type": "sh",
      "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/tvgarden/3.0/installer.sh",
-     "sha256": "688148933fdc9c8d8b01d3a09a03d17640c193145311c05d69974429643c61f7",
-     "size": 13195,
+     "sha256": "738774706dd0451a16eab6d1f494a7c23a15881d44f9d41e1bec0ca5342632ec",
+     "size": 5479,
      "mirrors": [
       {
        "type": "sh",
        "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/tvgarden/3.0/installer.sh",
-       "sha256": "688148933fdc9c8d8b01d3a09a03d17640c193145311c05d69974429643c61f7"
+       "sha256": "738774706dd0451a16eab6d1f494a7c23a15881d44f9d41e1bec0ca5342632ec"
       }
      ]
     }
@@ -11702,6 +11702,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "7vt34MbMw+xK9+iew2W6XOfCm29435Eh07mDfQSItz+GQzCaOfn7zRxBVStftzhevYiocMTsTESWIGhDV20KBg=="
+  "sig": "Ii7aBeygXojOBUmDouf6QJCexTUq0ni6XLaYVqMMrhCML81fhEaBVqFOMCfZ9n39QEtygv7ArgX3dvxo6aPQDg=="
  }
 }

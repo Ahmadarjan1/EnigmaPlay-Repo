@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T15:43:52Z",
+ "generated": "2026-10-12T16:52:45Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -6635,8 +6635,8 @@
    "category": "iptv",
    "name": "Ciefpyoutube",
    "version": "2.0",
-   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
+   "description": "CiefpYoutube - مشغل يوتيوب بنمط \"صندوق الموسيقى\" (Jukebox)، ومشغل كاميرا الويب.",
+   "updated": "12.10.2026",
    "status_codes": [
     "Ipt"
    ],
@@ -6653,9 +6653,10 @@
     ]
    ],
    "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-iptv.png?v=4b410ee811",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube-2.png?v=a21a8e8b7c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-iptv/1.jpg?v=5cd322400a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube-2/1.jpg?v=b6fe3ab850"
    ],
    "downloads": [
     {
@@ -6677,7 +6678,13 @@
     "3"
    ],
    "author": "ciefp",
-   "homepage": "https://github.com/ciefp/CiefpYouTube"
+   "homepage": "https://github.com/ciefp/CiefpYouTube",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpYoutube - Youtube jukebox player, webcam player"
+    }
+   }
   },
   {
    "id": "customiptvarchivemakerpro",
@@ -7814,7 +7821,7 @@
    "name": "Ciefp-plugins",
    "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "11.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -7839,9 +7846,10 @@
     ]
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefp-plugins.png?v=cb00d1f366",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefp-plugins/1.jpg?v=f5de2779e3"
    ],
    "downloads": [
     {
@@ -7861,7 +7869,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
+    }
+   }
   },
   {
    "id": "ciefpbouquetupdater",
@@ -8375,7 +8390,7 @@
    "name": "CiefpOscamEditor",
    "version": "2.0.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8392,9 +8407,12 @@
     ]
    ],
    "sha256": "82c495eb63c4c45522bdc23397b4cab4b5021508d8fb1c3a75f51b54e9aace25",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefposcameditor.png?v=96087381e9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/1.jpg?v=d9c757bde6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/2.jpg?v=12921b4375",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/3.jpg?v=833067dc5a"
    ],
    "downloads": [
     {
@@ -8414,7 +8432,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOscamEditor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOscamEditor - plugin for editing oscam files"
+    }
+   }
   },
   {
    "id": "ciefpparabolacz",
@@ -8473,7 +8498,7 @@
    "name": "CiefpPicturePlayer",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8494,9 +8519,11 @@
     ]
    ],
    "sha256": "0b61cf9a16bef8baca51c7b3903a24e6d7760e5908fe81c8a3f65e139c687b0a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefppictureplayer.png?v=05b697e5e2",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/1.jpg?v=072d6d6b1a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/2.jpg?v=c8215030de"
    ],
    "downloads": [
     {
@@ -8516,7 +8543,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPicturePlayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPicturePlayer - image viewer online, network, local"
+    }
+   }
   },
   {
    "id": "ciefpplugins",
@@ -8885,7 +8919,7 @@
    "name": "CiefpsettingsPanel",
    "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "11.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8910,9 +8944,10 @@
     ]
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingspanel.png?v=ee71e58643",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingspanel/1.jpg?v=205cfdafd8"
    ],
    "downloads": [
     {
@@ -8932,7 +8967,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
+    }
+   }
   },
   {
    "id": "ciefpsettingst2miabertis",
@@ -8940,7 +8982,7 @@
    "name": "CiefpSettingsT2miAbertis",
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8961,9 +9003,10 @@
     ]
    ],
    "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingst2miabertis.png?v=be95b1600a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingst2miabertis/1.jpg?v=63d0b22ce7"
    ],
    "downloads": [
     {
@@ -8983,7 +9026,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertis/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpT2MiAbertis - plugin for automatic installation of files for t2mi and abertis channels streamrelay."
+    }
+   }
   },
   {
    "id": "ciefpsrtplayer",
@@ -9242,7 +9292,7 @@
    "name": "CiefpTMDBSearch",
    "version": "2.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -9263,9 +9313,12 @@
     ]
    ],
    "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptmdbsearch.png?v=80d40a92fc",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/1.jpg?v=fdc20d648a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/2.jpg?v=ae625b1383",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/3.jpg?v=a1c4c08d55"
    ],
    "downloads": [
     {
@@ -9285,7 +9338,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTMDBSearch/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTMDBSearch - search for descriptions of movies, series of trailers from the TMDB site, uses tmdb.omdb api key"
+    }
+   }
   },
   {
    "id": "ciefptvprogram",
@@ -11702,6 +11762,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "Ii7aBeygXojOBUmDouf6QJCexTUq0ni6XLaYVqMMrhCML81fhEaBVqFOMCfZ9n39QEtygv7ArgX3dvxo6aPQDg=="
+  "sig": "jJOWz2MLN9hYNEfRWkDNn1xonIfC0ahTcZzBVKSoEf2gNnredLf2/Sqf1oLqy5vL+3YOi7ZXla+/voF7oK7cCA=="
  }
 }

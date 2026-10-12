@@ -3,16 +3,16 @@
   "name": "CiefpBouquetUpdater",
   "category": "panels",
   "version": "1.6",
-  "updated": "2026-10-10",
+  "updated": "2026-10-12",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpbouquetupdater.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpbouquetupdater/1.jpg"
   ],
   "downloads": [
     {
@@ -47,5 +47,13 @@
     ],
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpBouquetUpdater/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
+  },
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpBouquetUpdater/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpBouquetUpdater - plugin allows for easy download and update of bouquets"
+    }
   }
 }

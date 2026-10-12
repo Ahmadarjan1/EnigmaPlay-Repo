@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T16:52:45Z",
+ "generated": "2026-10-12T17:57:04Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1807,15 +1807,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.49",
+   "version": "1.2.50",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "12.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "12.10.2026",
+     "1.2.50 - ما عاد يطلع «تحديث» لبلجن من الصورة نفسها لمجرد إنه اسمه متل بلجن بالمتجر (متل OAWeather)"
+    ],
     [
      "12.10.2026",
      "1.2.49 - إصلاح بلاجن بيضل يطلعلها «تحديث» بعد ما تتحدّث (متل Bitrate وImdb وOAWeather)"
@@ -1891,13 +1895,9 @@
     [
      "10.10.2026",
      "1.2.31 - إصلاح توقف الواجهة إذا انتهى التنزيل بعد إغلاق المتجر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.30 - خط عربي أوضح: إزالة التشكيل الذي يظهر منفصلاً على الشاشة"
     ]
    ],
-   "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276",
+   "sha256": "d497fc9a263aa9a58310e840c470447d2e0819d53dca9fde8541f427f673b432",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1909,27 +1909,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
-     "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276",
-     "size": 2117304,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.ipk",
+     "sha256": "d497fc9a263aa9a58310e840c470447d2e0819d53dca9fde8541f427f673b432",
+     "size": 2117684,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
-       "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.ipk",
+       "sha256": "d497fc9a263aa9a58310e840c470447d2e0819d53dca9fde8541f427f673b432"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.deb",
-     "sha256": "d8c6d4779b412a0f3ae159abeb9347c36169b2b9a54035b5a1efe53c5315e8d0",
-     "size": 2117310,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.deb",
+     "sha256": "a7256a528cbf6f794d9c14f5a92747bf49e40446edf38ad2e3d6b6014f17a3b1",
+     "size": 2117690,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.deb",
-       "sha256": "d8c6d4779b412a0f3ae159abeb9347c36169b2b9a54035b5a1efe53c5315e8d0"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.deb",
+       "sha256": "a7256a528cbf6f794d9c14f5a92747bf49e40446edf38ad2e3d6b6014f17a3b1"
       }
      ]
     }
@@ -11762,6 +11762,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "jJOWz2MLN9hYNEfRWkDNn1xonIfC0ahTcZzBVKSoEf2gNnredLf2/Sqf1oLqy5vL+3YOi7ZXla+/voF7oK7cCA=="
+  "sig": "PXG3+T23EmmQ3fbVjOKLCLxIcHal2ACwyBrZI4sbyYhyHffqLk0z7DzW5pvDh7frjlPqb6ComAdFOTmqqgAOAQ=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T06:10:31Z",
+ "generated": "2026-10-12T13:18:33Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1807,15 +1807,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.48",
+   "version": "1.2.49",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "12.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "12.10.2026",
+     "1.2.49 - إصلاح بلاجن بيضل يطلعلها «تحديث» بعد ما تتحدّث (متل Bitrate وImdb وOAWeather)"
+    ],
     [
      "12.10.2026",
      "1.2.48 - صفحة البلجن تعرض على كم رسيفر مثبّت حسب نوع الصورة حتى لو ما في آراء"
@@ -1891,41 +1895,9 @@
     [
      "09.10.2026",
      "1.2.30 - خط عربي أوضح: إزالة التشكيل الذي يظهر منفصلاً على الشاشة"
-    ],
-    [
-     "09.10.2026",
-     "1.2.29 - المصدر الأصلي واسم المطوّر في صفحة كل بلجن"
-    ],
-    [
-     "09.10.2026",
-     "1.2.28 - إصلاح ترتيب النص في نوافذ الرسائل"
-    ],
-    [
-     "09.10.2026",
-     "1.2.27 - قراءة سياسة الخصوصية وشروط الاستخدام على شاشة الرسيفر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.26 - تحسين نافذة «حول EnigmaPlay»"
-    ],
-    [
-     "09.10.2026",
-     "1.2.25 - روابط سياسة الخصوصية وشروط الاستخدام في «حول EnigmaPlay»"
-    ],
-    [
-     "09.10.2026",
-     "1.2.24 - جرس الإشعارات: عدد التحديثات المتوفرة ورسائل المتجر"
-    ],
-    [
-     "09.10.2026",
-     "1.2.23 - التنزيل يعمل حتى لو كان تاريخ الرسيفر خاطئاً"
-    ],
-    [
-     "09.10.2026",
-     "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     ]
    ],
-   "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146",
+   "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1937,27 +1909,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
-     "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146",
-     "size": 2116886,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
+     "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276",
+     "size": 2117304,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
-       "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk",
+       "sha256": "f5567e814d0dcb3e51cb637c9bcff4ffd1c43654c6b1fa5f273cd72e3a7e6276"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.deb",
-     "sha256": "29859d648cca54b3579c26c16f95efce7fc133db14e148bedc6638bfd4b74cc3",
-     "size": 2116890,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.deb",
+     "sha256": "d8c6d4779b412a0f3ae159abeb9347c36169b2b9a54035b5a1efe53c5315e8d0",
+     "size": 2117310,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.deb",
-       "sha256": "29859d648cca54b3579c26c16f95efce7fc133db14e148bedc6638bfd4b74cc3"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.deb",
+       "sha256": "d8c6d4779b412a0f3ae159abeb9347c36169b2b9a54035b5a1efe53c5315e8d0"
       }
      ]
     }
@@ -11730,6 +11702,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "8EmZGfPLMewia1QW7FOs2oqYqYhJAPogVEQFga5I4bZ3QkWFCUBvDbibPeOPETMW7lmoDsfH1mGFdZiRoX1tCA=="
+  "sig": "7vt34MbMw+xK9+iew2W6XOfCm29435Eh07mDfQSItz+GQzCaOfn7zRxBVStftzhevYiocMTsTESWIGhDV20KBg=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T20:43:50Z",
+ "generated": "2026-10-12T20:49:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -134,6 +134,7 @@
    "version": "8.11",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Aud"
    ],
@@ -179,6 +180,7 @@
    "version": "1.1",
    "description": "من مستودع المطوّر popking159 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Aud"
    ],
@@ -214,6 +216,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Acherone Script v.1.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791585749,
    "status_codes": [
     "Uti"
    ],
@@ -255,6 +258,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ai SubTitle v.2.0",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -296,6 +300,7 @@
    "version": "2.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ai SubTitle Hybrid v.2.5",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -337,6 +342,7 @@
    "version": "4.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Alternative Softcammanager v.4.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -388,6 +394,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ansite v.1.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Qur"
    ],
@@ -437,6 +444,7 @@
    "version": "2.2",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -482,6 +490,7 @@
    "version": "2.5",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -527,6 +536,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Astronomy v.1.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -594,6 +604,7 @@
    "version": "2.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Qur"
    ],
@@ -643,6 +654,7 @@
    "version": "1.0.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Auto-dcw-key-add v.1.0.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -710,6 +722,7 @@
    "version": "9.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Backupflashe v.9.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Bac"
    ],
@@ -777,6 +790,7 @@
    "version": "3.0-r11",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Backupsuite 3.0-r11 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Bac"
    ],
@@ -818,6 +832,7 @@
    "version": "12.81",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Mul"
    ],
@@ -867,6 +882,7 @@
    "version": "2.8.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: BissFeedAutoKey Plugin v.2.8.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -942,6 +958,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Bitrate 2.1 mod. lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -983,6 +1000,7 @@
    "version": "2.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Bootlogo Swapper v.2.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1024,6 +1042,7 @@
    "version": "2.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: CacheFlush v.2.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1091,6 +1110,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Calculatore2 v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1132,6 +1152,7 @@
    "version": "2.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -1177,6 +1198,7 @@
    "version": "1.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: CCcam Info 1.9 recoded by Lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -1218,6 +1240,7 @@
    "version": "1.1",
    "description": "يُعد CiefpChannelHistory إضافةً لبرمجيات Enigma2 تتتبع سجل مشاهدة القنوات التلفزيونية وتوفر إحصائيات مفصلة، ​​كما تتميز بشاشة معلومات دليل البرامج الإلكتروني (EPG) بدقة FHD والمعززة ببيانات من TMDB وOMDb.",
    "updated": "11.10.2026",
+   "updated_ts": 1791754062,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpchannelhistory/1.1/installer.sh",
    "host": "github",
    "changelog": [
@@ -1268,6 +1291,7 @@
    "version": "2.2",
    "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Uti"
    ],
@@ -1317,6 +1341,7 @@
    "version": "2.2",
    "description": "KingOfSat Viewer هو إضافة (Plugin) لأجهزة الاستقبال التي تعمل بنظام Enigma2، تتيح عرض بيانات KingOfSat مباشرةً على شاشة التلفاز.\nالإصدار الجديد 2.2: ترددات محطات راديو DAB.",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -1374,6 +1399,7 @@
    "version": "1.5",
    "description": "إضافة لأجهزة إنيجما2",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpwebcame2prenjsf-2/1.5/installer.sh",
    "host": "github",
    "changelog": [
@@ -1418,6 +1444,7 @@
    "version": "7.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sys"
    ],
@@ -1463,6 +1490,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1508,6 +1536,7 @@
    "version": "2.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -1553,6 +1582,7 @@
    "version": "1.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Cutsclear iet-1.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1620,6 +1650,7 @@
    "version": "7.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Dream Explorer mod. Lululla 7.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1661,6 +1692,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Dreamosat xline v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -1702,6 +1734,7 @@
    "version": "10.6+git36161",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Egamiboot v.10.6+git36161+df20ccb0+df20ccb7f0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -1743,6 +1776,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Uninstaller-iet-1.0_all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -1807,15 +1841,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.51",
+   "version": "1.2.52",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "12.10.2026",
+   "updated_ts": 1791838127,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "12.10.2026",
+     "1.2.52 - «أحدث الإضافات» مرتبة حسب وقت التحديث بالدقيقة"
+    ],
     [
      "12.10.2026",
      "1.2.51 - «أحدث الإضافات» بتعرض لحد 30 بلجن بدل 12"
@@ -1891,13 +1930,9 @@
     [
      "10.10.2026",
      "1.2.33 - شارة مطوّر موثّق للبلجنات التي يديرها مطوّرها بنفسه"
-    ],
-    [
-     "10.10.2026",
-     "1.2.32 - صف جديد في الرئيسية: الرائج هذا الأسبوع"
     ]
    ],
-   "sha256": "75ed923412b08d73a77ac70c6522a1fd6ba7582cbc6b47d04efa8d4d8b488d78",
+   "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1909,27 +1944,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.ipk",
-     "sha256": "75ed923412b08d73a77ac70c6522a1fd6ba7582cbc6b47d04efa8d4d8b488d78",
-     "size": 2117676,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
+     "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569",
+     "size": 2117778,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.ipk",
-       "sha256": "75ed923412b08d73a77ac70c6522a1fd6ba7582cbc6b47d04efa8d4d8b488d78"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
+       "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.deb",
-     "sha256": "a82e280810788b21a40fe62d5351f981e487d7e328741de6b2b2ec639d188b7f",
-     "size": 2117678,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.deb",
+     "sha256": "dd53865fe62c034d9af06583ae42b6e1a3471a7c1913428f6fdce0a816147537",
+     "size": 2117782,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.deb",
-       "sha256": "a82e280810788b21a40fe62d5351f981e487d7e328741de6b2b2ec639d188b7f"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.deb",
+       "sha256": "dd53865fe62c034d9af06583ae42b6e1a3471a7c1913428f6fdce0a816147537"
       }
      ]
     }
@@ -2284,6 +2319,7 @@
    "version": "23.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Epggrabber v.23.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -2367,6 +2403,7 @@
    "version": "1.9.1",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -2416,6 +2453,7 @@
    "version": "1.4.r2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Epg Translator v.git3300+4a35314-r0_PY3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -2457,6 +2495,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -2506,6 +2545,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Feeds finder 20191220 V1.0 momi133 OE 2.0 All mips",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -2581,6 +2621,7 @@
    "version": "2.14",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Filecommander v.2.14 mod 2026 by lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2622,6 +2663,7 @@
    "version": "2.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2667,6 +2709,7 @@
    "version": "1.9",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Spo"
    ],
@@ -2716,6 +2759,7 @@
    "version": "1.3.5",
    "description": "من مستودع المطوّر Belfagor2005 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -2761,6 +2805,7 @@
    "version": "3.2",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2806,6 +2851,7 @@
    "version": "12.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Gioppygio v.12.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Set"
    ],
@@ -2847,6 +2893,7 @@
    "version": "5.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Hardware Info v.5.1",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2888,6 +2935,7 @@
    "version": "2.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -2933,6 +2981,7 @@
    "version": "1.0.44",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Historyzap v.1.0.44 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -2984,6 +3033,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -3029,6 +3079,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Image Downloader v.2.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3070,6 +3121,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: IMDb plugin v.2.1 mod lululla",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -3111,6 +3163,7 @@
    "version": "1.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Internet SpeedTest v.1.8",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -3152,6 +3205,7 @@
    "version": "2.6.0",
    "description": "التعليق الصوتي المباشر للمباريات مع مزامنة تلقائية دقيقة للصورة والصوت، وواجهة جديدة بالكامل",
    "updated": "10.10.2026",
+   "updated_ts": 1791657301,
    "status_codes": [
     "Aud",
     "Spo"
@@ -3243,6 +3297,7 @@
    "version": "5.0.r0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -3278,6 +3333,7 @@
    "version": "2.15",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -3323,6 +3379,7 @@
    "version": "9.6",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Enc"
    ],
@@ -3368,6 +3425,7 @@
    "version": "1.05.20251116",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Skin e2sentials v.1.05.20251116 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -3435,6 +3493,7 @@
    "version": "1.3",
    "description": "من مستودع المطوّر levi-45 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -3488,6 +3547,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45iptv v.1.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -3539,6 +3599,7 @@
    "version": "2.6",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45 freeserver v.2.6 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -3622,6 +3683,7 @@
    "version": "2.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Levi45 settings_2.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Set"
    ],
@@ -3689,6 +3751,7 @@
    "version": "5.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Magic Panel v.5.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -3730,6 +3793,7 @@
    "version": "2025.12.15",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Missing Picons 2024_12_20 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pic"
    ],
@@ -3771,6 +3835,7 @@
    "version": "1.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pic"
    ],
@@ -3816,6 +3881,7 @@
    "version": "4.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -3861,6 +3927,7 @@
    "version": "7.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Multiboot Flashonline v.7.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3902,6 +3969,7 @@
    "version": "1.14-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Multiboot Selector v.1.14-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -3969,6 +4037,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -4004,6 +4073,7 @@
    "version": "3.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ncam Status v3.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -4045,6 +4115,7 @@
    "version": "5.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Neoboot duo4k v.5.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -4102,6 +4173,7 @@
    "version": "3.9.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Neoboot e2turk v.3.9.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Mul"
    ],
@@ -4143,6 +4215,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: New Permanentclock 1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -4184,6 +4257,7 @@
    "version": "14.0",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sys"
    ],
@@ -4229,6 +4303,7 @@
    "version": "3.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Novacampro py3.9 3.0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -4270,6 +4345,7 @@
    "version": "3.5",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -4319,6 +4395,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Oaweatheriet-1.4B_all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -4386,6 +4463,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Mul"
    ],
@@ -4431,6 +4509,7 @@
    "version": "6.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Oscam Status 6.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Enc"
    ],
@@ -4506,6 +4585,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Picon Buddy v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pic"
    ],
@@ -4547,6 +4627,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Plugin Skin Mover 1.0",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -4614,6 +4695,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Quran-Karim v.2.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Qur"
    ],
@@ -4655,6 +4737,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Rad"
    ],
@@ -4700,6 +4783,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: RadioM v.1.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Rad"
    ],
@@ -4741,6 +4825,7 @@
    "version": "19.0",
    "description": "من مستودع المطوّر fairbird مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -4790,6 +4875,7 @@
    "version": "20240324",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Rakuten TV 20240324 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -4831,6 +4917,7 @@
    "version": "23.04.05.1156",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: S4aupdater 23.04.05.1156 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -4906,6 +4993,7 @@
    "version": "20250815",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Samsung Tv Plus 20250815 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Free"
    ],
@@ -4973,6 +5061,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: ScreenGrabber mod by Lululla v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5040,6 +5129,7 @@
    "version": "1.07.20250608",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Screen Names v.1.07.20250608 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5107,6 +5197,7 @@
    "version": "1.30",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -5152,6 +5243,7 @@
    "version": "1.3.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Service Scan Updates v.1.3.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -5235,6 +5327,7 @@
    "version": "2.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pic"
    ],
@@ -5280,6 +5373,7 @@
    "version": "1.4.2",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -5325,6 +5419,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Schiffe v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5366,6 +5461,7 @@
    "version": "0.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Shoot your screen v.03 mod lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5407,6 +5503,7 @@
    "version": "0.9",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Show Clock v.09 mod lululla all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -5448,6 +5545,7 @@
    "version": "1.0.3",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -5493,6 +5591,7 @@
    "version": "5.0.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Smart Addons Panel v.5.0.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -5534,6 +5633,7 @@
    "version": "1.5.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Sub"
    ],
@@ -5583,6 +5683,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Subs Support Pro by Odem2014 v.1.4",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sub"
    ],
@@ -5650,6 +5751,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Sudoku v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5691,6 +5793,7 @@
    "version": "4.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Suptv Activation v.4.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Nov"
    ],
@@ -5732,6 +5835,7 @@
    "version": "7.1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Tetris v.7.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Games"
    ],
@@ -5773,6 +5877,7 @@
    "version": "5.0.1",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Wea"
    ],
@@ -5822,6 +5927,7 @@
    "version": "5.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: The Weather v.5.8 Mod. by iet5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -5889,6 +5995,7 @@
    "version": "8.6",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Epg"
    ],
@@ -5938,6 +6045,7 @@
    "version": "4.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Ts Sateditor v. 4.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -6005,6 +6113,7 @@
    "version": "3.0",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "12.10.2026",
+   "updated_ts": 1791785431,
    "status_codes": [
     "Free"
    ],
@@ -6054,6 +6163,7 @@
    "version": "1.88",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -6099,6 +6209,7 @@
    "version": "1.12.20260123",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Visual Weather v.1.12.20260123 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6166,6 +6277,7 @@
    "version": "1.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Weather Msn v.1.3 r3 py2 py3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6215,6 +6327,7 @@
    "version": "2.4",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Wea"
    ],
@@ -6268,6 +6381,7 @@
    "version": "1.4",
    "description": "من مستودع المطوّر Belfagor2005 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -6313,6 +6427,7 @@
    "version": "15.9",
    "description": "من مستودع المطوّر m4dhouse مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Uti"
    ],
@@ -6362,6 +6477,7 @@
    "version": "7.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Free"
    ],
@@ -6407,6 +6523,7 @@
    "version": "5.1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: The Xmlupdate v.5.1.4 Mod. by iet5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Sys"
    ],
@@ -6474,6 +6591,7 @@
    "version": "7.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Xtraevent v.7.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Epg"
    ],
@@ -6515,6 +6633,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: ZapTimer by Sisko a v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Uti"
    ],
@@ -6556,6 +6675,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://raw.githubusercontent.com/tarekzoka/tarek/df/installer.sh",
    "host": "github",
    "changelog": [
@@ -6588,6 +6708,7 @@
    "version": "1.76",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6637,6 +6758,7 @@
    "version": "2.0",
    "description": "CiefpYoutube - مشغل يوتيوب بنمط \"صندوق الموسيقى\" (Jukebox)، ومشغل كاميرا الويب.",
    "updated": "12.10.2026",
+   "updated_ts": 1791823953,
    "status_codes": [
     "Ipt"
    ],
@@ -6693,6 +6815,7 @@
    "version": "8.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Custom Iptvarchive Maker Pro v.8.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6734,6 +6857,7 @@
    "version": "2.0.12",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: E2m3u2bouquet v.2.0.12 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6801,6 +6925,7 @@
    "version": "1.50",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6850,6 +6975,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: eStalker web control v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6891,6 +7017,7 @@
    "version": "1.2.0-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Gtiptvplayerpro 1.2.0-r0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -6932,6 +7059,7 @@
    "version": "1.8",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -6981,6 +7109,7 @@
    "version": "1.8",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7026,6 +7155,7 @@
    "version": "2.0.91",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Iptv Archive v.2.0.91 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7093,6 +7223,7 @@
    "version": "6.6.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Iptvdream v.6.6.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7160,6 +7291,7 @@
    "version": "E2iplayer.moh.os",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: E2iplayer v.h1+git3988+7977fec-r4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7201,6 +7333,7 @@
    "version": "6.37",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7250,6 +7383,7 @@
    "version": "3.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: M3U Archimede Universal Converter v.3.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7291,6 +7425,7 @@
    "version": "1.0",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7326,6 +7461,7 @@
    "version": "1.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Multistalker v.1.5a PY3.10 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7401,6 +7537,7 @@
    "version": "1.2",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7446,6 +7583,7 @@
    "version": "6.2.0.20201122",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: Quarterpounder v.6.2.0.20201122 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7513,6 +7651,7 @@
    "version": "1.6",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7558,6 +7697,7 @@
    "version": "1.7",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7607,6 +7747,7 @@
    "version": "1.78",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7656,6 +7797,7 @@
    "version": "5.59",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Ipt"
    ],
@@ -7705,6 +7847,7 @@
    "version": "2025.03.10",
    "description": "من مستودع المطوّر tarekzoka مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7740,6 +7883,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم IPTV. الحزمة: ZouPlayer v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Ipt"
    ],
@@ -7781,6 +7925,7 @@
    "version": "1.7",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Boxtools_1.7 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -7822,6 +7967,7 @@
    "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
    "updated": "12.10.2026",
+   "updated_ts": 1791823959,
    "status_codes": [
     "Pan"
    ],
@@ -7885,6 +8031,7 @@
    "version": "1.6",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829171,
    "status_codes": [
     "Pan"
    ],
@@ -7944,6 +8091,7 @@
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829161,
    "status_codes": [
     "Pan"
    ],
@@ -8005,6 +8153,7 @@
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8056,6 +8205,7 @@
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8107,6 +8257,7 @@
    "version": "3.0",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829163,
    "status_codes": [
     "Pan"
    ],
@@ -8166,6 +8317,7 @@
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8217,6 +8369,7 @@
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829166,
    "status_codes": [
     "Pan"
    ],
@@ -8278,6 +8431,7 @@
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8329,6 +8483,7 @@
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8380,6 +8535,7 @@
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -8427,6 +8583,7 @@
    "version": "2.0.1",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791823964,
    "status_codes": [
     "Pan"
    ],
@@ -8484,6 +8641,7 @@
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8535,6 +8693,7 @@
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791823952,
    "status_codes": [
     "Pan"
    ],
@@ -8595,6 +8754,7 @@
    "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
    "updated": "11.10.2026",
+   "updated_ts": 1791750225,
    "status_codes": [
     "Pan"
    ],
@@ -8650,6 +8810,7 @@
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8701,6 +8862,7 @@
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829168,
    "status_codes": [
     "Pan"
    ],
@@ -8761,6 +8923,7 @@
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829170,
    "status_codes": [
     "Pan"
    ],
@@ -8820,6 +8983,7 @@
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8871,6 +9035,7 @@
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8922,6 +9087,7 @@
    "version": "2.0",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -8973,6 +9139,7 @@
    "version": "7.2",
    "description": "بانل تسطيب اضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791823955,
    "status_codes": [
     "Pan"
    ],
@@ -9036,6 +9203,7 @@
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791823957,
    "status_codes": [
     "Pan"
    ],
@@ -9095,6 +9263,7 @@
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9146,6 +9315,7 @@
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -9193,6 +9363,7 @@
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9244,6 +9415,7 @@
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9295,6 +9467,7 @@
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9346,6 +9519,7 @@
    "version": "2.6",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791823962,
    "status_codes": [
     "Pan"
    ],
@@ -9407,6 +9581,7 @@
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9458,6 +9633,7 @@
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9509,6 +9685,7 @@
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -9556,6 +9733,7 @@
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9607,6 +9785,7 @@
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9658,6 +9837,7 @@
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
    "updated": "12.10.2026",
+   "updated_ts": 1791829174,
    "status_codes": [
     "Pan"
    ],
@@ -9719,6 +9899,7 @@
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9770,6 +9951,7 @@
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646374,
    "status_codes": [
     "Pan"
    ],
@@ -9817,6 +9999,7 @@
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9868,6 +10051,7 @@
    "version": "2.0",
    "description": "بانل تسطيب إضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791646426,
    "status_codes": [
     "Pan"
    ],
@@ -9919,6 +10103,7 @@
    "version": "7.2",
    "description": "بانل تسطيب اضافات",
    "updated": "11.10.2026",
+   "updated_ts": 1791750225,
    "status_codes": [
     "Pan"
    ],
@@ -9974,6 +10159,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10009,6 +10195,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10054,6 +10241,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10089,6 +10277,7 @@
    "version": "5.8-r2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Epanel v.5.8-r2",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10130,6 +10319,7 @@
    "version": "10.1-r31",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10177,6 +10367,7 @@
    "version": "3.4",
    "description": "بانل تسطيب كامات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10224,6 +10415,7 @@
    "version": "3.0.6",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10271,6 +10463,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10306,6 +10499,7 @@
    "version": "3.2",
    "description": "بانل تسطيب بيكونات و ملفات قنوات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10353,6 +10547,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10406,6 +10601,7 @@
    "version": "1.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم بانلات. الحزمة: Plugins Panels Show Plugin v.1.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10447,6 +10643,7 @@
    "version": "2.3.4",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10494,6 +10691,7 @@
    "version": "2.3.4",
    "description": "بانل تسطيب اضافات",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10541,6 +10739,7 @@
    "version": "latest",
    "description": "بانل تسطيب اضافات",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "status_codes": [
     "Pan"
    ],
@@ -10586,6 +10785,7 @@
    "version": "3.4",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "status_codes": [
     "Pan"
    ],
@@ -10631,6 +10831,7 @@
    "version": "8.5",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare v.8.5 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk",
    "host": "github",
    "changelog": [
@@ -10669,6 +10870,7 @@
    "version": "7.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare pli AGP v.7.2 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-aglare-fhd-pli_7.2_all.ipk",
    "host": "github",
    "changelog": [
@@ -10715,6 +10917,7 @@
    "version": "2.3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Copper v.2.3 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk",
    "host": "github",
    "changelog": [
@@ -10753,6 +10956,7 @@
    "version": "7.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Fury v.7.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -10791,6 +10995,7 @@
    "version": "1.2",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: HD Line Super 1.2 Sami-Noor + Plug.Msn mod all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Hd/enigma2-plugin-skins-hdline-super-mod_1.2-sami-noor_all.ipk",
    "host": "github",
    "changelog": [
@@ -10837,6 +11042,7 @@
    "version": "2.21",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Jihad v.2.21 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-jihad_2.21_all.ipk",
    "host": "github",
    "changelog": [
@@ -10875,6 +11081,7 @@
    "version": "2.8",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Madmax impossible v.2.8 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-madmax-impossible_2.8_all.ipk",
    "host": "github",
    "changelog": [
@@ -10913,6 +11120,7 @@
    "version": "2.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Malek v.2.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-malek-fhd_2.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -10959,6 +11167,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Maxy v.1.4 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk",
    "host": "github",
    "changelog": [
@@ -10997,6 +11206,7 @@
    "version": "1.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Maxy pli v.1.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_OpenPli/enigma2-plugin-skins-maxy-fhd-pli_1.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11035,6 +11245,7 @@
    "version": "4.0.posters",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Metrix ItalySat 8 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrix-fhd_italysat8_all.ipk",
    "host": "github",
    "changelog": [
@@ -11073,6 +11284,7 @@
    "version": "7.5.6",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Metrix Neo v13 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk",
    "host": "github",
    "changelog": [
@@ -11119,6 +11331,7 @@
    "version": "5.4",
    "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/nitroadvance-fhd/5.4/installer.sh",
    "host": "github",
    "changelog": [
@@ -11161,6 +11374,7 @@
    "version": "4.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Novaler s Green v.4.0 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novaler-s-fhd-green_4.0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11199,6 +11413,7 @@
    "version": "2.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Novax v.2.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-novax-fhd_2.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11245,6 +11460,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Premium Black v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-black_3.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11283,6 +11499,7 @@
    "version": "3.1",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Premium Blue v.3.1 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-premium-fhd-blue_3.1_all.ipk",
    "host": "github",
    "changelog": [
@@ -11321,6 +11538,7 @@
    "version": "2.1",
    "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/revolution-pro/2.1/installer.sh",
    "host": "github",
    "changelog": [
@@ -11363,6 +11581,7 @@
    "version": "1.52.20250817",
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Slyk Q 1080 r19 v.1.52.20250817 all",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-slyk-q-1080_1.52.20250817_all.ipk",
    "host": "github",
    "changelog": [
@@ -11401,6 +11620,7 @@
    "version": "14.2-r3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: GosatPlus Ncam 14.2-r3 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11439,6 +11659,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: GosatPlus Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11477,6 +11698,7 @@
    "version": "13.5-r0",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ncam/13.5-r0/installer.sh",
    "host": "github",
    "changelog": [
@@ -11519,6 +11741,7 @@
    "version": "11.708",
    "description": "من مستودع المطوّر emilnabil مباشرة، ويتحدث تلقائياً لآخر إصدار.",
    "updated": "10.10.2026",
+   "updated_ts": 1791632277,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/oscam/11.708/installer.sh",
    "host": "github",
    "changelog": [
@@ -11561,6 +11784,7 @@
    "version": "10.0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Oscam IcamEmu v.10.0.Update-no-Kitte888 all ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscamicamall_V.10.0.Update-no-Kitte888_all.ipk",
    "host": "github",
    "changelog": [
@@ -11599,6 +11823,7 @@
    "version": "14.2-r3",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Powercam Ncam 14.2-r3 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11637,6 +11862,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Powercam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11675,6 +11901,7 @@
    "version": "14.4-r0",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Supcam Ncam 14.4-r0 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk",
    "host": "github",
    "changelog": [
@@ -11713,6 +11940,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Supcam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11751,6 +11979,7 @@
    "version": "11966.emu.r802",
    "description": "حزمة جاهزة من Linuxsat-support، قسم إيميوهات. الحزمة: Ultracam Oscam 11860-emu-r802 ipk",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk",
    "host": "github",
    "changelog": [
@@ -11789,6 +12018,7 @@
    "version": "1.4",
    "description": "حزمة جاهزة من Linuxsat-support، قسم أدوات وإصلاح. الحزمة: Opkg Tools 1.4",
    "updated": "09.10.2026",
+   "updated_ts": 1791581129,
    "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-opkg-tools_1.4_all.ipk",
    "host": "github",
    "dangerous": true,
@@ -11825,6 +12055,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "xcWEyhGnM5ouPxRF2d/B4J22b7dia1qasqd1flPugO0Yrx7RdUk//oQ6xaszkWOvf0BLzvkNHoemHZEFaT0MCQ=="
+  "sig": "gVjoNFvA8ObPtVA4E4b1q5ooZagR35mKsKlcSS8VlF/WKdyZ+2cINCeFH2y5hsmVI3rSac0FhISHNCi12dayDw=="
  }
 }

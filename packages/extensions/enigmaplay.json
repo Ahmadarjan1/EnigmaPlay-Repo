@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.48",
+  "version": "1.2.49",
   "updated": "2026-10-12",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk"
+      "file": "files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.deb"
+      "file": "files/enigmaplay/1.2.49/enigma2-plugin-extensions-enigmaplay_1.2.49_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-12",
+      "text": "1.2.49 - إصلاح بلاجن بيضل يطلعلها «تحديث» بعد ما تتحدّث (متل Bitrate وImdb وOAWeather)"
+    },
     {
       "date": "2026-10-12",
       "text": "1.2.48 - صفحة البلجن تعرض على كم رسيفر مثبّت حسب نوع الصورة حتى لو ما في آراء"
@@ -105,38 +109,6 @@
     {
       "date": "2026-10-09",
       "text": "1.2.30 - خط عربي أوضح: إزالة التشكيل الذي يظهر منفصلاً على الشاشة"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.29 - المصدر الأصلي واسم المطوّر في صفحة كل بلجن"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.28 - إصلاح ترتيب النص في نوافذ الرسائل"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.27 - قراءة سياسة الخصوصية وشروط الاستخدام على شاشة الرسيفر"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.26 - تحسين نافذة «حول EnigmaPlay»"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.25 - روابط سياسة الخصوصية وشروط الاستخدام في «حول EnigmaPlay»"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.24 - جرس الإشعارات: عدد التحديثات المتوفرة ورسائل المتجر"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.23 - التنزيل يعمل حتى لو كان تاريخ الرسيفر خاطئاً"
-    },
-    {
-      "date": "2026-10-09",
-      "text": "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     }
   ],
   "i18n": {

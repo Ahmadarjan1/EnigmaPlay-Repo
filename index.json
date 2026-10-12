@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T17:57:04Z",
+ "generated": "2026-10-12T18:19:35Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -7884,7 +7884,7 @@
    "name": "CiefpBouquetUpdater",
    "version": "1.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -7905,9 +7905,10 @@
     ]
    ],
    "sha256": "664a32aef4712e9df4ffabf30f3776a393f9c8b740a1eea7b1af52801627592a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpbouquetupdater.png?v=07ef2e354e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpbouquetupdater/1.jpg?v=f4f9baa42f"
    ],
    "downloads": [
     {
@@ -7927,7 +7928,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpBouquetUpdater/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpBouquetUpdater - plugin allows for easy download and update of bouquets"
+    }
+   }
   },
   {
    "id": "ciefpchannelmanager",
@@ -7935,7 +7943,7 @@
    "name": "CiefpChannelManager",
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -7956,9 +7964,12 @@
     ]
    ],
    "sha256": "97b487557843f952169fe9f2713cc99f116b536a44e29a34528c56b4f9d82e0e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelmanager.png?v=b5854f8b0e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/1.jpg?v=19a1574bc0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/2.jpg?v=1e00358056",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/3.jpg?v=9a51ac44f6"
    ],
    "downloads": [
     {
@@ -7978,7 +7989,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelManager/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpChannelManager - plugin for managing bouquets, editing channels, deleting, moving channels, and moving bouquets."
+    }
+   }
   },
   {
    "id": "ciefpe2converter",
@@ -8088,7 +8106,7 @@
    "name": "CiefpEasySetup",
    "version": "3.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8109,9 +8127,10 @@
     ]
    ],
    "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpeasysetup.png?v=0eccc25543",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpeasysetup/1.jpg?v=4090244f1d"
    ],
    "downloads": [
     {
@@ -8131,7 +8150,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEasySetup/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpEasySetup - plugin for automatic installation of various plugins"
+    }
+   }
   },
   {
    "id": "ciefpepgshare",
@@ -8190,7 +8216,7 @@
    "name": "CiefpIPTVBouquets",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8211,9 +8237,12 @@
     ]
    ],
    "sha256": "1d5464dc099da7cd5693497e7ef31b6d3a3aab9c248c380872cd6cff4c9ecae2",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpiptvbouquets.png?v=6bf79d1cd9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/1.jpg?v=be1eaf7fdc",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/2.jpg?v=c8d97f9bfb",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/3.jpg?v=45a1411972"
    ],
    "downloads": [
     {
@@ -8233,7 +8262,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpIPTVBouquets/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpIPTVBouquets - plugin allows users to install, edit and delete IPTV bouquets"
+    }
+   }
   },
   {
    "id": "ciefpmojtvepg",
@@ -8664,7 +8700,7 @@
    "name": "CiefpSatelliteAnalyzer",
    "version": "1.8",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8685,9 +8721,11 @@
     ]
    ],
    "sha256": "5b4ce4587e4383373c7f9175da6b67a43f48e35bcbfe15a0e17d0799177388fa",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatelliteanalyzer.png?v=7d7beea692",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/1.jpg?v=1be767cd0a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/2.jpg?v=3611ea31e6"
    ],
    "downloads": [
     {
@@ -8707,7 +8745,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSatelliteAnalyzer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSatelliteAnalyzer - Astra-sm analyzer for t2mi and abertis channels"
+    }
+   }
   },
   {
    "id": "ciefpsatellitexmleditor",
@@ -8715,7 +8760,7 @@
    "name": "CiefpSatelliteXmlEditor",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -8736,9 +8781,10 @@
     ]
    ],
    "sha256": "6829ec6689d622ad7cd30e68ac5c25e5258a2d208043c01e5368ed16bcfa1f4e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatellitexmleditor.png?v=fa82f9397a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatellitexmleditor/1.jpg?v=44e54ae5d2"
    ],
    "downloads": [
     {
@@ -8758,7 +8804,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSatelliteXmlEditor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSatellitesXmlEditor - view and edit satellites.xml file"
+    }
+   }
   },
   {
    "id": "ciefpscreengrab",
@@ -9604,7 +9657,7 @@
    "name": "CiefpVibes",
    "version": "2.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Pan"
    ],
@@ -9625,9 +9678,12 @@
     ]
    ],
    "sha256": "90af5ee0b8b6988327b0f57e19d11cd12322fc4036ff438fa195dadeb43b9845",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvibes.png?v=9d60c077b1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/1.jpg?v=6976e48aef",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/2.jpg?v=c420dc727a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/3.jpg?v=8027297a4b"
    ],
    "downloads": [
     {
@@ -9647,7 +9703,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVibes/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpVibes - Enigma2 music jukebox plugin local,online,network,opendirectory"
+    }
+   }
   },
   {
    "id": "ciefpvideoplayer",
@@ -11762,6 +11825,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "PXG3+T23EmmQ3fbVjOKLCLxIcHal2ACwyBrZI4sbyYhyHffqLk0z7DzW5pvDh7frjlPqb6ComAdFOTmqqgAOAQ=="
+  "sig": "OV4UfAkn8Fka3+6KSwWuYVuSWfvcG/ynqNuE9wI4tGvc+OGGMpL72gAotGrXHJOp90jjpiXlnbWqojFoKsAyAg=="
  }
 }

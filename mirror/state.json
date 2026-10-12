@@ -46,9 +46,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-11",
-"sha256": "b0ab00409a5090cc6c4793d082884e10a97928a2ba82fb4b2b886591526f156a",
-"size": 323289
+"date": "2026-10-12",
+"sha256": "3f99e526dc86e2b201fb8bb5a63df922b9b6fb91287475a2317d3a3731106efd",
+"size": 323729
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -269,6 +269,11 @@
 "date": "2026-10-09",
 "sha256": "708240de47dd5114cc0c067556445f2c01f5dfc08248b677b0c21e7c98f30f8d",
 "size": 13386002
+},
+"gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2-skin-mohammedskin_all.ipk": {
+"date": "2026-10-12",
+"sha256": "98b71ffa577fb6659af248542ddd24bf116c2fa383a4b193fceb5e29f06b39eb",
+"size": 65668168
 },
 "gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2_plugin_skins_areadeltasat_fhd_dragon_4_2_Poster_Backdrop.ipk": {
 "date": "2026-10-09",
@@ -4840,6 +4845,11 @@
 "sha256": "5f89fd66ae48375103769a47ab34641516cd92689b05f30d20b37ee79df6b605",
 "size": 18744
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-fysinema_1.2.1_all.ipk": {
+"date": "2026-10-12",
+"sha256": "640f6b04bc861f020f7768d2557c1eaf06dfb45204bed2547c3f0b2c5fc44f3b",
+"size": 2517592
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "14b6a7be49bf0fc061196928df1de5fd72b7b8b888ac0e5ac15248c9c1d332b8",
@@ -8451,13 +8461,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-12 07:00",
+"last_run": "2026-10-12 08:09",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-12",
-"files": 1690,
+"files": 1692,
 "upstream": "ok"
 }
 }

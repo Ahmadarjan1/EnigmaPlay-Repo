@@ -883,6 +883,12 @@
 },
 {
 "section": "Iptv Tools",
+"name": "Fysinema v.1.2.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-fysinema_1.2.1_all.ipk"
+},
+{
+"section": "Iptv Tools",
 "name": "Gtiptvplayerpro 1.2.0-r0 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk"
@@ -6298,6 +6304,12 @@
 "name": "FHD Metrix Neo v13 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-metrixfhd-neo_V13_all.ipk"
+},
+{
+"section": "Skins All",
+"name": "FHD Mohammed v.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-skin-mohammedskin_all.ipk"
 },
 {
 "section": "Skins All",

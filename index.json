@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T00:13:26Z",
+ "generated": "2026-10-12T04:16:15Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1807,15 +1807,19 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.47",
+   "version": "1.2.48",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "11.10.2026",
+   "updated": "12.10.2026",
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "12.10.2026",
+     "1.2.48 - صفحة البلجن تعرض على كم رسيفر مثبّت حسب نوع الصورة حتى لو ما في آراء"
+    ],
     [
      "11.10.2026",
      "1.2.47 - إصلاح ترتيب البطاقات المميزة وصفحة البلجن باللغات الأجنبية"
@@ -1921,7 +1925,7 @@
      "1.2.22 - نافذة رسائل المتجر بتصميم جديد وعربي مرتب"
     ]
    ],
-   "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0",
+   "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1933,27 +1937,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
-     "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0",
-     "size": 2115648,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
+     "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146",
+     "size": 2116886,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.ipk",
-       "sha256": "930aec466047a2305a942af0ee965ea6bfd7cf401b12f51eda356466e0c91fd0"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.ipk",
+       "sha256": "4734efee5fe7f4866538e6b5958123543124ead30e1a61ac841d6ad40924c146"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.deb",
-     "sha256": "6aa44d843114a096eb8b465f6c86c4a7eaee2c442bf483b68d705f3a5f7a97bc",
-     "size": 2115652,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.deb",
+     "sha256": "29859d648cca54b3579c26c16f95efce7fc133db14e148bedc6638bfd4b74cc3",
+     "size": 2116890,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.47/enigma2-plugin-extensions-enigmaplay_1.2.47_all.deb",
-       "sha256": "6aa44d843114a096eb8b465f6c86c4a7eaee2c442bf483b68d705f3a5f7a97bc"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.48/enigma2-plugin-extensions-enigmaplay_1.2.48_all.deb",
+       "sha256": "29859d648cca54b3579c26c16f95efce7fc133db14e148bedc6638bfd4b74cc3"
       }
      ]
     }
@@ -11726,6 +11730,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "PKLCL9+T6sGlXUHOLbmcNvsnvBtnRHNqg4uwzB7RNKC3NezdzvpBzbM/bP36K7NGmXSjOg4JdQbAtTbgaoLfBA=="
+  "sig": "+/jQ3r5q5vkQCHCY0sGHM4/p0hT9rGZLzP3nL8bwDnGfGhCK0c5Ryj13n4T4pzL/ngnkT4D61kFrHd9e/6DFAg=="
  }
 }

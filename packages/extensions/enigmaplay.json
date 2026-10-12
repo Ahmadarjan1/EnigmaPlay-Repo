@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.50",
+  "version": "1.2.51",
   "updated": "2026-10-12",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.ipk"
+      "file": "files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.50/enigma2-plugin-extensions-enigmaplay_1.2.50_all.deb"
+      "file": "files/enigmaplay/1.2.51/enigma2-plugin-extensions-enigmaplay_1.2.51_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-12",
+      "text": "1.2.51 - «أحدث الإضافات» بتعرض لحد 30 بلجن بدل 12"
+    },
     {
       "date": "2026-10-12",
       "text": "1.2.50 - ما عاد يطلع «تحديث» لبلجن من الصورة نفسها لمجرد إنه اسمه متل بلجن بالمتجر (متل OAWeather)"
@@ -105,10 +109,6 @@
     {
       "date": "2026-10-10",
       "text": "1.2.32 - صف جديد في الرئيسية: الرائج هذا الأسبوع"
-    },
-    {
-      "date": "2026-10-10",
-      "text": "1.2.31 - إصلاح توقف الواجهة إذا انتهى التنزيل بعد إغلاق المتجر"
     }
   ],
   "i18n": {

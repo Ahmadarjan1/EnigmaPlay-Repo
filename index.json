@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-11T21:27:42Z",
+ "generated": "2026-10-12T00:13:26Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10166,41 +10166,6 @@
    ]
   },
   {
-   "id": "magicpanelgold",
-   "category": "panels",
-   "name": "Magicpanelgold",
-   "version": "latest",
-   "description": "بانل تسطيب اضافات",
-   "updated": "09.10.2026",
-   "status_codes": [
-    "Pan"
-   ],
-   "url": "https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh",
-   "host": "github",
-   "changelog": [
-    [
-     "09.10.2026",
-     "latest"
-    ]
-   ],
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
-   ],
-   "downloads": [
-    {
-     "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ham-ahmed/G10/refs/heads/main/MagicPanelGold-install.sh"
-    }
-   ],
-   "python": [
-    "2",
-    "3"
-   ],
-   "author": "Ham-ahmed",
-   "homepage": "https://github.com/Ham-ahmed/G10"
-  },
-  {
    "id": "mohamedstore",
    "category": "panels",
    "name": "MohamedStore",
@@ -11761,6 +11726,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "Nh9UvOZgafV6DuSozJOUhsLzOMRmmAuEHHcgR0W5kr0bxVWqphXrRk2WrqnM5KAP9ZWBHSYOVKLXNGj5Uw8WDw=="
+  "sig": "PKLCL9+T6sGlXUHOLbmcNvsnvBtnRHNqg4uwzB7RNKC3NezdzvpBzbM/bP36K7NGmXSjOg4JdQbAtTbgaoLfBA=="
  }
 }

@@ -3,7 +3,7 @@
   "name": "Tvgarden",
   "category": "extensions",
   "version": "3.0",
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "description": "من مستودع المطوّر OwnerPlugins مباشرة، ويتحدث تلقائياً لآخر إصدار.",
   "python": [
     "2",

@@ -45,5 +45,6 @@
     ],
     "version_file": "installer.sh",
     "version_regex": "(?m)^\\s*(?:VERSION|version|MY_VERSION|PLUGIN_VERSION)\\s*=\\s*[\\\"']?v?([0-9][\\w.\\-]*)"
-  }
+  },
+  "updated_at": 1791632277
 }

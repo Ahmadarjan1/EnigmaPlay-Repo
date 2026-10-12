@@ -35,5 +35,6 @@
     "en": {
       "description": "CiefpChannelHistory is an Enigma2 plugin that tracks TV channel\nviewing history and provides detailed statistics, featuring an\nFHD EPG Info screen enriched with TMDB/OMDb data."
     }
-  }
+  },
+  "updated_at": 1791754062
 }

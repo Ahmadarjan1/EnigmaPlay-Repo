@@ -349,6 +349,7 @@ def build(offline=False):
                 "version": str(p.get("version", "")),
                 "description": p.get("description", ""),
                 "updated": norm_date(p.get("updated"), where),
+                "updated_ts": int(p["updated_at"]) if str(p.get("updated_at") or "").isdigit() else None,
                 "status_codes": [s for s in [p.get("subcategory")] if s] + list(p.get("tags", [])),
                 "url": primary.get("url", ""),
                 "host": "github" if "github" in primary.get("url", "") else "other",

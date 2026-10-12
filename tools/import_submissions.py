@@ -20,6 +20,7 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 import urllib.request
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
@@ -153,6 +154,7 @@ def import_one(s):
         "category": cat,
         "version": ver,
         "updated": today,
+        "updated_at": int(time.time()),          # minute order inside the same day (latest additions)
         "description": meta.get("description") or old.get("description", ""),
         "author": meta.get("author") or s.get("user"),
         "developer": s.get("user"),

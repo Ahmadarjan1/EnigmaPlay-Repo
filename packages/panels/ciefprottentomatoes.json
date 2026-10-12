@@ -47,5 +47,6 @@
     ],
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpRottenTomatoes/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
-  }
+  },
+  "updated_at": 1791646426
 }

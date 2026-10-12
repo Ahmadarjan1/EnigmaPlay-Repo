@@ -53,5 +53,6 @@
     "en": {
       "description": "KingOfSat Viewer a plugin for Enigma2 receivers that allows viewing KingOfSat data directly on the TV screen. \nNew Version 2.2: DAB Radio Station Frequencies"
     }
-  }
+  },
+  "updated_at": 1791646374
 }

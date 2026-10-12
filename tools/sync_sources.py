@@ -40,6 +40,7 @@ import os
 import re
 import shutil
 import sys
+import time
 import urllib.request
 import urllib.error
 
@@ -187,6 +188,7 @@ def sync_one(path, dry):
     today = datetime.date.today().isoformat()
     m["downloads"] = wanted
     m["updated"] = today
+    m["updated_at"] = int(time.time())
     if not same_version:
         old = m.get("version")
         m["version"] = version

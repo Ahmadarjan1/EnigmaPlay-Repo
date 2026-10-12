@@ -15,7 +15,28 @@ fail() { say "${R}ERROR: $*${N}"; say "${C}Details: $LOG${N}"; rm -f "$TMP".*; e
 fetch() {   # fetch <url> <file>
     wget -q -O "$2" "$1" >>"$LOG" 2>&1 \
       || wget -q --no-check-certificate -O "$2" "$1" >>"$LOG" 2>&1 \
-      || { command -v curl >/dev/null 2>&1 && curl -k -s -L -f -o "$2" "$1" >>"$LOG" 2>&1; }
+      || { command -v curl >/dev/null 2>&1 && curl -k -s -L -f -o "$2" "$1" >>"$LOG" 2>&1; } \
+      || pyfetch "$1" "$2"
+}
+pyfetch() { # last resort: boxes whose wget has no HTTPS and no curl (Python 3 is required anyway)
+    for p in python3 python; do
+        command -v "$p" >/dev/null 2>&1 || continue
+        "$p" - "$1" "$2" >>"$LOG" 2>&1 <<'EOF'
+import ssl, sys, urllib.request
+url, out = sys.argv[1], sys.argv[2]
+def get(ctx):
+    req = urllib.request.Request(url, headers={"User-Agent": "EnigmaPlay-installer"})
+    return urllib.request.urlopen(req, timeout=60, context=ctx).read()
+try:
+    data = get(ssl.create_default_context())
+except Exception as e:
+    print("python fetch (verified): %s" % e)
+    data = get(ssl._create_unverified_context())
+open(out, "wb").write(data)
+EOF
+        [ -s "$2" ] && return 0
+    done
+    return 1
 }
 
 : > "$LOG"

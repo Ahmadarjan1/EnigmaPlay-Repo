@@ -3,16 +3,16 @@
   "name": "CiefpSRTplayer",
   "category": "panels",
   "version": "1.0",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpsrtplayer.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpsrtplayer/1.jpg"
   ],
   "downloads": [
     {
@@ -48,5 +48,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpSRTplayer/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646426
+  "updated_at": 1791923965,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSRTplayer/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpSRTplayer - SRT subtitle player for enigma2"
+    }
+  }
 }

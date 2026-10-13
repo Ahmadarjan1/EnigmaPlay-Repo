@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.52",
-  "updated": "2026-10-12",
+  "version": "1.2.53",
+  "updated": "2026-10-13",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk"
+      "file": "files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.deb"
+      "file": "files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-13",
+      "text": "1.2.53 - بعد تحديث أي بلجن مثبّت بيطلب إعادة تشغيل الواجهة، حتى ما يشتغل البلجن بنص كوده القديم ويعمل كراش"
+    },
     {
       "date": "2026-10-12",
       "text": "1.2.52 - «أحدث الإضافات» مرتبة حسب وقت التحديث بالدقيقة"
@@ -105,10 +109,6 @@
     {
       "date": "2026-10-10",
       "text": "1.2.34 - زر مشاركة (الأزرق) في صفحة البلجن مع رمز QR"
-    },
-    {
-      "date": "2026-10-10",
-      "text": "1.2.33 - شارة مطوّر موثّق للبلجنات التي يديرها مطوّرها بنفسه"
     }
   ],
   "i18n": {
@@ -132,5 +132,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1791838127
+  "updated_at": 1791918933
 }

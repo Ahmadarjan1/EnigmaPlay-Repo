@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T21:54:57Z",
+ "generated": "2026-10-13T21:59:32Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8593,8 +8593,8 @@
    "name": "CiefpOpenDirectories",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791928771,
    "status_codes": [
     "Pan"
    ],
@@ -8615,9 +8615,12 @@
     ]
    ],
    "sha256": "7031194b43e95be4dbe1e1b6bd1e2c3dbff4b6b166a8da82d0fd5c99eacaba73",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopendirectories.png?v=cd33cc3044",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/1.jpg?v=97da0c39e7",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/2.jpg?v=260e659f72",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/3.jpg?v=7f14e7d9c7"
    ],
    "downloads": [
     {
@@ -8637,7 +8640,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenDirectories/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOpenDirectories - plugin for viewing open directories on the web"
+    }
+   }
   },
   {
    "id": "ciefpopensubtitles",
@@ -12368,6 +12378,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "xjdE4Cb/4NO6ksCyfLLZFdpVVaqQqy68UXEbt3oE4SCyTSRib0KSiHsG6jFNR+dmC5ghuzi2XdhTwHELHLivAA=="
+  "sig": "/8kB8BGZOP6ZNpRtDJems5JMKst3Gmb9RzHZqEOZL3i/zc2ECh9UPCD5+7eWEA4TwRRz8TaHbQZaBg0ki3abAg=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T18:09:05Z",
+ "generated": "2026-10-13T18:15:52Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10064,8 +10064,8 @@
    "name": "CiefpVideoPlayer",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791915350,
    "status_codes": [
     "Pan"
    ],
@@ -10086,9 +10086,14 @@
     ]
    ],
    "sha256": "be09093234102499c687e36e9be6979e51d00ee3902899726bcbabce5cc398f4",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvideoplayer.png?v=2dd04cdfa5",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/1.jpg?v=636ba22f29",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/2.jpg?v=8a39b59903",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/3.jpg?v=7f8c05af3e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/4.jpg?v=417d82d816",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/5.jpg?v=816238f0ca"
    ],
    "downloads": [
     {
@@ -10108,7 +10113,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVideoPlayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpVideoPlayer - video player online, network, local,use tmdb,omdb api key for TMDB posters"
+    }
+   }
   },
   {
    "id": "ciefpwebcame2prenjsf",
@@ -12250,6 +12262,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "IfdUi2wvyTrcJcyWpTtGXsOfYB6dnF6mm706RmJXlYVeeyJZg5J8/b0kSKF4X5CKXwPkRWNIx/w5Jz+6nGgwCA=="
+  "sig": "uyjjbIkdzPaR1/ZyVZiTcL2wiUeCKFXzK7UjaX7GDNeJREO6OKKZ54KHlftIlCQGkThCDvPW2687iB9taqaaCA=="
  }
 }

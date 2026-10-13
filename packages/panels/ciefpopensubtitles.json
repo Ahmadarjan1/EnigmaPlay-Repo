@@ -3,16 +3,19 @@
   "name": "CiefpOpenSubtitles",
   "category": "panels",
   "version": "1.5",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpopensubtitles.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpopensubtitles/1.jpg",
+    "screenshots/ciefpopensubtitles/2.jpg",
+    "screenshots/ciefpopensubtitles/3.jpg",
+    "screenshots/ciefpopensubtitles/4.jpg"
   ],
   "downloads": [
     {
@@ -44,5 +47,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpOpenSubtitles/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646374
+  "updated_at": 1791911898,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenSubtitles/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpOpenSubtitles - plugin for searching and downloading subtitles with opensubtitles, uses subdl api key"
+    }
+  }
 }

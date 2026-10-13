@@ -3,16 +3,18 @@
   "name": "CiefpE2Converter",
   "category": "panels",
   "version": "2.2",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpe2converter.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpe2converter/1.jpg",
+    "screenshots/ciefpe2converter/2.jpg",
+    "screenshots/ciefpe2converter/3.jpg"
   ],
   "downloads": [
     {
@@ -48,5 +50,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpE2Converter/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646426
+  "updated_at": 1791923964,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2Converter/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpE2Converter - m3u playlist to userbouquet converter"
+    }
+  }
 }

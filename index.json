@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T19:43:07Z",
+ "generated": "2026-10-13T20:39:27Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8226,8 +8226,8 @@
    "name": "CiefpE2Converter",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791923964,
    "status_codes": [
     "Pan"
    ],
@@ -8248,9 +8248,12 @@
     ]
    ],
    "sha256": "77e9c95c256cdc0e80b86f86fa0235d8342b7912ea6bcba5fccdf82eea5f5e58",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2converter.png?v=bb8eeda549",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/1.jpg?v=f5d6dfaa11",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/2.jpg?v=887b001bb5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/3.jpg?v=ff69d0ed60"
    ],
    "downloads": [
     {
@@ -8270,7 +8273,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2Converter/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpE2Converter - m3u playlist to userbouquet converter"
+    }
+   }
   },
   {
    "id": "ciefpe2editor",
@@ -8752,8 +8762,8 @@
    "name": "CiefpParabolaCZ",
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791923967,
    "status_codes": [
     "Pan"
    ],
@@ -8774,9 +8784,13 @@
     ]
    ],
    "sha256": "ee4693e465d6c568e801f2909adafd9af4ae1c8f05580cc2a327d1107eae125e",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpparabolacz.png?v=03f0ba810b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/1.jpg?v=a6298bcc1f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/2.jpg?v=ef487538d9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/3.jpg?v=9a959ebae4",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/4.jpg?v=a5731b398c"
    ],
    "downloads": [
     {
@@ -8796,7 +8810,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpParabolaCZ/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpParabolaCZ - parabola.cz site browser with text translation, uses groq api key for text translation"
+    }
+   }
   },
   {
    "id": "ciefppictureplayer",
@@ -9399,8 +9420,8 @@
    "name": "CiefpSRTplayer",
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791923965,
    "status_codes": [
     "Pan"
    ],
@@ -9421,9 +9442,10 @@
     ]
    ],
    "sha256": "605a9fcbb39da5e1c3bcb8ade07f4cf03f723426356ace982a90ab88f53e9a45",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsrtplayer.png?v=e5d20b5e7a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsrtplayer/1.jpg?v=a974615940"
    ],
    "downloads": [
     {
@@ -9443,7 +9465,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSRTplayer/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSRTplayer - SRT subtitle player for enigma2"
+    }
+   }
   },
   {
    "id": "ciefpstreamrelaypy2",
@@ -12319,6 +12348,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "x1emBM8sTjXFLOSwVouN3PN1mLLz0+KMIJ+sRQZme7+1yzYJFqV/mQSJz5WVLgRlju265SR1uS6+6kscw8vcDg=="
+  "sig": "H+HUynJw2nNEnXJSJyBXFSwFYYhxkuxkN8rEtZIf0RNMDOMnt8JRZZyyGF0sscVAu76fKtIIgDnYs/DBp2iDCQ=="
  }
 }

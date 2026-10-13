@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T17:29:33Z",
+ "generated": "2026-10-13T18:09:05Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1291,7 +1291,7 @@
    "version": "2.2",
    "description": "CiefpKingSat - نظرة عامة على موقع KingOfSat، والأقمار الصناعية، وأخبار الترددات.",
    "updated": "13.10.2026",
-   "updated_ts": 1791912572,
+   "updated_ts": 1791914933,
    "status_codes": [
     "Uti"
    ],
@@ -1312,8 +1312,8 @@
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat-2.png?v=e213acc9a6",
    "screenshots": [
     "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/1.jpg?v=e9e4743106",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=b6a166b6a9",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=a7fa711eca"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=094ef1073a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=66c31d25c0"
    ],
    "downloads": [
     {
@@ -1407,8 +1407,8 @@
    "name": "CiefpWebCamE2PrenjSF",
    "version": "1.5",
    "description": "إضافة لأجهزة إنيجما2",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646374,
+   "updated": "13.10.2026",
+   "updated_ts": 1791914926,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpwebcame2prenjsf-2/1.5/installer.sh",
    "host": "github",
    "changelog": [
@@ -1422,9 +1422,11 @@
     ]
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf-2.png?v=867c8bbf95",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/1.jpg?v=3875189ebd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/2.jpg?v=ff713aec5a"
    ],
    "downloads": [
     {
@@ -1444,7 +1446,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "WebcamE2PRenjSF - webcam player and downloader"
+    }
+   }
   },
   {
    "id": "ciplushelper",
@@ -9124,8 +9133,8 @@
    "name": "CiefpSelectSatellite",
    "version": "1.9",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791914938,
    "status_codes": [
     "Pan"
    ],
@@ -9146,9 +9155,10 @@
     ]
    ],
    "sha256": "dc353e3cdf480ac63af7ef2c2afd36e9c49c2ff34bc09aa7b2f7504cf8e4003a",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpselectsatellite.png?v=fe3151ea55",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpselectsatellite/1.jpg?v=6bea177e5a"
    ],
    "downloads": [
     {
@@ -9168,7 +9178,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSelectSatellite/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSelectSatellite - plugin can create any version of enigma2 list from engine list by selecting satellites"
+    }
+   }
   },
   {
    "id": "ciefpsettingsdownloader",
@@ -10099,8 +10116,8 @@
    "name": "CiefpWebCamE2PrenjSF",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646374,
+   "updated": "13.10.2026",
+   "updated_ts": 1791914919,
    "status_codes": [
     "Pan"
    ],
@@ -10117,9 +10134,11 @@
     ]
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf.png?v=867c8bbf95",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/1.jpg?v=3875189ebd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/2.jpg?v=ff713aec5a"
    ],
    "downloads": [
     {
@@ -10139,7 +10158,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "WebcamE2PRenjSF - webcam player and downloader"
+    }
+   }
   },
   {
    "id": "ciefpwhiteliststreamrelay",
@@ -10197,14 +10223,14 @@
    "id": "ciefpyoutube",
    "category": "panels",
    "name": "CiefpYouTube",
-   "version": "2.0",
+   "version": "2.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791914944,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.0/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
    "host": "github",
    "changelog": [
     [
@@ -10220,22 +10246,25 @@
      "latest"
     ]
    ],
-   "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube.png?v=a21a8e8b7c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/1.jpg?v=7114ba099b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/2.jpg?v=d1e8035d13",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/3.jpg?v=4ca139e4b1"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.0/installer.sh",
-     "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9",
-     "size": 9623,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
+     "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
+     "size": 11359,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.0/installer.sh",
-       "sha256": "c0b342ef025c28d90121105ac8fc9f8c0a9eb73c7057f0a8ab3af8c7d956e9a9"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.1/installer.sh",
+       "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8"
       }
      ]
     }
@@ -10243,7 +10272,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpYoutube - Youtube jukebox player, webcam player"
+    }
+   }
   },
   {
    "id": "ciefsettingspanel",
@@ -12214,6 +12250,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "C0x2OVwXdFSTGh/GbMmkwmi5x4I0jVEYapqo9nXTjufvPV5pngUfi2itnDe/xqovJTKM1MmS/uZTKjcjGeUaBw=="
+  "sig": "IfdUi2wvyTrcJcyWpTtGXsOfYB6dnF6mm706RmJXlYVeeyJZg5J8/b0kSKF4X5CKXwPkRWNIx/w5Jz+6nGgwCA=="
  }
 }

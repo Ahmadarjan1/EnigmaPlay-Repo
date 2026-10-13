@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T20:39:27Z",
+ "generated": "2026-10-13T21:31:20Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8950,8 +8950,8 @@
    "name": "CiefpRottenTomatoes",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791927074,
    "status_codes": [
     "Pan"
    ],
@@ -8972,9 +8972,12 @@
     ]
    ],
    "sha256": "b4fca40bfb895c4aee380a9d29b84ffaabc88e971126b269b2846b15d78e6073",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefprottentomatoes.png?v=6f3f9f39ae",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/1.jpg?v=402a5068b0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/2.jpg?v=351fcad90c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/3.jpg?v=5fd5ed3b66"
    ],
    "downloads": [
     {
@@ -8994,7 +8997,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpRottenTomatoes/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpRottenTomatoes - plugin for viewing the description of movies series from the website rotten tomatoes"
+    }
+   }
   },
   {
    "id": "ciefpsatelliteanalyzer",
@@ -9123,8 +9133,8 @@
    "name": "CiefpScreenGrab",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791927078,
    "status_codes": [
     "Pan"
    ],
@@ -9145,9 +9155,12 @@
     ]
    ],
    "sha256": "f53eb603e43eeabdd3d9a60b9233e50b6c9c67484e232befa1135e227103d966",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpscreengrab.png?v=7aff302b35",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/1.jpg?v=f605dbb337",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/2.jpg?v=c86e9cfd8b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/3.jpg?v=81332462ab"
    ],
    "downloads": [
     {
@@ -9167,7 +9180,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpScreenGrab/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpScreenGrab - plugin for creating screenshots and viewing images"
+    }
+   }
   },
   {
    "id": "ciefpselectsatellite",
@@ -12348,6 +12368,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "H+HUynJw2nNEnXJSJyBXFSwFYYhxkuxkN8rEtZIf0RNMDOMnt8JRZZyyGF0sscVAu76fKtIIgDnYs/DBp2iDCQ=="
+  "sig": "SAcZ/3wqyO8h8DuLL3NwrJevEQyihG6EOPwsN19CYYwJVmIzqkgZtiino0zrCVkxGHbIHoioCRilGUxgL3XCDw=="
  }
 }

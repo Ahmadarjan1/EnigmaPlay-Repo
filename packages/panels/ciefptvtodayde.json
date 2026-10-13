@@ -3,16 +3,17 @@
   "name": "CiefpTvTodayDE",
   "category": "panels",
   "version": "1.2",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefptvtodayde.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefptvtodayde/1.jpg",
+    "screenshots/ciefptvtodayde/2.jpg"
   ],
   "downloads": [
     {
@@ -48,5 +49,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpTvTodayDE/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646426
+  "updated_at": 1791911676,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvTodayDE/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpTvTodayDE - display of TV program EPG for DE channels"
+    }
+  }
 }

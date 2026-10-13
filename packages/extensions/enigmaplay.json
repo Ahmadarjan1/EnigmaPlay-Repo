@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.54",
-  "updated": "2026-10-13",
+  "version": "1.2.55",
+  "updated": "2026-10-14",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk"
+      "file": "files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.deb"
+      "file": "files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.55 - لما يوقف أي بلجن عن العمل، المتجر بيشرحلك السبب بالعربي وبيعرض الحل (إعادة تشغيل الواجهة أو إعادة التثبيت)"
+    },
     {
       "date": "2026-10-13",
       "text": "1.2.54 - «مختارات المتجر» صارت تتحدث مباشرة من لوحة الإدارة بالجوال"
@@ -105,10 +109,6 @@
     {
       "date": "2026-10-10",
       "text": "1.2.36 - سؤال هل يعمل البلجن عندك، ونسبة نجاحه على صورتك، وإخفاء البلجنات المعطلة، وترجمة كاملة لكل اللغات"
-    },
-    {
-      "date": "2026-10-10",
-      "text": "1.2.35 - الجرس يعرض ما الجديد في كل تحديث قبل تثبيته"
     }
   ],
   "i18n": {
@@ -132,5 +132,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1791919703
+  "updated_at": 1791927754
 }

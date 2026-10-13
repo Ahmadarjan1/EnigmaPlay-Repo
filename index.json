@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T19:33:04Z",
+ "generated": "2026-10-13T19:43:07Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10234,8 +10234,8 @@
    "name": "CiefpWhitelistStreamrelay",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791920586,
    "status_codes": [
     "Pan"
    ],
@@ -10256,9 +10256,10 @@
     ]
    ],
    "sha256": "fd133e6bad0ad6cf7ab30b107a8aa4e8ec346b24a7e70b425bda8cdb1c959a23",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwhiteliststreamrelay.png?v=e26ea0e83e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwhiteliststreamrelay/1.jpg?v=69082df908"
    ],
    "downloads": [
     {
@@ -10278,7 +10279,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpWhitelistStreamrelay/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpWhitelistStreamrelay - plugin for automatic generation of whitelist_streamrelay file"
+    }
+   }
   },
   {
    "id": "ciefpyoutube",
@@ -12311,6 +12319,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "AHguvm1aTxelW+2W3wc8csqsKsOYV4v5OYBi7yaPcqCTJgO7MlERq8VT0mRH0XsyK2r6d512bLK4Vwn0286tCw=="
+  "sig": "x1emBM8sTjXFLOSwVouN3PN1mLLz0+KMIJ+sRQZme7+1yzYJFqV/mQSJz5WVLgRlju265SR1uS6+6kscw8vcDg=="
  }
 }

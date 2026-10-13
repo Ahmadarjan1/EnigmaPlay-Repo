@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T17:14:50Z",
+ "generated": "2026-10-13T17:18:19Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8586,8 +8586,8 @@
    "name": "CiefpOpenSubtitles",
    "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646374,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911898,
    "status_codes": [
     "Pan"
    ],
@@ -8604,9 +8604,13 @@
     ]
    ],
    "sha256": "e51eed65cbf5dcfe88e0546be46f43227c095bc5a40bad1a603d0410499a835b",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopensubtitles.png?v=d3a7700e1b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/1.jpg?v=89ae5f697b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/2.jpg?v=a41a7af2d6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/3.jpg?v=252df79a41",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/4.jpg?v=f2af9fb271"
    ],
    "downloads": [
     {
@@ -8626,7 +8630,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenSubtitles/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpOpenSubtitles - plugin for searching and downloading subtitles with opensubtitles, uses subdl api key"
+    }
+   }
   },
   {
    "id": "ciefposcameditor",
@@ -9499,8 +9510,8 @@
    "name": "CiefpT2miAbertisOpenPLi",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911894,
    "status_codes": [
     "Pan"
    ],
@@ -9521,9 +9532,10 @@
     ]
    ],
    "sha256": "d08b146bf49d43a74b55af8c2dcb40864070707c55ad8f44c3652bbff39782cf",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpt2miabertisopenpli.png?v=317760b187",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpt2miabertisopenpli/1.png?v=4d2de4b991"
    ],
    "downloads": [
     {
@@ -9543,7 +9555,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSettings T2MI Abertis OpenPLi 1.1\nis a customized version for OpenPLi\nwhich enables the installation and configuration of add-ons required for using T2MI and Abertis satellite settings."
+    }
+   }
   },
   {
    "id": "ciefptitlovibrowser",
@@ -12176,6 +12195,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "xabUWI4UmITF/v1nOxpNT/7N/Eg6Gn1xpd5Ov0GN4jPdnZLqemFsPkhbrzDQ7DV2OsVkXCIUQze+fW3XNWkeBQ=="
+  "sig": "m+9qsp4L0lm6Am26HKTYbwIb1ih2AVR512gEdb1nKp4s0THnXikTC2r6WMu/mGmt7MUUb59xRivV2DWaJoNMBA=="
  }
 }

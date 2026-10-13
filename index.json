@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T18:56:09Z",
+ "generated": "2026-10-13T19:16:09Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1859,16 +1859,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.52",
+   "version": "1.2.53",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "12.10.2026",
-   "updated_ts": 1791838127,
+   "updated": "13.10.2026",
+   "updated_ts": 1791918933,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "13.10.2026",
+     "1.2.53 - بعد تحديث أي بلجن مثبّت بيطلب إعادة تشغيل الواجهة، حتى ما يشتغل البلجن بنص كوده القديم ويعمل كراش"
+    ],
     [
      "12.10.2026",
      "1.2.52 - «أحدث الإضافات» مرتبة حسب وقت التحديث بالدقيقة"
@@ -1944,13 +1948,9 @@
     [
      "10.10.2026",
      "1.2.34 - زر مشاركة (الأزرق) في صفحة البلجن مع رمز QR"
-    ],
-    [
-     "10.10.2026",
-     "1.2.33 - شارة مطوّر موثّق للبلجنات التي يديرها مطوّرها بنفسه"
     ]
    ],
-   "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569",
+   "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1962,27 +1962,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
-     "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569",
-     "size": 2117778,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
+     "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6",
+     "size": 2118024,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.ipk",
-       "sha256": "30ee2204ca95a85c22076aadf8b2dfd956d876c227d6183dbda37b5e44c9c569"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
+       "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.deb",
-     "sha256": "dd53865fe62c034d9af06583ae42b6e1a3471a7c1913428f6fdce0a816147537",
-     "size": 2117782,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.deb",
+     "sha256": "dcafc419303599a007da8a5d2ac61b665110bc51d36a2b34a4545a98ee40fac0",
+     "size": 2118028,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.52/enigma2-plugin-extensions-enigmaplay_1.2.52_all.deb",
-       "sha256": "dd53865fe62c034d9af06583ae42b6e1a3471a7c1913428f6fdce0a816147537"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.deb",
+       "sha256": "dcafc419303599a007da8a5d2ac61b665110bc51d36a2b34a4545a98ee40fac0"
       }
      ]
     }
@@ -12271,6 +12271,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "YKkj8T6KSpOlGXGUgumvWFOV8NazTy3cJ3hbTmAv7A5bIzOAFqnFeA/n0o9g/mRzAPy74iAdo9V2q3NIm2hkCw=="
+  "sig": "iLqvD/IqrHj7NR1CBmKXABT2v1pxFtF+6yfdL3+G+z5YQfCXlwcLsc/+lFLuQzpaCvAj2oOMwliRaVEZ+7yDCw=="
  }
 }

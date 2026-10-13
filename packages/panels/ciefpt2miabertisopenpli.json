@@ -3,16 +3,16 @@
   "name": "CiefpT2miAbertisOpenPLi",
   "category": "panels",
   "version": "2.2",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpt2miabertisopenpli.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpt2miabertisopenpli/1.png"
   ],
   "downloads": [
     {
@@ -48,5 +48,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpSettingsT2miAbertisOpenPLi/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646426
+  "updated_at": 1791911894,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpSettings T2MI Abertis OpenPLi 1.1\nis a customized version for OpenPLi\nwhich enables the installation and configuration of add-ons required for using T2MI and Abertis satellite settings."
+    }
+  }
 }

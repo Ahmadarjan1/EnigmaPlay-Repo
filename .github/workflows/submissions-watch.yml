@@ -1,0 +1,51 @@
+name: Watch for approved submissions
+
+# GitHub runs the */10 schedule of import-submissions.yml only every few hours, so an approved
+# plugin waited ~5 hours. This job checks the server once a minute for ~5h40m and starts
+# import-submissions.yml as soon as something is approved, then starts the next watch run.
+# Public repo: Actions minutes are free. Server cost: one tiny query per minute.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "41 */4 * * *"     # only to revive the chain if a run was ever lost
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: submissions-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    env:
+      GH_TOKEN: ${{ github.token }}
+      CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      API: https://enigmaplay-api.ahmadalarjan2.workers.dev
+    steps:
+      - name: Poll and trigger the import
+        run: |
+          SYNC_KEY=$(printf '%s' "$CF_TOKEN:enigmaplay-sync" | sha256sum | cut -c1-64)
+          end=$(( $(date +%s) + 340*60 ))
+          last=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            n=$(curl -fsS -m 30 -H "X-Sync-Key: $SYNC_KEY" -H "User-Agent: EnigmaPlay-watch" "$API/v1/sync/approved" \
+                | python3 -c 'import json,sys; print(len(json.load(sys.stdin).get("submissions", [])))' 2>/dev/null || echo 0)
+            now=$(date +%s)
+            if [ "${n:-0}" -gt 0 ] && [ $((now - last)) -ge 240 ]; then
+              running=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/import-submissions.yml/runs?status=in_progress" --jq '.total_count' 2>/dev/null || echo 0)
+              queued=$(gh api "repos/$GITHUB_REPOSITORY/actions/workflows/import-submissions.yml/runs?status=queued" --jq '.total_count' 2>/dev/null || echo 0)
+              if [ "$running" = "0" ] && [ "$queued" = "0" ]; then
+                echo "$(date -u +%H:%M) $n approved -> starting import"
+                gh api -X POST "repos/$GITHUB_REPOSITORY/actions/workflows/import-submissions.yml/dispatches" -f ref=main && last=$now
+              fi
+            fi
+            sleep 60
+          done
+      - name: Start the next watch run
+        if: success() || failure()
+        run: gh api -X POST "repos/$GITHUB_REPOSITORY/actions/workflows/submissions-watch.yml/dispatches" -f ref=main

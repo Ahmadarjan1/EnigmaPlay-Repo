@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T19:22:52Z",
+ "generated": "2026-10-13T19:24:04Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8514,8 +8514,8 @@
    "name": "CiefpMojTvEPG",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791919443,
    "status_codes": [
     "Pan"
    ],
@@ -8536,9 +8536,10 @@
     ]
    ],
    "sha256": "78d81da3b03256d8c12ae29afbe64d3fdcc5bbb664b0519bbb0fc901057b5d48",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpmojtvepg.png?v=46022fc346",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpmojtvepg/1.jpg?v=9bc2a7ee57"
    ],
    "downloads": [
     {
@@ -8558,7 +8559,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpMojTvEPG/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpMojTvEPG - display of TV program EPG from the MojTV website"
+    }
+   }
   },
   {
    "id": "ciefpopendirectories",
@@ -9610,8 +9618,8 @@
    "name": "CiefpTitloviBrowser",
    "version": "1.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791919441,
    "status_codes": [
     "Pan"
    ],
@@ -9632,9 +9640,13 @@
     ]
    ],
    "sha256": "efddc1513ebd74535badf8ae6102a24aaf3eca65fbf8be3e607874d06b20dac3",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptitlovibrowser.png?v=a0987fbb10",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/1.jpg?v=5549cdfea0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/2.jpg?v=5549cdfea0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/3.jpg?v=205667c4e1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/4.jpg?v=153cfa4ae1"
    ],
    "downloads": [
     {
@@ -9654,7 +9666,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/TitloviBrowser/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Titlovi Browser - plugin for searching and downloading subtitles from titlovi.com"
+    }
+   }
   },
   {
    "id": "ciefptmdbsearch",
@@ -9724,8 +9743,8 @@
    "name": "CiefpTvProgram",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791919436,
    "status_codes": [
     "Pan"
    ],
@@ -9746,9 +9765,10 @@
     ]
    ],
    "sha256": "45fae995cabc974f4b5c46d481d44b8f8bea194156fee3d592f20e0067181066",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogram.png?v=6be789cf12",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogram/1.jpg?v=910aaaa4f5"
    ],
    "downloads": [
     {
@@ -9768,7 +9788,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgram/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgram - display of TV program EPG for SR, HR and BIH channels"
+    }
+   }
   },
   {
    "id": "ciefptvprograma1hr",
@@ -12275,6 +12302,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "y27XjIQ45S5YFxJmC/Yzhy0qJCIrc07N9DRPZEWLqdEKmqug61s0GmDiNM/juVBSj0h/6zlAg8joYUwbb7bEAw=="
+  "sig": "rjqjZFyf8bzkeaRB1/nSpgxyegBY+Pop4xHytPpiyezRaxdsrPSzVA/Z3zlbVO5NIrV8K4f+j63XnCvf/rSIAw=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T19:28:45Z",
+ "generated": "2026-10-13T19:33:04Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8400,8 +8400,8 @@
    "name": "CiefpEPGshare",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791919982,
    "status_codes": [
     "Pan"
    ],
@@ -8422,9 +8422,11 @@
     ]
    ],
    "sha256": "a2bf43d098324ffecc169cbe755477c5f11cfee4c8b40dc28eb647432e3e5075",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpepgshare.png?v=55bd17250a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/1.jpg?v=9383b5cffe",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/2.jpg?v=dc22e1d881"
    ],
    "downloads": [
     {
@@ -8444,7 +8446,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEPGshare/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpEPGshare - plugin for downloading EPG data from epgshare01.online"
+    }
+   }
   },
   {
    "id": "ciefpiptvbouquets",
@@ -12302,6 +12311,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "eNYFrlYd8O6gjcv+iGksG+Qxpf0+TG25DznHixCgN+MAQCCIWgESOyasHQ6phi4ysOWFwOKqsR18bnac6MQBCQ=="
+  "sig": "AHguvm1aTxelW+2W3wc8csqsKsOYV4v5OYBi7yaPcqCTJgO7MlERq8VT0mRH0XsyK2r6d512bLK4Vwn0286tCw=="
  }
 }

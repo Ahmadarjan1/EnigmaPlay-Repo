@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T19:24:04Z",
+ "generated": "2026-10-13T19:28:45Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1859,16 +1859,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.53",
+   "version": "1.2.54",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "13.10.2026",
-   "updated_ts": 1791918933,
+   "updated_ts": 1791919703,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "13.10.2026",
+     "1.2.54 - «مختارات المتجر» صارت تتحدث مباشرة من لوحة الإدارة بالجوال"
+    ],
     [
      "13.10.2026",
      "1.2.53 - بعد تحديث أي بلجن مثبّت بيطلب إعادة تشغيل الواجهة، حتى ما يشتغل البلجن بنص كوده القديم ويعمل كراش"
@@ -1944,13 +1948,9 @@
     [
      "10.10.2026",
      "1.2.35 - الجرس يعرض ما الجديد في كل تحديث قبل تثبيته"
-    ],
-    [
-     "10.10.2026",
-     "1.2.34 - زر مشاركة (الأزرق) في صفحة البلجن مع رمز QR"
     ]
    ],
-   "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6",
+   "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1962,27 +1962,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
-     "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6",
-     "size": 2118024,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
+     "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71",
+     "size": 2118294,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.ipk",
-       "sha256": "c15ed505834d2687a073ab66afb8a427607b7371e7a03151bd8a61859bc893c6"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
+       "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.deb",
-     "sha256": "dcafc419303599a007da8a5d2ac61b665110bc51d36a2b34a4545a98ee40fac0",
-     "size": 2118028,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.deb",
+     "sha256": "75f1add0a91aee15df76fdf701fd52444994170586d7d2caa30b776cf32a25a5",
+     "size": 2118298,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.53/enigma2-plugin-extensions-enigmaplay_1.2.53_all.deb",
-       "sha256": "dcafc419303599a007da8a5d2ac61b665110bc51d36a2b34a4545a98ee40fac0"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.deb",
+       "sha256": "75f1add0a91aee15df76fdf701fd52444994170586d7d2caa30b776cf32a25a5"
       }
      ]
     }
@@ -12302,6 +12302,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "rjqjZFyf8bzkeaRB1/nSpgxyegBY+Pop4xHytPpiyezRaxdsrPSzVA/Z3zlbVO5NIrV8K4f+j63XnCvf/rSIAw=="
+  "sig": "eNYFrlYd8O6gjcv+iGksG+Qxpf0+TG25DznHixCgN+MAQCCIWgESOyasHQ6phi4ysOWFwOKqsR18bnac6MQBCQ=="
  }
 }

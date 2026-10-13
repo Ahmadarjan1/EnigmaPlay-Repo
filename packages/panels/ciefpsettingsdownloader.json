@@ -49,7 +49,7 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpSettingsDownloader/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791907687,
+  "updated_at": 1791912264,
   "author": "ciefp",
   "developer": "ciefp",
   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSettingsDownloader/main/installer.sh -O - | /bin/sh",

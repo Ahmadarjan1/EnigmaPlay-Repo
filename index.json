@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T17:24:33Z",
+ "generated": "2026-10-13T17:29:33Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1289,9 +1289,9 @@
    "category": "extensions",
    "name": "Ciefpkingsat",
    "version": "2.2",
-   "description": "من مستودع المطوّر ciefp مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "description": "CiefpKingSat - نظرة عامة على موقع KingOfSat، والأقمار الصناعية، وأخبار الترددات.",
+   "updated": "13.10.2026",
+   "updated_ts": 1791912572,
    "status_codes": [
     "Uti"
    ],
@@ -1308,9 +1308,12 @@
     ]
    ],
    "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat-2.png?v=e213acc9a6",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/1.jpg?v=e9e4743106",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=b6a166b6a9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=a7fa711eca"
    ],
    "downloads": [
     {
@@ -1332,7 +1335,13 @@
     "3"
    ],
    "author": "ciefp",
-   "homepage": "https://github.com/ciefp/CiefpKingSat"
+   "homepage": "https://github.com/ciefp/CiefpKingSat",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpKingSat/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpKingSat - overview of the kingofsat site, satellites, news frequencies"
+    }
+   }
   },
   {
    "id": "ciefpkingsat",
@@ -12205,6 +12214,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "t4KDaF/X9577k1zFtRSE2dWLvFgux+2dkk1BGd63YmpzM9gcpyFB8VPMuHWnXe5yvCxYufgAn/x+CBneHRf9Bw=="
+  "sig": "C0x2OVwXdFSTGh/GbMmkwmi5x4I0jVEYapqo9nXTjufvPV5pngUfi2itnDe/xqovJTKM1MmS/uZTKjcjGeUaBw=="
  }
 }

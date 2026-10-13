@@ -1,0 +1,41 @@
+{
+  "id": "furybiss",
+  "name": "FuryBiss",
+  "category": "extensions",
+  "version": "7.0",
+  "updated": "2026-10-13",
+  "updated_at": 1791885101,
+  "description": "بلاجين لجلب الفيدات بالشفرات",
+  "author": "Islam Salama",
+  "developer": "yassin_islam",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/furybiss.png",
+  "screenshots": [
+    "screenshots/furybiss/1.jpg",
+    "screenshots/furybiss/2.jpg",
+    "screenshots/furybiss/3.jpg",
+    "screenshots/furybiss/4.jpg",
+    "screenshots/furybiss/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/furybiss/7.0/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-13",
+      "text": "7.0 - امكانيه تغير skin البلاجين"
+    }
+  ],
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "Feed Hunter with keys"
+    }
+  }
+}

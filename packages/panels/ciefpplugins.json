@@ -3,16 +3,16 @@
   "name": "CiefpPlugins",
   "category": "panels",
   "version": "4.5",
-  "updated": "2026-10-11",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب اضافات خاصة ببافل سييف",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefpplugins.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefpplugins/1.jpg"
   ],
   "downloads": [
     {
@@ -52,5 +52,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpPlugins/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791750225
+  "updated_at": 1791911689,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
+    }
+  }
 }

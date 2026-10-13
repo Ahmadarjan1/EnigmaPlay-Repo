@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T16:08:08Z",
+ "generated": "2026-10-13T17:14:50Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8805,8 +8805,8 @@
    "name": "CiefpPlugins",
    "version": "4.5",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "11.10.2026",
-   "updated_ts": 1791750225,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911689,
    "status_codes": [
     "Pan"
    ],
@@ -8831,9 +8831,10 @@
     ]
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpplugins.png?v=cb00d1f366",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpplugins/1.jpg?v=0925cfb4bb"
    ],
    "downloads": [
     {
@@ -8853,7 +8854,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
+    }
+   }
   },
   {
    "id": "ciefprottentomatoes",
@@ -9375,8 +9383,8 @@
    "name": "CiefpStreamrelayPY2",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646374,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911661,
    "status_codes": [
     "Pan"
    ],
@@ -9393,9 +9401,10 @@
     ]
    ],
    "sha256": "718c0c874b920c9557da96abd600fd4a914341cacf8727b6b112916420e8f5ec",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy2.png?v=c5227e0377",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy2/1.png?v=3417f53678"
    ],
    "downloads": [
     {
@@ -9415,7 +9424,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelayPY2/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpStreamrelay py2 - plugin automatically generates and creates streamrelay bouquets"
+    }
+   }
   },
   {
    "id": "ciefpstreamrelaypy3",
@@ -9423,8 +9439,8 @@
    "name": "CiefpStreamrelayPY3",
    "version": "1.4",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911655,
    "status_codes": [
     "Pan"
    ],
@@ -9445,9 +9461,10 @@
     ]
    ],
    "sha256": "4bbeefe095728e4a55484a330035de25f85143dc201331e3f2cf621d96d5aa17",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy3.png?v=3f97bfe940",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy3/1.jpg?v=e87102d43c"
    ],
    "downloads": [
     {
@@ -9467,7 +9484,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelay/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpStreamrelay py3 - plugin automatically generates and creates streamrelay bouquets"
+    }
+   }
   },
   {
    "id": "ciefpt2miabertisopenpli",
@@ -9693,8 +9717,8 @@
    "name": "CiefpTvProgramA1HR",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911685,
    "status_codes": [
     "Pan"
    ],
@@ -9715,9 +9739,10 @@
     ]
    ],
    "sha256": "45a95d802f2edf6f858dc8f860be4055d8b532caf248878904b41713e80d183c",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprograma1hr.png?v=75ffdb5b27",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprograma1hr/1.jpg?v=322b191839"
    ],
    "downloads": [
     {
@@ -9737,7 +9762,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramA1HR/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramA1HR - display of TV program EPG for A1 Croatia"
+    }
+   }
   },
   {
    "id": "ciefptvprogramsbb",
@@ -9793,8 +9825,8 @@
    "name": "CiefpTvProgramSK",
    "version": "1.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911681,
    "status_codes": [
     "Pan"
    ],
@@ -9815,9 +9847,11 @@
     ]
    ],
    "sha256": "41080c7d4e02da27f2d7451f4e72be3f7b646e69814d2f37238602f49202536d",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsk.png?v=0a5932b465",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/1.jpg?v=7c2ead1ee9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/2.jpg?v=937852c3e7"
    ],
    "downloads": [
     {
@@ -9837,7 +9871,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSK/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramSK - display of TV program EPG for SK channels"
+    }
+   }
   },
   {
    "id": "ciefptvtodayde",
@@ -9845,8 +9886,8 @@
    "name": "CiefpTvTodayDE",
    "version": "1.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911676,
    "status_codes": [
     "Pan"
    ],
@@ -9867,9 +9908,11 @@
     ]
    ],
    "sha256": "71cf1be5c2eacff4a99a0ad6422966f4eb8db3d86b3eb295d7b14fa98dbf9735",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvtodayde.png?v=847b8e25db",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/1.jpg?v=9b8a6b9239",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/2.jpg?v=17a9ff50a5"
    ],
    "downloads": [
     {
@@ -9889,7 +9932,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvTodayDE/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvTodayDE - display of TV program EPG for DE channels"
+    }
+   }
   },
   {
    "id": "ciefpvibes",
@@ -10163,8 +10213,8 @@
    "name": "Ciefsettingspanel",
    "version": "7.2",
    "description": "بانل تسطيب اضافات",
-   "updated": "11.10.2026",
-   "updated_ts": 1791750225,
+   "updated": "13.10.2026",
+   "updated_ts": 1791911671,
    "status_codes": [
     "Pan"
    ],
@@ -10189,9 +10239,12 @@
     ]
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefsettingspanel.png?v=44d9349348",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/1.jpg?v=bc464d94e6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/2.jpg?v=ed32a47649",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/3.jpg?v=a90c956910"
    ],
    "downloads": [
     {
@@ -10211,7 +10264,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
+    }
+   }
   },
   {
    "id": "corvoboyspanel",
@@ -12116,6 +12176,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "UofXUNvvmypdZ4d42lBT6Hgr80slcH/HvXHle8lxjxgdQYH59suy+izXz12TVMNmWQOFZRccbFDc8B7HtTqHBA=="
+  "sig": "xabUWI4UmITF/v1nOxpNT/7N/Eg6Gn1xpd5Ov0GN4jPdnZLqemFsPkhbrzDQ7DV2OsVkXCIUQze+fW3XNWkeBQ=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T17:18:19Z",
+ "generated": "2026-10-13T17:24:33Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -8256,8 +8256,8 @@
    "name": "CiefpE2editor",
    "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646426,
+   "updated": "13.10.2026",
+   "updated_ts": 1791912271,
    "status_codes": [
     "Pan"
    ],
@@ -8278,9 +8278,12 @@
     ]
    ],
    "sha256": "d80288f49dc343ff4a0e19d8c4a92ea898a250069f619c11e79767e51971f4ee",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2editor.png?v=f884c80bff",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/1.jpg?v=776743c922",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/2.jpg?v=80fd39e7ed",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/3.jpg?v=6369b0a35d"
    ],
    "downloads": [
     {
@@ -8300,7 +8303,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2editor/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpE2editor - plugin enigma2 editor"
+    }
+   }
   },
   {
    "id": "ciefpeasysetup",
@@ -9158,7 +9168,7 @@
    "version": "2.0",
    "description": "بانل تسطيب إضافات",
    "updated": "13.10.2026",
-   "updated_ts": 1791907687,
+   "updated_ts": 1791912264,
    "status_codes": [
     "Pan"
    ],
@@ -9182,8 +9192,8 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingsdownloader.png?v=7bc347d2d1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/1.jpg?v=e9a472a8de",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/2.jpg?v=538d5d9ca7"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/1.jpg?v=10e95ba86d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/2.jpg?v=a6d5be1137"
    ],
    "downloads": [
     {
@@ -12195,6 +12205,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "m+9qsp4L0lm6Am26HKTYbwIb1ih2AVR512gEdb1nKp4s0THnXikTC2r6WMu/mGmt7MUUb59xRivV2DWaJoNMBA=="
+  "sig": "t4KDaF/X9577k1zFtRSE2dWLvFgux+2dkk1BGd63YmpzM9gcpyFB8VPMuHWnXe5yvCxYufgAn/x+CBneHRf9Bw=="
  }
 }

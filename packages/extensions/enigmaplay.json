@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.55",
+  "version": "1.2.56",
   "updated": "2026-10-14",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.ipk"
+      "file": "files/enigmaplay/1.2.56/enigma2-plugin-extensions-enigmaplay_1.2.56_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.deb"
+      "file": "files/enigmaplay/1.2.56/enigma2-plugin-extensions-enigmaplay_1.2.56_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.56 - رسالة «البلجن وقف عن العمل» بتضل بالجرس لحد ما تستخدم الحل، فإذا سكّرتها بدون ما تقراها بتلاقيها هناك"
+    },
     {
       "date": "2026-10-14",
       "text": "1.2.55 - لما يوقف أي بلجن عن العمل، المتجر بيشرحلك السبب بالعربي وبيعرض الحل (إعادة تشغيل الواجهة أو إعادة التثبيت)"
@@ -105,10 +109,6 @@
     {
       "date": "2026-10-10",
       "text": "1.2.37 - بطاقات مميزة جديدة في الرئيسية بشكل جوجل بلاي"
-    },
-    {
-      "date": "2026-10-10",
-      "text": "1.2.36 - سؤال هل يعمل البلجن عندك، ونسبة نجاحه على صورتك، وإخفاء البلجنات المعطلة، وترجمة كاملة لكل اللغات"
     }
   ],
   "i18n": {
@@ -132,5 +132,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1791927754
+  "updated_at": 1791928470
 }

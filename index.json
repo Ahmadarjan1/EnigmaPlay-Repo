@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T21:31:20Z",
+ "generated": "2026-10-13T21:43:12Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1859,16 +1859,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.54",
+   "version": "1.2.55",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "13.10.2026",
-   "updated_ts": 1791919703,
+   "updated": "14.10.2026",
+   "updated_ts": 1791927754,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "14.10.2026",
+     "1.2.55 - لما يوقف أي بلجن عن العمل، المتجر بيشرحلك السبب بالعربي وبيعرض الحل (إعادة تشغيل الواجهة أو إعادة التثبيت)"
+    ],
     [
      "13.10.2026",
      "1.2.54 - «مختارات المتجر» صارت تتحدث مباشرة من لوحة الإدارة بالجوال"
@@ -1944,13 +1948,9 @@
     [
      "10.10.2026",
      "1.2.36 - سؤال هل يعمل البلجن عندك، ونسبة نجاحه على صورتك، وإخفاء البلجنات المعطلة، وترجمة كاملة لكل اللغات"
-    ],
-    [
-     "10.10.2026",
-     "1.2.35 - الجرس يعرض ما الجديد في كل تحديث قبل تثبيته"
     ]
    ],
-   "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71",
+   "sha256": "fd69a6f7b52b1e1db3b4b6d823468ea367667268d8675649e20f591d8db57071",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1962,27 +1962,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
-     "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71",
-     "size": 2118294,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.ipk",
+     "sha256": "fd69a6f7b52b1e1db3b4b6d823468ea367667268d8675649e20f591d8db57071",
+     "size": 2135824,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.ipk",
-       "sha256": "cf338428ab8b4efa1af6eb70da54f3ef650c7c75fb9feca5ece2882d065f3b71"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.ipk",
+       "sha256": "fd69a6f7b52b1e1db3b4b6d823468ea367667268d8675649e20f591d8db57071"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.deb",
-     "sha256": "75f1add0a91aee15df76fdf701fd52444994170586d7d2caa30b776cf32a25a5",
-     "size": 2118298,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.deb",
+     "sha256": "bf1bd354566d374624f0825bf9b051018c412fc27bd30878c63f10c2248d57ff",
+     "size": 2135828,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.54/enigma2-plugin-extensions-enigmaplay_1.2.54_all.deb",
-       "sha256": "75f1add0a91aee15df76fdf701fd52444994170586d7d2caa30b776cf32a25a5"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.55/enigma2-plugin-extensions-enigmaplay_1.2.55_all.deb",
+       "sha256": "bf1bd354566d374624f0825bf9b051018c412fc27bd30878c63f10c2248d57ff"
       }
      ]
     }
@@ -12368,6 +12368,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "SAcZ/3wqyO8h8DuLL3NwrJevEQyihG6EOPwsN19CYYwJVmIzqkgZtiino0zrCVkxGHbIHoioCRilGUxgL3XCDw=="
+  "sig": "9iTmDUNf/wAOHyYJvz6aVhOh8noSgmeF+u/zOity4I6yW/Ti/Uc5MpEtRql8tMbVzIVDVB5RLAWGfkUIl2tdBQ=="
  }
 }

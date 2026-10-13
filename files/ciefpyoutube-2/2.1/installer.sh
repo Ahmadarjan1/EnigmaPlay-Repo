@@ -2,8 +2,8 @@
 ##setup command=wget -q "--no-check-certificate" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh
 
 ######### Only This 2 lines to edit with new version ######
-version='1.2'
-changelog='\nAdded ffmpeg, nodejs, yt-dlp-ejs and yt-dlp config for FHD/4K support on all images'
+version='2.1'
+changelog='\nAdded yt-dlp nightly install, ffmpeg, nodejs, yt-dlp-ejs and yt-dlp config for FHD/4K support'
 ##############################################################
 
 # Check if we should skip restart (for batch installations)
@@ -45,7 +45,7 @@ get_openatv_version() {
 install_ffmpeg() {
 	echo "[CiefpYouTube] Installing ffmpeg (required for video/audio merging)..."
 	
-	if [ $OSTYPE = "DreamOs" ]; then
+	if [ "$OSTYPE" = "DreamOs" ]; then
 		apt-get update && apt-get install ffmpeg -y
 	else
 		opkg update && opkg install ffmpeg
@@ -58,30 +58,62 @@ install_ffmpeg() {
 	fi
 }
 
-# ============ INSTALACIJA yt-dlp ============
+# ============ INSTALACIJA yt-dlp (NIGHTLY sa GitHub-a) ============
 install_ytdlp() {
-	echo "[CiefpYouTube] Installing yt-dlp..."
+	echo "[CiefpYouTube] Installing yt-dlp NIGHTLY from GitHub..."
 	
-	if [ $OSTYPE = "DreamOs" ]; then
-		apt-get update
-		apt-get install python3-yt-dlp -y || {
-			echo "[CiefpYouTube] python3-yt-dlp not in repo, installing via pip3..."
-			apt-get install python3-pip python3-codecs python3-core -y
-			pip3 install yt-dlp --upgrade
-		}
+	# Ukloni postojeći iz opkg-a (ako postoji) da ne pravi konflikt
+	if [ "$OSTYPE" = "DreamOs" ]; then
+		apt-get remove -y python3-yt-dlp 2>/dev/null || true
 	else
-		opkg update
-		opkg install python3-yt-dlp || {
-			echo "[CiefpYouTube] python3-yt-dlp not in feed, trying pip3..."
-			opkg install python3-pip python3-codecs python3-core
-			pip3 install yt-dlp --upgrade
-		}
+		opkg remove python3-yt-dlp 2>/dev/null || true
 	fi
 	
-	if command -v yt-dlp >/dev/null 2>&1; then
-		echo "[CiefpYouTube] yt-dlp installed successfully: $(yt-dlp --version)"
+	# Ukloni stari binary
+	[ -f /usr/bin/yt-dlp ] && rm -f /usr/bin/yt-dlp
+	
+	# Preuzmi nightly binary sa GitHub-a
+	echo "[CiefpYouTube] Downloading yt-dlp nightly..."
+	wget --no-check-certificate \
+		https://github.com/yt-dlp/yt-dlp-nightly-builds/releases/latest/download/yt-dlp \
+		-O /usr/bin/yt-dlp
+	
+	if [ ! -s /usr/bin/yt-dlp ]; then
+		echo "[CiefpYouTube] ERROR: Failed to download yt-dlp!"
+		install_ytdlp_python
+		return
+	fi
+	
+	chmod +x /usr/bin/yt-dlp
+	
+	# Test da li binary radi
+	if /usr/bin/yt-dlp --version >/dev/null 2>&1; then
+		echo "[CiefpYouTube] yt-dlp nightly installed: $(/usr/bin/yt-dlp --version)"
 	else
-		echo "[CiefpYouTube] WARNING: yt-dlp installation failed!"
+		echo "[CiefpYouTube] Binary not working, trying Python version..."
+		install_ytdlp_python
+	fi
+}
+
+# ============ FALLBACK: yt-dlp preko pip3 ============
+install_ytdlp_python() {
+	echo "[CiefpYouTube] Installing yt-dlp via pip3 (Python module)..."
+	
+	if ! command -v pip3 >/dev/null 2>&1; then
+		if [ "$OSTYPE" = "DreamOs" ]; then
+			apt-get install -y python3-pip
+		else
+			opkg install python3-pip
+		fi
+	fi
+	
+	pip3 install --upgrade yt-dlp
+	
+	if command -v yt-dlp >/dev/null 2>&1; then
+		echo "[CiefpYouTube] yt-dlp (Python) installed: $(yt-dlp --version)"
+	else
+		echo "[CiefpYouTube] ERROR: All yt-dlp installation methods failed!"
+		return 1
 	fi
 }
 
@@ -95,7 +127,7 @@ install_nodejs() {
 	fi
 	
 	echo "[CiefpYouTube] Installing Node.js..."
-	if [ $OSTYPE = "DreamOs" ]; then
+	if [ "$OSTYPE" = "DreamOs" ]; then
 		apt-get update && apt-get install nodejs -y
 	else
 		opkg update && opkg install nodejs
@@ -105,7 +137,6 @@ install_nodejs() {
 		echo "[CiefpYouTube] Node.js installed: $(node --version)"
 	else
 		echo "[CiefpYouTube] WARNING: Node.js installation failed - trying alternative..."
-		# Pokušaj sa deno ako node ne radi (za ARM uređaje)
 		install_deno
 	fi
 }
@@ -114,7 +145,6 @@ install_nodejs() {
 install_deno() {
 	echo "[CiefpYouTube] Installing Deno as Node.js alternative..."
 	
-	# Detekcija arhitekture
 	ARCH=$(uname -m)
 	case "$ARCH" in
 		aarch64)
@@ -148,16 +178,15 @@ install_deno() {
 install_ytdlp_ejs() {
 	echo "[CiefpYouTube] Installing yt-dlp-ejs (EJS challenge solver)..."
 	
-	if command -v pip3 >/dev/null 2>&1; then
-		pip3 install yt-dlp-ejs --upgrade
-	else
-		if [ $OSTYPE = "DreamOs" ]; then
+	if ! command -v pip3 >/dev/null 2>&1; then
+		if [ "$OSTYPE" = "DreamOs" ]; then
 			apt-get install python3-pip -y
 		else
 			opkg install python3-pip
 		fi
-		pip3 install yt-dlp-ejs --upgrade
 	fi
+	
+	pip3 install yt-dlp-ejs --upgrade
 	
 	if pip3 show yt-dlp-ejs >/dev/null 2>&1; then
 		echo "[CiefpYouTube] yt-dlp-ejs installed successfully"
@@ -210,7 +239,7 @@ if grep -qs "Package: python3-requests" $STATUS ; then
 	echo "[CiefpYouTube] python3-requests is already installed."
 else
 	echo "[CiefpYouTube] python3-requests is missing! Installing..."
-	if [ $OSTYPE = "DreamOs" ]; then
+	if [ "$OSTYPE" = "DreamOs" ]; then
 		apt-get update && apt-get install python3-requests -y
 	else
 		opkg update && opkg install python3-requests
@@ -218,7 +247,7 @@ else
 fi
 
 # ============ INSTALACIJA python3-json ============
-if [ $OSTYPE != "DreamOs" ]; then
+if [ "$OSTYPE" != "DreamOs" ]; then
 	if ! opkg list-installed | grep -q "python3-json"; then
 		echo "[CiefpYouTube] Installing python3-json..."
 		opkg update && opkg install python3-json > /dev/null 2>&1
@@ -236,7 +265,7 @@ echo ""
 # 1. Instaliraj ffmpeg
 install_ffmpeg
 
-# 2. Instaliraj yt-dlp
+# 2. Instaliraj yt-dlp (nightly sa GitHub-a)
 install_ytdlp
 
 # 3. Instaliraj Node.js (ili Deno)
@@ -245,9 +274,22 @@ install_nodejs
 # 4. Instaliraj yt-dlp-ejs
 install_ytdlp_ejs
 
-# 5. Kreiraj config fajl (OVO JE NAJVAŽNIJE!)
+# 5. Kreiraj config fajl (NAJVAŽNIJE!)
 create_ytdlp_config
 
+echo ""
+
+# ============ VERIFIKACIJA INSTALACIJE ============
+echo "============================================================="
+echo "     Installation Verification"
+echo "============================================================="
+echo "yt-dlp:     $(yt-dlp --version 2>/dev/null || echo 'NOT FOUND')"
+echo "ffmpeg:     $(ffmpeg -version 2>/dev/null | head -1 | cut -d' ' -f1-3 || echo 'NOT FOUND')"
+echo "node:       $(node --version 2>/dev/null || echo 'NOT FOUND')"
+echo "deno:       $(deno --version 2>/dev/null | head -1 || echo 'NOT FOUND')"
+echo "pip3:       $(pip3 --version 2>/dev/null | cut -d' ' -f1-2 || echo 'NOT FOUND')"
+echo "yt-dlp-ejs: $(pip3 show yt-dlp-ejs 2>/dev/null | grep Version || echo 'NOT FOUND')"
+echo "config:     $(test -f /home/root/.config/yt-dlp/config && echo 'OK' || echo 'NOT FOUND')"
 echo ""
 
 # ============ INSTALACIJA PLUGINA ============
@@ -262,7 +304,7 @@ mkdir -p $TMPPATH
 cd $TMPPATH
 set -e
 
-echo "[CiefpYouTube] Downloading latest package from GitHub..."
+echo "[CiefpYouTube] Downloading latest plugin package from GitHub..."
 wget --no-check-certificate https://github.com/ciefp/CiefpYouTube/archive/refs/heads/main.tar.gz
 tar -xzf main.tar.gz
 cp -r 'CiefpYouTube-main/usr' '/'
@@ -290,12 +332,14 @@ echo "#  - FHD Video Playback                                #"
 echo "#  - Playlists with Mini Skin                          #"
 echo "#  - User/Live Channels                                #"
 echo "#  - Broken Links Log                                  #"
+echo "#  - yt-dlp nightly auto-update                        #"
 echo "#                                                       #"
 echo "#  Installed components:                               #"
 echo "#  - ffmpeg (video/audio merging)                      #"
-echo "#  - yt-dlp (stream extractor)                         #"
+echo "#  - yt-dlp NIGHTLY (stream extractor)                 #"
 echo "#  - Node.js/Deno (JavaScript runtime)                 #"
 echo "#  - yt-dlp-ejs (EJS challenge solver)                 #"
+echo "#  - yt-dlp config for FHD/4K                          #"
 echo "#                                                       #"
 echo "#                  developed by ciefp                   #"
 echo "#                  .::CiefpSettings::.                  #"

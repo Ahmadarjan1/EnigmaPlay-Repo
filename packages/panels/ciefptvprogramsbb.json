@@ -3,16 +3,17 @@
   "name": "CiefpTvProgramSBB",
   "category": "panels",
   "version": "1.1",
-  "updated": "2026-10-10",
+  "updated": "2026-10-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
     "3"
   ],
-  "restart": false,
-  "icon": "icons/category-panels.png",
+  "restart": true,
+  "icon": "icons/ciefptvprogramsbb.png",
   "screenshots": [
-    "screenshots/category-panels/1.jpg"
+    "screenshots/ciefptvprogramsbb/1.jpg",
+    "screenshots/ciefptvprogramsbb/2.jpg"
   ],
   "downloads": [
     {
@@ -44,5 +45,13 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpTvProgramSBB/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791646374
+  "updated_at": 1791917767,
+  "author": "ciefp",
+  "developer": "ciefp",
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSBB/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpTvProgramSBB - display of TV program EPG for SBB Serbia"
+    }
+  }
 }

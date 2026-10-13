@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-13T18:15:52Z",
+ "generated": "2026-10-13T18:56:09Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -9832,8 +9832,8 @@
    "name": "CiefpTvProgramSBB",
    "version": "1.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "10.10.2026",
-   "updated_ts": 1791646374,
+   "updated": "13.10.2026",
+   "updated_ts": 1791917767,
    "status_codes": [
     "Pan"
    ],
@@ -9850,9 +9850,11 @@
     ]
    ],
    "sha256": "5b89d62c5d12ab51af4c51db076f2e5bfc641bbf08d04a77e2411e46ff24d812",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-panels.png?v=8f709eaea2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsbb.png?v=54f491ef29",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-panels/1.jpg?v=2e78ec0a76"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/1.jpg?v=a386480d1e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/2.jpg?v=b8d06078c9"
    ],
    "downloads": [
     {
@@ -9872,7 +9874,14 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSBB/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpTvProgramSBB - display of TV program EPG for SBB Serbia"
+    }
+   }
   },
   {
    "id": "ciefptvprogramsk",
@@ -12262,6 +12271,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "uyjjbIkdzPaR1/ZyVZiTcL2wiUeCKFXzK7UjaX7GDNeJREO6OKKZ54KHlftIlCQGkThCDvPW2687iB9taqaaCA=="
+  "sig": "YKkj8T6KSpOlGXGUgumvWFOV8NazTy3cJ3hbTmAv7A5bIzOAFqnFeA/n0o9g/mRzAPy74iAdo9V2q3NIm2hkCw=="
  }
 }

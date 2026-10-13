@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-12T23:04:31Z",
+ "generated": "2026-10-13T09:51:42Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2843,6 +2843,58 @@
    ],
    "author": "OwnerPlugins",
    "homepage": "https://github.com/OwnerPlugins/freearhey"
+  },
+  {
+   "id": "furybiss",
+   "category": "extensions",
+   "name": "FuryBiss",
+   "version": "7.0",
+   "description": "بلاجين لجلب الفيدات بالشفرات",
+   "updated": "13.10.2026",
+   "updated_ts": 1791885101,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "13.10.2026",
+     "7.0 - امكانيه تغير skin البلاجين"
+    ]
+   ],
+   "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/furybiss.png?v=75f42ff37f",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/1.jpg?v=b067ce348c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/2.jpg?v=9e2e5fb984",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/3.jpg?v=441e770cc2",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/4.jpg?v=25460bf8f1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/5.jpg?v=37086d31fa"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
+     "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
+     "size": 8795,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/furybiss/7.0/installer.sh",
+       "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "Islam Salama",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "Feed Hunter with keys"
+    }
+   }
   },
   {
    "id": "gioppygio",
@@ -12055,6 +12107,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "iRwYCvADyZobTmrPSd+/G79YDIR35fe/NsohprpD/29fqyj7r2ZMc2u1DrefuYoxfiREnxEM5zB2X8OmYyugDw=="
+  "sig": "HKivkdEe+tYAnDTsPYKscD/anIYAx3bvuSm/BI31009EzPSdAhrLoRvyDBu7tDtPJqG5v/j7B2piQq7kzs9nCg=="
  }
 }

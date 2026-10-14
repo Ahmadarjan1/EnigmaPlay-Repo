@@ -1,0 +1,334 @@
+{
+ "Novaler areadeltasat": {
+  "areadeltasat-10.3-r22-novaler4kpro_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/areadeltasat/areadeltasat-10.3-r22-novaler4kpro_usb.zip",
+   "name": "areadeltasat-10.3-r22-novaler4kpro_usb.zip"
+  }
+ },
+ "Novaler boot5": {
+  "openpli-9.1-multiboxpro-boot5.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/boot5/openpli-9.1-multiboxpro-boot5.zip",
+   "name": "openpli-9.1-multiboxpro-boot5.zip"
+  }
+ },
+ "Novaler cobralibero": {
+  "cobraliberosat-9.0-multiboxpro-20240630_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/cobralibero/cobraliberosat-9.0-multiboxpro-20240630_usb.zip",
+   "name": "cobraliberosat-9.0-multiboxpro-20240630_usb.zip"
+  }
+ },
+ "Novaler corvoboys": {
+  "corvoboys-08-multiboxpro_emmc.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/corvoboys/corvoboys-08-multiboxpro_emmc.zip",
+   "name": "corvoboys-08-multiboxpro_emmc.zip"
+  }
+ },
+ "Novaler corvoboys backup": {
+  "CorvoBoys-08-novaler4kpro-backup-20260811_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/corvoboys/CorvoBoys-08-novaler4kpro-backup-20260811_usb.zip",
+   "name": "CorvoBoys-08-novaler4kpro-backup-20260811_usb.zip"
+  }
+ },
+ "Novaler define": {
+  "GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip",
+   "name": "GAZAL_Mix_v1.00.52-novaler4kpro-20251220_1018_usb.zip"
+  }
+ },
+ "Novaler define backup": {
+  "Densy-OS_v2.01.13-novaler4kpro-backup-20251207_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/Densy-OS_v2.01.13-novaler4kpro-backup-20251207_usb.zip",
+   "name": "Densy-OS_v2.01.13-novaler4kpro-backup-20251207_usb.zip"
+  },
+  "Gazal-01.00.52-novaler4kpro-backup-20251207_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/Gazal-01.00.52-novaler4kpro-backup-20251207_usb.zip",
+   "name": "Gazal-01.00.52-novaler4kpro-backup-20251207_usb.zip"
+  },
+  "SPIDER_VIP_v1.00.89-novaler4kpro-backup-20260104_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/SPIDER_VIP_v1.00.89-novaler4kpro-backup-20260104_usb.zip",
+   "name": "SPIDER_VIP_v1.00.89-novaler4kpro-backup-20260104_usb.zip"
+  },
+  "Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip",
+   "name": "Spider-Plus-Pro-v1.00.88-novaler4kpro-backup-20251124_usb.zip"
+  },
+  "Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip",
+   "name": "Sungate-titan-1.00.16-novaler4kpro-backup-20251123_usb.zip"
+  },
+  "define-7.0-novaler4kpro-backup-20251207_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/define/define-7.0-novaler4kpro-backup-20251207_usb.zip",
+   "name": "define-7.0-novaler4kpro-backup-20251207_usb.zip"
+  }
+ },
+ "Novaler egami": {
+  "egami-10.6-r14-novaler4kpro-20250618_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/egami/egami-10.6-r14-novaler4kpro-20250618_multi.zip",
+   "name": "egami-10.6-r14-novaler4kpro-20250618_multi.zip"
+  }
+ },
+ "Novaler egami backup": {
+  "egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/egami/egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip",
+   "name": "egami-10.6.r13-novaler4kpro-backup-20250609_usb.zip"
+  },
+  "egami-11.0.r21-novaler4kpro-backup-20260609_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/egami/egami-11.0.r21-novaler4kpro-backup-20260609_usb.zip",
+   "name": "egami-11.0.r21-novaler4kpro-backup-20260609_usb.zip"
+  }
+ },
+ "Novaler neutrino": {
+  "TANGOS-rev20619-novaler4kpro-20230314_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/neutrino/TANGOS-rev20619-novaler4kpro-20230314_usb.zip",
+   "name": "TANGOS-rev20619-novaler4kpro-20230314_usb.zip"
+  }
+ },
+ "Novaler nonsolosat": {
+  "nonsolosat-33-py3-multiboxpro_emm.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/nonsolosat/nonsolosat-33-py3-multiboxpro_emm.zip",
+   "name": "nonsolosat-33-py3-multiboxpro_emm.zip"
+  }
+ },
+ "Novaler nonsolosat backup": {
+  "nonsolosat-33-novaler4kpro-backup-20240527_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/nonsolosat/nonsolosat-33-novaler4kpro-backup-20240527_usb.zip",
+   "name": "nonsolosat-33-novaler4kpro-backup-20240527_usb.zip"
+  }
+ },
+ "Novaler openatv": {
+  "openatv-7.6.1-novaler4kpro-20260304_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.6.1-novaler4kpro-20260304_multi.zip",
+   "name": "openatv-7.6.1-novaler4kpro-20260304_multi.zip"
+  },
+  "openatv-8.0.0-beta-novaler4kpro-20260928_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openatv/openatv-8.0.0-beta-novaler4kpro-20260928_multi.zip",
+   "name": "openatv-8.0.0-beta-novaler4kpro-20260928_multi.zip"
+  }
+ },
+ "Novaler openatv backup": {
+  "OpenATV-8.0.2-devel-novaler4kpro-backup-20260906_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openatv/OpenATV-8.0.2-devel-novaler4kpro-backup-20260906_usb.zip",
+   "name": "OpenATV-8.0.2-devel-novaler4kpro-backup-20260906_usb.zip"
+  },
+  "openatv-7.5.1-novaler4kpro-backup-20260429_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openatv/openatv-7.5.1-novaler4kpro-backup-20260429_usb.zip",
+   "name": "openatv-7.5.1-novaler4kpro-backup-20260429_usb.zip"
+  }
+ },
+ "Novaler openbh": {
+  "openbh-5.6.007.release-novaler4kpro_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6.007.release-novaler4kpro_multi.zip",
+   "name": "openbh-5.6.007.release-novaler4kpro_multi.zip"
+  },
+  "openbh-6.0.004.release-novaler4kpro_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openbh/openbh-6.0.004.release-novaler4kpro_multi.zip",
+   "name": "openbh-6.0.004.release-novaler4kpro_multi.zip"
+  }
+ },
+ "Novaler openbh backup": {
+  "OpenBh-6.0.003-novaler4kpro-backup-20260914_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openbh/OpenBh-6.0.003-novaler4kpro-backup-20260914_usb.zip",
+   "name": "OpenBh-6.0.003-novaler4kpro-backup-20260914_usb.zip"
+  },
+  "openbh-5.6.006-novaler4kpro-backup-20260415_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openbh/openbh-5.6.006-novaler4kpro-backup-20260415_usb.zip",
+   "name": "openbh-5.6.006-novaler4kpro-backup-20260415_usb.zip"
+  }
+ },
+ "Novaler opendroid": {
+  "opendroid-7.5-novaler4kpro-20241008_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/opendroid/opendroid-7.5-novaler4kpro-20241008_multi.zip",
+   "name": "opendroid-7.5-novaler4kpro-20241008_multi.zip"
+  }
+ },
+ "Novaler opendroid backup": {
+  "opendroid-7.3-novaler4kpro-backup-20230807_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/opendroid/opendroid-7.3-novaler4kpro-backup-20230807_usb.zip",
+   "name": "opendroid-7.3-novaler4kpro-backup-20230807_usb.zip"
+  }
+ },
+ "Novaler openhdf": {
+  "openhdf-7.6-novaler4kpro-26-20260304_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-7.6-novaler4kpro-26-20260304_multi.zip",
+   "name": "openhdf-7.6-novaler4kpro-26-20260304_multi.zip"
+  },
+  "openhdf-8.0-novaler4kpro-31-20261006_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-8.0-novaler4kpro-31-20261006_multi.zip",
+   "name": "openhdf-8.0-novaler4kpro-31-20261006_multi.zip"
+  }
+ },
+ "Novaler openhdf backup": {
+  "openhdf-8.0-novaler4kpro-backup-20260606_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openhdf/openhdf-8.0-novaler4kpro-backup-20260606_usb.zip",
+   "name": "openhdf-8.0-novaler4kpro-backup-20260606_usb.zip"
+  }
+ },
+ "Novaler opennfr": {
+  "opennfr-7.0-novaler4kpro-20230314_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/opennfr/opennfr-7.0-novaler4kpro-20230314_usb.zip",
+   "name": "opennfr-7.0-novaler4kpro-20230314_usb.zip"
+  }
+ },
+ "Novaler openpli": {
+  "openpli-10.1-multiboxpro_emmc.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-multiboxpro_emmc.zip",
+   "name": "openpli-10.1-multiboxpro_emmc.zip"
+  },
+  "openpli-GCC-16.1-novaler4kpro-20260705_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-16.1-novaler4kpro-20260705_usb.zip",
+   "name": "openpli-GCC-16.1-novaler4kpro-20260705_usb.zip"
+  },
+  "openpli-wrynose-multiboxpro_emmc.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/openpli-wrynose-multiboxpro_emmc.zip",
+   "name": "openpli-wrynose-multiboxpro_emmc.zip"
+  }
+ },
+ "Novaler openpli backup": {
+  "OpenPLi-wrynose-novaler4kpro-backup-20260917_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/OpenPLi-wrynose-novaler4kpro-backup-20260917_usb.zip",
+   "name": "OpenPLi-wrynose-novaler4kpro-backup-20260917_usb.zip"
+  },
+  "openpli-10.1-novaler4kpro-backup-20260611_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/openpli-10.1-novaler4kpro-backup-20260611_usb.zip",
+   "name": "openpli-10.1-novaler4kpro-backup-20260611_usb.zip"
+  },
+  "openpli-GCC-16.1-novaler4kpro-backup-20260708_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openpli/openpli-GCC-16.1-novaler4kpro-backup-20260708_usb.zip",
+   "name": "openpli-GCC-16.1-novaler4kpro-backup-20260708_usb.zip"
+  }
+ },
+ "Novaler openspa": {
+  "openspa-8.7.002-OEA-novaler4kpro-20261005_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.7.002-OEA-novaler4kpro-20261005_multi.zip",
+   "name": "openspa-8.7.002-OEA-novaler4kpro-20261005_multi.zip"
+  }
+ },
+ "Novaler openspa backup": {
+  "openspa-8.7-novaler4kpro-backup-20260604_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openspa/openspa-8.7-novaler4kpro-backup-20260604_usb.zip",
+   "name": "openspa-8.7-novaler4kpro-backup-20260604_usb.zip"
+  }
+ },
+ "Novaler opentr": {
+  "opentr-11.1r1-novaler4kpro-20240630_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/opentr/opentr-11.1r1-novaler4kpro-20240630_usb.zip",
+   "name": "opentr-11.1r1-novaler4kpro-20240630_usb.zip"
+  }
+ },
+ "Novaler openvision": {
+  "openvision-e2-develop-py3.11-13.1-r549-multiboxpro-20230715_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvision/openvision-e2-develop-py3.11-13.1-r549-multiboxpro-20230715_usb.zip",
+   "name": "openvision-e2-develop-py3.11-13.1-r549-multiboxpro-20230715_usb.zip"
+  }
+ },
+ "Novaler openvix": {
+  "openvix-6.8.007.release-novaler4kpro_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.8.007.release-novaler4kpro_multi.zip",
+   "name": "openvix-6.8.007.release-novaler4kpro_multi.zip"
+  },
+  "openvix-6.9.005.release-novaler4kpro_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.9.005.release-novaler4kpro_multi.zip",
+   "name": "openvix-6.9.005.release-novaler4kpro_multi.zip"
+  }
+ },
+ "Novaler openvix backup": {
+  "openvix-6.8-novaler4kpro-backup-20251208_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.8-novaler4kpro-backup-20251208_usb.zip",
+   "name": "openvix-6.8-novaler4kpro-backup-20251208_usb.zip"
+  },
+  "openvix-7.0-novaler4kpro-backup-20260607_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-7.0-novaler4kpro-backup-20260607_usb.zip",
+   "name": "openvix-7.0-novaler4kpro-backup-20260607_usb.zip"
+  }
+ },
+ "Novaler pkt": {
+  "PKTeam-Hyperion-8.0-novaler4kpro-20230309_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pkt/PKTeam-Hyperion-8.0-novaler4kpro-20230309_usb.zip",
+   "name": "PKTeam-Hyperion-8.0-novaler4kpro-20230309_usb.zip"
+  },
+  "hyperion-X.3-novaler4kpro-git34715-svn5037_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pkt/hyperion-X.3-novaler4kpro-git34715-svn5037_multi.zip",
+   "name": "hyperion-X.3-novaler4kpro-git34715-svn5037_multi.zip"
+  },
+  "zukonMOD-Hyperion-9.3-novaler4kpro-git32549-svn4694_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pkt/zukonMOD-Hyperion-9.3-novaler4kpro-git32549-svn4694_multi.zip",
+   "name": "zukonMOD-Hyperion-9.3-novaler4kpro-git32549-svn4694_multi.zip"
+  }
+ },
+ "Novaler pkt backup": {
+  "zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pkt/zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip",
+   "name": "zukonMOD-Hyperion-novaler4kpro-backup-20260101_usb.zip"
+  }
+ },
+ "Novaler pure2": {
+  "novaler4kpro-PurE2-7.6-20251227_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pure2/novaler4kpro-PurE2-7.6-20251227_multi.zip",
+   "name": "novaler4kpro-PurE2-7.6-20251227_multi.zip"
+  }
+ },
+ "Novaler pure2 backup": {
+  "pure2-7.3-novaler4kpro-backup-20240429_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.3-novaler4kpro-backup-20240429_usb.zip",
+   "name": "pure2-7.3-novaler4kpro-backup-20240429_usb.zip"
+  },
+  "pure2-7.4-novaler4kpro-backup-20251021_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.4-novaler4kpro-backup-20251021_usb.zip",
+   "name": "pure2-7.4-novaler4kpro-backup-20251021_usb.zip"
+  },
+  "pure2-7.6-novaler4kpro-backup-20260608_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/pure2/pure2-7.6-novaler4kpro-backup-20260608_usb.zip",
+   "name": "pure2-7.6-novaler4kpro-backup-20260608_usb.zip"
+  }
+ },
+ "Novaler satdreamgr": {
+  "satdreamgr-10-novaler4kpro-20250217_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-10-novaler4kpro-20250217_usb.zip",
+   "name": "satdreamgr-10-novaler4kpro-20250217_usb.zip"
+  },
+  "satdreamgr-8-novaler4kpro-20230314_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-8-novaler4kpro-20230314_usb.zip",
+   "name": "satdreamgr-8-novaler4kpro-20230314_usb.zip"
+  }
+ },
+ "Novaler satdreamgr backup": {
+  "satdreamgr-10-novaler4kpro-backup-20240530_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/satdreamgr/satdreamgr-10-novaler4kpro-backup-20240530_usb.zip",
+   "name": "satdreamgr-10-novaler4kpro-backup-20240530_usb.zip"
+  }
+ },
+ "Novaler satlodge": {
+  "satlodge-9.0rel-multiboxpro_emmc.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/satlodge/satlodge-9.0rel-multiboxpro_emmc.zip",
+   "name": "satlodge-9.0rel-multiboxpro_emmc.zip"
+  }
+ },
+ "Novaler teamblue": {
+  "teamblue-7.6-novaler4kpro-20260412_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/teamblue/teamblue-7.6-novaler4kpro-20260412_multi.zip",
+   "name": "teamblue-7.6-novaler4kpro-20260412_multi.zip"
+  },
+  "teamblue-8.0-novaler4kpro-20261008_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/teamblue/teamblue-8.0-novaler4kpro-20261008_multi.zip",
+   "name": "teamblue-8.0-novaler4kpro-20261008_multi.zip"
+  }
+ },
+ "Novaler teamblue backup": {
+  "Teamblue-8.0-novaler4kpro-backup-20260715_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/teamblue/Teamblue-8.0-novaler4kpro-backup-20260715_usb.zip",
+   "name": "Teamblue-8.0-novaler4kpro-backup-20260715_usb.zip"
+  }
+ },
+ "Novaler titan": {
+  "novaler4kpro_v2-05_nightly_titan_UPDATEUSB_20250530_multi.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/titan/novaler4kpro_v2-05_nightly_titan_UPDATEUSB_20250530_multi.zip",
+   "name": "novaler4kpro_v2-05_nightly_titan_UPDATEUSB_20250530_multi.zip"
+  }
+ },
+ "Novaler titan backup": {
+  "openaaf-7.6-novaler4kpro-backup-20250512_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/titan/openaaf-7.6-novaler4kpro-backup-20250512_usb.zip",
+   "name": "openaaf-7.6-novaler4kpro-backup-20250512_usb.zip"
+  }
+ }
+}

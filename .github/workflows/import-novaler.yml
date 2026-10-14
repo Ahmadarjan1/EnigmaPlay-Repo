@@ -1,0 +1,46 @@
+name: Novaler plugins
+
+# The Novaler section: plugins Novaler publishes on novaler.com/dz/downloads/plugins, re-checked weekly.
+on:
+  schedule:
+    - cron: "41 5 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "list only"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow
+      - name: Import
+        run: python3 tools/import_novaler.py ${{ github.event.inputs.dry == 'true' && '--dry' || '' }}
+      - name: Rebuild signed index and push
+        if: github.event.inputs.dry != 'true'
+        env:
+          INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+          SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          git add -A packages/novaler files icons screenshots
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "enigmaplay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 tools/build_index.py --require-signature
+          git add -A index.json
+          git commit -m "Novaler plugins [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && { sh tools/notify_site.sh; exit 0; }; sleep 5; done
+          exit 1

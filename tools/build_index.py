@@ -373,6 +373,8 @@ def build(offline=False):
                 "settings": p.get("settings") or {},
                 "order": int(p.get("order", 1000)) if str(p.get("order", "")).lstrip("-").isdigit() else 1000,
                 "featured": bool(p.get("featured", False)),   # {"config": ["config.plugins.X."], "files": ["/etc/enigma2/x/*.json"]}
+                # receivers the item is made for (lower-case box names); absent = all
+                "models": [str(m).lower() for m in (p.get("models") or []) if re.match(r"^[A-Za-z0-9_+-]{2,40}$", str(m))],
             })
 
     items.sort(key=lambda it: (it["category"], it["order"], it["name"].lower()))

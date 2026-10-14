@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.58",
+  "version": "1.2.59",
   "updated": "2026-10-14",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.ipk"
+      "file": "files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.58/enigma2-plugin-extensions-enigmaplay_1.2.58_all.deb"
+      "file": "files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.59 - EnigmaPlay صار يحدّث نفسه تلقائياً بالخلفية (بيتفعّل مع إعادة تشغيل الواجهة أو بوضع الاستعداد)، وخيار لإيقافه بالإعدادات"
+    },
     {
       "date": "2026-10-14",
       "text": "1.2.58 - حماية المتجر من الإساءة: الأجهزة المحظورة ما بتقدر تستخدم خدمات الحساب"
@@ -105,10 +109,6 @@
     {
       "date": "2026-10-10",
       "text": "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
-    },
-    {
-      "date": "2026-10-10",
-      "text": "1.2.39 - صور عرض عربية، وتحسين البطاقات المميزة"
     }
   ],
   "i18n": {
@@ -132,5 +132,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1791930592
+  "updated_at": 1791981152
 }

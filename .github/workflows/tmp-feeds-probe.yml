@@ -23,6 +23,7 @@ jobs:
             "open8eight": "http://openeight.de/json/%s",
           }
           for fid, f in feeds.items():
+              out = []
               for m in ["sf8008", "gbquad4k", "h7", "vuduo4k", "multibox"]:
                   st, b = get(f % m)
                   info = ""
@@ -31,13 +32,16 @@ jobs:
                       cats = list(d)[:2]
                       n = sum(len(v) for v in d.values() if isinstance(v, dict))
                       first = next(iter(d[cats[0]].values())) if cats else {}
-                      info = "n=%d cats=%s first=%s" % (n, cats, json.dumps(first)[:220])
+                      info = "n=%d cats=%s first=%s" % (n, cats, json.dumps(first)[:160])
                   except Exception as e:
-                      info = "notjson %r" % b[:80]
-                  print("::notice::%s %s %s %s" % (fid, m, st, info))
+                      info = "notjson %r" % b[:40]
+                  out.append("%s:%s %s" % (m, st, info))
+              print("::notice::%s || %s" % (fid, " || ".join(out)))
+          pages = []
           for url in ["https://www.pur-e2.club", "https://pur-e2.club", "https://www.vuplus-support.org/wbb4/index.php", "https://images.openvision.dedyn.io/", "https://www.novaler.com/"]:
               st, b = get(url)
               links = sorted(set(re.findall(rb'href="([^"]*(?:image|Image|json|download|Download|zip)[^"]*)"', b)))[:12]
-              print("::notice::page %s %s %s" % (url, st, [l.decode('utf-8','replace') for l in links]))
+              pages.append("%s %s %s" % (url, st, [l.decode('utf-8','replace') for l in links]))
+          print("::notice::pages || " + " || ".join(pages))
           PY
           python3 p.py

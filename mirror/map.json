@@ -1,5 +1,5 @@
 {
-"generated": "2026-10-14 14:41 UTC",
+"generated": "2026-10-14 15:49 UTC",
 "items": {
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk": {
 "alive": true,
@@ -189,29 +189,30 @@
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-5/5fbb8412a517b824ccc0f39bc2316109573d77e0"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk": {
-"alive": true,
+"alive": false,
 "alt": [
 {
-"name": "Levi45 freeserver v.2.6 all",
+"name": "Levi45 freeserver v.2.9 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.9_all.deb"
 },
 {
-"name": "Levi45 freeserver -py2 1.4 all",
+"name": "Levi45 freeserver 2.9 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.9_all.ipk"
 },
 {
-"name": "Levi45 freeserver v.2.6 all (mirror)",
+"name": "Levi45 freeserver v.2.9 all (mirror)",
 "type": "deb",
-"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/900ca13fe8d33ea24659c4b150de6b8fa805215d"
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/65e78f86ddff1c4869ce43041239ef771f8361fe"
 },
 {
-"name": "Levi45 freeserver -py2 1.4 all (mirror)",
+"name": "Levi45 freeserver 2.9 all (mirror)",
 "type": "ipk",
-"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-2/2396cfcb29c5dbdf075b2a2aed6f0c96a2a63fa1"
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/c2f1c59405fa945597645a49e2479f8eb5c0d7b7"
 }
 ],
+"dead_since": "2026-10-14",
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/371772a1c325e553f946db73466221c6abb0f23c"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-kiddac-skin-e2sentials_1.05.20251116_all.deb": {
@@ -563,8 +564,20 @@
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/ce93003ec1f03bc00d823f5e97a9d198a3b25591"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.2.0-r0_all.ipk": {
-"alive": true,
-"alt": [],
+"alive": false,
+"alt": [
+{
+"name": "Gtiptvplayerpro 1.3.0-r0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.3.0-r0_all.ipk"
+},
+{
+"name": "Gtiptvplayerpro 1.3.0-r0 all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-e/eaab2abc78172816226a4fa825e7d72a7a0f694d"
+}
+],
+"dead_since": "2026-10-14",
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/c347749927c68f50612af6460956d86dde30a4bc"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk": {
@@ -1357,29 +1370,30 @@
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-d/dee8c331383e837d8f8e081b3f4c5cfbbf874ccc"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb": {
-"alive": true,
+"alive": false,
 "alt": [
 {
-"name": "Levi45 freeserver py2 v.1.4 all",
+"name": "Levi45 freeserver v.2.9 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.9_all.deb"
 },
 {
-"name": "Levi45 freeserver 2.6 all",
+"name": "Levi45 freeserver 2.9 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.6_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.9_all.ipk"
 },
 {
-"name": "Levi45 freeserver py2 v.1.4 all (mirror)",
+"name": "Levi45 freeserver v.2.9 all (mirror)",
 "type": "deb",
-"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-7/7fa5d748b62f53a34863081c8fe1924c41a94b40"
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/65e78f86ddff1c4869ce43041239ef771f8361fe"
 },
 {
-"name": "Levi45 freeserver 2.6 all (mirror)",
+"name": "Levi45 freeserver 2.9 all (mirror)",
 "type": "ipk",
-"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/371772a1c325e553f946db73466221c6abb0f23c"
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-c/c2f1c59405fa945597645a49e2479f8eb5c0d7b7"
 }
 ],
+"dead_since": "2026-10-14",
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-9/900ca13fe8d33ea24659c4b150de6b8fa805215d"
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45iptv_1.3_all.deb": {

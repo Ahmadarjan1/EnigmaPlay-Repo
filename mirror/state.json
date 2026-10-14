@@ -46,8 +46,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-12",
-"sha256": "3f99e526dc86e2b201fb8bb5a63df922b9b6fb91287475a2317d3a3731106efd",
+"date": "2026-10-14",
+"sha256": "359ff18fa465a6f396ca4b6558cba34c7f0b9e8dbf920292f074eba2d1940471",
 "size": 323729
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2154,6 +2154,11 @@
 "date": "2026-10-09",
 "sha256": "83ec3adcbdc223c694b1e70c653eaa0060c7e141dddb7f17debe6bc478f5e382",
 "size": 27876
+},
+"gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_2.9_all.ipk": {
+"date": "2026-10-14",
+"sha256": "9680ce0be1c621504721b16d8ddab752e051a478246c2ca09c4457f311bb8832",
+"size": 35646
 },
 "gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk": {
 "date": "2026-10-09",
@@ -4854,6 +4859,11 @@
 "date": "2026-10-09",
 "sha256": "14b6a7be49bf0fc061196928df1de5fd72b7b8b888ac0e5ac15248c9c1d332b8",
 "size": 39544136
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-gtiptvplayerpro_1.3.0-r0_all.ipk": {
+"date": "2026-10-14",
+"sha256": "bf8c98f531d1298c395a9010d3951716c99aa8ff358547c71c57497d88fb19fd",
+"size": 40578518
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-hbbtvplayer_0.2-r2_mips32el.ipk": {
 "date": "2026-10-09",
@@ -7875,6 +7885,11 @@
 "sha256": "164a393f34962a39f86d1c45b92048bbe61373f37d1e280c8e6d32b4b8c136f0",
 "size": 27004
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.9_all.deb": {
+"date": "2026-10-14",
+"sha256": "6729db027a96fd13a7fd0426948e130764167c80d09f7ef60e66671e27e21d02",
+"size": 32664
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-py2_1.4_all.deb": {
 "date": "2026-10-09",
 "sha256": "ae8e66e55e04bf6607983698cc84e9a666c21fd31b505dc0d568544698aca048",
@@ -8461,13 +8476,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-14 14:40",
+"last_run": "2026-10-14 15:48",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-14",
-"files": 1692,
+"files": 1695,
 "upstream": "ok"
 }
 }

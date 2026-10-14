@@ -1,0 +1,47 @@
+{
+  "id": "novaler-wifi-driver-multibox-multiboxse",
+  "name": "Novaler Wifi Driver Multibox & Multiboxse",
+  "category": "novaler",
+  "version": "4.4.35",
+  "updated": "2022-12-18",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-wifi-driver-multibox-multiboxse.png",
+  "screenshots": [
+    "screenshots/novaler-wifi-driver-multibox-multiboxse/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-wifi-driver-multibox-multiboxse/4.4.35/kernel-module-r8188eu-4.4.35_4.4.35-r0.6_multiboxse.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/novaler-wifi-driver.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.4.35"
+    }
+  ],
+  "updated_at": 1792021730,
+  "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+  ]
+}

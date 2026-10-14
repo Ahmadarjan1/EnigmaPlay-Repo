@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T23:47:05Z",
+ "generated": "2026-10-14T23:50:04Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -50,6 +50,12 @@
    "name": "فيدات",
    "order": 11,
    "color": "#689f38"
+  },
+  {
+   "id": "novaler",
+   "name": "نوفالر",
+   "order": 13,
+   "color": "#08a8c0"
   }
  ],
  "all_categories": [
@@ -8091,6 +8097,2044 @@
    "homepage": "https://www.linuxsat-support.com"
   },
   {
+   "id": "novaler-ajpanel",
+   "category": "novaler",
+   "name": "AJPANEL",
+   "version": "8.8.5",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nMeilleur plugin utilitaire sur enigma2",
+   "updated": "06.05.2023",
+   "updated_ts": 1792021718,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ajpanel/8.8.5/enigma2-plugin-extensions-ajpanel_v8.8.5_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 8.8.5"
+    ]
+   ],
+   "sha256": "77fcf0b019ea80865f3d03fde518ee96a81ac0ac2fc451e9547dc0da201d2b98",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-ajpanel.png?v=8361b5ccd2",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-ajpanel/1.png?v=672ef372db"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ajpanel/8.8.5/enigma2-plugin-extensions-ajpanel_v8.8.5_all.ipk",
+     "sha256": "77fcf0b019ea80865f3d03fde518ee96a81ac0ac2fc451e9547dc0da201d2b98",
+     "size": 384792,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-ajpanel/8.8.5/enigma2-plugin-extensions-ajpanel_v8.8.5_all.ipk",
+       "sha256": "77fcf0b019ea80865f3d03fde518ee96a81ac0ac2fc451e9547dc0da201d2b98"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nMeilleur plugin utilitaire sur enigma2"
+    }
+   }
+  },
+  {
+   "id": "novaler-alternative-softcam-manager",
+   "category": "novaler",
+   "name": "Alternative Softcam Manager",
+   "version": "4.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.03.2021",
+   "updated_ts": 1792021720,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-alternative-softcam-manager/4.0/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.0"
+    ]
+   ],
+   "sha256": "a469abf5956dba9e188905d94a756ab3f7ce1e24a0e6ceafc695e0d38ec7458c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-alternative-softcam-manager.png?v=1d3a7f76fd",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-alternative-softcam-manager/1.png?v=05327f670d"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-alternative-softcam-manager/4.0/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk",
+     "sha256": "a469abf5956dba9e188905d94a756ab3f7ce1e24a0e6ceafc695e0d38ec7458c",
+     "size": 9610236,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-alternative-softcam-manager/4.0/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk",
+       "sha256": "a469abf5956dba9e188905d94a756ab3f7ce1e24a0e6ceafc695e0d38ec7458c"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-ansite-quran",
+   "category": "novaler",
+   "name": "Ansite Quran",
+   "version": "1.3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021749,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ansite-quran/1.3/enigma2-plugin-extensions-ansite_1.3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3"
+    ]
+   ],
+   "sha256": "6dd5214f9e7a68695af3e3ce96ee431bf40055b292c9ffb274e8ed46278c5cab",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-ansite-quran.png?v=7548c6d6ee",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-ansite-quran/1.png?v=ddde275d56"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ansite-quran/1.3/enigma2-plugin-extensions-ansite_1.3_all.ipk",
+     "sha256": "6dd5214f9e7a68695af3e3ce96ee431bf40055b292c9ffb274e8ed46278c5cab",
+     "size": 3026630,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-ansite-quran/1.3/enigma2-plugin-extensions-ansite_1.3_all.ipk",
+       "sha256": "6dd5214f9e7a68695af3e3ce96ee431bf40055b292c9ffb274e8ed46278c5cab"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-arabicsavior",
+   "category": "novaler",
+   "name": "ArabicSavior",
+   "version": "1.3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "29.09.2021",
+   "updated_ts": 1792021771,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-arabicsavior/1.3/install.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3"
+    ]
+   ],
+   "sha256": "69e903063c22aaabd155c3685c46a7b8de243107bfa8a18e024154cefe0846dd",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-arabicsavior.png?v=eab119734a",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-arabicsavior/1.png?v=a15389825b"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-arabicsavior/1.3/install.sh",
+     "sha256": "69e903063c22aaabd155c3685c46a7b8de243107bfa8a18e024154cefe0846dd",
+     "size": 888,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-arabicsavior/1.3/install.sh",
+       "sha256": "69e903063c22aaabd155c3685c46a7b8de243107bfa8a18e024154cefe0846dd"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-athan-times",
+   "category": "novaler",
+   "name": "Athan Times",
+   "version": "2.8",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nAthane times",
+   "updated": "10.05.2023",
+   "updated_ts": 1792021722,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-athan-times/2.8/enigma2-plugin-extensions-Athantimes_2.8_PY3.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.8"
+    ]
+   ],
+   "sha256": "48707d9673e5b8be72a75e5c9d3b71b8000724c59cb23b036d15f1eba3f57a8a",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-athan-times.png?v=6aac130b16",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-athan-times/1.png?v=e9e3da9b81"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-athan-times/2.8/enigma2-plugin-extensions-Athantimes_2.8_PY3.ipk",
+     "sha256": "48707d9673e5b8be72a75e5c9d3b71b8000724c59cb23b036d15f1eba3f57a8a",
+     "size": 3107578,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-athan-times/2.8/enigma2-plugin-extensions-Athantimes_2.8_PY3.ipk",
+       "sha256": "48707d9673e5b8be72a75e5c9d3b71b8000724c59cb23b036d15f1eba3f57a8a"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nAthane times"
+    }
+   }
+  },
+  {
+   "id": "novaler-audio-pip",
+   "category": "novaler",
+   "name": "Audio pip",
+   "version": "0.3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "01.02.2021",
+   "updated_ts": 1792021723,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-audio-pip/0.3/enigma2-plugin-extensions-audiopip_0.3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 0.3"
+    ]
+   ],
+   "sha256": "38db6c91888a1e0d12b5df8c2679dcdb1d0e6e3300056ba712659bb481e1cf00",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-audio-pip.png?v=996a5bf8e6",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-audio-pip/1.png?v=84bae9b9e1"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-audio-pip/0.3/enigma2-plugin-extensions-audiopip_0.3_all.ipk",
+     "sha256": "38db6c91888a1e0d12b5df8c2679dcdb1d0e6e3300056ba712659bb481e1cf00",
+     "size": 2240,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-audio-pip/0.3/enigma2-plugin-extensions-audiopip_0.3_all.ipk",
+       "sha256": "38db6c91888a1e0d12b5df8c2679dcdb1d0e6e3300056ba712659bb481e1cf00"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-beengo",
+   "category": "novaler",
+   "name": "beengo",
+   "version": "11.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNouvelle applciation ip** et vod exclusive pour tous les démo Novaler",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021794,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-beengo/11.0/enigma2-plugin-extensions-beengo-py3.9_11.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 11.0"
+    ]
+   ],
+   "sha256": "ca32c111c56aa6bf1671e303b3324e07feb879a93bd86f34671b4356a55607d1",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-beengo.png?v=5408f51ed5",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-beengo/1.png?v=e353853a84"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-beengo/11.0/enigma2-plugin-extensions-beengo-py3.9_11.0-r0_all.ipk",
+     "sha256": "ca32c111c56aa6bf1671e303b3324e07feb879a93bd86f34671b4356a55607d1",
+     "size": 1931504,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-beengo/11.0/enigma2-plugin-extensions-beengo-py3.9_11.0-r0_all.ipk",
+       "sha256": "ca32c111c56aa6bf1671e303b3324e07feb879a93bd86f34671b4356a55607d1"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNouvelle applciation ip** et vod exclusive pour tous les démo Novaler"
+    }
+   }
+  },
+  {
+   "id": "novaler-biss-feed-autokey",
+   "category": "novaler",
+   "name": "Biss feed autokey",
+   "version": "2.8",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.03.2021",
+   "updated_ts": 1792021735,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-biss-feed-autokey/2.8/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.8"
+    ]
+   ],
+   "sha256": "5bf03c33ab2fdf8bf99a544a346ec48f29e942daeec487bc8c5596d5bae8b349",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-biss-feed-autokey.png?v=7d2bd37cc5",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-biss-feed-autokey/1.png?v=c63dfa4771"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-biss-feed-autokey/2.8/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk",
+     "sha256": "5bf03c33ab2fdf8bf99a544a346ec48f29e942daeec487bc8c5596d5bae8b349",
+     "size": 2875400,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-biss-feed-autokey/2.8/bissfeed-autokey_20201016-V2.8-By-momi133-OE2_all.ipk",
+       "sha256": "5bf03c33ab2fdf8bf99a544a346ec48f29e942daeec487bc8c5596d5bae8b349"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-e2m3u2bouquet",
+   "category": "novaler",
+   "name": "E2m3u2bouquet",
+   "version": "1.0.43",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "29.09.2021",
+   "updated_ts": 1792021764,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-e2m3u2bouquet/1.0.43/enigma2-plugin-extensions-e2m3u2bouquet_1.0.43_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.0.43"
+    ]
+   ],
+   "sha256": "cb8f1b9613b15d3d76fb91476f91abdfeb907fa29a36ab2a074ed20f9693710f",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-e2m3u2bouquet.png?v=215606852c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-e2m3u2bouquet/1.png?v=ef26db8cae"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-e2m3u2bouquet/1.0.43/enigma2-plugin-extensions-e2m3u2bouquet_1.0.43_all.ipk",
+     "sha256": "cb8f1b9613b15d3d76fb91476f91abdfeb907fa29a36ab2a074ed20f9693710f",
+     "size": 1113476,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-e2m3u2bouquet/1.0.43/enigma2-plugin-extensions-e2m3u2bouquet_1.0.43_all.ipk",
+       "sha256": "cb8f1b9613b15d3d76fb91476f91abdfeb907fa29a36ab2a074ed20f9693710f"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-feeds-finder",
+   "category": "novaler",
+   "name": "Feeds Finder",
+   "version": "1.6",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "01.02.2021",
+   "updated_ts": 1792021729,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-feeds-finder/1.6/feeds-finder_20201016-V1.6-momi133-OE2_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.6"
+    ]
+   ],
+   "sha256": "a116a28f974d2e2924eaf3259a3473b1437f68616e90ed0c973f43cc90050b96",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-feeds-finder.png?v=db50e87f85",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-feeds-finder/1.png?v=539a25b48d"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-feeds-finder/1.6/feeds-finder_20201016-V1.6-momi133-OE2_all.ipk",
+     "sha256": "a116a28f974d2e2924eaf3259a3473b1437f68616e90ed0c973f43cc90050b96",
+     "size": 1220226,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-feeds-finder/1.6/feeds-finder_20201016-V1.6-momi133-OE2_all.ipk",
+       "sha256": "a116a28f974d2e2924eaf3259a3473b1437f68616e90ed0c973f43cc90050b96"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-feeds-finder-biss-auto",
+   "category": "novaler",
+   "name": "Feeds Finder & Biss Auto",
+   "version": "2022",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNew Feeds finder plugin edited by Novaler",
+   "updated": "11.01.2022",
+   "updated_ts": 1792021773,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-feeds-finder-biss-auto/2022/enigma2-plugin-extensions-feeds-finder_20220111-V1.7-momi133-OE2_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 2022"
+    ]
+   ],
+   "sha256": "3ee815d9735c5565ab49d9feef65036e8700ed57d733f2f7aec2b861883cf90b",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-feeds-finder-biss-auto.png?v=e3964f697d",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-feeds-finder-biss-auto/1.png?v=5ad825e745"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-feeds-finder-biss-auto/2022/enigma2-plugin-extensions-feeds-finder_20220111-V1.7-momi133-OE2_all.ipk",
+     "sha256": "3ee815d9735c5565ab49d9feef65036e8700ed57d733f2f7aec2b861883cf90b",
+     "size": 1229604,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-feeds-finder-biss-auto/2022/enigma2-plugin-extensions-feeds-finder_20220111-V1.7-momi133-OE2_all.ipk",
+       "sha256": "3ee815d9735c5565ab49d9feef65036e8700ed57d733f2f7aec2b861883cf90b"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNew Feeds finder plugin edited by Novaler"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-free-server",
+   "category": "novaler",
+   "name": "Free Server",
+   "version": "7.2.6",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021754,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-free-server/7.2.6/enigma2-plugin-extensions-freeserver_7.2.6_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 7.2.6"
+    ]
+   ],
+   "sha256": "fdda4a58e86bf5f5bb51696aa193eb3cdd758e052749b2bc75aac3e820c399e0",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-free-server.png?v=6d83b88c60",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-free-server/1.png?v=22b5db3737"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-free-server/7.2.6/enigma2-plugin-extensions-freeserver_7.2.6_all.ipk",
+     "sha256": "fdda4a58e86bf5f5bb51696aa193eb3cdd758e052749b2bc75aac3e820c399e0",
+     "size": 1491798,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-free-server/7.2.6/enigma2-plugin-extensions-freeserver_7.2.6_all.ipk",
+       "sha256": "fdda4a58e86bf5f5bb51696aa193eb3cdd758e052749b2bc75aac3e820c399e0"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-internet-speedtest",
+   "category": "novaler",
+   "name": "Internet-speedtest",
+   "version": "1.2",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "03.06.2021",
+   "updated_ts": 1792021739,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-internet-speedtest/1.2/enigma2-plugin-extensions-internet-speedtest_1.2_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.2"
+    ]
+   ],
+   "sha256": "a6970a11039887c83e19a2cc709cb9bf154867c8727ea5aece686b1e0e02396c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-internet-speedtest.png?v=2de4f3ec50",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-internet-speedtest/1.png?v=548bf08004"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-internet-speedtest/1.2/enigma2-plugin-extensions-internet-speedtest_1.2_all.ipk",
+     "sha256": "a6970a11039887c83e19a2cc709cb9bf154867c8727ea5aece686b1e0e02396c",
+     "size": 392428,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-internet-speedtest/1.2/enigma2-plugin-extensions-internet-speedtest_1.2_all.ipk",
+       "sha256": "a6970a11039887c83e19a2cc709cb9bf154867c8727ea5aece686b1e0e02396c"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-ip-audio",
+   "category": "novaler",
+   "name": "IP AUDIO +",
+   "version": "5.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nFinal version EXCLUSIVE for novaler",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021785,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ip-audio/5.0/enigma2-plugin-extensions-ipaudioplus-py3.9_5.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 5.0"
+    ]
+   ],
+   "sha256": "c536207ad8387d3d070292cf9c4c1e446919ee894cc65095564eb3877a5563eb",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-ip-audio.png?v=42a8ea2bba",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-ip-audio/1.png?v=c61b7495fb"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ip-audio/5.0/enigma2-plugin-extensions-ipaudioplus-py3.9_5.0-r0_all.ipk",
+     "sha256": "c536207ad8387d3d070292cf9c4c1e446919ee894cc65095564eb3877a5563eb",
+     "size": 841876,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-ip-audio/5.0/enigma2-plugin-extensions-ipaudioplus-py3.9_5.0-r0_all.ipk",
+       "sha256": "c536207ad8387d3d070292cf9c4c1e446919ee894cc65095564eb3877a5563eb"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nFinal version EXCLUSIVE for novaler"
+    }
+   }
+  },
+  {
+   "id": "novaler-ip-sat",
+   "category": "novaler",
+   "name": "IP SAT",
+   "version": "11.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nExclusivité Novaler",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021787,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ip-sat/11.0/enigma2-plugin-extensions-ipsat-py3.9_11.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 11.0"
+    ]
+   ],
+   "sha256": "c47f4e92cf2440df2e543073c88d73904bf27bce09972e7946a494f9f92419b7",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-ip-sat.png?v=b6b76e6714",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-ip-sat/1.png?v=492de90854"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ip-sat/11.0/enigma2-plugin-extensions-ipsat-py3.9_11.0-r0_all.ipk",
+     "sha256": "c47f4e92cf2440df2e543073c88d73904bf27bce09972e7946a494f9f92419b7",
+     "size": 719520,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-ip-sat/11.0/enigma2-plugin-extensions-ipsat-py3.9_11.0-r0_all.ipk",
+       "sha256": "c47f4e92cf2440df2e543073c88d73904bf27bce09972e7946a494f9f92419b7"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nExclusivité Novaler"
+    }
+   }
+  },
+  {
+   "id": "novaler-jedimakerxtream",
+   "category": "novaler",
+   "name": "JediMakerXtream",
+   "version": "6.36",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "09.05.2024",
+   "updated_ts": 1792021737,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-jedimakerxtream/6.36/enigma2-plugin-extensions-jedimakerxtream_6.36-r3_20240210_py3.12_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 6.36"
+    ]
+   ],
+   "sha256": "13e8d3cd5cb2de7fd49381b0a3d11f7a25dd29ae5b9091e2993e416feecc61d9",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-jedimakerxtream.png?v=e8e33a4682",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-jedimakerxtream/1.png?v=03745985cd"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-jedimakerxtream/6.36/enigma2-plugin-extensions-jedimakerxtream_6.36-r3_20240210_py3.12_all.ipk",
+     "sha256": "13e8d3cd5cb2de7fd49381b0a3d11f7a25dd29ae5b9091e2993e416feecc61d9",
+     "size": 2991690,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-jedimakerxtream/6.36/enigma2-plugin-extensions-jedimakerxtream_6.36-r3_20240210_py3.12_all.ipk",
+       "sha256": "13e8d3cd5cb2de7fd49381b0a3d11f7a25dd29ae5b9091e2993e416feecc61d9"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-key-adder",
+   "category": "novaler",
+   "name": "Key-Adder",
+   "version": "5.7",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.06.2022",
+   "updated_ts": 1792021781,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-key-adder/5.7/install.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 5.7"
+    ]
+   ],
+   "sha256": "5ce496c45d79aaf8950d5dec4cc09e97b4175e8338e2c05aed81bec7df622129",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-key-adder.png?v=3aa121cf61",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-key-adder/1.png?v=4fa7d8d8e4"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-key-adder/5.7/install.sh",
+     "sha256": "5ce496c45d79aaf8950d5dec4cc09e97b4175e8338e2c05aed81bec7df622129",
+     "size": 865,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-key-adder/5.7/install.sh",
+       "sha256": "5ce496c45d79aaf8950d5dec4cc09e97b4175e8338e2c05aed81bec7df622129"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-multiboot-flashonline",
+   "category": "novaler",
+   "name": "Multiboot Flashonline",
+   "version": "5.9",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021746,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-multiboot-flashonline/5.9/enigma2-plugin-extensions-multiboot-flashonline_5.9_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 5.9"
+    ]
+   ],
+   "sha256": "06cf350635f54869cda74a84130128e471fe1ab242c4cdd746ba89602cdc9350",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-multiboot-flashonline.png?v=0cf44c6b1d",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-multiboot-flashonline/1.png?v=01c63a1a8a"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-multiboot-flashonline/5.9/enigma2-plugin-extensions-multiboot-flashonline_5.9_all.ipk",
+     "sha256": "06cf350635f54869cda74a84130128e471fe1ab242c4cdd746ba89602cdc9350",
+     "size": 425534,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-multiboot-flashonline/5.9/enigma2-plugin-extensions-multiboot-flashonline_5.9_all.ipk",
+       "sha256": "06cf350635f54869cda74a84130128e471fe1ab242c4cdd746ba89602cdc9350"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-netspeedtest",
+   "category": "novaler",
+   "name": "Netspeedtest",
+   "version": "2.1.3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021761,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-netspeedtest/2.1.3/enigma2-plugin-extensions-netspeedtest_2.1.3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.1.3"
+    ]
+   ],
+   "sha256": "94a86069049d71e41228a8f8b62ef7438008a3040ca84b1b8552eef56dbb3e62",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-netspeedtest.png?v=b3f43626f4",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-netspeedtest/1.png?v=df56d7fe7c"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-netspeedtest/2.1.3/enigma2-plugin-extensions-netspeedtest_2.1.3_all.ipk",
+     "sha256": "94a86069049d71e41228a8f8b62ef7438008a3040ca84b1b8552eef56dbb3e62",
+     "size": 277270,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-netspeedtest/2.1.3/enigma2-plugin-extensions-netspeedtest_2.1.3_all.ipk",
+       "sha256": "94a86069049d71e41228a8f8b62ef7438008a3040ca84b1b8552eef56dbb3e62"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-novacam-pro-novatv",
+   "category": "novaler",
+   "name": "Novacam Pro & NovaTV",
+   "version": "4.011.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNew plugin for SAT and IP servers for all enigma2 devices",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021801,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novacam-pro-novatv/4.011.0/enigma2-plugin-extensions-novacampro-py3.9_4.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.011.0"
+    ]
+   ],
+   "sha256": "31357b799bb409d2ba05374c25ac4ed3baf461744cb3bd7752fa105d554a6094",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-novacam-pro-novatv.png?v=9f899a0393",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-novacam-pro-novatv/1.png?v=a34833faf7"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novacam-pro-novatv/4.011.0/enigma2-plugin-extensions-novacampro-py3.9_4.0-r0_all.ipk",
+     "sha256": "31357b799bb409d2ba05374c25ac4ed3baf461744cb3bd7752fa105d554a6094",
+     "size": 707750,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-novacam-pro-novatv/4.011.0/enigma2-plugin-extensions-novacampro-py3.9_4.0-r0_all.ipk",
+       "sha256": "31357b799bb409d2ba05374c25ac4ed3baf461744cb3bd7752fa105d554a6094"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNew plugin for SAT and IP servers for all enigma2 devices"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-novacam-supreme",
+   "category": "novaler",
+   "name": "Novacam Supreme",
+   "version": "9.2",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNovacam Supreme server / Free till december 2024",
+   "updated": "09.05.2024",
+   "updated_ts": 1792021783,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novacam-supreme/9.2/enigma2-plugin-extensions-novacam-supreme-py3.9_9.2-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 9.2"
+    ]
+   ],
+   "sha256": "f92e30b396277b282da11e5c591b6eede9fe737ef33acb9d15fcfa35707d9733",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-novacam-supreme.png?v=d9e9444b9f",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-novacam-supreme/1.png?v=6e9bab89e7"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novacam-supreme/9.2/enigma2-plugin-extensions-novacam-supreme-py3.9_9.2-r0_all.ipk",
+     "sha256": "f92e30b396277b282da11e5c591b6eede9fe737ef33acb9d15fcfa35707d9733",
+     "size": 427684,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-novacam-supreme/9.2/enigma2-plugin-extensions-novacam-supreme-py3.9_9.2-r0_all.ipk",
+       "sha256": "f92e30b396277b282da11e5c591b6eede9fe737ef33acb9d15fcfa35707d9733"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNovacam Supreme server / Free till december 2024"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-multicam-manager",
+   "category": "novaler",
+   "name": "Novaler MultiCam Manager",
+   "version": "1.8",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nall cam oscam ncam cccam supcam ultracam\nsupport python 2 , 3",
+   "updated": "12.09.2023",
+   "updated_ts": 1792021733,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-multicam-manager/1.8/enigma2-plugin-extensions-camnova_1.8-arm_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.8"
+    ]
+   ],
+   "sha256": "aa48508084463ac94a8425e4d70e1920c8d289c9fa38987ce5ac4812d41f6561",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-multicam-manager.png?v=037fbf46fa",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-multicam-manager/1.png?v=9b360e55c1"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-multicam-manager/1.8/enigma2-plugin-extensions-camnova_1.8-arm_all.ipk",
+     "sha256": "aa48508084463ac94a8425e4d70e1920c8d289c9fa38987ce5ac4812d41f6561",
+     "size": 3155890,
+     "arch": "arm",
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-multicam-manager/1.8/enigma2-plugin-extensions-camnova_1.8-arm_all.ipk",
+       "sha256": "aa48508084463ac94a8425e4d70e1920c8d289c9fa38987ce5ac4812d41f6561"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nall cam oscam ncam cccam supcam ultracam\nsupport python 2 , 3"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-store",
+   "category": "novaler",
+   "name": "Novaler Store",
+   "version": "5.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nBest and Biggest enigma2 Store .. Exclusive",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021798,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-store/5.0/enigma2-plugin-extensions-novalerstore-py3.9_5.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 5.0"
+    ]
+   ],
+   "sha256": "b5bbd9730abbe7d405009bd76e6962e4517e1b434a2fe7d9dc3aa4d47df2f771",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-store.png?v=e753f4526c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-store/1.png?v=01990ac466"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-store/5.0/enigma2-plugin-extensions-novalerstore-py3.9_5.0-r0_all.ipk",
+     "sha256": "b5bbd9730abbe7d405009bd76e6962e4517e1b434a2fe7d9dc3aa4d47df2f771",
+     "size": 683614,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-store/5.0/enigma2-plugin-extensions-novalerstore-py3.9_5.0-r0_all.ipk",
+       "sha256": "b5bbd9730abbe7d405009bd76e6962e4517e1b434a2fe7d9dc3aa4d47df2f771"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nBest and Biggest enigma2 Store .. Exclusive"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-novatv",
+   "category": "novaler",
+   "name": "NOVALER TV",
+   "version": "11.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNew update for NovalerTV",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021775,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novatv/11.0/enigma2-plugin-extensions-novalertv-py3.9_11.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 11.0"
+    ]
+   ],
+   "sha256": "65fffbeffe2dea8e1e2320264927366e09637b58cec422c65629a92067b15178",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-novatv.png?v=0c8ab8346c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-novatv/1.png?v=fa6cfa610f"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-novatv/11.0/enigma2-plugin-extensions-novalertv-py3.9_11.0-r0_all.ipk",
+     "sha256": "65fffbeffe2dea8e1e2320264927366e09637b58cec422c65629a92067b15178",
+     "size": 2998000,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-novatv/11.0/enigma2-plugin-extensions-novalertv-py3.9_11.0-r0_all.ipk",
+       "sha256": "65fffbeffe2dea8e1e2320264927366e09637b58cec422c65629a92067b15178"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNew update for NovalerTV"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-wifi-driver-multibox-multiboxse",
+   "category": "novaler",
+   "name": "Novaler Wifi Driver Multibox & Multiboxse",
+   "version": "4.4.35",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "18.12.2022",
+   "updated_ts": 1792021730,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-wifi-driver-multibox-multiboxse/4.4.35/kernel-module-r8188eu-4.4.35_4.4.35-r0.6_multiboxse.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.4.35"
+    ]
+   ],
+   "sha256": "bcd14dda844334a652cfe07afc39e6e98d2934ad7ad5c9426d4a7b2c3c6c1ba1",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-wifi-driver-multibox-multiboxse.png?v=fbd56dc17b",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-wifi-driver-multibox-multiboxse/1.png?v=1b84287bb2"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-wifi-driver-multibox-multiboxse/4.4.35/kernel-module-r8188eu-4.4.35_4.4.35-r0.6_multiboxse.ipk",
+     "sha256": "bcd14dda844334a652cfe07afc39e6e98d2934ad7ad5c9426d4a7b2c3c6c1ba1",
+     "size": 234012,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-wifi-driver-multibox-multiboxse/4.4.35/kernel-module-r8188eu-4.4.35_4.4.35-r0.6_multiboxse.ipk",
+       "sha256": "bcd14dda844334a652cfe07afc39e6e98d2934ad7ad5c9426d4a7b2c3c6c1ba1"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-petazetas-oscam-editor",
+   "category": "novaler",
+   "name": "Petazetas Oscam editor",
+   "version": "1.1",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "10.07.2021",
+   "updated_ts": 1792021742,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-petazetas-oscam-editor/1.1/enigma2-plugin-extensions-petazetas_1.1_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.1"
+    ]
+   ],
+   "sha256": "df1efe90b078e75ec6655dcf866946f3ca1373f711d7ee266b6e3d75adb980e6",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-petazetas-oscam-editor.png?v=029fe6b61d",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-petazetas-oscam-editor/1.png?v=43ce440c76"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-petazetas-oscam-editor/1.1/enigma2-plugin-extensions-petazetas_1.1_all.ipk",
+     "sha256": "df1efe90b078e75ec6655dcf866946f3ca1373f711d7ee266b6e3d75adb980e6",
+     "size": 67462,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-petazetas-oscam-editor/1.1/enigma2-plugin-extensions-petazetas_1.1_all.ipk",
+       "sha256": "df1efe90b078e75ec6655dcf866946f3ca1373f711d7ee266b6e3d75adb980e6"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-pluto-tv",
+   "category": "novaler",
+   "name": "Pluto TV",
+   "version": "3.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNouveau plugin gratuit Fevrier 2024",
+   "updated": "20.02.2024",
+   "updated_ts": 1792021744,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-pluto-tv/3.0/enigma2-plugin-extensions-plutotv_20240220_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 3.0"
+    ]
+   ],
+   "sha256": "4148977ec37eb5ee184fda7dffef27e73d45895ec236e8cb5f596167af16ae39",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-pluto-tv.png?v=7c0f9f50d9",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-pluto-tv/1.png?v=a8615e6eea"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-pluto-tv/3.0/enigma2-plugin-extensions-plutotv_20240220_all.ipk",
+     "sha256": "4148977ec37eb5ee184fda7dffef27e73d45895ec236e8cb5f596167af16ae39",
+     "size": 507780,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-pluto-tv/3.0/enigma2-plugin-extensions-plutotv_20240220_all.ipk",
+       "sha256": "4148977ec37eb5ee184fda7dffef27e73d45895ec236e8cb5f596167af16ae39"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNouveau plugin gratuit Fevrier 2024"
+    }
+   }
+  },
+  {
+   "id": "novaler-quran",
+   "category": "novaler",
+   "name": "Quran",
+   "version": "1.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "01.02.2021",
+   "updated_ts": 1792021725,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-quran/1.0/enigma2-plugin-extensions-quran-karim_1.0_by_electroyassine_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.0"
+    ]
+   ],
+   "sha256": "1b0608783ead4ea7d6c7f7df25b79d432f38c749dc160036601042c90cc96cbb",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-quran.png?v=dd9cbf15fb",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-quran/1.png?v=3270346dbf"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-quran/1.0/enigma2-plugin-extensions-quran-karim_1.0_by_electroyassine_all.ipk",
+     "sha256": "1b0608783ead4ea7d6c7f7df25b79d432f38c749dc160036601042c90cc96cbb",
+     "size": 8015558,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-quran/1.0/enigma2-plugin-extensions-quran-karim_1.0_by_electroyassine_all.ipk",
+       "sha256": "1b0608783ead4ea7d6c7f7df25b79d432f38c749dc160036601042c90cc96cbb"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-rakuten-tv",
+   "category": "novaler",
+   "name": "Rakuten TV",
+   "version": "3.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNouveau Plugin Mars 2024",
+   "updated": "24.03.2024",
+   "updated_ts": 1792021788,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-rakuten-tv/3.0/enigma2-plugin-extensions-rakutentv_20240324_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 3.0"
+    ]
+   ],
+   "sha256": "6a12cf73e0eb635b583b591b6ea5af9fa68fce63144d3e52c67e1701b0f14e11",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-rakuten-tv.png?v=5532e90680",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-rakuten-tv/1.png?v=b85bb16d91"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-rakuten-tv/3.0/enigma2-plugin-extensions-rakutentv_20240324_all.ipk",
+     "sha256": "6a12cf73e0eb635b583b591b6ea5af9fa68fce63144d3e52c67e1701b0f14e11",
+     "size": 564096,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-rakuten-tv/3.0/enigma2-plugin-extensions-rakutentv_20240324_all.ipk",
+       "sha256": "6a12cf73e0eb635b583b591b6ea5af9fa68fce63144d3e52c67e1701b0f14e11"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNouveau Plugin Mars 2024"
+    }
+   }
+  },
+  {
+   "id": "novaler-screengrabber",
+   "category": "novaler",
+   "name": "Screengrabber",
+   "version": "2.6",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021762,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-screengrabber/2.6/enigma2-plugin-extensions-screengrabber_2.6_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.6"
+    ]
+   ],
+   "sha256": "c2d8e3be738a70707c4b720d27fe4a377a5b74c3c2c9f2ca000092c868cefffe",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-screengrabber.png?v=1525c2a4a9",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-screengrabber/1.png?v=27d8b4f0e5"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-screengrabber/2.6/enigma2-plugin-extensions-screengrabber_2.6_all.ipk",
+     "sha256": "c2d8e3be738a70707c4b720d27fe4a377a5b74c3c2c9f2ca000092c868cefffe",
+     "size": 113484,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-screengrabber/2.6/enigma2-plugin-extensions-screengrabber_2.6_all.ipk",
+       "sha256": "c2d8e3be738a70707c4b720d27fe4a377a5b74c3c2c9f2ca000092c868cefffe"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-softcams-novaler",
+   "category": "novaler",
+   "name": "Softcams novaler 4k",
+   "version": "1.2",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "01.11.2021",
+   "updated_ts": 1792021741,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-softcams-novaler/1.2/enigma2-plugin-softcams-supcam-oscam-tnt-novaler4k_v-1.0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.2"
+    ]
+   ],
+   "sha256": "a725725f5d54ecd41cd8d9e5ff678be86aa4bd5e240f90af84b4103fe0960811",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-softcams-novaler.png?v=1be6f13c65",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-softcams-novaler/1.png?v=a87b6c9758"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-softcams-novaler/1.2/enigma2-plugin-softcams-supcam-oscam-tnt-novaler4k_v-1.0_all.ipk",
+     "sha256": "a725725f5d54ecd41cd8d9e5ff678be86aa4bd5e240f90af84b4103fe0960811",
+     "size": 2310118,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-softcams-novaler/1.2/enigma2-plugin-softcams-supcam-oscam-tnt-novaler4k_v-1.0_all.ipk",
+       "sha256": "a725725f5d54ecd41cd8d9e5ff678be86aa4bd5e240f90af84b4103fe0960811"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-subssupport",
+   "category": "novaler",
+   "name": "Subssupport",
+   "version": "1.5.8-r3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021757,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-subssupport/1.5.8-r3/enigma2-plugin-extensions-subssupport_1.5.8-r3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.5.8-r3"
+    ]
+   ],
+   "sha256": "baa89e9845f22a2f91835855f547bb454fcda7e46cb8703aed2ccfef2e317695",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-subssupport.png?v=03a01490ff",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-subssupport/1.png?v=66a55895ca"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-subssupport/1.5.8-r3/enigma2-plugin-extensions-subssupport_1.5.8-r3_all.ipk",
+     "sha256": "baa89e9845f22a2f91835855f547bb454fcda7e46cb8703aed2ccfef2e317695",
+     "size": 658792,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-subssupport/1.5.8-r3/enigma2-plugin-extensions-subssupport_1.5.8-r3_all.ipk",
+       "sha256": "baa89e9845f22a2f91835855f547bb454fcda7e46cb8703aed2ccfef2e317695"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-suptv",
+   "category": "novaler",
+   "name": "SUPTV",
+   "version": "6.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "16.05.2026",
+   "updated_ts": 1792021780,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-suptv/6.0/enigma2-plugin-extensions-suptv-py3.9_6.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 6.0"
+    ]
+   ],
+   "sha256": "af062cb0b5fcb741ad623dd8a1f4de75aa192890f343e9edbfb61ab859b55b49",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-suptv.png?v=27eef97499",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-suptv/1.png?v=045d468020"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-suptv/6.0/enigma2-plugin-extensions-suptv-py3.9_6.0-r0_all.ipk",
+     "sha256": "af062cb0b5fcb741ad623dd8a1f4de75aa192890f343e9edbfb61ab859b55b49",
+     "size": 342710,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-suptv/6.0/enigma2-plugin-extensions-suptv-py3.9_6.0-r0_all.ipk",
+       "sha256": "af062cb0b5fcb741ad623dd8a1f4de75aa192890f343e9edbfb61ab859b55b49"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-tvspro",
+   "category": "novaler",
+   "name": "Tvspro",
+   "version": "1.3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021759,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-tvspro/1.3/enigma2-plugin-extensions-tvspro_1.3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3"
+    ]
+   ],
+   "sha256": "8e30ccdf3264dcfcb15e9eeadff2853b068b14d6e4b674a14c8bbf0702807a0d",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-tvspro.png?v=ef4cd792f6",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-tvspro/1.png?v=6f276cf3f6"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-tvspro/1.3/enigma2-plugin-extensions-tvspro_1.3_all.ipk",
+     "sha256": "8e30ccdf3264dcfcb15e9eeadff2853b068b14d6e4b674a14c8bbf0702807a0d",
+     "size": 3025002,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-tvspro/1.3/enigma2-plugin-extensions-tvspro_1.3_all.ipk",
+       "sha256": "8e30ccdf3264dcfcb15e9eeadff2853b068b14d6e4b674a14c8bbf0702807a0d"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-ultracam",
+   "category": "novaler",
+   "name": "UltraCam",
+   "version": "3.0",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nPour fixer les probleme enigma2 et afficher la MAC d'activation",
+   "updated": "16.08.2025",
+   "updated_ts": 1792021796,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ultracam/3.0/enigma2-plugin-extensions-ultracam-py3.9_3.0-r0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 3.0"
+    ]
+   ],
+   "sha256": "1ec1957c3371c2579ac36494ed74612bd08c4e61693656494d8b97dddd9b6597",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-ultracam.png?v=6bfecf88d9",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-ultracam/1.png?v=6efd7763bc"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-ultracam/3.0/enigma2-plugin-extensions-ultracam-py3.9_3.0-r0_all.ipk",
+     "sha256": "1ec1957c3371c2579ac36494ed74612bd08c4e61693656494d8b97dddd9b6597",
+     "size": 721484,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-ultracam/3.0/enigma2-plugin-extensions-ultracam-py3.9_3.0-r0_all.ipk",
+       "sha256": "1ec1957c3371c2579ac36494ed74612bd08c4e61693656494d8b97dddd9b6597"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nPour fixer les probleme enigma2 et afficher la MAC d'activation"
+    }
+   },
+   "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+   ]
+  },
+  {
+   "id": "novaler-vpn-changer",
+   "category": "novaler",
+   "name": "VPN Changer",
+   "version": "1.2.9",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "01.02.2021",
+   "updated_ts": 1792021726,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-vpn-changer/1.2.9/enigma2-plugin-extensions-vpnchanger_1.2.9_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.2.9"
+    ]
+   ],
+   "sha256": "f02f3e364482ab59d564d4e23b6d39bf653a1a558c191a15bbdf852d53549819",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-vpn-changer.png?v=47ffaa6461",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-vpn-changer/1.png?v=70492def01"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-vpn-changer/1.2.9/enigma2-plugin-extensions-vpnchanger_1.2.9_all.ipk",
+     "sha256": "f02f3e364482ab59d564d4e23b6d39bf653a1a558c191a15bbdf852d53549819",
+     "size": 30146,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-vpn-changer/1.2.9/enigma2-plugin-extensions-vpnchanger_1.2.9_all.ipk",
+       "sha256": "f02f3e364482ab59d564d4e23b6d39bf653a1a558c191a15bbdf852d53549819"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-weather-msn",
+   "category": "novaler",
+   "name": "Weather-Msn",
+   "version": "1.3-r3_PY2_3",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "29.09.2021",
+   "updated_ts": 1792021766,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-weather-msn/1.3-r3_PY2_3/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3-r3_PY2_3"
+    ]
+   ],
+   "sha256": "736335447dfe39ceea51486afa2928dfcc219a5992d5ae59abd26aea00dc267c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-weather-msn.png?v=ac4f2396c3",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-weather-msn/1.png?v=4da61b3f59"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-weather-msn/1.3-r3_PY2_3/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk",
+     "sha256": "736335447dfe39ceea51486afa2928dfcc219a5992d5ae59abd26aea00dc267c",
+     "size": 743432,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-weather-msn/1.3-r3_PY2_3/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk",
+       "sha256": "736335447dfe39ceea51486afa2928dfcc219a5992d5ae59abd26aea00dc267c"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-xc-plugin",
+   "category": "novaler",
+   "name": "XC plugin",
+   "version": "1.8",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021727,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-xc-plugin/1.8/enigma2-plugin-extensions-xcplugin-forever_1.8_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.8"
+    ]
+   ],
+   "sha256": "ea7f897ab62249691b786f4a60a4d88070f27f60480b93a5807caf2264c9a4f8",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-xc-plugin.png?v=6f24538408",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-xc-plugin/1.png?v=6d5f46b2d9"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-xc-plugin/1.8/enigma2-plugin-extensions-xcplugin-forever_1.8_all.ipk",
+     "sha256": "ea7f897ab62249691b786f4a60a4d88070f27f60480b93a5807caf2264c9a4f8",
+     "size": 937386,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-xc-plugin/1.8/enigma2-plugin-extensions-xcplugin-forever_1.8_all.ipk",
+       "sha256": "ea7f897ab62249691b786f4a60a4d88070f27f60480b93a5807caf2264c9a4f8"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
+   "id": "novaler-xstreamity",
+   "category": "novaler",
+   "name": "Xstreamity",
+   "version": "4.02",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nMeilleur plugin pour les fichiers M3U\nEdition 2023",
+   "updated": "10.05.2023",
+   "updated_ts": 1792021716,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-xstreamity/4.02/enigma2-plugin-extensions-xstreamity_4.02_20230510_all.deb",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.02"
+    ]
+   ],
+   "sha256": "76477fc044788b6122e52c8e1621a14c5c428df939094c85e8861d38be00bfe9",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-xstreamity.png?v=90eb1a4eaf",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-xstreamity/1.png?v=d8b241272d"
+   ],
+   "downloads": [
+    {
+     "type": "deb",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-xstreamity/4.02/enigma2-plugin-extensions-xstreamity_4.02_20230510_all.deb",
+     "sha256": "76477fc044788b6122e52c8e1621a14c5c428df939094c85e8861d38be00bfe9",
+     "size": 4676220,
+     "mirrors": [
+      {
+       "type": "deb",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-xstreamity/4.02/enigma2-plugin-extensions-xstreamity_4.02_20230510_all.deb",
+       "sha256": "76477fc044788b6122e52c8e1621a14c5c428df939094c85e8861d38be00bfe9"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nMeilleur plugin pour les fichiers M3U\nEdition 2023"
+    }
+   }
+  },
+  {
+   "id": "novaler-zoom-cccam-server-downloader",
+   "category": "novaler",
+   "name": "Zoom Cccam Server Downloader",
+   "version": "FIX7x",
+   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+   "updated": "28.09.2021",
+   "updated_ts": 1792021750,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-zoom-cccam-server-downloader/FIX7x/cfg_Zoom_Final_FIX7x_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "14.10.2026",
+     "المصدر: موقع نوفالر (novaler.com) — الإصدار FIX7x"
+    ]
+   ],
+   "sha256": "6e1f12be45294417380f947800cdac1b5196d9e44b5e5c16e03a9bc49474be90",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/novaler-zoom-cccam-server-downloader.png?v=6d83b88c60",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/novaler-zoom-cccam-server-downloader/1.png?v=22b5db3737"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/novaler-zoom-cccam-server-downloader/FIX7x/cfg_Zoom_Final_FIX7x_all.ipk",
+     "sha256": "6e1f12be45294417380f947800cdac1b5196d9e44b5e5c16e03a9bc49474be90",
+     "size": 600744,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/novaler-zoom-cccam-server-downloader/FIX7x/cfg_Zoom_Final_FIX7x_all.ipk",
+       "sha256": "6e1f12be45294417380f947800cdac1b5196d9e44b5e5c16e03a9bc49474be90"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "Novaler",
+   "homepage": "https://www.novaler.com/dz/downloads/plugins",
+   "i18n": {
+    "en": {
+     "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+   }
+  },
+  {
    "id": "boxtools",
    "category": "panels",
    "name": "Boxtools",
@@ -12940,6 +14984,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "xkY5v23FP1lTFTFce61xJ4R/7JTyaEhPrcwfkdG45LmfcGPXTDo1ryiZ4kznB3zsdcY110uykD+RNqEJFEk1Ag=="
+  "sig": "6z91gL8Y19HTBla+/hsk5CRWJPchkxouHhBrzElXyh0CPWrEpuZF5NxHMcL5GumjhIHmqgMvspyKsAgVLe7xBw=="
  }
 }

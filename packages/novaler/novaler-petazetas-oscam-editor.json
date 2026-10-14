@@ -1,0 +1,39 @@
+{
+  "id": "novaler-petazetas-oscam-editor",
+  "name": "Petazetas Oscam editor",
+  "category": "novaler",
+  "version": "1.1",
+  "updated": "2021-07-10",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-petazetas-oscam-editor.png",
+  "screenshots": [
+    "screenshots/novaler-petazetas-oscam-editor/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-petazetas-oscam-editor/1.1/enigma2-plugin-extensions-petazetas_1.1_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-petazetas_1.1_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.1"
+    }
+  ],
+  "updated_at": 1792021742
+}

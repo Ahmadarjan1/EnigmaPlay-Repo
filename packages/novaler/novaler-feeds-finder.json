@@ -1,0 +1,39 @@
+{
+  "id": "novaler-feeds-finder",
+  "name": "Feeds Finder",
+  "category": "novaler",
+  "version": "1.6",
+  "updated": "2021-02-01",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-feeds-finder.png",
+  "screenshots": [
+    "screenshots/novaler-feeds-finder/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-feeds-finder/1.6/feeds-finder_20201016-V1.6-momi133-OE2_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/feeds-finder_20201016-V1.6-momi133-OE2_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.6"
+    }
+  ],
+  "updated_at": 1792021729
+}

@@ -1,0 +1,38 @@
+{
+  "id": "novaler-athan-times",
+  "name": "Athan Times",
+  "category": "novaler",
+  "version": "2.8",
+  "updated": "2023-05-10",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nAthane times",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nAthane times"
+    }
+  },
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-athan-times.png",
+  "screenshots": [
+    "screenshots/novaler-athan-times/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-athan-times/2.8/enigma2-plugin-extensions-Athantimes_2.8_PY3.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-Athantimes_2.8_PY3.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.8"
+    }
+  ],
+  "updated_at": 1792021722
+}

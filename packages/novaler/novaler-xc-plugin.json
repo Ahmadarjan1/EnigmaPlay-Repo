@@ -1,0 +1,39 @@
+{
+  "id": "novaler-xc-plugin",
+  "name": "XC plugin",
+  "category": "novaler",
+  "version": "1.8",
+  "updated": "2021-09-28",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-xc-plugin.png",
+  "screenshots": [
+    "screenshots/novaler-xc-plugin/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-xc-plugin/1.8/enigma2-plugin-extensions-xcplugin-forever_1.8_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-xcplugin-forever_1.8_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.8"
+    }
+  ],
+  "updated_at": 1792021727
+}

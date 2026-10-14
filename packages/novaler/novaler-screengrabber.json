@@ -1,0 +1,39 @@
+{
+  "id": "novaler-screengrabber",
+  "name": "Screengrabber",
+  "category": "novaler",
+  "version": "2.6",
+  "updated": "2021-09-28",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-screengrabber.png",
+  "screenshots": [
+    "screenshots/novaler-screengrabber/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-screengrabber/2.6/enigma2-plugin-extensions-screengrabber_2.6_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-screengrabber_2.6_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 2.6"
+    }
+  ],
+  "updated_at": 1792021762
+}

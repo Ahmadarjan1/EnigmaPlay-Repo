@@ -1,0 +1,39 @@
+{
+  "id": "novaler-jedimakerxtream",
+  "name": "JediMakerXtream",
+  "category": "novaler",
+  "version": "6.36",
+  "updated": "2024-05-09",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-jedimakerxtream.png",
+  "screenshots": [
+    "screenshots/novaler-jedimakerxtream/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-jedimakerxtream/6.36/enigma2-plugin-extensions-jedimakerxtream_6.36-r3_20240210_py3.12_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-jedimakerxtream-2024.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 6.36"
+    }
+  ],
+  "updated_at": 1792021737
+}

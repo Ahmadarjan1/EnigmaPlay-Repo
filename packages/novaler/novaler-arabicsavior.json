@@ -1,0 +1,39 @@
+{
+  "id": "novaler-arabicsavior",
+  "name": "ArabicSavior",
+  "category": "novaler",
+  "version": "1.3",
+  "updated": "2021-09-29",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-arabicsavior.png",
+  "screenshots": [
+    "screenshots/novaler-arabicsavior/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/novaler-arabicsavior/1.3/install.sh"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/ArabicSavior-1.3.tar.gz",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3"
+    }
+  ],
+  "updated_at": 1792021771
+}

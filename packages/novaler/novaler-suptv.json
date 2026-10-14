@@ -1,0 +1,39 @@
+{
+  "id": "novaler-suptv",
+  "name": "SUPTV",
+  "category": "novaler",
+  "version": "6.0",
+  "updated": "2026-05-16",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-suptv.png",
+  "screenshots": [
+    "screenshots/novaler-suptv/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-suptv/6.0/enigma2-plugin-extensions-suptv-py3.9_6.0-r0_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-suptv.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 6.0"
+    }
+  ],
+  "updated_at": 1792021780
+}

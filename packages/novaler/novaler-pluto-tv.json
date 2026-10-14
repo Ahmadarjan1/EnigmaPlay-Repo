@@ -1,0 +1,39 @@
+{
+  "id": "novaler-pluto-tv",
+  "name": "Pluto TV",
+  "category": "novaler",
+  "version": "3.0",
+  "updated": "2024-02-20",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNouveau plugin gratuit Fevrier 2024",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNouveau plugin gratuit Fevrier 2024"
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-pluto-tv.png",
+  "screenshots": [
+    "screenshots/novaler-pluto-tv/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-pluto-tv/3.0/enigma2-plugin-extensions-plutotv_20240220_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-plutotv_20240220_all.ipk",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 3.0"
+    }
+  ],
+  "updated_at": 1792021744
+}

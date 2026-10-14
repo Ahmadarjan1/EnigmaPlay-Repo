@@ -1,0 +1,39 @@
+{
+  "id": "novaler-e2m3u2bouquet",
+  "name": "E2m3u2bouquet",
+  "category": "novaler",
+  "version": "1.0.43",
+  "updated": "2021-09-29",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-e2m3u2bouquet.png",
+  "screenshots": [
+    "screenshots/novaler-e2m3u2bouquet/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-e2m3u2bouquet/1.0.43/enigma2-plugin-extensions-e2m3u2bouquet_1.0.43_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-e2m3u2bouquet_1.0.43_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.0.43"
+    }
+  ],
+  "updated_at": 1792021764
+}

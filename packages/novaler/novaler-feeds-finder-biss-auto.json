@@ -1,0 +1,46 @@
+{
+  "id": "novaler-feeds-finder-biss-auto",
+  "name": "Feeds Finder & Biss Auto",
+  "category": "novaler",
+  "version": "2022",
+  "updated": "2022-01-11",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nNew Feeds finder plugin edited by Novaler",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nNew Feeds finder plugin edited by Novaler"
+    }
+  },
+  "python": [
+    "2"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-feeds-finder-biss-auto.png",
+  "screenshots": [
+    "screenshots/novaler-feeds-finder-biss-auto/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-feeds-finder-biss-auto/2022/enigma2-plugin-extensions-feeds-finder_20220111-V1.7-momi133-OE2_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2_plugin_python2_feeds+biss_novaler2022.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 2022"
+    }
+  ],
+  "updated_at": 1792021773,
+  "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+  ]
+}

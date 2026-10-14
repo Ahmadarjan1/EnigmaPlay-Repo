@@ -1,0 +1,39 @@
+{
+  "id": "novaler-zoom-cccam-server-downloader",
+  "name": "Zoom Cccam Server Downloader",
+  "category": "novaler",
+  "version": "FIX7x",
+  "updated": "2021-09-28",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-zoom-cccam-server-downloader.png",
+  "screenshots": [
+    "screenshots/novaler-zoom-cccam-server-downloader/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-zoom-cccam-server-downloader/FIX7x/cfg_Zoom_Final_FIX7x_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/cfg_Zoom_Final_FIX7x_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار FIX7x"
+    }
+  ],
+  "updated_at": 1792021750
+}

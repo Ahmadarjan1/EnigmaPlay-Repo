@@ -1,0 +1,39 @@
+{
+  "id": "novaler-xstreamity",
+  "name": "Xstreamity",
+  "category": "novaler",
+  "version": "4.02",
+  "updated": "2023-05-10",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nMeilleur plugin pour les fichiers M3U\nEdition 2023",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nMeilleur plugin pour les fichiers M3U\nEdition 2023"
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-xstreamity.png",
+  "screenshots": [
+    "screenshots/novaler-xstreamity/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "deb",
+      "file": "files/novaler-xstreamity/4.02/enigma2-plugin-extensions-xstreamity_4.02_20230510_all.deb"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-xstreamity_4.02.20230510_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.02"
+    }
+  ],
+  "updated_at": 1792021716
+}

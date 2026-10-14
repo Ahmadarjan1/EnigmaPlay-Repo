@@ -1,0 +1,47 @@
+{
+  "id": "novaler-alternative-softcam-manager",
+  "name": "Alternative Softcam Manager",
+  "category": "novaler",
+  "version": "4.0",
+  "updated": "2021-03-28",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com."
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-alternative-softcam-manager.png",
+  "screenshots": [
+    "screenshots/novaler-alternative-softcam-manager/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-alternative-softcam-manager/4.0/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-alternativesoftcammanager_4.0_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 4.0"
+    }
+  ],
+  "updated_at": 1792021720,
+  "models": [
+    "novaler4k",
+    "novaler4kse",
+    "novaler4kpro",
+    "multibox",
+    "multiboxse",
+    "multiboxpro"
+  ]
+}

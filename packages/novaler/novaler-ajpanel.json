@@ -1,0 +1,39 @@
+{
+  "id": "novaler-ajpanel",
+  "name": "AJPANEL",
+  "category": "novaler",
+  "version": "8.8.5",
+  "updated": "2023-05-06",
+  "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.\nالجديد:\nMeilleur plugin utilitaire sur enigma2",
+  "i18n": {
+    "en": {
+      "description": "The build Novaler publishes for its Multibox receivers on novaler.com.\nWhat's new:\nMeilleur plugin utilitaire sur enigma2"
+    }
+  },
+  "python": [
+    "2",
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/novaler-ajpanel.png",
+  "screenshots": [
+    "screenshots/novaler-ajpanel/1.png"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/novaler-ajpanel/8.8.5/enigma2-plugin-extensions-ajpanel_v8.8.5_all.ipk"
+    }
+  ],
+  "author": "Novaler",
+  "homepage": "https://www.novaler.com/dz/downloads/plugins",
+  "batch": "novaler",
+  "novaler_file": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-ajpanel_v8.8.5_all.zip",
+  "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 8.8.5"
+    }
+  ],
+  "updated_at": 1792021718
+}

@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.67",
+  "version": "1.2.68",
   "updated": "2026-10-15",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.67/enigma2-plugin-extensions-enigmaplay_1.2.67_all.ipk"
+      "file": "files/enigmaplay/1.2.68/enigma2-plugin-extensions-enigmaplay_1.2.68_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.67/enigma2-plugin-extensions-enigmaplay_1.2.67_all.deb"
+      "file": "files/enigmaplay/1.2.68/enigma2-plugin-extensions-enigmaplay_1.2.68_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-15",
+      "text": "1.2.68 - تنزيل الصور: إذا NeoBoot مثبّت، المتجر بيسألك تحط الصورة للسلوتات الداخلية ولا لـ NeoBoot، وبيحطها بمجلد ImagesUpload جاهزة، والأزرق بيفتح NeoBoot"
+    },
     {
       "date": "2026-10-15",
       "text": "1.2.67 - تقارير الأعطال صارت تفرّق بين البلجن المثبّت من EnigmaPlay واللي إجا مع الصورة، حتى يوصل كل عطل للمكان الصح"
@@ -164,5 +168,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792019572
+  "updated_at": 1792020477
 }

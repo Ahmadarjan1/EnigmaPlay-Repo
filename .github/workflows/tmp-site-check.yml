@@ -9,10 +9,10 @@ jobs:
           python3 - <<'PY'
           import re
           b=open("p.html",encoding="utf-8",errors="replace").read()
-          print("::notice::size %d zips %s" % (len(b), sorted(set(re.findall(r'href="([^"]+\.(?:ipk|zip|deb|tar\.gz|sh))"', b)))[:60]))
-          body=b[b.find("<main"):] if "<main" in b else b
-          txt=re.sub(r"\s+"," ",re.sub(r"<script.*?</script>|<style.*?</style>","",body,flags=re.S))
-          i=txt.find("uploads")
-          print("::notice::snippet " + txt[max(0,i-1500):i+2500])
-          print("::notice::imgs %s" % sorted(set(re.findall(r'src="([^"]+\.(?:png|jpg|jpeg|webp|gif))"', b)))[:60])
+          i=b.find("/uploads/plugins/enigma2-plugin-extensions-ajpanel")
+          j=b.rfind("thumb_",0,i)
+          seg=re.sub(r"\s+"," ",b[j-1200:i+600])
+          print("::notice::card " + seg)
+          i=b.find("/uploads/plugins/KeyAdder")
+          print("::notice::card2 " + re.sub(r"\s+"," ",b[i-1500:i+300]))
           PY

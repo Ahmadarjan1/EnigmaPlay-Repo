@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.60",
+  "version": "1.2.61",
   "updated": "2026-10-14",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.ipk"
+      "file": "files/enigmaplay/1.2.61/enigma2-plugin-extensions-enigmaplay_1.2.61_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.deb"
+      "file": "files/enigmaplay/1.2.61/enigma2-plugin-extensions-enigmaplay_1.2.61_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.61 - التحديثات الجديدة بتبين بالمتجر خلال ساعة بدل ما تستنى إعادة تشغيل الواجهة، وفحص التحديثات بالخلفية صار كل 3 ساعات"
+    },
     {
       "date": "2026-10-14",
       "text": "1.2.60 - قسم جديد \"تنزيل الصور\": المتجر بيعرف موديل رسيفرك وبيجيب الصور من سيرفراتها الرسمية (OpenViX وOpenATV وOpenPLi وOpenBH وغيرها) وبيحطها جاهزة بـ Image Manager لتثبيتها على أي سلوت"
@@ -136,5 +140,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792007379
+  "updated_at": 1792007881
 }

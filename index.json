@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T23:22:30Z",
+ "generated": "2026-10-14T23:25:24Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -4266,12 +4266,12 @@
    "name": "NeoBoot",
    "version": "9.93",
    "description": "مالتي بوت من مطوّره gutosie مباشرة: شغّل أكثر من صورة على نفس الرسيفر من فلاشة أو هارد. أول صورتين مجاناً، والصور الإضافية بكود VIP من المطوّر.",
-   "updated": "15.10.2026",
-   "updated_ts": 1791590000,
+   "updated": "14.10.2026",
+   "updated_ts": 1792020323,
    "status_codes": [
     "Mul"
    ],
-   "url": "https://raw.githubusercontent.com/gutosie/neoboot/master/iNB.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/neoboot/9.93/iNB.sh",
    "host": "github",
    "changelog": [
     [
@@ -4279,6 +4279,7 @@
      "المصدر: المطوّر gutosie (github.com/gutosie/neoboot)"
     ]
    ],
+   "sha256": "5f2bdc83136267e71c6a0a2cd923dbc1267006cf0ee01bbd40f8954c5b6b4e9f",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/neoboot.png?v=4181d4bf10",
    "screenshots": [
@@ -4287,7 +4288,16 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/gutosie/neoboot/master/iNB.sh"
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/neoboot/9.93/iNB.sh",
+     "sha256": "5f2bdc83136267e71c6a0a2cd923dbc1267006cf0ee01bbd40f8954c5b6b4e9f",
+     "size": 5328,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/neoboot/9.93/iNB.sh",
+       "sha256": "5f2bdc83136267e71c6a0a2cd923dbc1267006cf0ee01bbd40f8954c5b6b4e9f"
+      }
+     ]
     }
    ],
    "python": [
@@ -12916,6 +12926,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "2sYFOKUtAQrgLqAvK8sPnlolEQYu7W7G+wHlS+h9VOMSGxwHXo3jp23yt/2CiYzojq69vRQsTTt/C9nR9f4bBg=="
+  "sig": "dDTF4+4wdtOv7rbSme3+jUCpFtv54aqKCT7gmVRYzM2kRIvmATfGCUTyiE05PDYPShwrwfWKw30EKunDSJxbBA=="
  }
 }

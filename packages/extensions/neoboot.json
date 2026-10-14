@@ -3,7 +3,7 @@
   "name": "NeoBoot",
   "category": "extensions",
   "version": "9.93",
-  "updated": "2026-10-15",
+  "updated": "2026-10-14",
   "description": "مالتي بوت من مطوّره gutosie مباشرة: شغّل أكثر من صورة على نفس الرسيفر من فلاشة أو هارد. أول صورتين مجاناً، والصور الإضافية بكود VIP من المطوّر.",
   "i18n": {
     "en": {
@@ -22,13 +22,17 @@
   "downloads": [
     {
       "type": "sh",
-      "url": "https://raw.githubusercontent.com/gutosie/neoboot/master/iNB.sh",
-      "sha256": "skip"
+      "file": "files/neoboot/9.93/iNB.sh"
     }
   ],
   "source": {
     "repo": "gutosie/neoboot",
-    "files": [{"type": "sh", "path": "iNB.sh"}],
+    "files": [
+      {
+        "type": "sh",
+        "path": "iNB.sh"
+      }
+    ],
     "version_file": "ver.txt"
   },
   "changelog": [
@@ -40,5 +44,5 @@
   "subcategory": "Mul",
   "author": "gutosie",
   "homepage": "https://github.com/gutosie/neoboot",
-  "updated_at": 1791590000
+  "updated_at": 1792020323
 }

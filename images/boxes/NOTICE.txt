@@ -1,0 +1,3 @@
+Receiver pictures from OpenWebif (https://github.com/E2OpenPlugins/e2openplugin-OpenWebif,
+plugin/public/images/boxes), GPL-2.0. Cropped and resized for the EnigmaPlay images-download screen;
+file names follow images-models.csv (one copy per receiver name).

@@ -1,0 +1,9 @@
+name: tmp site check
+on: workflow_dispatch
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          B=https://enigmaplay-api.ahmadalarjan2.workers.dev
+          echo "::notice::$(curl -s -w ' [%{http_code} %{content_type}]' $B/googlee3bc13fb88a99774.html) || home $(curl -s -o /dev/null -w '%{http_code}' $B/)"

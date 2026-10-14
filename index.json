@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T20:46:52Z",
+ "generated": "2026-10-14T20:59:11Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -12473,6 +12473,15 @@
    "column": "TeamBlue"
   },
   {
+   "id": "opendroid",
+   "name": "OpenDroid",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/images/opendroid/%s.json",
+   "hosts": [
+    "opendroid.org"
+   ],
+   "column": ""
+  },
+  {
    "id": "openvision",
    "name": "Open Vision",
    "url": "https://images.openvision.dedyn.io/json/%s",
@@ -12853,6 +12862,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "bbQM1qbZFpIMnuT6AgvI6mQA0YqFwdQG8iK20v2E3KF+NjX5dgKPb1k6jX5yhytlGmROB3VAOvmKActV9sy1DQ=="
+  "sig": "swrIVJMCbFRn9ShPvE+j6Da+sfj4IGBX/JyaVSYdDTrrMO1MCVidlosNlAURC04jlCkZELzNHkaS3bS4Au+gBg=="
  }
 }

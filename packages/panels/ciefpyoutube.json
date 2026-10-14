@@ -2,8 +2,8 @@
   "id": "ciefpyoutube",
   "name": "CiefpYouTube",
   "category": "panels",
-  "version": "2.1",
-  "updated": "2026-10-13",
+  "version": "2.2",
+  "updated": "2026-10-14",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -19,10 +19,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpyoutube/2.1/installer.sh"
+      "file": "files/ciefpyoutube/2.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    },
     {
       "date": "2026-10-10",
       "text": "2.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
@@ -50,7 +54,7 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpYouTube/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791914944,
+  "updated_at": 1792003420,
   "author": "ciefp",
   "developer": "ciefp",
   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",

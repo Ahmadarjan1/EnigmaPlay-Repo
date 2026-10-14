@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T15:49:41Z",
+ "generated": "2026-10-14T18:43:41Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -6817,16 +6817,20 @@
    "id": "ciefpyoutube-2",
    "category": "iptv",
    "name": "Ciefpyoutube",
-   "version": "2.1",
+   "version": "2.2",
    "description": "CiefpYoutube - مشغل يوتيوب بنمط \"صندوق الموسيقى\" (Jukebox)، ومشغل كاميرا الويب.",
-   "updated": "13.10.2026",
-   "updated_ts": 1791919343,
+   "updated": "14.10.2026",
+   "updated_ts": 1792003407,
    "status_codes": [
     "Ipt"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "14.10.2026",
+     "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    ],
     [
      "13.10.2026",
      "2.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
@@ -6849,13 +6853,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube-2/2.2/installer.sh",
      "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
      "size": 11359,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube-2/2.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube-2/2.2/installer.sh",
        "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8"
       }
      ]
@@ -10347,16 +10351,20 @@
    "id": "ciefpyoutube",
    "category": "panels",
    "name": "CiefpYouTube",
-   "version": "2.1",
+   "version": "2.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791914944,
+   "updated": "14.10.2026",
+   "updated_ts": 1792003420,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "14.10.2026",
+     "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    ],
     [
      "10.10.2026",
      "2.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
@@ -10381,13 +10389,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpyoutube/2.2/installer.sh",
      "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
      "size": 11359,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpyoutube/2.2/installer.sh",
        "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8"
       }
      ]
@@ -12374,6 +12382,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "t5A9zgYjnpFTpVDIGirTJPrXHM4Bk5AXHKraWiLnksZXxirXSApJ/IOmOVtZdWaYJFx+XX0xWYlAtk4Yc/xnDA=="
+  "sig": "fA9u2j9KgI+UHdK7+RVYqSX7kDRFMk4Rz7yps4bfGxhydI1+XM1FtpNKUQBwHtaatyg93Q2mC50XVQcctL6mCQ=="
  }
 }

@@ -2,8 +2,8 @@
   "id": "ciefpyoutube-2",
   "name": "Ciefpyoutube",
   "category": "iptv",
-  "version": "2.1",
-  "updated": "2026-10-13",
+  "version": "2.2",
+  "updated": "2026-10-14",
   "description": "CiefpYoutube - مشغل يوتيوب بنمط \"صندوق الموسيقى\" (Jukebox)، ومشغل كاميرا الويب.",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpyoutube-2/2.1/installer.sh"
+      "file": "files/ciefpyoutube-2/2.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
+    },
     {
       "date": "2026-10-13",
       "text": "2.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpYouTube)"
@@ -57,5 +61,5 @@
       "description": "CiefpYoutube - Youtube jukebox player, webcam player"
     }
   },
-  "updated_at": 1791919343
+  "updated_at": 1792003407
 }

@@ -382,6 +382,9 @@ def build(offline=False):
     feeds = load_image_feeds()
     if feeds:
         index_extra["image_feeds"] = feeds
+        models = load_image_models(feeds)
+        if models:
+            index_extra["image_models"] = models
     return dict({
         "schema": SCHEMA,
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -405,7 +408,34 @@ def load_image_feeds():
             err("images.json", "each feed needs id, name and an http(s) url with %%s: %r" % f)
             continue
         hosts = [str(h).lower() for h in (f.get("hosts") or []) if re.match(r"^[a-z0-9.-]+\.[a-z]{2,}$", str(h).lower())]
-        out.append({"id": fid, "name": str(f.get("name") or fid), "url": url, "hosts": hosts})
+        out.append({"id": fid, "name": str(f.get("name") or fid), "url": url, "hosts": hosts,
+                    "column": str(f.get("column") or "")})
+    return out
+
+
+def load_image_models(feeds):
+    """images-models.csv -> {box: "openatv openpli=multibox ..."}: the image servers that build for
+    each receiver and the name it has there ("=name" only when it differs from the box name).
+    Feeds without a column are not listed here and are always asked."""
+    import csv
+    path = os.path.join(ROOT, "images-models.csv")
+    if not os.path.exists(path):
+        return {}
+    with io.open(path, encoding="utf-8") as f:
+        rows = list(csv.reader(f))
+    head = rows[0]
+    cols = [(head.index(f["column"]), f["id"]) for f in feeds if f.get("column") in head]
+    out = {}
+    for r in rows[1:]:
+        box = (r[0] or "").strip().lower()
+        if not re.match(r"^[a-z0-9_+-]{2,40}$", box):
+            continue
+        parts = []
+        for i, fid in cols:
+            name = (r[i] if i < len(r) else "").strip().lower()
+            if name:
+                parts.append(fid if name == box else "%s=%s" % (fid, name))
+        out[box] = " ".join(parts)
     return out
 
 

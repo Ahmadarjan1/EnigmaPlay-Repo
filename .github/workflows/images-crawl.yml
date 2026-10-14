@@ -1,0 +1,32 @@
+name: Image lists (PurE2, Novaler)
+
+# Sites without a JSON feed: their image lists are rebuilt here every day into images/<site>/<model>.json
+# (same format as the official image servers), which the store's images-download section reads.
+on:
+  schedule:
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crawl
+        run: python3 tools/crawl_images.py
+      - name: Commit
+        run: |
+          git add -A images
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name  "enigmaplay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update image lists [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && exit 0; sleep 5; done
+          exit 1

@@ -1,11 +1,103 @@
 {
- "_comment": "Images-download section of the store. Official image servers only: each url returns the image list of one receiver model (%s = model) as JSON {category: {file: {name, link}}}. Downloads are allowed only from the feed's own domain or the extra hosts listed here.",
+ "_comment": "Images-download section of the store. Each url returns the image list of one receiver model (%s = model) as JSON {category: {file: {name, link}}}: the official image servers, plus images/<site>/ lists built daily by tools/crawl_images.py for sites without a feed. Downloads are allowed only from the hosts listed. images-models.csv (from openatv/FlashImage, GPL-3.0) gives each receiver's model name on every image server; 'column' is the feed's column there.",
  "feeds": [
-  {"id": "openvix", "name": "OpenViX", "url": "https://www.openvix.co.uk/json/%s", "hosts": ["openvix.co.uk"]},
-  {"id": "openatv", "name": "OpenATV", "url": "https://images.mynonpublic.com/openatv/json/%s", "hosts": ["mynonpublic.com"]},
-  {"id": "openpli", "name": "OpenPLi", "url": "https://downloads.openpli.org/json/%s", "hosts": ["openpli.org"]},
-  {"id": "openbh", "name": "OpenBH", "url": "https://images.openbh.net/json/%s", "hosts": ["openbh.net"]},
-  {"id": "teamblue", "name": "TeamBlue", "url": "https://images.teamblue.tech/json/%s", "hosts": ["teamblue.tech"]},
-  {"id": "open8eight", "name": "Open8eIGHT", "url": "http://openeight.de/json/%s", "hosts": ["openeight.de"]}
+  {
+   "id": "openvix",
+   "name": "OpenViX",
+   "url": "https://www.openvix.co.uk/json/%s",
+   "hosts": [
+    "openvix.co.uk"
+   ],
+   "column": "OpenViX"
+  },
+  {
+   "id": "openatv",
+   "name": "OpenATV",
+   "url": "https://images.mynonpublic.com/openatv/json/%s",
+   "hosts": [
+    "mynonpublic.com"
+   ],
+   "column": "openATV"
+  },
+  {
+   "id": "openpli",
+   "name": "OpenPLi",
+   "url": "https://downloads.openpli.org/json/%s",
+   "hosts": [
+    "openpli.org"
+   ],
+   "column": "OpenPLi"
+  },
+  {
+   "id": "openbh",
+   "name": "OpenBH",
+   "url": "https://images.openbh.net/json/%s",
+   "hosts": [
+    "openbh.net"
+   ],
+   "column": "OpenBH"
+  },
+  {
+   "id": "openhdf",
+   "name": "OpenHDF",
+   "url": "https://flash.hdfreaks.cc/openhdf/json/%s",
+   "hosts": [
+    "hdfreaks.cc"
+   ],
+   "column": "OpenHDF"
+  },
+  {
+   "id": "egami",
+   "name": "EGAMI",
+   "url": "https://image.egami-image.com/json/%s",
+   "hosts": [
+    "egami-image.com"
+   ],
+   "column": "EGAMI"
+  },
+  {
+   "id": "openspa",
+   "name": "OpenSPA",
+   "url": "https://openspa.webhop.info/online/json.php?box=%s",
+   "hosts": [
+    "openspa.webhop.info"
+   ],
+   "column": "OpenSPA"
+  },
+  {
+   "id": "teamblue",
+   "name": "TeamBlue",
+   "url": "https://images.teamblue.tech/json/%s",
+   "hosts": [
+    "teamblue.tech"
+   ],
+   "column": "TeamBlue"
+  },
+  {
+   "id": "openvision",
+   "name": "Open Vision",
+   "url": "https://images.openvision.dedyn.io/json/%s",
+   "hosts": [
+    "images.openvision.dedyn.io"
+   ],
+   "column": "Open Vision"
+  },
+  {
+   "id": "pure2",
+   "name": "PurE2",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/images/pure2/%s.json",
+   "hosts": [
+    "pur-e2.club"
+   ],
+   "column": "PureE2"
+  },
+  {
+   "id": "novaler",
+   "name": "Novaler",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/images/novaler/%s.json",
+   "hosts": [
+    "novaler.com"
+   ]
+  }
  ]
 }

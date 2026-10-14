@@ -35,12 +35,5 @@
     }
   ],
   "updated_at": 1792021773,
-  "models": [
-    "novaler4k",
-    "novaler4kse",
-    "novaler4kpro",
-    "multibox",
-    "multiboxse",
-    "multiboxpro"
-  ]
+  "novaler_version": "2022"
 }

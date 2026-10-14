@@ -11,7 +11,6 @@
     }
   },
   "python": [
-    "2",
     "3"
   ],
   "restart": true,
@@ -36,12 +35,5 @@
     }
   ],
   "updated_at": 1792021783,
-  "models": [
-    "novaler4k",
-    "novaler4kse",
-    "novaler4kpro",
-    "multibox",
-    "multiboxse",
-    "multiboxpro"
-  ]
+  "novaler_version": "9.2"
 }

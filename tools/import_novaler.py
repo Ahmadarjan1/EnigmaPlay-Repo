@@ -33,12 +33,46 @@ UA = "Mozilla/5.0 (X11; Linux x86_64) EnigmaPlay-Store"
 MAX_BYTES = 60 * 1024 * 1024
 # receivers a Novaler-only package is for (the names their images report)
 MODELS = ["novaler4k", "novaler4kse", "novaler4kpro", "multibox", "multiboxse", "multiboxpro"]
-BOX_ONLY = re.compile(r"novacam|novaler|ultracam|camnova|novatv|wifi[-_ ]?driver|softcam", re.I)
+# only what is built for their hardware: the Wi-Fi kernel module, the softcam built for the novaler4k
+BOX_ONLY = re.compile(r"wifi[-_ ]?driver|kernel-module|novaler4k|multibox", re.I)
 MONTHS = {"جانفي": 1, "يناير": 1, "فيفري": 2, "فبراير": 2, "مارس": 3, "أفريل": 4, "افريل": 4, "أبريل": 4,
           "ماي": 5, "مايو": 5, "جوان": 6, "يونيو": 6, "جويلية": 7, "يوليو": 7, "أوت": 8, "اوت": 8,
           "أغسطس": 8, "سبتمبر": 9, "أكتوبر": 10, "اكتوبر": 10, "نوفمبر": 11, "ديسمبر": 12}
 
 DRY = "--dry" in sys.argv
+# packages never taken from this page: IPAudioPlus is published in the store by its own developer
+SKIP_PKG = ("enigma2-plugin-extensions-ipaudioplus",)
+
+
+def vkey(v):
+    return [int(x) for x in re.findall(r"\d+", str(v or ""))[:6]]
+
+
+def store_packages():
+    """{package file name before the version: (id, version)} of the store's other items."""
+    out = {}
+    try:
+        idx = json.load(open(os.path.join(ROOT, "index.json"), encoding="utf-8"))
+    except Exception:
+        return out
+    for it in idx.get("items", []):
+        if it.get("id", "").startswith("novaler-"):
+            continue
+        for d in it.get("downloads") or [{"url": it.get("url")}]:
+            name = (d.get("url") or "").rsplit("/", 1)[-1].lower()
+            if name.endswith((".ipk", ".deb")):
+                out[name.split("_")[0]] = (it["id"], it.get("version"))
+    return out
+
+
+def drop(pid):
+    """remove an earlier import of pid (now skipped)."""
+    import shutil
+    for rel in ("packages/novaler/%s.json" % pid, "icons/%s.png" % pid):
+        if os.path.exists(os.path.join(ROOT, rel)):
+            os.remove(os.path.join(ROOT, rel))
+    for rel in ("files/" + pid, "screenshots/" + pid):
+        shutil.rmtree(os.path.join(ROOT, rel), ignore_errors=True)
 
 
 def notice(msg):
@@ -121,6 +155,8 @@ def pick_package(names):
     pk = [n for n in names if n.lower().endswith((".ipk", ".deb")) and not n.startswith("__MACOSX")]
     if not pk:
         return None
+    ipk = [n for n in pk if n.lower().endswith(".ipk")]
+    pk = ipk or pk                       # opkg images are the usual case
     for test in (lambda n: "_all" in n.lower(), lambda n: arch_of(n) == "arm", lambda n: arch_of(n) is None):
         hit = [n for n in pk if test(n)]
         if hit:
@@ -234,11 +270,30 @@ def images(pid, thumb_bytes):
 
 def python_of(name):
     n = name.lower()
-    if re.search(r"py(thon)?-?3", n):
+    if re.search(r"py(thon)?[-_]?2[-_.&+]?3(?!\d)|py2[-_&+]py3", n):
+        return ["2", "3"]
+    if re.search(r"py(thon)?[-_]?3", n):
         return ["3"]
-    if re.search(r"py(thon)?-?2", n):
+    if re.search(r"py(thon)?[-_]?2", n):
         return ["2"]
     return ["2", "3"]
+
+
+def pkg_version(fname):
+    """version field of an opkg/dpkg file name (name_version_arch.ipk), when it is a dotted number."""
+    parts = re.sub(r"\.(ipk|deb)$", "", fname, flags=re.I).split("_")
+    if len(parts) >= 3:
+        v = re.sub(r"^[vV]-?", "", parts[1])
+        v = re.sub(r"-r0$", "", v)
+        if re.match(r"^\d+(\.\d+)+(-r\d+)?$", v):
+            return v
+    return None
+
+
+def same_version(card, fname):
+    """the card version, unless the package file names a clean version that disagrees."""
+    pv = pkg_version(fname)
+    return pv if pv and pv != card else card
 
 
 def main():
@@ -250,6 +305,7 @@ def main():
     pkg_dir = os.path.join(ROOT, "packages", "novaler")
     os.makedirs(pkg_dir, exist_ok=True)
     added, kept, skipped, ids = [], [], [], set()
+    store = store_packages()
     for c in found:
         fname = urllib.parse.unquote(c["file"].rsplit("/", 1)[-1])
         pid = "novaler-" + slug(fname if len(slug(c["name"])) < 3 else c["name"])
@@ -261,7 +317,7 @@ def main():
             (re.search(r"[_-]v?(\d[\d.]*)", fname) or [None, "1.0"])[1]
         mpath = os.path.join(pkg_dir, pid + ".json")
         old = json.load(open(mpath, encoding="utf-8")) if os.path.exists(mpath) else None
-        if old and old.get("version") == version and old.get("novaler_file") == c["file"]:
+        if old and old.get("novaler_version", old.get("version")) == version and old.get("novaler_file") == c["file"]:
             kept.append(pid)
             continue
         if DRY:
@@ -278,6 +334,18 @@ def main():
             continue
         kind, out_name, blob, _ = res
         out_name = re.sub(r"[^\w.+~-]", "_", out_name)
+        card_version = version
+        if kind in ("ipk", "deb"):
+            version = same_version(version, out_name)
+            pkg = out_name.lower().split("_")[0]
+            if pkg.startswith(SKIP_PKG):
+                skipped.append("%s: published in the store by its developer" % c["name"])
+                drop(pid)
+                continue
+            if pkg in store and vkey(store[pkg][1]) >= vkey(version):
+                skipped.append("%s %s: in the store already (%s %s)" % (c["name"], version, store[pkg][0], store[pkg][1]))
+                drop(pid)
+                continue
         rel_dir = "files/%s/%s" % (pid, version)
         os.makedirs(os.path.join(ROOT, rel_dir), exist_ok=True)
         with open(os.path.join(ROOT, rel_dir, out_name), "wb") as f:
@@ -312,7 +380,7 @@ def main():
             "description": desc,
             "i18n": {"en": {"description": "The build Novaler publishes for its Multibox receivers on novaler.com." +
                             ("\nWhat's new:\n" + news if news else "")}},
-            "python": python_of(fname + " " + c["name"]),
+            "python": python_of(" ".join((fname, out_name, c["name"]))),
             "restart": True,
             "icon": "icons/%s.png" % pid,
             "screenshots": ["screenshots/%s/1.png" % pid],
@@ -321,11 +389,12 @@ def main():
             "homepage": PAGE,
             "batch": "novaler",
             "novaler_file": c["file"],
+            "novaler_version": card_version,
             "changelog": ([{"date": today, "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار %s" % version}] +
                           (old or {}).get("changelog", []))[:20],
             "updated_at": int(time.time()),
         }
-        if BOX_ONLY.search(c["name"] + " " + fname):
+        if BOX_ONLY.search(c["name"] + " " + out_name):
             man["models"] = MODELS
         with open(mpath, "w", encoding="utf-8") as f:
             json.dump(man, f, ensure_ascii=False, indent=2)

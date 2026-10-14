@@ -2,7 +2,7 @@
   "id": "novaler-weather-msn",
   "name": "Weather-Msn",
   "category": "novaler",
-  "version": "1.3-r3_PY2_3",
+  "version": "1.3-r3",
   "updated": "2021-09-29",
   "description": "النسخة التي تنشرها شركة نوفالر لأجهزتها Multibox على موقعها novaler.com.",
   "i18n": {
@@ -11,7 +11,8 @@
     }
   },
   "python": [
-    "2"
+    "2",
+    "3"
   ],
   "restart": true,
   "icon": "icons/novaler-weather-msn.png",
@@ -21,7 +22,7 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/novaler-weather-msn/1.3-r3_PY2_3/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk"
+      "file": "files/novaler-weather-msn/1.3-r3/enigma2-plugin-extensions-weather-msn_1.3-r3_PY2_3_mod_all.ipk"
     }
   ],
   "author": "Novaler",
@@ -31,8 +32,9 @@
   "changelog": [
     {
       "date": "2026-10-14",
-      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3-r3_PY2_3"
+      "text": "المصدر: موقع نوفالر (novaler.com) — الإصدار 1.3-r3"
     }
   ],
-  "updated_at": 1792021766
+  "updated_at": 1792021766,
+  "novaler_version": "1.3-r3_PY2_3"
 }

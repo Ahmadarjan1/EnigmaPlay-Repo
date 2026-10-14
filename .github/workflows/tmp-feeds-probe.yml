@@ -13,20 +13,17 @@ jobs:
                   return r.status, r.read()
               except Exception as e:
                   return str(e)[:60], b""
-          out = []
-          for m in ["novaler4k", "zgemmah7", "zgemmah9s", "multibox", "h7"]:
-              st, b = get("https://image.egami-image.com/json/%s" % m)
-              out.append("%s:%s %r" % (m, st, b[:200]))
-          print("::notice::egami || " + " || ".join(out))
           def links(url, pat=rb'href="([^"]+)"'):
               st, b = get(url)
-              return st, [l.decode('utf-8','replace') for l in re.findall(pat, b)]
-          st, l = links("https://pur-e2.club/OU/images/index.php?dir=7.6/")
-          print("::notice::pure 7.6 %s || %s" % (st, " | ".join(x for x in l if "dir=" in x or ".zip" in x)[:1500]))
-          st, l = links("https://pur-e2.club/OU/images/index.php?dir=7.4/")
-          print("::notice::pure 7.4 %s || %s" % (st, " | ".join(x for x in l if "dir=" in x or ".zip" in x)[:800]))
-          for p in ["/downloads/enigma2/multibox-4k-ultra-hd", "/downloads/enigma2-backups", "/downloads/flashes"]:
+              return st, [l.decode('utf-8','replace').replace('&amp;','&') for l in re.findall(pat, b)]
+          for d in ["7.6/octagon/", "7.6/novaler/", "7.6/gigablue/"]:
+              st, l = links("https://pur-e2.club/OU/images/index.php?dir=" + d)
+              l = [x for x in l if "sort=" not in x]
+              print("::notice::pure %s %s || %s" % (d, st, " | ".join(l[8:60])[:1800]))
+          st, l = links("https://pur-e2.club/OU/images/index.php?dir=")
+          print("::notice::pure root %s || %s" % (st, " | ".join(x for x in l if "dir=" in x and "sort" not in x)[:600]))
+          for p in ["/downloads/enigma2/multibox-4k-se-ultra-hd", "/downloads/enigma2-backups2/multibox-4k-ultra-hd", "/downloads/enigma2"]:
               st, l = links("https://www.novaler.com" + p)
-              print("::notice::novaler %s %s || %s" % (p, st, " | ".join(x for x in l if "download" in x.lower() or ".zip" in x)[:1500]))
+              print("::notice::novaler %s %s || %s" % (p, st, " | ".join(x for x in l if "/uploads/" in x or "/downloads/enigma2" in x)[:1800]))
           PY
           python3 p.py

@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-10-14",
-"sha256": "359ff18fa465a6f396ca4b6558cba34c7f0b9e8dbf920292f074eba2d1940471",
+"sha256": "d620d093d39567226cf347cf9d1f4b5b27410948558bb61b3af0a1e4ad4c1227",
 "size": 323729
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2279,6 +2279,16 @@
 "date": "2026-10-09",
 "sha256": "6db3ad5787504ae8e85f9f06cb91ed7d8f791ccb91ced49b1d016350e0c9f300",
 "size": 8312580
+},
+"gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.66.20261013_all.ipk": {
+"date": "2026-10-14",
+"sha256": "a9f383ab48e276ea4f863167e6fddd8567906e2c1f2d00bc4acbabc0f59740f0",
+"size": 8766384
+},
+"gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.66_20261013_all.deb": {
+"date": "2026-10-14",
+"sha256": "f7644d589aa745333a7240ea72e1cf00ac4d7c44b47371107fbddc88257b5466",
+"size": 8310352
 },
 "gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk": {
 "date": "2026-10-09",
@@ -8476,13 +8486,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-14 16:56",
+"last_run": "2026-10-14 18:07",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-14",
-"files": 1695,
+"files": 1697,
 "upstream": "ok"
 }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T20:59:11Z",
+ "generated": "2026-10-14T21:39:49Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1859,16 +1859,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.64",
+   "version": "1.2.65",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "14.10.2026",
-   "updated_ts": 1792010783,
+   "updated": "15.10.2026",
+   "updated_ts": 1792013960,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "15.10.2026",
+     "1.2.65 - تنزيل الصور: صورة رسيفرك فوق، وسهم جنب كل صورة بيلف لتحت لما تفتح إصداراتها، والإصدارات مرتبة تحتها بخط واضح"
+    ],
     [
      "14.10.2026",
      "1.2.64 - تنزيل الصور: صور أكثر (OpenHDF وEGAMI وOpenSPA وTeamBlue وOpen Vision وPurE2 وصور وباكآبات Novaler)، والمتجر بيعرف اسم جهازك عند كل سيرفر فبيعرض بس الصور اللي بتركب عليه، والإصدارات الرسمية بتطلع قبل التجريبية"
@@ -1970,7 +1974,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "ef13e54e6ee537ebee16702c546b2b5ba3bbbb0db30c39e000ff535dc5415592",
+   "sha256": "15d6d0144fb84f1fd16933b78668e1d365c689b19e81d622cb1ba2a74049ac98",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1982,27 +1986,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.ipk",
-     "sha256": "ef13e54e6ee537ebee16702c546b2b5ba3bbbb0db30c39e000ff535dc5415592",
-     "size": 2224686,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.ipk",
+     "sha256": "15d6d0144fb84f1fd16933b78668e1d365c689b19e81d622cb1ba2a74049ac98",
+     "size": 2231054,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.ipk",
-       "sha256": "ef13e54e6ee537ebee16702c546b2b5ba3bbbb0db30c39e000ff535dc5415592"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.ipk",
+       "sha256": "15d6d0144fb84f1fd16933b78668e1d365c689b19e81d622cb1ba2a74049ac98"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.deb",
-     "sha256": "48cca19ed865de677fed8e28625617e0517cfbce61d2caf5475f7cd4909c6e52",
-     "size": 2224690,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.deb",
+     "sha256": "0bbbb24f3db1e0763c92ff68acf444449041ff17467d563a4c1784d6259d1ee3",
+     "size": 2231058,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.deb",
-       "sha256": "48cca19ed865de677fed8e28625617e0517cfbce61d2caf5475f7cd4909c6e52"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.deb",
+       "sha256": "0bbbb24f3db1e0763c92ff68acf444449041ff17467d563a4c1784d6259d1ee3"
       }
      ]
     }
@@ -12862,6 +12866,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "swrIVJMCbFRn9ShPvE+j6Da+sfj4IGBX/JyaVSYdDTrrMO1MCVidlosNlAURC04jlCkZELzNHkaS3bS4Au+gBg=="
+  "sig": "HXCWnQybuT8QPdEzc6woGwt5S4aSSvSTNXs7lDU36gQksXTkldJmKERCPOaEevHyeRChlKtnfbWGbsoymxA2Dw=="
  }
 }

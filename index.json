@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T18:43:41Z",
+ "generated": "2026-10-14T19:50:18Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1859,16 +1859,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.59",
+   "version": "1.2.60",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "14.10.2026",
-   "updated_ts": 1791981152,
+   "updated_ts": 1792007379,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "14.10.2026",
+     "1.2.60 - قسم جديد \"تنزيل الصور\": المتجر بيعرف موديل رسيفرك وبيجيب الصور من سيرفراتها الرسمية (OpenViX وOpenATV وOpenPLi وOpenBH وغيرها) وبيحطها جاهزة بـ Image Manager لتثبيتها على أي سلوت"
+    ],
     [
      "14.10.2026",
      "1.2.59 - EnigmaPlay صار يحدّث نفسه تلقائياً بالخلفية (بيتفعّل مع إعادة تشغيل الواجهة أو بوضع الاستعداد)، وخيار لإيقافه بالإعدادات"
@@ -1950,7 +1954,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "84b4ab7f698568abd53c40dd0fc9cf0c555eae29d706d793fd81bff4563ae7d2",
+   "sha256": "301c54e07511037d74d6d0beb3f1a8683b7ee20dc03c3d4c20d80e94c9ec014b",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -1962,27 +1966,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.ipk",
-     "sha256": "84b4ab7f698568abd53c40dd0fc9cf0c555eae29d706d793fd81bff4563ae7d2",
-     "size": 2145300,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.ipk",
+     "sha256": "301c54e07511037d74d6d0beb3f1a8683b7ee20dc03c3d4c20d80e94c9ec014b",
+     "size": 2223706,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.ipk",
-       "sha256": "84b4ab7f698568abd53c40dd0fc9cf0c555eae29d706d793fd81bff4563ae7d2"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.ipk",
+       "sha256": "301c54e07511037d74d6d0beb3f1a8683b7ee20dc03c3d4c20d80e94c9ec014b"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.deb",
-     "sha256": "b2a149a68fde5a96f8113eb98140a1fa6e6950af305002a1c7627901409b07fd",
-     "size": 2145304,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.deb",
+     "sha256": "757a2c9403757ec9c3ff622bcfe35dd73fd78421c15ab12374a245afb2bc41e6",
+     "size": 2223710,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.59/enigma2-plugin-extensions-enigmaplay_1.2.59_all.deb",
-       "sha256": "b2a149a68fde5a96f8113eb98140a1fa6e6950af305002a1c7627901409b07fd"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.60/enigma2-plugin-extensions-enigmaplay_1.2.60_all.deb",
+       "sha256": "757a2c9403757ec9c3ff622bcfe35dd73fd78421c15ab12374a245afb2bc41e6"
       }
      ]
     }
@@ -12379,9 +12383,59 @@
    "homepage": "https://www.linuxsat-support.com"
   }
  ],
+ "image_feeds": [
+  {
+   "id": "openvix",
+   "name": "OpenViX",
+   "url": "https://www.openvix.co.uk/json/%s",
+   "hosts": [
+    "openvix.co.uk"
+   ]
+  },
+  {
+   "id": "openatv",
+   "name": "OpenATV",
+   "url": "https://images.mynonpublic.com/openatv/json/%s",
+   "hosts": [
+    "mynonpublic.com"
+   ]
+  },
+  {
+   "id": "openpli",
+   "name": "OpenPLi",
+   "url": "https://downloads.openpli.org/json/%s",
+   "hosts": [
+    "openpli.org"
+   ]
+  },
+  {
+   "id": "openbh",
+   "name": "OpenBH",
+   "url": "https://images.openbh.net/json/%s",
+   "hosts": [
+    "openbh.net"
+   ]
+  },
+  {
+   "id": "teamblue",
+   "name": "TeamBlue",
+   "url": "https://images.teamblue.tech/json/%s",
+   "hosts": [
+    "teamblue.tech"
+   ]
+  },
+  {
+   "id": "open8eight",
+   "name": "Open8eIGHT",
+   "url": "http://openeight.de/json/%s",
+   "hosts": [
+    "openeight.de"
+   ]
+  }
+ ],
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "fA9u2j9KgI+UHdK7+RVYqSX7kDRFMk4Rz7yps4bfGxhydI1+XM1FtpNKUQBwHtaatyg93Q2mC50XVQcctL6mCQ=="
+  "sig": "Laut368vB9cOXTqn0BAs/Sgfuayda8b71Xj0EO7GNJk/QMSJ+guXmqIX3Pr2NFWbSZbFX6+tlptG+sXsiJVqBQ=="
  }
 }

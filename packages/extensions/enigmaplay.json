@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.61",
+  "version": "1.2.62",
   "updated": "2026-10-14",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.61/enigma2-plugin-extensions-enigmaplay_1.2.61_all.ipk"
+      "file": "files/enigmaplay/1.2.62/enigma2-plugin-extensions-enigmaplay_1.2.62_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.61/enigma2-plugin-extensions-enigmaplay_1.2.61_all.deb"
+      "file": "files/enigmaplay/1.2.62/enigma2-plugin-extensions-enigmaplay_1.2.62_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.62 - تنزيل الصور: الضغط على الصورة بيفتح كل إصداراتها المتوفرة لجهازك، والأخضر بينزّل الأحدث مباشرة"
+    },
     {
       "date": "2026-10-14",
       "text": "1.2.61 - التحديثات الجديدة بتبين بالمتجر خلال ساعة بدل ما تستنى إعادة تشغيل الواجهة، وفحص التحديثات بالخلفية صار كل 3 ساعات"
@@ -140,5 +144,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792007881
+  "updated_at": 1792008369
 }

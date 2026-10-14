@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: build-index
+  group: import-novaler
   cancel-in-progress: false
 
 jobs:

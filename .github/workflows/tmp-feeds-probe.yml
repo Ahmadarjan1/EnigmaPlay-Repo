@@ -19,12 +19,9 @@ jobs:
               if flt: l = [x for x in l if re.search(flt, x)]
               print("::notice::%s -> %s %s (%d links) || %s" % (url, fin, st, len(l), " | ".join(l)[:n]))
               return l
-          l = show("https://opendroid.org/8.1.2/Octagon/")
-          sub = [x for x in l if not x.startswith("http") and x not in ("favicon.ico",) and not x.startswith("?") and not x.startswith("/")]
-          for x in sub[:3]:
-              l2 = show("https://opendroid.org/8.1.2/Octagon/" + x)
-              for y in [y for y in l2 if not y.startswith("http") and not y.startswith("?") and not y.startswith("/")][:2]:
-                  show("https://opendroid.org/8.1.2/Octagon/" + x + y)
-          show("https://opendroid.org/8.1.2/GigaBlue/")
+          show("https://opendroid.org/8.1.2/Octagon/index.php?open=sf8008", 2500)
+          show("https://opendroid.org/8.1/Octagon/index.php?open=sf8008", 1200)
+          st, fin, b = get("https://opendroid.org/8.1.2/Octagon/index.php?open=sf8008")
+          print("::notice::raw || " + re.sub(r"\s+", " ", b)[:2500])
           PY
           python3 p.py

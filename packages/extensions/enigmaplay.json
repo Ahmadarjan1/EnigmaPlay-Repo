@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.65",
+  "version": "1.2.66",
   "updated": "2026-10-15",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.ipk"
+      "file": "files/enigmaplay/1.2.66/enigma2-plugin-extensions-enigmaplay_1.2.66_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.65/enigma2-plugin-extensions-enigmaplay_1.2.65_all.deb"
+      "file": "files/enigmaplay/1.2.66/enigma2-plugin-extensions-enigmaplay_1.2.66_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-15",
+      "text": "1.2.66 - تنزيل الصور: تاريخ كل إصدار صار الصحيح (تاريخ بنائه)، وترتيب الإصدارات من الأحدث للأقدم، وشلنا شريط التمرير الأبيض"
+    },
     {
       "date": "2026-10-15",
       "text": "1.2.65 - تنزيل الصور: صورة رسيفرك فوق، وسهم جنب كل صورة بيلف لتحت لما تفتح إصداراتها، والإصدارات مرتبة تحتها بخط واضح"
@@ -156,5 +160,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792013960
+  "updated_at": 1792014476
 }

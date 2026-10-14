@@ -1,0 +1,20 @@
+{
+ "OpenDroid 8.1": {
+  "opendroid-8.1-sf4008-20260708_usb.zip": {
+   "link": "https://opendroid.org/8.1/Octagon/sf4008/opendroid-8.1-sf4008-20260708_usb.zip",
+   "name": "opendroid-8.1-sf4008-20260708_usb.zip"
+  }
+ },
+ "OpenDroid 8.1.1": {
+  "opendroid-8.1.1-sf4008-20260720_usb.zip": {
+   "link": "https://opendroid.org/8.1.1/Octagon/sf4008/opendroid-8.1.1-sf4008-20260720_usb.zip",
+   "name": "opendroid-8.1.1-sf4008-20260720_usb.zip"
+  }
+ },
+ "OpenDroid 8.1.2": {
+  "opendroid-8.1.2-sf4008-20260914_usb.zip": {
+   "link": "https://opendroid.org/8.1.2/Octagon/sf4008/opendroid-8.1.2-sf4008-20260914_usb.zip",
+   "name": "opendroid-8.1.2-sf4008-20260914_usb.zip"
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "OpenDroid 8.1": {
+  "opendroid-8.1-sf8008-20260708_mmc.zip": {
+   "link": "https://opendroid.org/8.1/Octagon/sf8008/opendroid-8.1-sf8008-20260708_mmc.zip",
+   "name": "opendroid-8.1-sf8008-20260708_mmc.zip"
+  }
+ },
+ "OpenDroid 8.1.1": {
+  "opendroid-8.1.1-sf8008-20260720_mmc.zip": {
+   "link": "https://opendroid.org/8.1.1/Octagon/sf8008/opendroid-8.1.1-sf8008-20260720_mmc.zip",
+   "name": "opendroid-8.1.1-sf8008-20260720_mmc.zip"
+  }
+ },
+ "OpenDroid 8.1.2": {
+  "opendroid-8.1.2-sf8008-20260914_mmc.zip": {
+   "link": "https://opendroid.org/8.1.2/Octagon/sf8008/opendroid-8.1.2-sf8008-20260914_mmc.zip",
+   "name": "opendroid-8.1.2-sf8008-20260914_mmc.zip"
+  }
+ }
+}

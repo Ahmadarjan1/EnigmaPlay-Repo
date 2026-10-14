@@ -9,39 +9,24 @@ jobs:
           import json, urllib.request as u, re
           def get(url):
               try:
-                  r = u.urlopen(u.Request(url, headers={"User-Agent": "EnigmaPlay"}), timeout=25)
+                  r = u.urlopen(u.Request(url, headers={"User-Agent": "Mozilla/5.0 EnigmaPlay"}), timeout=25)
                   return r.status, r.read()
               except Exception as e:
                   return str(e)[:60], b""
-          feeds = {
-            "openhdf": "https://flash.hdfreaks.cc/openhdf/json/%s",
-            "opendroid": "https://opendroid.org/json/%s",
-            "egami": "https://image.egami-image.com/json/%s",
-            "openspa": "https://openspa.webhop.info/online/json.php?box=%s",
-            "openvision": "https://images.openvision.dedyn.io/json/%s",
-            "teamblue": "https://images.teamblue.tech/json/%s",
-            "open8eight": "http://openeight.de/json/%s",
-          }
-          for fid, f in feeds.items():
-              out = []
-              for m in ["sf8008", "gbquad4k", "h7", "vuduo4k", "multibox"]:
-                  st, b = get(f % m)
-                  info = ""
-                  try:
-                      d = json.loads(b)
-                      cats = list(d)[:2]
-                      n = sum(len(v) for v in d.values() if isinstance(v, dict))
-                      first = next(iter(d[cats[0]].values())) if cats else {}
-                      info = "n=%d cats=%s first=%s" % (n, cats, json.dumps(first)[:160])
-                  except Exception as e:
-                      info = "notjson %r" % b[:40]
-                  out.append("%s:%s %s" % (m, st, info))
-              print("::notice::%s || %s" % (fid, " || ".join(out)))
-          pages = []
-          for url in ["https://www.pur-e2.club", "https://pur-e2.club", "https://www.vuplus-support.org/wbb4/index.php", "https://images.openvision.dedyn.io/", "https://www.novaler.com/"]:
+          out = []
+          for m in ["novaler4k", "zgemmah7", "zgemmah9s", "multibox", "h7"]:
+              st, b = get("https://image.egami-image.com/json/%s" % m)
+              out.append("%s:%s %r" % (m, st, b[:200]))
+          print("::notice::egami || " + " || ".join(out))
+          def links(url, pat=rb'href="([^"]+)"'):
               st, b = get(url)
-              links = sorted(set(re.findall(rb'href="([^"]*(?:image|Image|json|download|Download|zip)[^"]*)"', b)))[:12]
-              pages.append("%s %s %s" % (url, st, [l.decode('utf-8','replace') for l in links]))
-          print("::notice::pages || " + " || ".join(pages))
+              return st, [l.decode('utf-8','replace') for l in re.findall(pat, b)]
+          st, l = links("https://pur-e2.club/OU/images/index.php?dir=7.6/")
+          print("::notice::pure 7.6 %s || %s" % (st, " | ".join(x for x in l if "dir=" in x or ".zip" in x)[:1500]))
+          st, l = links("https://pur-e2.club/OU/images/index.php?dir=7.4/")
+          print("::notice::pure 7.4 %s || %s" % (st, " | ".join(x for x in l if "dir=" in x or ".zip" in x)[:800]))
+          for p in ["/downloads/enigma2/multibox-4k-ultra-hd", "/downloads/enigma2-backups", "/downloads/flashes"]:
+              st, l = links("https://www.novaler.com" + p)
+              print("::notice::novaler %s %s || %s" % (p, st, " | ".join(x for x in l if "download" in x.lower() or ".zip" in x)[:1500]))
           PY
           python3 p.py

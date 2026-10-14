@@ -4,6 +4,7 @@
 
     images/pure2/<model>.json     PurE2 (pur-e2.club/OU/images, directory listing per version/brand)
     images/novaler/<model>.json   Novaler (novaler.com downloads: images and backups per box)
+    images/opendroid/<model>.json OpenDroid (opendroid.org/<version>/<brand>/index.php?open=<model>)
 
 The links still point at the original site; the store only reads these lists.
 Run by .github/workflows/images-crawl.yml (daily); safe to run by hand.
@@ -135,12 +136,53 @@ def crawl_novaler():
     write("novaler", merged)
 
 
+# ---------------------------------------------------------------- OpenDroid
+OPENDROID = "https://opendroid.org/"
+
+
+def _hrefs(html):
+    return [h.replace("&amp;", "&") for h in re.findall(r"""href=["']([^"']+)["']""", html)]
+
+
+def crawl_opendroid():
+    versions = sorted({h.strip("/") for h in _hrefs(get(OPENDROID)) if re.match(r"^/?\d+(\.\d+)+/?$", h)},
+                      key=lambda v: [int(x) for x in v.split(".")], reverse=True)
+    per_model = {}
+    for ver in versions:
+        try:
+            brands = sorted({h.strip("/") for h in _hrefs(get(OPENDROID + ver + "/"))
+                             if re.match(r"^[A-Za-z0-9@+._ -]+/?$", h) and not h.startswith("http") and "." not in h.strip("/")[-4:]})
+        except Exception as e:
+            print("opendroid %s: %r" % (ver, e))
+            continue
+        for brand in brands:
+            bq = urllib.parse.quote(brand)
+            try:
+                models = sorted(set(re.findall(r"index\.php\?open=([A-Za-z0-9_+-]+)", get(OPENDROID + "%s/%s/" % (ver, bq)))))
+            except Exception as e:
+                print("opendroid %s/%s: %r" % (ver, brand, e))
+                continue
+            for model in models:
+                try:
+                    html = get(OPENDROID + "%s/%s/index.php?open=%s" % (ver, bq, model))
+                except Exception as e:
+                    print("opendroid %s/%s/%s: %r" % (ver, brand, model, e))
+                    continue
+                for h in _hrefs(html):
+                    if not h.lower().endswith(".zip") or "recovery" in h.lower():
+                        continue
+                    link = urllib.parse.urljoin(OPENDROID + "%s/%s/" % (ver, bq), h)
+                    fn = link.rsplit("/", 1)[-1]
+                    per_model.setdefault(model.lower(), {}).setdefault("OpenDroid %s" % ver, {})[fn] = {"name": fn, "link": link}
+    write("opendroid", per_model)
+
+
 if __name__ == "__main__":
-    which = sys.argv[1:] or ["pure2", "novaler"]
+    which = sys.argv[1:] or ["pure2", "novaler", "opendroid"]
     ok = True
     for w in which:
         try:
-            {"pure2": crawl_pure2, "novaler": crawl_novaler}[w]()
+            {"pure2": crawl_pure2, "novaler": crawl_novaler, "opendroid": crawl_opendroid}[w]()
         except Exception as e:
             ok = False
             print("%s failed: %r" % (w, e))

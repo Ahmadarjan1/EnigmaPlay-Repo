@@ -74,6 +74,14 @@
    "column": "TeamBlue"
   },
   {
+   "id": "opendroid",
+   "name": "OpenDroid",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/images/opendroid/%s.json",
+   "hosts": [
+    "opendroid.org"
+   ]
+  },
+  {
    "id": "openvision",
    "name": "Open Vision",
    "url": "https://images.openvision.dedyn.io/json/%s",

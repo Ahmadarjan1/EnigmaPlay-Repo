@@ -1,0 +1,10 @@
+name: tmp site check
+on: workflow_dispatch
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          B=https://enigmaplay-api.ahmadalarjan2.workers.dev
+          r=""; for p in /en/ /en/p/xklass/ /en/c/iptv/ /en/plugins/ / /p/xklass/; do r="$r $p:$(curl -s -o /tmp/o -w '%{http_code}' $B$p)/$(grep -o '<html lang="[a-z]*"' /tmp/o)"; done
+          echo "::notice::$r || sitemap urls $(curl -s $B/sitemap.xml | grep -c '<url>') hreflang $(curl -s $B/p/xklass/ | grep -c hreflang)"

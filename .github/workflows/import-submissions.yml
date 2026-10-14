@@ -32,9 +32,11 @@ jobs:
       - name: Rebuild index and push
         env:
           INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+          SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
         run: |
           if [ "$(git rev-list --count origin/main..HEAD)" = "0" ]; then echo "Nothing imported"; exit 0; fi
           python3 tools/build_index.py --require-signature
           git add index.json
           git diff --cached --quiet || git commit -m "Update index.json [skip ci]"
           git push
+          sh tools/notify_site.sh

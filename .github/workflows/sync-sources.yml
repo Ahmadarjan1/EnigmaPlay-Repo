@@ -38,11 +38,12 @@ jobs:
         if: steps.sync.outputs.changed == '1'
         env:
           INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}
+          SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
         run: |
           git config user.name "enigmaplay-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python3 tools/build_index.py --require-signature
           git add -A packages files index.json
           git commit -m "${{ steps.sync.outputs.message }} [skip ci]"
-          for i in 1 2 3; do git pull --rebase -q origin main && git push && exit 0; sleep 5; done
+          for i in 1 2 3; do git pull --rebase -q origin main && git push && { sh tools/notify_site.sh; exit 0; }; sleep 5; done
           exit 1

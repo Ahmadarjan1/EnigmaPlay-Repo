@@ -257,7 +257,7 @@ def main():
         while pid in ids:
             pid, n = "%s-%d" % (base, n), n + 1
         ids.add(pid)
-        version = re.sub(r"[^\w.+~-]", "", (c["version"] or "").replace(" ", "")) or \
+        version = re.sub(r"^[vV](?=\d)", "", re.sub(r"[^\w.+~-]", "", (c["version"] or "").replace(" ", ""))) or \
             (re.search(r"[_-]v?(\d[\d.]*)", fname) or [None, "1.0"])[1]
         mpath = os.path.join(pkg_dir, pid + ".json")
         old = json.load(open(mpath, encoding="utf-8")) if os.path.exists(mpath) else None

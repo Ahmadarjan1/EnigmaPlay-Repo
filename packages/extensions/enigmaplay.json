@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.63",
+  "version": "1.2.64",
   "updated": "2026-10-14",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.63/enigma2-plugin-extensions-enigmaplay_1.2.63_all.ipk"
+      "file": "files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.63/enigma2-plugin-extensions-enigmaplay_1.2.63_all.deb"
+      "file": "files/enigmaplay/1.2.64/enigma2-plugin-extensions-enigmaplay_1.2.64_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-14",
+      "text": "1.2.64 - تنزيل الصور: صور أكثر (OpenHDF وEGAMI وOpenSPA وTeamBlue وOpen Vision وPurE2 وصور وباكآبات Novaler)، والمتجر بيعرف اسم جهازك عند كل سيرفر فبيعرض بس الصور اللي بتركب عليه، والإصدارات الرسمية بتطلع قبل التجريبية"
+    },
     {
       "date": "2026-10-14",
       "text": "1.2.63 - تنزيل الصور: قائمة منسدلة، OK على الصورة بيفتح كل إصداراتها تحتها مباشرة وOK ثاني بيسكّرها"
@@ -148,5 +152,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792008784
+  "updated_at": 1792010783
 }

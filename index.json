@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-14T23:13:20Z",
+ "generated": "2026-10-14T23:22:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -4259,6 +4259,48 @@
    ],
    "author": "Lululla · Linuxsat-support",
    "homepage": "https://www.linuxsat-support.com"
+  },
+  {
+   "id": "neoboot",
+   "category": "extensions",
+   "name": "NeoBoot",
+   "version": "9.93",
+   "description": "مالتي بوت من مطوّره gutosie مباشرة: شغّل أكثر من صورة على نفس الرسيفر من فلاشة أو هارد. أول صورتين مجاناً، والصور الإضافية بكود VIP من المطوّر.",
+   "updated": "15.10.2026",
+   "updated_ts": 1791590000,
+   "status_codes": [
+    "Mul"
+   ],
+   "url": "https://raw.githubusercontent.com/gutosie/neoboot/master/iNB.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "15.10.2026",
+     "المصدر: المطوّر gutosie (github.com/gutosie/neoboot)"
+    ]
+   ],
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/neoboot.png?v=4181d4bf10",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/gutosie/neoboot/master/iNB.sh"
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "gutosie",
+   "homepage": "https://github.com/gutosie/neoboot",
+   "i18n": {
+    "en": {
+     "description": "Multiboot straight from its developer gutosie: run several images on one receiver from a USB stick or hard disk. The first two images are free; more need a VIP code from the developer."
+    }
+   }
   },
   {
    "id": "neoboot-e2turk",
@@ -12874,6 +12916,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "SDrtajnV9e7etB/glqUUnZdUjDUBhvd86C0IwZe2T47G9My6uJlTGKGVHl4EQzZQKVVyi+zQycTqBGm7MTEGAQ=="
+  "sig": "2sYFOKUtAQrgLqAvK8sPnlolEQYu7W7G+wHlS+h9VOMSGxwHXo3jp23yt/2CiYzojq69vRQsTTt/C9nR9f4bBg=="
  }
 }

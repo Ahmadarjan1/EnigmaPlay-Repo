@@ -378,14 +378,35 @@ def build(offline=False):
     items.sort(key=lambda it: (it["category"], it["order"], it["name"].lower()))
     items = [slim(it) for it in items]
     used = set(it["category"] for it in items)
-    return {
+    index_extra = {}
+    feeds = load_image_feeds()
+    if feeds:
+        index_extra["image_feeds"] = feeds
+    return dict({
         "schema": SCHEMA,
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "repo": OWNER_REPO,
         "categories": [c for c in cats if c["id"] in used],
         "all_categories": cats,
         "items": items,
-    }
+    }, **index_extra)
+
+
+def load_image_feeds():
+    """images.json -> [{id, name, url, hosts}] for the images-download section (signed with the index)."""
+    path = os.path.join(ROOT, "images.json")
+    if not os.path.exists(path):
+        return []
+    out = []
+    for f in load_json(path).get("feeds", []):
+        url = str(f.get("url") or "")
+        fid = str(f.get("id") or "")
+        if not re.match(r"^[a-z0-9][a-z0-9-]{1,31}$", fid) or not url.startswith(("https://", "http://")) or "%s" not in url:
+            err("images.json", "each feed needs id, name and an http(s) url with %%s: %r" % f)
+            continue
+        hosts = [str(h).lower() for h in (f.get("hosts") or []) if re.match(r"^[a-z0-9.-]+\.[a-z]{2,}$", str(h).lower())]
+        out.append({"id": fid, "name": str(f.get("name") or fid), "url": url, "hosts": hosts})
+    return out
 
 
 def main():

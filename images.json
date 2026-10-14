@@ -1,0 +1,11 @@
+{
+ "_comment": "Images-download section of the store. Official image servers only: each url returns the image list of one receiver model (%s = model) as JSON {category: {file: {name, link}}}. Downloads are allowed only from the feed's own domain or the extra hosts listed here.",
+ "feeds": [
+  {"id": "openvix", "name": "OpenViX", "url": "https://www.openvix.co.uk/json/%s", "hosts": ["openvix.co.uk"]},
+  {"id": "openatv", "name": "OpenATV", "url": "https://images.mynonpublic.com/openatv/json/%s", "hosts": ["mynonpublic.com"]},
+  {"id": "openpli", "name": "OpenPLi", "url": "https://downloads.openpli.org/json/%s", "hosts": ["openpli.org"]},
+  {"id": "openbh", "name": "OpenBH", "url": "https://images.openbh.net/json/%s", "hosts": ["openbh.net"]},
+  {"id": "teamblue", "name": "TeamBlue", "url": "https://images.teamblue.tech/json/%s", "hosts": ["teamblue.tech"]},
+  {"id": "open8eight", "name": "Open8eIGHT", "url": "http://openeight.de/json/%s", "hosts": ["openeight.de"]}
+ ]
+}

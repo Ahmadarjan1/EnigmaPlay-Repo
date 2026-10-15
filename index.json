@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-15T00:26:11Z",
+ "generated": "2026-10-15T03:07:25Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1798,6 +1798,75 @@
    ],
    "author": "Lululla · Linuxsat-support",
    "homepage": "https://www.linuxsat-support.com"
+  },
+  {
+   "id": "enigmaprayer",
+   "category": "extensions",
+   "name": "Enigma Prayer",
+   "version": "1.1.3",
+   "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
+   "updated": "15.10.2026",
+   "status_codes": [
+    "Qur",
+    "Free"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "15.10.2026",
+     "1.1.3 - أول إصدار على متجر EnigmaPlay: مواقيت الصلاة، الأذان فوق القناة عبر ALSA دون إيقاف الصورة، الإقامة، التذكيرات، المسبحة، اتجاه القبلة، يعمل على بايثون 2 و 3 وجميع الصور"
+    ]
+   ],
+   "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaprayer.png?v=04e3d6f6b2",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/1.png?v=a56856867c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/2.png?v=18ed049397",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/3.png?v=9ad6b87db8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/4.png?v=50b361b102"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
+     "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c",
+     "size": 8245024,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
+       "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c"
+      }
+     ]
+    },
+    {
+     "type": "deb",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.deb",
+     "sha256": "ca6f5901abe5f9089925407d18ccc4f6ee0655d61e346baebde54decc80c94d3",
+     "size": 8245022,
+     "mirrors": [
+      {
+       "type": "deb",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.deb",
+       "sha256": "ca6f5901abe5f9089925407d18ccc4f6ee0655d61e346baebde54decc80c94d3"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "package": "enigma2-plugin-extensions-enigmaprayer",
+   "author": "Ahmad Al-Qaisi",
+   "i18n": {
+    "en": {
+     "description": "Offline prayer times for Enigma2 (18 calculation methods, 215 cities in 45 countries plus custom coordinates), adhan played over the running channel without stopping the picture, iqama countdown with post-prayer mute, pre-adhan alerts, adhkar reminders, on-screen tasbih counter and Qibla direction. Full Arabic UI, HD and FHD."
+    }
+   },
+   "featured": true
   },
   {
    "id": "enigma2uninstaller",
@@ -14426,6 +14495,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "o2boj4hO5NYvbC/DiW36qX5K/00mRNSEOyt0JGqELAth6plKleriYVAjth16lKaeduCmHv3n5I8iPdILKVtXCw=="
+  "sig": "4rFa4tIsDPJ4vpkt1/Cjb4d3TQsqJeCA5UQeKYYUeMLA7BnKz0oFVZFNs2+T2UlEreRLRfRyxMhGVQ0NV2IdAw=="
  }
 }

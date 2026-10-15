@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-15T00:24:55Z",
+ "generated": "2026-10-15T00:26:11Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -53,7 +53,7 @@
   },
   {
    "id": "novaler",
-   "name": "نوفالر",
+   "name": "Novaler",
    "order": 13,
    "color": "#08a8c0"
   }
@@ -133,7 +133,7 @@
   },
   {
    "id": "novaler",
-   "name": "نوفالر",
+   "name": "Novaler",
    "order": 13,
    "color": "#08a8c0"
   }
@@ -14426,6 +14426,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "ifrYwlhApCHhx/pmZS1xUckQzAwiyKD0Xfg17bkl/6PrNhCMLaWlwUYiL4YK+py4Cz9W1CYJN0Ao8gSkCB6wDg=="
+  "sig": "o2boj4hO5NYvbC/DiW36qX5K/00mRNSEOyt0JGqELAth6plKleriYVAjth16lKaeduCmHv3n5I8iPdILKVtXCw=="
  }
 }

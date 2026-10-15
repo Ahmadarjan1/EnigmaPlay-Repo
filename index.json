@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-15T03:07:25Z",
+ "generated": "2026-10-15T03:28:52Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1940,16 +1940,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.70",
+   "version": "1.2.71",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "15.10.2026",
-   "updated_ts": 1792023867,
+   "updated_ts": 1792034897,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "15.10.2026",
+     "1.2.71 - قسم أدوات النظام بالقائمة: مكتبات بايثون والمشغلات والترميزات وأدوات الشبكة والأقراص، كل وحدة بحالتها على جهازك، وبتتثبت من فيد صورتك بضغطة"
+    ],
     [
      "15.10.2026",
      "1.2.70 - التصنيفات ونتائج البحث: البلجنات ما عادت تطلع فوق شريط الأقسام لما تنزل بالقائمة"
@@ -2075,7 +2079,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "e81dc46946308ebe0ee20ea1013f39ef4e88d886b9ece02cedb64e8c544ed29f",
+   "sha256": "ad250d3588df563b4d13dba686c811ee6a0e40004a816eedb3cfaa08078565ad",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -2087,27 +2091,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.ipk",
-     "sha256": "e81dc46946308ebe0ee20ea1013f39ef4e88d886b9ece02cedb64e8c544ed29f",
-     "size": 2235272,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.ipk",
+     "sha256": "ad250d3588df563b4d13dba686c811ee6a0e40004a816eedb3cfaa08078565ad",
+     "size": 2261004,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.ipk",
-       "sha256": "e81dc46946308ebe0ee20ea1013f39ef4e88d886b9ece02cedb64e8c544ed29f"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.ipk",
+       "sha256": "ad250d3588df563b4d13dba686c811ee6a0e40004a816eedb3cfaa08078565ad"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.deb",
-     "sha256": "8d3dc3ba6f6063324c96be1f2c4d8ed467fad5a7c853fdac927ede1e6dd3ee00",
-     "size": 2235276,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.deb",
+     "sha256": "f3eba5e4b56e428512782c0f5152bb3026b658827ee273c158cc749f08fbd148",
+     "size": 2261010,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.deb",
-       "sha256": "8d3dc3ba6f6063324c96be1f2c4d8ed467fad5a7c853fdac927ede1e6dd3ee00"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.deb",
+       "sha256": "f3eba5e4b56e428512782c0f5152bb3026b658827ee273c158cc749f08fbd148"
       }
      ]
     }
@@ -14492,9 +14496,1103 @@
   "zgemmaslc": "openatv openpli=lc openvision=lc",
   "zgemmass": "openatv openpli=sh1 openvision=sh1"
  },
+ "system_tools": [
+  {
+   "id": "python",
+   "name": {
+    "ar": "مكتبات بايثون",
+    "en": "Python libraries"
+   },
+   "items": [
+    {
+     "id": "requests",
+     "name": "Requests",
+     "desc": {
+      "ar": "طلبات الإنترنت، تحتاجها أغلب بلجنات IPTV والتحديث",
+      "en": "HTTP requests, needed by most IPTV and updater plugins"
+     },
+     "packages": {
+      "3": [
+       "python3-requests"
+      ],
+      "2": [
+       "python-requests"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "six",
+     "name": "Six",
+     "desc": {
+      "ar": "توافق بايثون 2 و3",
+      "en": "Python 2/3 compatibility"
+     },
+     "packages": {
+      "3": [
+       "python3-six"
+      ],
+      "2": [
+       "python-six"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "future",
+     "name": "Future",
+     "desc": {
+      "ar": "توافق بايثون 2 و3",
+      "en": "Python 2/3 compatibility"
+     },
+     "packages": {
+      "3": [
+       "python3-future"
+      ],
+      "2": [
+       "python-future"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "lxml",
+     "name": "lxml",
+     "desc": {
+      "ar": "قراءة صفحات HTML وملفات XML",
+      "en": "HTML and XML parsing"
+     },
+     "packages": {
+      "3": [
+       "python3-lxml"
+      ],
+      "2": [
+       "python-lxml"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "bs4",
+     "name": "BeautifulSoup",
+     "desc": {
+      "ar": "قراءة صفحات المواقع",
+      "en": "Web page parsing"
+     },
+     "packages": {
+      "3": [
+       "python3-beautifulsoup4"
+      ],
+      "2": [
+       "python-beautifulsoup",
+       "python-beautifulsoup4"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pillow",
+     "name": "Pillow",
+     "desc": {
+      "ar": "الصور والأيقونات داخل البلجنات",
+      "en": "Images and icons in plugins"
+     },
+     "packages": {
+      "3": [
+       "python3-pillow"
+      ],
+      "2": [
+       "python-imaging",
+       "python-pillow"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "crypto",
+     "name": "Cryptography",
+     "desc": {
+      "ar": "التشفير والاتصال الآمن",
+      "en": "Encryption and secure connections"
+     },
+     "packages": {
+      "3": [
+       "python3-cryptography"
+      ],
+      "2": [
+       "python-cryptography"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pycryptodome",
+     "name": "PyCryptodome",
+     "desc": {
+      "ar": "فك التشفير، تحتاجها بلجنات القنوات والإيميوهات",
+      "en": "Decryption, used by channel and softcam plugins"
+     },
+     "packages": {
+      "3": [
+       "python3-pycryptodome",
+       "python3-pycryptodomex",
+       "python3-pycrypto"
+      ],
+      "2": [
+       "python-pycryptodome",
+       "python-pycrypto"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pyopenssl",
+     "name": "pyOpenSSL",
+     "desc": {
+      "ar": "شهادات HTTPS",
+      "en": "HTTPS certificates"
+     },
+     "packages": {
+      "3": [
+       "python3-pyopenssl"
+      ],
+      "2": [
+       "python-pyopenssl"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "certifi",
+     "name": "Certifi",
+     "desc": {
+      "ar": "شهادات المواقع الموثوقة",
+      "en": "Trusted site certificates"
+     },
+     "packages": {
+      "3": [
+       "python3-certifi"
+      ],
+      "2": [
+       "python-certifi"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "urllib3",
+     "name": "urllib3",
+     "desc": {
+      "ar": "اتصالات الإنترنت",
+      "en": "Internet connections"
+     },
+     "packages": {
+      "3": [
+       "python3-urllib3"
+      ],
+      "2": [
+       "python-urllib3"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "sqlite3",
+     "name": "SQLite",
+     "desc": {
+      "ar": "قواعد بيانات صغيرة داخل البلجنات",
+      "en": "Small databases inside plugins"
+     },
+     "packages": {
+      "3": [
+       "python3-sqlite3"
+      ],
+      "2": [
+       "python-sqlite3"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "twistedweb",
+     "name": "Twisted Web",
+     "desc": {
+      "ar": "خادم وعميل ويب للواجهة",
+      "en": "Web server and client for Enigma2"
+     },
+     "packages": {
+      "3": [
+       "python3-twisted-web"
+      ],
+      "2": [
+       "python-twisted-web"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pyyaml",
+     "name": "PyYAML",
+     "desc": {
+      "ar": "ملفات الإعدادات YAML",
+      "en": "YAML settings files"
+     },
+     "packages": {
+      "3": [
+       "python3-pyyaml"
+      ],
+      "2": [
+       "python-pyyaml"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pysocks",
+     "name": "PySocks",
+     "desc": {
+      "ar": "البروكسي SOCKS",
+      "en": "SOCKS proxies"
+     },
+     "packages": {
+      "3": [
+       "python3-pysocks"
+      ],
+      "2": [
+       "python-pysocks"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "dateutil",
+     "name": "dateutil",
+     "desc": {
+      "ar": "التواريخ والأوقات",
+      "en": "Dates and times"
+     },
+     "packages": {
+      "3": [
+       "python3-dateutil"
+      ],
+      "2": [
+       "python-dateutil"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "rarfile",
+     "name": "rarfile",
+     "desc": {
+      "ar": "فتح ملفات RAR من بايثون",
+      "en": "Open RAR files from Python"
+     },
+     "packages": {
+      "3": [
+       "python3-rarfile"
+      ],
+      "2": [
+       "python-rarfile"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "fuzzywuzzy",
+     "name": "FuzzyWuzzy",
+     "desc": {
+      "ar": "مطابقة الأسماء، تستعملها بلجنات EPG والبيكونات",
+      "en": "Name matching for EPG and picon plugins"
+     },
+     "packages": {
+      "3": [
+       "python3-fuzzywuzzy"
+      ],
+      "2": [
+       "python-fuzzywuzzy"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "mechanize",
+     "name": "Mechanize",
+     "desc": {
+      "ar": "تسجيل الدخول للمواقع",
+      "en": "Logging in to websites"
+     },
+     "packages": {
+      "3": [
+       "python3-mechanize"
+      ],
+      "2": [
+       "python-mechanize"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "unidecode",
+     "name": "Unidecode",
+     "desc": {
+      "ar": "تحويل الأحرف الخاصة",
+      "en": "Converting special characters"
+     },
+     "packages": {
+      "3": [
+       "python3-unidecode"
+      ],
+      "2": [
+       "python-unidecode"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pycurl",
+     "name": "PycURL",
+     "desc": {
+      "ar": "تنزيل الملفات بسرعة",
+      "en": "Fast downloads"
+     },
+     "packages": {
+      "3": [
+       "python3-pycurl"
+      ],
+      "2": [
+       "python-pycurl"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "pip",
+     "name": "pip",
+     "desc": {
+      "ar": "تثبيت مكتبات بايثون إضافية",
+      "en": "Installing extra Python libraries"
+     },
+     "packages": {
+      "3": [
+       "python3-pip"
+      ],
+      "2": [
+       "python-pip"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    }
+   ]
+  },
+  {
+   "id": "media",
+   "name": {
+    "ar": "مشغلات وترميز",
+    "en": "Players and codecs"
+   },
+   "items": [
+    {
+     "id": "serviceapp",
+     "name": "ServiceApp",
+     "desc": {
+      "ar": "مشغل بديل لروابط IPTV (exteplayer3 وgstplayer)",
+      "en": "Alternative IPTV player (exteplayer3, gstplayer)"
+     },
+     "packages": {
+      "any": [
+       "enigma2-plugin-systemplugins-serviceapp"
+      ]
+     },
+     "files": [],
+     "restart": true,
+     "all": false
+    },
+    {
+     "id": "exteplayer3",
+     "name": "exteplayer3",
+     "desc": {
+      "ar": "مشغل خارجي يشغّل أغلب روابط IPTV",
+      "en": "External player for most IPTV links"
+     },
+     "packages": {
+      "any": [
+       "exteplayer3"
+      ]
+     },
+     "files": [
+      "/usr/bin/exteplayer3"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "gstplayer",
+     "name": "gstplayer",
+     "desc": {
+      "ar": "مشغل GStreamer الخارجي",
+      "en": "External GStreamer player"
+     },
+     "packages": {
+      "any": [
+       "gstplayer"
+      ]
+     },
+     "files": [
+      "/usr/bin/gstplayer"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "ffmpeg",
+     "name": "FFmpeg",
+     "desc": {
+      "ar": "تحويل وتسجيل الفيديو",
+      "en": "Video conversion and recording"
+     },
+     "packages": {
+      "any": [
+       "ffmpeg"
+      ]
+     },
+     "files": [
+      "/usr/bin/ffmpeg"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "gst-good",
+     "name": "GStreamer good",
+     "desc": {
+      "ar": "ترميزات GStreamer الأساسية",
+      "en": "Core GStreamer codecs"
+     },
+     "packages": {
+      "any": [
+       "gstreamer1.0-plugins-good"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "gst-bad",
+     "name": "GStreamer bad",
+     "desc": {
+      "ar": "ترميزات إضافية (HLS وDASH)",
+      "en": "Extra codecs (HLS, DASH)"
+     },
+     "packages": {
+      "any": [
+       "gstreamer1.0-plugins-bad"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "gst-ugly",
+     "name": "GStreamer ugly",
+     "desc": {
+      "ar": "ترميزات MP3 وغيرها",
+      "en": "MP3 and other codecs"
+     },
+     "packages": {
+      "any": [
+       "gstreamer1.0-plugins-ugly"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "gst-libav",
+     "name": "GStreamer libav",
+     "desc": {
+      "ar": "ترميزات FFmpeg داخل GStreamer",
+      "en": "FFmpeg codecs for GStreamer"
+     },
+     "packages": {
+      "any": [
+       "gstreamer1.0-libav"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "streamlink",
+     "name": "Streamlink",
+     "desc": {
+      "ar": "تشغيل روابط البث المباشر من المواقع",
+      "en": "Live streams from websites"
+     },
+     "packages": {
+      "3": [
+       "python3-streamlink",
+       "streamlink"
+      ],
+      "2": [
+       "python-streamlink",
+       "streamlink"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "ytdlp",
+     "name": "yt-dlp",
+     "desc": {
+      "ar": "روابط يوتيوب وغيره",
+      "en": "YouTube and other site links"
+     },
+     "packages": {
+      "3": [
+       "python3-yt-dlp",
+       "yt-dlp"
+      ],
+      "2": [
+       "python-youtube-dl",
+       "youtube-dl"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "rtmp",
+     "name": "RTMP",
+     "desc": {
+      "ar": "روابط RTMP",
+      "en": "RTMP links"
+     },
+     "packages": {
+      "any": [
+       "librtmp1",
+       "rtmpdump",
+       "librtmp"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "uchardet",
+     "name": "uchardet",
+     "desc": {
+      "ar": "معرفة ترميز ملفات الترجمة",
+      "en": "Subtitle file encoding detection"
+     },
+     "packages": {
+      "any": [
+       "uchardet"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    }
+   ]
+  },
+  {
+   "id": "network",
+   "name": {
+    "ar": "الشبكة والتنزيل",
+    "en": "Network and downloads"
+   },
+   "items": [
+    {
+     "id": "wget",
+     "name": "wget",
+     "desc": {
+      "ar": "تنزيل الملفات (النسخة الكاملة مع HTTPS)",
+      "en": "Downloads (full version with HTTPS)"
+     },
+     "packages": {
+      "any": [
+       "wget"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "curl",
+     "name": "curl",
+     "desc": {
+      "ar": "تنزيل الملفات واختبار الروابط",
+      "en": "Downloads and link checks"
+     },
+     "packages": {
+      "any": [
+       "curl"
+      ]
+     },
+     "files": [
+      "/usr/bin/curl"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "openssl",
+     "name": "OpenSSL",
+     "desc": {
+      "ar": "أدوات التشفير وشهادات HTTPS",
+      "en": "Encryption tools and HTTPS certificates"
+     },
+     "packages": {
+      "any": [
+       "openssl-bin",
+       "openssl"
+      ]
+     },
+     "files": [
+      "/usr/bin/openssl"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "cacerts",
+     "name": "CA certificates",
+     "desc": {
+      "ar": "شهادات المواقع الموثوقة للنظام",
+      "en": "System trusted certificates"
+     },
+     "packages": {
+      "any": [
+       "ca-certificates"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "openvpn",
+     "name": "OpenVPN",
+     "desc": {
+      "ar": "الاتصال عبر VPN",
+      "en": "VPN connections"
+     },
+     "packages": {
+      "any": [
+       "openvpn"
+      ]
+     },
+     "files": [
+      "/usr/sbin/openvpn"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "wireguard",
+     "name": "WireGuard",
+     "desc": {
+      "ar": "VPN سريع",
+      "en": "Fast VPN"
+     },
+     "packages": {
+      "any": [
+       "wireguard-tools"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "zerotier",
+     "name": "ZeroTier",
+     "desc": {
+      "ar": "شبكة افتراضية للوصول للرسيفر من بعيد",
+      "en": "Virtual network for remote access"
+     },
+     "packages": {
+      "any": [
+       "zerotier"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "cifs",
+     "name": "CIFS",
+     "desc": {
+      "ar": "ربط مجلدات ويندوز المشتركة",
+      "en": "Mount Windows shared folders"
+     },
+     "packages": {
+      "any": [
+       "cifs-utils"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "ntp",
+     "name": "NTP",
+     "desc": {
+      "ar": "ضبط الساعة من الإنترنت",
+      "en": "Clock sync from the internet"
+     },
+     "packages": {
+      "any": [
+       "ntpdate",
+       "chrony"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "rsync",
+     "name": "rsync",
+     "desc": {
+      "ar": "نسخ الملفات والنسخ الاحتياطي",
+      "en": "File copy and backups"
+     },
+     "packages": {
+      "any": [
+       "rsync"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "iperf3",
+     "name": "iperf3",
+     "desc": {
+      "ar": "قياس سرعة الشبكة",
+      "en": "Network speed test"
+     },
+     "packages": {
+      "any": [
+       "iperf3"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    }
+   ]
+  },
+  {
+   "id": "storage",
+   "name": {
+    "ar": "الأقراص والضغط",
+    "en": "Disks and archives"
+   },
+   "items": [
+    {
+     "id": "unrar",
+     "name": "unrar",
+     "desc": {
+      "ar": "فك ملفات RAR",
+      "en": "Extract RAR files"
+     },
+     "packages": {
+      "any": [
+       "unrar"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "p7zip",
+     "name": "7-Zip",
+     "desc": {
+      "ar": "فك ملفات 7z",
+      "en": "Extract 7z files"
+     },
+     "packages": {
+      "any": [
+       "p7zip",
+       "7zip"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "zip",
+     "name": "zip / unzip",
+     "desc": {
+      "ar": "ضغط وفك ملفات ZIP",
+      "en": "Create and extract ZIP files"
+     },
+     "packages": {
+      "any": [
+       "zip",
+       "unzip"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": true
+    },
+    {
+     "id": "xz",
+     "name": "xz",
+     "desc": {
+      "ar": "فك ملفات xz",
+      "en": "Extract xz files"
+     },
+     "packages": {
+      "any": [
+       "xz"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "bzip2",
+     "name": "bzip2",
+     "desc": {
+      "ar": "فك ملفات bz2",
+      "en": "Extract bz2 files"
+     },
+     "packages": {
+      "any": [
+       "bzip2"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "ntfs",
+     "name": "NTFS",
+     "desc": {
+      "ar": "قراءة وكتابة أقراص ويندوز NTFS",
+      "en": "Read and write Windows NTFS disks"
+     },
+     "packages": {
+      "any": [
+       "ntfs-3g"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "exfat",
+     "name": "exFAT",
+     "desc": {
+      "ar": "فلاشات وأقراص exFAT",
+      "en": "exFAT sticks and disks"
+     },
+     "packages": {
+      "any": [
+       "exfatprogs",
+       "exfat-utils",
+       "fuse-exfat"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "dosfs",
+     "name": "FAT32",
+     "desc": {
+      "ar": "تهيئة وفحص فلاشات FAT32",
+      "en": "Format and check FAT32 sticks"
+     },
+     "packages": {
+      "any": [
+       "dosfstools"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "hdparm",
+     "name": "hdparm",
+     "desc": {
+      "ar": "إعدادات القرص الصلب والسكون",
+      "en": "Hard disk settings and standby"
+     },
+     "packages": {
+      "any": [
+       "hdparm"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    }
+   ]
+  },
+  {
+   "id": "system",
+   "name": {
+    "ar": "أدوات النظام",
+    "en": "System tools"
+   },
+   "items": [
+    {
+     "id": "bash",
+     "name": "bash",
+     "desc": {
+      "ar": "سطر أوامر كامل، تحتاجه بعض سكربتات التثبيت",
+      "en": "Full shell, needed by some install scripts"
+     },
+     "packages": {
+      "any": [
+       "bash"
+      ]
+     },
+     "files": [
+      "/bin/bash"
+     ],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "nano",
+     "name": "nano",
+     "desc": {
+      "ar": "تعديل الملفات من التلنت",
+      "en": "Edit files over telnet"
+     },
+     "packages": {
+      "any": [
+       "nano"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "htop",
+     "name": "htop",
+     "desc": {
+      "ar": "مراقبة المعالج والذاكرة",
+      "en": "CPU and memory monitor"
+     },
+     "packages": {
+      "any": [
+       "htop"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "lsof",
+     "name": "lsof",
+     "desc": {
+      "ar": "معرفة الملفات المفتوحة",
+      "en": "Open files"
+     },
+     "packages": {
+      "any": [
+       "lsof"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    },
+    {
+     "id": "procps",
+     "name": "procps",
+     "desc": {
+      "ar": "أدوات العمليات (ps وtop وfree)",
+      "en": "Process tools (ps, top, free)"
+     },
+     "packages": {
+      "any": [
+       "procps"
+      ]
+     },
+     "files": [],
+     "restart": false,
+     "all": false
+    }
+   ]
+  }
+ ],
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "4rFa4tIsDPJ4vpkt1/Cjb4d3TQsqJeCA5UQeKYYUeMLA7BnKz0oFVZFNs2+T2UlEreRLRfRyxMhGVQ0NV2IdAw=="
+  "sig": "tYwgxVOrJOYCoO3WmnO3GsHm9Xl5MwYC8OUEI1fF78kipwZCgrj+JxJpj6D5N3ZrBo+fSgoby37tjJSfpCYZDg=="
  }
 }

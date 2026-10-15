@@ -1,0 +1,48 @@
+{
+ "id": "enigmaprayer",
+ "name": "Enigma Prayer",
+ "category": "extensions",
+ "subcategory": "Qur",
+ "tags": [
+  "Free"
+ ],
+ "version": "1.1.3",
+ "updated": "2026-10-15",
+ "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
+ "author": "Ahmad Al-Qaisi",
+ "python": [
+  "2",
+  "3"
+ ],
+ "restart": true,
+ "icon": "icons/enigmaprayer.png",
+ "screenshots": [
+  "screenshots/enigmaprayer/1.png",
+  "screenshots/enigmaprayer/2.png",
+  "screenshots/enigmaprayer/3.png",
+  "screenshots/enigmaprayer/4.png"
+ ],
+ "package": "enigma2-plugin-extensions-enigmaprayer",
+ "downloads": [
+  {
+   "type": "ipk",
+   "file": "files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk"
+  },
+  {
+   "type": "deb",
+   "file": "files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.deb"
+  }
+ ],
+ "changelog": [
+  {
+   "date": "2026-10-15",
+   "text": "1.1.3 - أول إصدار على متجر EnigmaPlay: مواقيت الصلاة، الأذان فوق القناة عبر ALSA دون إيقاف الصورة، الإقامة، التذكيرات، المسبحة، اتجاه القبلة، يعمل على بايثون 2 و 3 وجميع الصور"
+  }
+ ],
+ "i18n": {
+  "en": {
+   "description": "Offline prayer times for Enigma2 (18 calculation methods, 215 cities in 45 countries plus custom coordinates), adhan played over the running channel without stopping the picture, iqama countdown with post-prayer mute, pre-adhan alerts, adhkar reminders, on-screen tasbih counter and Qibla direction. Full Arabic UI, HD and FHD."
+  }
+ },
+ "featured": true
+}

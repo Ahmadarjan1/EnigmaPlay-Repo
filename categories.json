@@ -11,5 +11,5 @@
   {"id": "display", "name": "واجهات وإقلاع", "order": 10, "color": "#00838f"},
   {"id": "feeds", "name": "فيدات", "order": 11, "color": "#689f38"},
   {"id": "images", "name": "صور الأنظمة", "order": 12, "color": "#455a64"},
-  {"id": "novaler", "name": "نوفالر", "order": 13, "color": "#08a8c0"}
+  {"id": "novaler", "name": "Novaler", "order": 13, "color": "#08a8c0"}
 ]

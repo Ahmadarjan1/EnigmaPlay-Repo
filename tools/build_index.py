@@ -387,6 +387,9 @@ def build(offline=False):
         models = load_image_models(feeds)
         if models:
             index_extra["image_models"] = models
+    tools = load_system_tools()
+    if tools:
+        index_extra["system_tools"] = tools
     return dict({
         "schema": SCHEMA,
         "generated": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -395,6 +398,40 @@ def build(offline=False):
         "all_categories": cats,
         "items": items,
     }, **index_extra)
+
+
+PKG_RE = re.compile(r"^[a-z0-9][a-z0-9.+_-]{1,80}$")
+
+
+def load_system_tools():
+    """systools.json -> [{id, name:{ar,en}, items:[{id, name, desc:{ar,en}, packages:{"3"|"2"|"any": [names]}, ...}]}]
+    for the store's system tools section (packages from the image's own feed, signed with the index)."""
+    path = os.path.join(ROOT, "systools.json")
+    if not os.path.exists(path):
+        return []
+    out = []
+    for g in load_json(path).get("groups", []):
+        items = []
+        for it in g.get("items", []):
+            where = "systools.json %s" % it.get("id")
+            pk = {}
+            for k, names in (it.get("packages") or {}).items():
+                if k not in ("2", "3", "any") or not isinstance(names, list):
+                    err(where, "packages keys are \"2\", \"3\" or \"any\" with a list of names")
+                    continue
+                bad = [n for n in names if not PKG_RE.match(str(n))]
+                if bad:
+                    err(where, "bad package names %r" % bad)
+                pk[k] = [str(n) for n in names if PKG_RE.match(str(n))]
+            if not it.get("id") or not it.get("name") or not pk:
+                err(where, "needs id, name and packages")
+                continue
+            files = [f for f in (it.get("files") or []) if str(f).startswith("/")]
+            items.append({"id": str(it["id"]), "name": str(it["name"]), "desc": it.get("desc") or {}, "packages": pk,
+                          "files": files, "restart": bool(it.get("restart")), "all": bool(it.get("all"))})
+        if g.get("id") and items:
+            out.append({"id": str(g["id"]), "name": g.get("name") or {}, "items": items})
+    return out
 
 
 def load_image_feeds():

@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.70",
+  "version": "1.2.71",
   "updated": "2026-10-15",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.ipk"
+      "file": "files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.70/enigma2-plugin-extensions-enigmaplay_1.2.70_all.deb"
+      "file": "files/enigmaplay/1.2.71/enigma2-plugin-extensions-enigmaplay_1.2.71_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-15",
+      "text": "1.2.71 - قسم أدوات النظام بالقائمة: مكتبات بايثون والمشغلات والترميزات وأدوات الشبكة والأقراص، كل وحدة بحالتها على جهازك، وبتتثبت من فيد صورتك بضغطة"
+    },
     {
       "date": "2026-10-15",
       "text": "1.2.70 - التصنيفات ونتائج البحث: البلجنات ما عادت تطلع فوق شريط الأقسام لما تنزل بالقائمة"
@@ -176,5 +180,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792023867
+  "updated_at": 1792034897
 }

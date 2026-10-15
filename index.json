@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-15T03:54:01Z",
+ "generated": "2026-10-15T04:04:02Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -15251,38 +15251,6 @@
      "all": false
     },
     {
-     "id": "wireguard",
-     "name": "WireGuard",
-     "desc": {
-      "ar": "VPN سريع",
-      "en": "Fast VPN"
-     },
-     "packages": {
-      "any": [
-       "wireguard-tools"
-      ]
-     },
-     "files": [],
-     "restart": false,
-     "all": false
-    },
-    {
-     "id": "zerotier",
-     "name": "ZeroTier",
-     "desc": {
-      "ar": "شبكة افتراضية للوصول للرسيفر من بعيد",
-      "en": "Virtual network for remote access"
-     },
-     "packages": {
-      "any": [
-       "zerotier"
-      ]
-     },
-     "files": [],
-     "restart": false,
-     "all": false
-    },
-    {
      "id": "cifs",
      "name": "CIFS",
      "desc": {
@@ -15601,6 +15569,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "33V1+dYuDZoQyxzK4uOx5RNol3xSKppCkdyTuvxKMa0m/FiAV3oElmPAPvugjdDmQxzguRiuihYhHQHVdfO1DA=="
+  "sig": "DGQDmG3IRvQzbNUegksr73o03iszdRz5BFkVix5VOQAlhs2J4nbLYl92JVoNWv++Mf+eMRArfVMV2zqc2SVaAw=="
  }
 }

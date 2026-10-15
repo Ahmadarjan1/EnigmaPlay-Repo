@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.72",
+  "version": "1.2.73",
   "updated": "2026-10-15",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.72/enigma2-plugin-extensions-enigmaplay_1.2.72_all.ipk"
+      "file": "files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.72/enigma2-plugin-extensions-enigmaplay_1.2.72_all.deb"
+      "file": "files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-15",
+      "text": "1.2.73 - أدوات النظام صارت 10 أقسام: DNS، المكتبات والأدوات، إصلاحات، التعريفات، القرص والفلاشة، تثبيت من ملف، إزالة بلجنات، أخرى، نسخ احتياطي، استعادة"
+    },
     {
       "date": "2026-10-15",
       "text": "1.2.72 - أدوات النظام: القائمة بتنجاب لحالها إذا ما كانت بالنسخة المحفوظة، وبعد كل تحديث للبلجن بتنزل قائمة المتجر كاملة من جديد"
@@ -184,5 +188,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792035205
+  "updated_at": 1792036411
 }

@@ -637,32 +637,6 @@
      ]
     },
     {
-     "id": "wireguard",
-     "name": "WireGuard",
-     "desc": {
-      "ar": "VPN سريع",
-      "en": "Fast VPN"
-     },
-     "packages": {
-      "any": [
-       "wireguard-tools"
-      ]
-     }
-    },
-    {
-     "id": "zerotier",
-     "name": "ZeroTier",
-     "desc": {
-      "ar": "شبكة افتراضية للوصول للرسيفر من بعيد",
-      "en": "Virtual network for remote access"
-     },
-     "packages": {
-      "any": [
-       "zerotier"
-      ]
-     }
-    },
-    {
      "id": "cifs",
      "name": "CIFS",
      "desc": {

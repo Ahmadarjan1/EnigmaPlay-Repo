@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-15T16:36:05Z",
+ "generated": "2026-10-16T01:58:02Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1803,22 +1803,26 @@
    "id": "enigmaprayer",
    "category": "extensions",
    "name": "Enigma Prayer",
-   "version": "1.1.3",
+   "version": "1.1.4",
    "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
-   "updated": "15.10.2026",
+   "updated": "16.10.2026",
    "status_codes": [
     "Qur",
     "Free"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "16.10.2026",
+     "1.1.4 - إصلاح توقف البلجن عند اختفاء التنبيه على بعض الأجهزة (DM8000 وبايثون 3.9)، وإصلاح ظهور أسماء الصلوات والأذكار بالخط الكبير (كانت «الظهر» تظهر «الضر»)، وظهور «الجمعة» بدل الظهر يوم الجمعة"
+    ],
     [
      "15.10.2026",
      "1.1.3 - أول إصدار على متجر EnigmaPlay: مواقيت الصلاة، الأذان فوق القناة عبر ALSA دون إيقاف الصورة، الإقامة، التذكيرات، المسبحة، اتجاه القبلة، يعمل على بايثون 2 و 3 وجميع الصور"
     ]
    ],
-   "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c",
+   "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaprayer.png?v=04e3d6f6b2",
    "screenshots": [
@@ -1830,27 +1834,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
-     "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c",
-     "size": 8245024,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
+     "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c",
+     "size": 8851324,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.ipk",
-       "sha256": "f5579cf02794fdd596d1b6c377c70d4b69f78f9135d3fd867c5f486ac1fcfa5c"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
+       "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.deb",
-     "sha256": "ca6f5901abe5f9089925407d18ccc4f6ee0655d61e346baebde54decc80c94d3",
-     "size": 8245022,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.deb",
+     "sha256": "7dfbcf979d2d903769b795b2af419f067d2fc4919c937ddff70dd14213bc0b0e",
+     "size": 8851324,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.3/enigma2-plugin-extensions-enigmaprayer_1.1.3_all.deb",
-       "sha256": "ca6f5901abe5f9089925407d18ccc4f6ee0655d61e346baebde54decc80c94d3"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.deb",
+       "sha256": "7dfbcf979d2d903769b795b2af419f067d2fc4919c937ddff70dd14213bc0b0e"
       }
      ]
     }
@@ -15601,6 +15605,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "7DyGKmnEAZ2F8h/FqcX1VubKK6p4zl7UHZpu5Ow2ZrzoN/zOuOKzsLxpM+2on9t8KqaOysqjhScG0G1391ccCg=="
+  "sig": "yHv5YNskcz7V3wyTh3+GQtmcHclGfP6tBTLGuG+prrTjwQ8g7KkxHmrdD/XbH3GPEfG4wHWzJkOnY/gF4CoBCw=="
  }
 }

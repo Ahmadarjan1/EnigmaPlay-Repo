@@ -6,7 +6,7 @@
  "tags": [
   "Free"
  ],
- "version": "1.1.5",
+ "version": "1.1.6",
  "updated": "2026-10-16",
  "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
  "author": "Ahmad Al-Qaisi",
@@ -26,14 +26,18 @@
  "downloads": [
   {
    "type": "ipk",
-   "file": "files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.ipk"
+   "file": "files/enigmaprayer/v1.1.6/enigma2-plugin-extensions-enigmaprayer_1.1.6_all.ipk"
   },
   {
    "type": "deb",
-   "file": "files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.deb"
+   "file": "files/enigmaprayer/v1.1.6/enigma2-plugin-extensions-enigmaprayer_1.1.6_all.deb"
   }
  ],
  "changelog": [
+  {
+   "date": "2026-10-16",
+   "text": "1.1.6 - إصلاح توقف الشاشة الرئيسية على OpenATV: تعديل دقائق الصلوات والإقامة والتاريخ الهجري كانت تُقرأ نصاً، وصارت قوائمها بالإعدادات تعرض القيمة الصحيحة"
+  },
   {
    "date": "2026-10-16",
    "text": "1.1.5 - أصوات الأذان مرفقة مع البلجن: ناصر القطامي (الافتراضي)، محمد الدمرداش، علي بن أحمد ملا"
@@ -52,5 +56,6 @@
    "description": "Offline prayer times for Enigma2 (18 calculation methods, 215 cities in 45 countries plus custom coordinates), adhan played over the running channel without stopping the picture, iqama countdown with post-prayer mute, pre-adhan alerts, adhkar reminders, on-screen tasbih counter and Qibla direction. Full Arabic UI, HD and FHD."
   }
  },
- "featured": true
+ "featured": true,
+ "updated_at": 1792179798
 }

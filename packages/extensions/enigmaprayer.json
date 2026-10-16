@@ -6,7 +6,7 @@
  "tags": [
   "Free"
  ],
- "version": "1.1.4",
+ "version": "1.1.5",
  "updated": "2026-10-16",
  "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
  "author": "Ahmad Al-Qaisi",
@@ -26,14 +26,18 @@
  "downloads": [
   {
    "type": "ipk",
-   "file": "files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk"
+   "file": "files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.ipk"
   },
   {
    "type": "deb",
-   "file": "files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.deb"
+   "file": "files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.deb"
   }
  ],
  "changelog": [
+  {
+   "date": "2026-10-16",
+   "text": "1.1.5 - أصوات الأذان مرفقة مع البلجن: ناصر القطامي (الافتراضي)، محمد الدمرداش، علي بن أحمد ملا"
+  },
   {
    "date": "2026-10-16",
    "text": "1.1.4 - إصلاح توقف البلجن عند اختفاء التنبيه على بعض الأجهزة (DM8000 وبايثون 3.9)، وإصلاح ظهور أسماء الصلوات والأذكار بالخط الكبير (كانت «الظهر» تظهر «الضر»)، وظهور «الجمعة» بدل الظهر يوم الجمعة"

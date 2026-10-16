@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-16T01:58:02Z",
+ "generated": "2026-10-16T02:07:29Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1803,16 +1803,20 @@
    "id": "enigmaprayer",
    "category": "extensions",
    "name": "Enigma Prayer",
-   "version": "1.1.4",
+   "version": "1.1.5",
    "description": "مواقيت الصلاة بدون إنترنت لـ 215 مدينة في 45 دولة (مع إحداثيات مخصصة) و18 طريقة حساب (منها وزارة الأوقاف الأردنية وأم القرى)، أذان بصوت فوق القناة دون إيقاف الصورة، عدّ تنازلي للإقامة وكتم الصوت بعدها، تنبيه قبل الأذان، تذكيرات بالأذكار والأوراد، مسبحة على الشاشة وفوق القناة، واتجاه القبلة. واجهة عربية كاملة HD و FHD.",
    "updated": "16.10.2026",
    "status_codes": [
     "Qur",
     "Free"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "16.10.2026",
+     "1.1.5 - أصوات الأذان مرفقة مع البلجن: ناصر القطامي (الافتراضي)، محمد الدمرداش، علي بن أحمد ملا"
+    ],
     [
      "16.10.2026",
      "1.1.4 - إصلاح توقف البلجن عند اختفاء التنبيه على بعض الأجهزة (DM8000 وبايثون 3.9)، وإصلاح ظهور أسماء الصلوات والأذكار بالخط الكبير (كانت «الظهر» تظهر «الضر»)، وظهور «الجمعة» بدل الظهر يوم الجمعة"
@@ -1822,7 +1826,7 @@
      "1.1.3 - أول إصدار على متجر EnigmaPlay: مواقيت الصلاة، الأذان فوق القناة عبر ALSA دون إيقاف الصورة، الإقامة، التذكيرات، المسبحة، اتجاه القبلة، يعمل على بايثون 2 و 3 وجميع الصور"
     ]
    ],
-   "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c",
+   "sha256": "2b43ee8ed876be22ae17d041d81e15909e4bb22b0a3ba7170a98f0cbfb02856a",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaprayer.png?v=04e3d6f6b2",
    "screenshots": [
@@ -1834,27 +1838,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
-     "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c",
-     "size": 8851324,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.ipk",
+     "sha256": "2b43ee8ed876be22ae17d041d81e15909e4bb22b0a3ba7170a98f0cbfb02856a",
+     "size": 14202436,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.ipk",
-       "sha256": "50d8063ff35c55b22f547829af998f1e6c282222b59046aa599444feb12f2d4c"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.ipk",
+       "sha256": "2b43ee8ed876be22ae17d041d81e15909e4bb22b0a3ba7170a98f0cbfb02856a"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.deb",
-     "sha256": "7dfbcf979d2d903769b795b2af419f067d2fc4919c937ddff70dd14213bc0b0e",
-     "size": 8851324,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.deb",
+     "sha256": "bd93ac4615a4260d6476322906e63594ae00732a0d5c81a000a1288cccb87bb3",
+     "size": 14202436,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.4/enigma2-plugin-extensions-enigmaprayer_1.1.4_all.deb",
-       "sha256": "7dfbcf979d2d903769b795b2af419f067d2fc4919c937ddff70dd14213bc0b0e"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaprayer/v1.1.5/enigma2-plugin-extensions-enigmaprayer_1.1.5_all.deb",
+       "sha256": "bd93ac4615a4260d6476322906e63594ae00732a0d5c81a000a1288cccb87bb3"
       }
      ]
     }
@@ -15605,6 +15609,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "yHv5YNskcz7V3wyTh3+GQtmcHclGfP6tBTLGuG+prrTjwQ8g7KkxHmrdD/XbH3GPEfG4wHWzJkOnY/gF4CoBCw=="
+  "sig": "eLRgUNx68nPE3xm0m9l3WgQW12JhNzAepk33FL9mvmyBmshVMgyBIfeata1TjGlF38A4nEFNW6FIkUhWi9hNBA=="
  }
 }

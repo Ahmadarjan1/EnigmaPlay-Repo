@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-16T19:44:04Z",
+ "generated": "2026-10-16T22:08:23Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10269,16 +10269,20 @@
    "id": "ciefpopendirectories",
    "category": "panels",
    "name": "CiefpOpenDirectories",
-   "version": "1.5",
+   "version": "1.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791928771,
+   "updated": "16.10.2026",
+   "updated_ts": 1792188496,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopendirectories/1.5/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopendirectories/1.6/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "16.10.2026",
+     "1.6 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpOpenDirectories)"
+    ],
     [
      "10.10.2026",
      "1.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpOpenDirectories)"
@@ -10303,13 +10307,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopendirectories/1.5/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopendirectories/1.6/installer.sh",
      "sha256": "7031194b43e95be4dbe1e1b6bd1e2c3dbff4b6b166a8da82d0fd5c99eacaba73",
      "size": 3178,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpopendirectories/1.5/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpopendirectories/1.6/installer.sh",
        "sha256": "7031194b43e95be4dbe1e1b6bd1e2c3dbff4b6b166a8da82d0fd5c99eacaba73"
       }
      ]
@@ -15614,6 +15618,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "2OZ8YDksC+sgJ4Mdww/Mb2rlJ8vDytfcXs2RBWCXkPWvB14mk2WPZkLc0G+nrkPX3VpNbb9q8UeVuT45vsWXBg=="
+  "sig": "3rK1rVpGdIj2dEkGo14bjJh/Qoi/ENvr6cXTJMsbZG8sPzDs8bmMsO5y2dqzlXtI2waZc3Ycffv1/zzpxBjpAw=="
  }
 }

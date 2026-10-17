@@ -48,6 +48,6 @@
         "path": "https://github.com/islam-2412/FuryBiss/blob/main/fury/installer.sh"
       }
     ],
-    "version_file": "https://github.com/islam-2412/FuryBiss/blob/main/fury/version.txt"
+    "version_file": "version.txt"
   }
 }

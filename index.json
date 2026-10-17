@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-17T03:22:58Z",
+ "generated": "2026-10-17T11:20:26Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1953,16 +1953,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.73",
+   "version": "1.2.74",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "15.10.2026",
+   "updated": "17.10.2026",
    "updated_ts": 1792036411,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.74/enigma2-plugin-extensions-enigmaplay_1.2.74_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "17.10.2026",
+     "1.2.74 - زر MENU بالريموت بيفتح الإعدادات مباشرة. الواجهة بالإنجليزي واللغات الثانية صارت بحجم خط متناسق زي العربي"
+    ],
     [
      "15.10.2026",
      "1.2.73 - أدوات النظام صارت 10 أقسام: DNS، المكتبات والأدوات، إصلاحات، التعريفات، القرص والفلاشة، تثبيت من ملف، إزالة بلجنات، أخرى، نسخ احتياطي، استعادة"
@@ -2100,7 +2104,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "e336ece5e235fea906bf2598b345c53e6109ed28fc8e66aca20fe116f741cae4",
+   "sha256": "34f75303abf4249653737fae67d427bf3c677cd10e58aa41d780cd2722066104",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -2112,27 +2116,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.ipk",
-     "sha256": "e336ece5e235fea906bf2598b345c53e6109ed28fc8e66aca20fe116f741cae4",
-     "size": 2329250,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.74/enigma2-plugin-extensions-enigmaplay_1.2.74_all.ipk",
+     "sha256": "34f75303abf4249653737fae67d427bf3c677cd10e58aa41d780cd2722066104",
+     "size": 2329618,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.ipk",
-       "sha256": "e336ece5e235fea906bf2598b345c53e6109ed28fc8e66aca20fe116f741cae4"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.74/enigma2-plugin-extensions-enigmaplay_1.2.74_all.ipk",
+       "sha256": "34f75303abf4249653737fae67d427bf3c677cd10e58aa41d780cd2722066104"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.deb",
-     "sha256": "644b4cb6c8d8c337186b36c5bc942308d2aac06c9fea6969322942123f38580d",
-     "size": 2329254,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.74/enigma2-plugin-extensions-enigmaplay_1.2.74_all.deb",
+     "sha256": "0306d8d926b4e8f34fad1bedfa4017ac69fa8e68cf5882871e8e0175513cdf16",
+     "size": 2329624,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.73/enigma2-plugin-extensions-enigmaplay_1.2.73_all.deb",
-       "sha256": "644b4cb6c8d8c337186b36c5bc942308d2aac06c9fea6969322942123f38580d"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.74/enigma2-plugin-extensions-enigmaplay_1.2.74_all.deb",
+       "sha256": "0306d8d926b4e8f34fad1bedfa4017ac69fa8e68cf5882871e8e0175513cdf16"
       }
      ]
     }
@@ -15619,6 +15623,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "UMPoPWKD1hfSxWCv6pP2MVXMU7ztjFVvH5v1+pCoYI37FOFuAUiAQiJhm0fPKYrM0cjUOdoojU4983OV8ngmAQ=="
+  "sig": "2rXMfSkd7m1tCErCne8Ev1ZiHOeR+UtzREHyFL2huG/vv4lE2b/q3rY8rCzpYOQJ2Au19XlXLRxVzIhtxzxZAg=="
  }
 }

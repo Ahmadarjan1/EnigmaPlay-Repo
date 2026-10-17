@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-17T14:15:54Z",
+ "generated": "2026-10-17T23:45:42Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1880,6 +1880,73 @@
     }
    },
    "featured": true
+  },
+  {
+   "id": "enigmatranslate",
+   "category": "extensions",
+   "name": "Enigma Translate",
+   "version": "1.0.35",
+   "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
+   "updated": "18.10.2026",
+   "status_codes": [
+    "Sub",
+    "Free"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35/enigma2-plugin-extensions-enigmatranslate_1.0.35_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "18.10.2026",
+     "1.0.35 - أول إصدار على المتجر: ترجمة DVB والتيليتكست والأفلام والصوت، دعم IPTV باتصال واحد، إيقاف فوري، وأزرار ضبط التوقيت من الريموت"
+    ]
+   ],
+   "sha256": "660237844ba05afd4939864f919ad82e27ccf32c2372a4740c2d7e0b18b490e9",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmatranslate.png?v=e6ebf8f61c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/1.jpg?v=7800b265ec",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/2.jpg?v=02b21052a0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/3.jpg?v=ca03a38a46",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/4.jpg?v=d34435eac8"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35/enigma2-plugin-extensions-enigmatranslate_1.0.35_all.ipk",
+     "sha256": "660237844ba05afd4939864f919ad82e27ccf32c2372a4740c2d7e0b18b490e9",
+     "size": 254142,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.35/enigma2-plugin-extensions-enigmatranslate_1.0.35_all.ipk",
+       "sha256": "660237844ba05afd4939864f919ad82e27ccf32c2372a4740c2d7e0b18b490e9"
+      }
+     ]
+    },
+    {
+     "type": "deb",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35/enigma2-plugin-extensions-enigmatranslate_1.0.35_all.deb",
+     "sha256": "81743e32e67b0c76dc78ec3da955e64b9e47654b006fd984d3fb97feb69ac8bf",
+     "size": 255974,
+     "mirrors": [
+      {
+       "type": "deb",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.35/enigma2-plugin-extensions-enigmatranslate_1.0.35_all.deb",
+       "sha256": "81743e32e67b0c76dc78ec3da955e64b9e47654b006fd984d3fb97feb69ac8bf"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "enigma2-plugin-extensions-enigmatranslate",
+   "author": "Ahmad Al-Qaisi",
+   "i18n": {
+    "en": {
+     "description": "Live translation of foreign TV channels into Arabic: translates the channel's own DVB and teletext subtitles, fetches ready-made subtitles for movies and syncs them, and translates live audio with AI (Groq, Gemini and others) with a picture delay so subtitles match speech. Works on satellite, encrypted and single-connection IPTV channels. Arabic UI and a phone page for API keys."
+    }
+   }
   },
   {
    "id": "enigma2uninstaller",
@@ -15635,6 +15702,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "RbQoaVdapCMyNxqwLkruE8JnMamq0TfBYJqjtNmGI91YjiAbuJCRZutrewe2QP5z9iRROseSFG5cIlWSBEdgBw=="
+  "sig": "pk22ThIUVEzHbXqwYhBdEYILBjw4Ls1s/6qmc1u/5QNrVH4lF2ht62ZpYzVUEm+lz8BYxJVS0Ey0CV+mVB8UAQ=="
  }
 }

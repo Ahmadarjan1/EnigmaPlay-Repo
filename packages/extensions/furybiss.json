@@ -2,8 +2,8 @@
   "id": "furybiss",
   "name": "FuryBiss",
   "category": "extensions",
-  "version": "7.0",
-  "updated": "2026-10-13",
+  "version": "7.1",
+  "updated": "2026-10-17",
   "updated_at": 1791885101,
   "description": "بلاجين لجلب الفيدات بالشفرات",
   "author": "Islam Salama",
@@ -37,5 +37,17 @@
     "en": {
       "description": "Feed Hunter with keys"
     }
+  },
+  "package": "enigma2-plugin-extensions-furybiss",
+  "source": {
+    "repo": "islam-2412/FuryBiss",
+    "branch": "main",
+    "files": [
+      {
+        "type": "sh",
+        "path": "https://github.com/islam-2412/FuryBiss/blob/main/fury/installer.sh"
+      }
+    ],
+    "version_file": "https://github.com/islam-2412/FuryBiss/blob/main/fury/version.txt"
   }
 }

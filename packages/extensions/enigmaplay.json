@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.75",
+  "version": "1.2.76",
   "updated": "2026-10-17",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.75/enigma2-plugin-extensions-enigmaplay_1.2.75_all.ipk"
+      "file": "files/enigmaplay/1.2.76/enigma2-plugin-extensions-enigmaplay_1.2.76_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.75/enigma2-plugin-extensions-enigmaplay_1.2.75_all.deb"
+      "file": "files/enigmaplay/1.2.76/enigma2-plugin-extensions-enigmaplay_1.2.76_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-17",
+      "text": "1.2.76 - التحديثات الجديدة بتبين بالمتجر خلال دقايق بدل ساعة، والتحديث التلقائي للمتجر صار أسرع"
+    },
     {
       "date": "2026-10-17",
       "text": "1.2.75 - المتجر صار يتأقلم مع دقة واجهة الرسيفر (720p و1080p و4K): ما عاد يطلع مكبّر أو مقصوص على الصور اللي واجهتها HD"

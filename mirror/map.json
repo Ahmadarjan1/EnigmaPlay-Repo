@@ -1,5 +1,5 @@
 {
-"generated": "2026-10-17 13:10 UTC",
+"generated": "2026-10-17 14:15 UTC",
 "items": {
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skins-copper-fhd_2.3_all.ipk": {
 "alive": true,
@@ -81,7 +81,18 @@
 },
 "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk": {
 "alive": false,
-"alt": [],
+"alt": [
+{
+"name": "FHD Aglare v.8.6 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.6_all.ipk"
+},
+{
+"name": "FHD Aglare v.8.6 all (mirror)",
+"type": "ipk",
+"url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-3/3070b038fe9d5bc3518d23d575b13d04a9d10745"
+}
+],
 "dead_since": "2026-10-17",
 "mirror": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60a19db256a7dbf56da4f96f4206c724e1d8c21c"
 },

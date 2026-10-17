@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-17T11:33:45Z",
+ "generated": "2026-10-17T13:10:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -12854,7 +12854,7 @@
    "description": "حزمة جاهزة من Linuxsat-support، قسم سكنات. الحزمة: FHD Aglare v.8.5 all",
    "updated": "09.10.2026",
    "updated_ts": 1791581129,
-   "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk",
+   "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60a19db256a7dbf56da4f96f4206c724e1d8c21c",
    "host": "github",
    "changelog": [
     [
@@ -12869,13 +12869,7 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-aglare-fhd_8.5_all.ipk",
-     "mirrors": [
-      {
-       "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60a19db256a7dbf56da4f96f4206c724e1d8c21c"
-      }
-     ]
+     "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/releases/download/mirror-6/60a19db256a7dbf56da4f96f4206c724e1d8c21c"
     }
    ],
    "python": [
@@ -15631,6 +15625,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "1JX5ZHVjda7H3WHsMLb/TiDhjw9hBc1HxgVPXrjjHGUihVsWiHk/oS5Zhq3+66nTjTkpwZKuWkiX1MBVqEGFBg=="
+  "sig": "BwPwARU80TPoznfZ68CDhn6RgddfFjOibVEsvcQpKOQDtP7IhFgVufxL5PUtJo6R+UkITWP7a9HyYoKjK5r3Cg=="
  }
 }

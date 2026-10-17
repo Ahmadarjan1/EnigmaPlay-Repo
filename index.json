@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-16T22:08:23Z",
+ "generated": "2026-10-17T03:22:58Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3016,9 +3016,9 @@
    "id": "furybiss",
    "category": "extensions",
    "name": "FuryBiss",
-   "version": "7.0",
+   "version": "7.1",
    "description": "بلاجين لجلب الفيدات بالشفرات",
-   "updated": "13.10.2026",
+   "updated": "17.10.2026",
    "updated_ts": 1791885101,
    "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
    "host": "github",
@@ -3056,6 +3056,7 @@
    "python": [
     "3"
    ],
+   "package": "enigma2-plugin-extensions-furybiss",
    "author": "Islam Salama",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
    "i18n": {
@@ -15618,6 +15619,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "3rK1rVpGdIj2dEkGo14bjJh/Qoi/ENvr6cXTJMsbZG8sPzDs8bmMsO5y2dqzlXtI2waZc3Ycffv1/zzpxBjpAw=="
+  "sig": "UMPoPWKD1hfSxWCv6pP2MVXMU7ztjFVvH5v1+pCoYI37FOFuAUiAQiJhm0fPKYrM0cjUOdoojU4983OV8ngmAQ=="
  }
 }

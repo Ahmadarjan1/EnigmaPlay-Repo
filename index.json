@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-18T11:22:25Z",
+ "generated": "2026-10-18T13:24:48Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -22,39 +22,45 @@
    "color": "#3949ab"
   },
   {
+   "id": "sports",
+   "name": "رياضة",
+   "order": 4,
+   "color": "#2e7d32"
+  },
+  {
    "id": "skins",
    "name": "سكنات",
-   "order": 4,
+   "order": 5,
    "color": "#1a73e8"
   },
   {
    "id": "softcams",
    "name": "إيميوهات",
-   "order": 5,
+   "order": 6,
    "color": "#d93025"
   },
   {
    "id": "panels",
    "name": "بانلات",
-   "order": 6,
+   "order": 7,
    "color": "#e37400"
   },
   {
    "id": "tools",
    "name": "أدوات وإصلاح",
-   "order": 9,
+   "order": 10,
    "color": "#b06000"
   },
   {
    "id": "feeds",
    "name": "فيدات",
-   "order": 11,
+   "order": 12,
    "color": "#689f38"
   },
   {
    "id": "novaler",
    "name": "Novaler",
-   "order": 13,
+   "order": 14,
    "color": "#08a8c0"
   }
  ],
@@ -78,63 +84,69 @@
    "color": "#3949ab"
   },
   {
+   "id": "sports",
+   "name": "رياضة",
+   "order": 4,
+   "color": "#2e7d32"
+  },
+  {
    "id": "skins",
    "name": "سكنات",
-   "order": 4,
+   "order": 5,
    "color": "#1a73e8"
   },
   {
    "id": "softcams",
    "name": "إيميوهات",
-   "order": 5,
+   "order": 6,
    "color": "#d93025"
   },
   {
    "id": "panels",
    "name": "بانلات",
-   "order": 6,
+   "order": 7,
    "color": "#e37400"
   },
   {
    "id": "picons",
    "name": "بيكونات",
-   "order": 7,
+   "order": 8,
    "color": "#8e24aa"
   },
   {
    "id": "settings",
    "name": "ملفات قنوات",
-   "order": 8,
+   "order": 9,
    "color": "#00897b"
   },
   {
    "id": "tools",
    "name": "أدوات وإصلاح",
-   "order": 9,
+   "order": 10,
    "color": "#b06000"
   },
   {
    "id": "display",
    "name": "واجهات وإقلاع",
-   "order": 10,
+   "order": 11,
    "color": "#00838f"
   },
   {
    "id": "feeds",
    "name": "فيدات",
-   "order": 11,
+   "order": 12,
    "color": "#689f38"
   },
   {
    "id": "images",
    "name": "صور الأنظمة",
-   "order": 12,
+   "order": 13,
    "color": "#455a64"
   },
   {
    "id": "novaler",
    "name": "Novaler",
-   "order": 13,
+   "order": 14,
    "color": "#08a8c0"
   }
  ],
@@ -2956,56 +2968,6 @@
    ],
    "author": "OwnerPlugins",
    "homepage": "https://github.com/OwnerPlugins/Filmon"
-  },
-  {
-   "id": "footonsat",
-   "category": "extensions",
-   "name": "FootOnSat",
-   "version": "1.9",
-   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
-   "updated": "10.10.2026",
-   "updated_ts": 1791632277,
-   "status_codes": [
-    "Spo"
-   ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/footonsat/1.9/installer.sh",
-   "host": "github",
-   "changelog": [
-    [
-     "10.10.2026",
-     "1.9 - تحديث تلقائي من مصدر المطوّر (biko-73/FootOnSat)"
-    ],
-    [
-     "09.10.2026",
-     "المصدر: المطوّر biko-73"
-    ]
-   ],
-   "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
-   ],
-   "downloads": [
-    {
-     "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/footonsat/1.9/installer.sh",
-     "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7",
-     "size": 3138,
-     "mirrors": [
-      {
-       "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/footonsat/1.9/installer.sh",
-       "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7"
-      }
-     ]
-    }
-   ],
-   "python": [
-    "2",
-    "3"
-   ],
-   "author": "biko-73",
-   "homepage": "https://github.com/biko-73/FootOnSat"
   },
   {
    "id": "foreca1",
@@ -14117,6 +14079,56 @@
    "homepage": "https://www.linuxsat-support.com"
   },
   {
+   "id": "footonsat",
+   "category": "sports",
+   "name": "FootOnSat",
+   "version": "1.9",
+   "description": "من مستودع المطوّر biko-73 مباشرة، ويتحدث تلقائياً لآخر إصدار.",
+   "updated": "10.10.2026",
+   "updated_ts": 1791632277,
+   "status_codes": [
+    "Spo"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/footonsat/1.9/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "10.10.2026",
+     "1.9 - تحديث تلقائي من مصدر المطوّر (biko-73/FootOnSat)"
+    ],
+    [
+     "09.10.2026",
+     "المصدر: المطوّر biko-73"
+    ]
+   ],
+   "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-extensions.png?v=aa32b5aec4",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-extensions/1.jpg?v=1003782a65"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/footonsat/1.9/installer.sh",
+     "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7",
+     "size": 3138,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/footonsat/1.9/installer.sh",
+       "sha256": "f60f65aa98692913351a19a25bfc2a1a16f4331c3b5b64497ac8142bcd4598b7"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "biko-73",
+   "homepage": "https://github.com/biko-73/FootOnSat"
+  },
+  {
    "id": "opkg-tools",
    "category": "tools",
    "name": "Opkg-tools",
@@ -15714,6 +15726,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "k2AsRlOjWj5lrsvllx9sioEXLtjtwuL4P2cgNORx5pvaozbkkJie+NvCf+gDaeld+klpPDKKtC351ZpMrpnQCQ=="
+  "sig": "nKDqqgLHxSRsBQ35DUX61R0FUBGTUnOHxLgw2za1527YxWH7XgsZIVUM/Fx43ciqc0A7h42WozcQPbU+S/trCA=="
  }
 }

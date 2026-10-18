@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-18T13:44:18Z",
+ "generated": "2026-10-18T20:56:17Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1892,81 +1892,6 @@
     }
    },
    "featured": true
-  },
-  {
-   "id": "enigmatranslate",
-   "category": "extensions",
-   "name": "Enigma Translate",
-   "version": "1.0.35.2",
-   "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
-   "updated": "18.10.2026",
-   "status_codes": [
-    "Sub",
-    "Free"
-   ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.ipk",
-   "host": "github",
-   "changelog": [
-    [
-     "18.10.2026",
-     "1.0.35.2 - إضافة حقوق الملكية: البرنامج مجاني للاستخدام الشخصي، ويمنع نسخه أو تعديله أو إعادة نشره بدون إذن المؤلف"
-    ],
-    [
-     "18.10.2026",
-     "1.0.35.1 - إصلاح توقف البلجن عند فتحه بعد التثبيت (خطأ ai_provider على OpenBH وغيرها)"
-    ],
-    [
-     "18.10.2026",
-     "1.0.35 - أول إصدار على المتجر: ترجمة DVB والتيليتكست والأفلام والصوت، دعم IPTV باتصال واحد، إيقاف فوري، وأزرار ضبط التوقيت من الريموت"
-    ]
-   ],
-   "sha256": "6abf95412b996e700f850e0c55e1817b388e5931eade4f462f1654dee7ae094d",
-   "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmatranslate.png?v=e6ebf8f61c",
-   "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/1.jpg?v=7800b265ec",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/2.jpg?v=02b21052a0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/3.jpg?v=ca03a38a46",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/4.jpg?v=d34435eac8"
-   ],
-   "downloads": [
-    {
-     "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.ipk",
-     "sha256": "6abf95412b996e700f850e0c55e1817b388e5931eade4f462f1654dee7ae094d",
-     "size": 258692,
-     "mirrors": [
-      {
-       "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.ipk",
-       "sha256": "6abf95412b996e700f850e0c55e1817b388e5931eade4f462f1654dee7ae094d"
-      }
-     ]
-    },
-    {
-     "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.deb",
-     "sha256": "127b4fb5642a90f92dfd47f7de057659932069c689ed38ec26687f95fd7bb885",
-     "size": 260526,
-     "mirrors": [
-      {
-       "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.deb",
-       "sha256": "127b4fb5642a90f92dfd47f7de057659932069c689ed38ec26687f95fd7bb885"
-      }
-     ]
-    }
-   ],
-   "python": [
-    "3"
-   ],
-   "package": "enigma2-plugin-extensions-enigmatranslate",
-   "author": "Ahmad Al-Qaisi",
-   "i18n": {
-    "en": {
-     "description": "Live translation of foreign TV channels into Arabic: translates the channel's own DVB and teletext subtitles, fetches ready-made subtitles for movies and syncs them, and translates live audio with AI (Groq, Gemini and others) with a picture delay so subtitles match speech. Works on satellite, encrypted and single-connection IPTV channels. Arabic UI and a phone page for API keys."
-    }
-   }
   },
   {
    "id": "enigma2uninstaller",
@@ -15778,6 +15703,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "xymilm5fkQEntATglMQUW9JhFXgfutOM43ADPzR8/o+Q8cvpdjtGQ36ADRacn7+6G43KC8wmfcReMdVGO3ewCg=="
+  "sig": "cLH3M9QD4oitwbkX1ME4y2UiZya9hLr57e0bzlZRQXPYcVFCKy72xTutrX99HlAN+MHen8zrYONPwgfwE+a7Ag=="
  }
 }

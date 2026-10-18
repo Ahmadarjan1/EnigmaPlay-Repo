@@ -46,9 +46,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-17",
-"sha256": "b6a1d78c164ef7cb5cea8195c1a05d2a12d159e0f59bae33494fb4c3d57c630e",
-"size": 323729
+"date": "2026-10-18",
+"sha256": "939f7eca93ce50964f8c419f80252eb285e9b403c902d369f59b91ee10cf8b8d",
+"size": 323967
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -5415,6 +5415,11 @@
 "sha256": "1751b61c422fcab920c1acd9aaa47d63b6e7917487cf40f2b0d957a0519baf5c",
 "size": 1856712
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-enigmaplay_1.2.9_all.ipk": {
+"date": "2026-10-18",
+"sha256": "258d04f17b06f8c1c6304f96736d91ecf8dfbedd72bc89fadca3fb8e2d3db064",
+"size": 2077552
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-epanel-5.8-r2.ipk": {
 "date": "2026-10-09",
 "sha256": "06025ba87f080e69b75758d26bd3d79f8deac4dd0ece7d969fde4cd9f9b33d58",
@@ -8491,13 +8496,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-18 17:48",
+"last_run": "2026-10-18 18:55",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-18",
-"files": 1698,
+"files": 1699,
 "upstream": "ok"
 }
 }

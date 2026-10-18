@@ -6,7 +6,7 @@
   "tags": [
     "Free"
   ],
-  "version": "1.0.35.1",
+  "version": "1.0.35.2",
   "updated": "2026-10-18",
   "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
   "author": "Ahmad Al-Qaisi",
@@ -25,14 +25,18 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmatranslate/1.0.35.1/enigma2-plugin-extensions-enigmatranslate_1.0.35.1_all.ipk"
+      "file": "files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmatranslate/1.0.35.1/enigma2-plugin-extensions-enigmatranslate_1.0.35.1_all.deb"
+      "file": "files/enigmatranslate/1.0.35.2/enigma2-plugin-extensions-enigmatranslate_1.0.35.2_all.deb"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-18",
+      "text": "1.0.35.2 - إضافة حقوق الملكية: البرنامج مجاني للاستخدام الشخصي، ويمنع نسخه أو تعديله أو إعادة نشره بدون إذن المؤلف"
+    },
     {
       "date": "2026-10-18",
       "text": "1.0.35.1 - إصلاح توقف البلجن عند فتحه بعد التثبيت (خطأ ai_provider على OpenBH وغيرها)"

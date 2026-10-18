@@ -47,8 +47,8 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-10-18",
-"sha256": "939f7eca93ce50964f8c419f80252eb285e9b403c902d369f59b91ee10cf8b8d",
-"size": 323967
+"sha256": "20d0d60784c28eabfda04a029bba515d2fad4e8a62ac53a7b0c00b2510c3ad17",
+"size": 324499
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -770,6 +770,11 @@
 "sha256": "6ca711ce2f41b7cbb637339bb412272d99f7cafa442c426276008d100036e08a",
 "size": 25970668
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_OBH/enigma2-plugin-skins-cobaltfhd_OBH-V3-16.11.2025_all.ipk": {
+"date": "2026-10-18",
+"sha256": "cf7586be67c6ea1c5cab3ec6912215655b61a8b3187440490f7c03426a7aebae",
+"size": 59870076
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_OBH/enigma2-plugin-skins-mx--sline-posterx_2.0-mod2ha_all.ipk": {
 "date": "2026-10-09",
 "sha256": "65cd75a55801fa353aca66bb96c017cb4957bc2d17464bccc69ca28a69fbf448",
@@ -929,6 +934,11 @@
 "date": "2026-10-09",
 "sha256": "e1e28ca534b89692c02ef0d26f32922cc4fb7cbae0a588cf20d24207b5eace61",
 "size": 42376672
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd_OpenATV-V3-16.11.2025_all.ipk": {
+"date": "2026-10-18",
+"sha256": "38fbc0ead62b2899cf5beb5beb4dc7ee4638bdf1fbeb908225bdf1e3c5499ded",
+"size": 58175018
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-froid_3.30_all.ipk": {
 "date": "2026-10-09",
@@ -1174,6 +1184,11 @@
 "date": "2026-10-09",
 "sha256": "317f4360837e952a5653869692484d0910788561e7eb1ad436dc179c71d4d378",
 "size": 1482836
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cobaltfhd_OpenPLI-V3-16.11.2025_all.ipk": {
+"date": "2026-10-18",
+"sha256": "f701f58acaf9a76520100dd3f51c46a828ee0bf3a1f7327ed9ae6f9f240e83b9",
+"size": 58478278
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cobaltfhd_OpenPLI_9.0_py3_08.01.2024_all.ipk": {
 "date": "2026-10-09",
@@ -8496,13 +8511,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-18 18:55",
+"last_run": "2026-10-18 20:02",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-18",
-"files": 1699,
+"files": 1702,
 "upstream": "ok"
 }
 }

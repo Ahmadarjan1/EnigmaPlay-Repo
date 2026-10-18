@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-18T13:24:48Z",
+ "generated": "2026-10-18T13:44:18Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -14129,6 +14129,58 @@
    "homepage": "https://github.com/biko-73/FootOnSat"
   },
   {
+   "id": "simplysports",
+   "category": "sports",
+   "name": "SimplySports",
+   "version": "7.2",
+   "description": "هذا البلجن يعمل على توفير احتياجات المستخدم من معرفة النتائج، إيجاد القنوات الناقلة ضمن الجهاز، توفير مصادر بث بديلة او قنوات الفيد، ايجاد ملخصات المباريات، معرفة مسجلي الأهداف، إحصائيات المباريات مباشرة، تشكيلة الفرق، اخر الاخبار، توفير تعليق بالذكاء الاصطناعي، توفير فسحة للمنافسة بين المستخدمين في توقع المباريات،  توفير تغطية معظم الرياضات، تغطية كل دوريات العالم من خلال ساحة الرياضة ARENA.",
+   "updated": "18.10.2026",
+   "updated_ts": 1792331055,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.2/simplysports_7.2.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "18.10.2026",
+     "7.2 - A brand-new collapsible Arena view, smarter alerts, a new Leaders Arena, a faster TV channel finder, and an AI commentator that truly gets football.  ​"
+    ]
+   ],
+   "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplysports.png?v=1255bbabce",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/1.jpg?v=ecbadb6716",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/2.jpg?v=f065dd6965",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/3.jpg?v=ac180c4b43",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/4.jpg?v=c5ab948a33",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/5.jpg?v=53de917be1"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.2/simplysports_7.2.sh",
+     "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e",
+     "size": 376,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/simplysports/7.2/simplysports_7.2.sh",
+       "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "reali22",
+   "telnet": "cd /usr/lib/enigma2/python/Plugins/Extensions && rm -rf SimplySports && wget --no-check-certificate https://github.com/Ahmed-Mohammed-Abbas/SimplySports/archive/refs/heads/main.zip -O SimplySports.zip && unzip SimplySports.zip && mv SimplySports-main SimplySports && rm SimplySports.zip && killall -9 enigma2",
+   "i18n": {
+    "en": {
+     "description": "Show sport fixtures, scores of various sports and the broadcasting channels."
+    }
+   }
+  },
+  {
    "id": "opkg-tools",
    "category": "tools",
    "name": "Opkg-tools",
@@ -15726,6 +15778,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "nKDqqgLHxSRsBQ35DUX61R0FUBGTUnOHxLgw2za1527YxWH7XgsZIVUM/Fx43ciqc0A7h42WozcQPbU+S/trCA=="
+  "sig": "xymilm5fkQEntATglMQUW9JhFXgfutOM43ADPzR8/o+Q8cvpdjtGQ36ADRacn7+6G43KC8wmfcReMdVGO3ewCg=="
  }
 }

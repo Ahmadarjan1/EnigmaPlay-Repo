@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-18T09:13:57Z",
+ "generated": "2026-10-18T11:22:25Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -10114,16 +10114,20 @@
    "id": "ciefpeasysetup",
    "category": "panels",
    "name": "CiefpEasySetup",
-   "version": "3.0",
+   "version": "3.1",
    "description": "بانل تسطيب إضافات",
-   "updated": "12.10.2026",
-   "updated_ts": 1791829163,
+   "updated": "18.10.2026",
+   "updated_ts": 1792322537,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.0/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.1/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "18.10.2026",
+     "3.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
+    ],
     [
      "10.10.2026",
      "3.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
@@ -10146,13 +10150,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.0/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.1/installer.sh",
      "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
      "size": 2666,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.0/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.1/installer.sh",
        "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320"
       }
      ]
@@ -15710,6 +15714,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "tjr2MuiF7GSKu/iRg8LEtAQBL3YCMNom49R5fpNxQq6IyhMJgb/DQm1R/uG+pyC/Vf7/UpqZ7k32fGYLHRr6DQ=="
+  "sig": "k2AsRlOjWj5lrsvllx9sioEXLtjtwuL4P2cgNORx5pvaozbkkJie+NvCf+gDaeld+klpPDKKtC351ZpMrpnQCQ=="
  }
 }

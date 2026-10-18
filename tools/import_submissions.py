@@ -56,6 +56,40 @@ def download(url):
     return data
 
 
+# the store restarts the GUI itself after an install, so these are dropped from a developer's command
+_RESTART_RE = re.compile(r"\s*(?:&&|;|\|\|)?\s*(?:killall\s+-9\s+enigma2|killall\s+enigma2|init\s+[346]|reboot|systemctl\s+restart\s+enigma2)\s*;?\s*$")
+
+
+def script_from_telnet(cmd):
+    """An install script made from the telnet command the developer gave (zip downloads, git clones...)."""
+    cmd = " ".join((cmd or "").split())
+    while True:
+        new = _RESTART_RE.sub("", cmd)
+        if new == cmd:
+            break
+        cmd = new
+    if not cmd:
+        raise ValueError("empty telnet command")
+    return ("#!/bin/sh\n# Made by EnigmaPlay from the developer's telnet install command\nset -e\n%s\nexit 0\n" % cmd).encode("utf-8")
+
+
+def fix_sh(data, fname, meta, pid, ver):
+    """Accept small mistakes in an sh link: BOM / blank lines before #!, a script without #!.
+    A link that is not a script at all (zip, web page) falls back to the telnet command."""
+    d = data[3:] if data.startswith(b"\xef\xbb\xbf") else data
+    d = d.lstrip()
+    if d.startswith(b"#!"):
+        return d, fname
+    head = d[:4096]
+    is_text = b"\0" not in head and not head.lower().startswith((b"<!doctype", b"<html"))
+    if is_text and re.search(rb"(wget|curl|opkg|dpkg|apt|cp |mkdir|tar |unzip)", head):
+        return b"#!/bin/sh\n" + d, fname
+    if meta.get("telnet"):
+        return script_from_telnet(meta["telnet"]), "%s_%s.sh" % (pid, ver)
+    kind = "a zip file" if head.startswith(b"PK") else "a web page" if not is_text or head.lower().startswith((b"<!doctype", b"<html")) else "not a script"
+    raise ValueError("the sh link is %s, not an install script (give the raw installer.sh link or a telnet command)" % kind)
+
+
 def git(*args):
     return subprocess.run(["git"] + list(args), cwd=ROOT, check=True, capture_output=True, text=True).stdout
 
@@ -126,6 +160,11 @@ def import_one(s):
             url = meta["url_" + kind]
             data = download(url)
             fname = url.split("?")[0].rstrip("/").split("/")[-1]
+        if kind == "sh" and data is not None:
+            data, fname = fix_sh(data, fname, meta, pid, ver)
+        elif kind == "sh" and data is None and not downloads and meta.get("telnet"):
+            # nothing to download: the developer only gave a telnet command
+            data, fname = script_from_telnet(meta["telnet"]), "%s_%s.sh" % (pid, ver)
         if data is None:
             continue
         if kind in ("ipk", "deb") and not data.startswith(b"!<arch>"):

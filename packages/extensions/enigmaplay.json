@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.77",
+  "version": "1.2.78",
   "updated": "2026-10-19",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.77/enigma2-plugin-extensions-enigmaplay_1.2.77_all.ipk"
+      "file": "files/enigmaplay/1.2.78/enigma2-plugin-extensions-enigmaplay_1.2.78_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.77/enigma2-plugin-extensions-enigmaplay_1.2.77_all.deb"
+      "file": "files/enigmaplay/1.2.78/enigma2-plugin-extensions-enigmaplay_1.2.78_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-19",
+      "text": "1.2.78 - رسائل المتجر بتوصلك بلغة الرسيفر (21 لغة)"
+    },
     {
       "date": "2026-10-19",
       "text": "1.2.77 - المتجر صار على عنوانه الجديد enigmaplay.org، وإذا ما ردّ بيرجع للعنوان القديم لحاله. بيحل مشكلة «تعذر الاتصال بالخادم» عند الشبكات اللي بتحجب العنوان القديم"

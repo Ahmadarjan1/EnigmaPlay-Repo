@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.78",
-  "updated": "2026-10-19",
+  "version": "1.2.79",
+  "updated": "2026-10-20",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.78/enigma2-plugin-extensions-enigmaplay_1.2.78_all.ipk"
+      "file": "files/enigmaplay/1.2.79/enigma2-plugin-extensions-enigmaplay_1.2.79_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.78/enigma2-plugin-extensions-enigmaplay_1.2.78_all.deb"
+      "file": "files/enigmaplay/1.2.79/enigma2-plugin-extensions-enigmaplay_1.2.79_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-20",
+      "text": "1.2.79 - خيار جديد بالإعدادات: «تحذير السكربتات غير الموقّعة» لإيقاف رسالة التحذير الأمني عند تثبيت بلجنات بتنزل من رابط المطوّر مباشرة"
+    },
     {
       "date": "2026-10-19",
       "text": "1.2.78 - رسائل المتجر بتوصلك بلغة الرسيفر (21 لغة)"

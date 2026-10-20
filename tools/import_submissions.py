@@ -110,7 +110,102 @@ def find_existing(pid):
     return None
 
 
+def apply_edit(s):
+    """An admin changed a plugin that is already in the store (لوحتي ← البلجنات ← تعديل).
+    Only the fields that were sent change; the install files change only when a link was given."""
+    pid, cat, ver = s["plugin_id"], s["category"], s["version"]
+    meta = s.get("meta") or {}
+    old_path = find_existing(pid)
+    if not old_path:
+        raise ValueError("plugin %s is not in the store" % pid)
+    with io.open(old_path, encoding="utf-8") as f:
+        pkg = json.load(f)
+    old_ver = str(pkg.get("version", ""))
+    pkg["name"] = s["name"]
+    pkg["category"] = cat
+    pkg["version"] = ver
+    for k in ("description", "author", "homepage", "package"):
+        if k in meta:
+            if meta[k]:
+                pkg[k] = meta[k]
+            else:
+                pkg.pop(k, None)
+    if "python" in meta:
+        pkg["python"] = meta["python"]
+    if "restart" in meta:
+        pkg["restart"] = bool(meta["restart"])
+    if "telnet" in meta:
+        if meta["telnet"]:
+            pkg["telnet"] = " ".join(meta["telnet"].split())[:500]
+        else:
+            pkg.pop("telnet", None)
+    if "description_en" in meta:
+        if meta["description_en"]:
+            pkg.setdefault("i18n", {}).setdefault("en", {})["description"] = meta["description_en"]
+        else:
+            (pkg.get("i18n") or {}).get("en", {}).pop("description", None)
+
+    # install files: a new link replaces that type, "-" removes it, the others stay
+    kinds = [k for k in ("ipk", "deb", "sh") if meta.get("url_" + k)]
+    if kinds:
+        keep = [d for d in pkg.get("downloads") or [] if d.get("type") not in kinds]
+        out_dir = os.path.join(ROOT, "files", pid, ver)
+        new = []
+        for kind in kinds:
+            url = meta["url_" + kind]
+            if url == "-":
+                continue
+            data = download(url)
+            fname = url.split("?")[0].rstrip("/").split("/")[-1]
+            if kind == "sh":
+                data, fname = fix_sh(data, fname, meta if meta.get("telnet") else dict(meta, telnet=pkg.get("telnet")), pid, ver)
+            if kind in ("ipk", "deb") and not data.startswith(b"!<arch>"):
+                raise ValueError("%s is not a valid package" % kind)
+            fname = NAME_RE.sub("_", fname or "") or "%s_%s.%s" % (pid, ver, kind)
+            if not fname.endswith("." + kind):
+                fname += "." + kind
+            path = os.path.join(out_dir, fname)
+            write(path, data)
+            new.append({"type": kind, "file": rel(path)})
+        downloads = new + keep
+        if not downloads and pkg.get("telnet"):
+            path = os.path.join(out_dir, "%s_%s.sh" % (pid, ver))
+            write(path, script_from_telnet(pkg["telnet"]))
+            downloads = [{"type": "sh", "file": rel(path)}]
+        if not downloads:
+            raise ValueError("no install file left")
+        order = {"ipk": 0, "deb": 1, "sh": 2}
+        pkg["downloads"] = sorted(downloads, key=lambda d: order.get(d.get("type"), 9))
+        pkg.pop("sha256", None)
+        # links chosen by hand: the automatic update from the developer's source would undo them
+        pkg.pop("source", None)
+
+    today = datetime.date.today().isoformat()
+    if ver != old_ver or kinds:
+        pkg["updated"] = today
+        pkg["updated_at"] = int(time.time())
+        text = (meta.get("changelog") or "").strip()
+        if text or ver != old_ver:
+            log = list(pkg.get("changelog") or [])
+            log.insert(0, {"date": today, "text": "%s - %s" % (ver, text or "تحديث")})
+            pkg["changelog"] = log[:20]
+
+    new_path = os.path.join(ROOT, "packages", cat, pid + ".json")
+    if os.path.abspath(old_path) != os.path.abspath(new_path):
+        os.remove(old_path)
+    os.makedirs(os.path.dirname(new_path), exist_ok=True)
+    with io.open(new_path, "w", encoding="utf-8") as f:
+        f.write(json.dumps(pkg, ensure_ascii=False, indent=2) + "\n")
+    chk = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "build_index.py"), "--check"],
+                         cwd=ROOT, capture_output=True, text=True)
+    if chk.returncode != 0:
+        msgs = [l[6:] for l in chk.stdout.splitlines() if l.startswith("ERROR ")]
+        raise ValueError("; ".join(msgs)[:400] or "validation failed")
+
+
 def import_one(s):
+    if (s.get("meta") or {}).get("edit"):
+        return apply_edit(s)
     pid, cat, ver = s["plugin_id"], s["category"], s["version"]
     meta = s.get("meta") or {}
     files = {f["name"]: f for f in s.get("files") or []}
@@ -239,7 +334,8 @@ def main():
         try:
             import_one(s)
             git("add", "-A")
-            git("commit", "-q", "-m", "Import %s %s from developer %s" % (s["plugin_id"], s["version"], s.get("user")))
+            what = "Edit" if (s.get("meta") or {}).get("edit") else "Import"
+            git("commit", "-q", "-m", "%s %s %s (%s)" % (what, s["plugin_id"], s["version"], s.get("user")))
             api("/v1/sync/done", {"sid": s["sid"], "ok": True})
             imported += 1
             print("imported " + label)

@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.81",
-  "updated": "2026-10-20",
+  "version": "1.2.82",
+  "updated": "2026-10-21",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.81/enigma2-plugin-extensions-enigmaplay_1.2.81_all.ipk"
+      "file": "files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.81/enigma2-plugin-extensions-enigmaplay_1.2.81_all.deb"
+      "file": "files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-21",
+      "text": "1.2.82 - استعادة البلجنات وتحديث الكل بضغطة وحدة: ما في إعادة تشغيل بالنص (البلجنات اللي بتعيد تشغيل الواجهة بتستنى للآخر)، ما في رسائل تأكيد بالنص، إذا تغيّر ملف عند المطوّر بينزل من النسخة الاحتياطية، وبالآخر إعادة تشغيل وحدة لحالها. وإذا انقطعت بإعادة تشغيل بتكمل لحالها"
+    },
     {
       "date": "2026-10-20",
       "text": "1.2.81 - الجوال ما عاد يعرض تحديثات وهمية لبلجنات محدّثة على الرسيفر (أرقام نسخ مثل vv2.0 أو نسخ الصورة git)"
@@ -220,5 +224,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792525695
+  "updated_at": 1792530405
 }

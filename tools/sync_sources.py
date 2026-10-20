@@ -14,6 +14,13 @@ A manifest in packages/<category>/<id>.json may carry a "source" block:
       "version_regex": "version=([0-9][\\w.\\-]*)"   # optional; default: first x.y[.z...]
     }
 
+  No version anywhere (version = date and time of the last commit that touched the files):
+    "source": {
+      "repo": "owner/name",
+      "files": [{"type": "sh", "path": "installer.sh"}],
+      "version_from": "commit"
+    }
+
   GitHub Releases (the latest release; version = tag without a leading "v"):
     "source": {
       "repo": "owner/name",
@@ -133,14 +140,29 @@ def upstream(src):
         return version, out, (notes[0][:140] if notes else "")
     branch = src.get("branch") or api("/repos/%s" % repo).get("default_branch", "main")
     raw = "https://raw.githubusercontent.com/%s/%s/" % (repo, branch)
-    vf = src.get("version_file", "")
-    if not vf or not PATH_RE.match(vf) or ".." in vf:
-        raise SourceError("source.version_file is required")
-    text = http_get(raw + vf.lstrip("/"), binary=False)
-    m = re.search(src.get("version_regex") or DEFAULT_VER_RE, text)
-    if not m:
-        raise SourceError("version not found in %s/%s" % (repo, vf))
-    version = safe_version(m.group(1))
+    if src.get("version_from") == "commit":
+        # the plugin has no version number: the last change of its files is the version
+        paths = [f.get("path", "") for f in src.get("files") or []]
+        stamps = []
+        for pth in paths or [""]:
+            q = "/repos/%s/commits?sha=%s&per_page=1%s" % (repo, branch, "&path=" + pth.lstrip("/") if pth else "")
+            c = api(q)
+            if c:
+                stamps.append((c[0].get("commit") or {}).get("committer", {}).get("date", ""))
+        stamp = max([x for x in stamps if x] or [""])
+        if not stamp:
+            raise SourceError("no commits found in %s" % repo)
+        d = datetime.datetime.strptime(stamp[:16], "%Y-%m-%dT%H:%M")
+        version = "%d.%d.%d.%02d%02d" % (d.year, d.month, d.day, d.hour, d.minute)
+    else:
+        vf = src.get("version_file", "")
+        if not vf or not PATH_RE.match(vf) or ".." in vf:
+            raise SourceError("source.version_file is required")
+        text = http_get(raw + vf.lstrip("/"), binary=False)
+        m = re.search(src.get("version_regex") or DEFAULT_VER_RE, text)
+        if not m:
+            raise SourceError("version not found in %s/%s" % (repo, vf))
+        version = safe_version(m.group(1))
     out = []
     for spec in src.get("files") or []:
         kind, path = spec.get("type"), spec.get("path", "")

@@ -180,6 +180,13 @@ def apply_edit(s):
         # links chosen by hand: the automatic update from the developer's source would undo them
         pkg.pop("source", None)
 
+    # automatic updates from the developer's GitHub (set or switched off by the admin)
+    src = meta.get("source")
+    if src == "off":
+        pkg.pop("source", None)
+    elif isinstance(src, dict):
+        pkg["source"] = src
+
     today = datetime.date.today().isoformat()
     if ver != old_ver or kinds:
         pkg["updated"] = today
@@ -196,6 +203,15 @@ def apply_edit(s):
     os.makedirs(os.path.dirname(new_path), exist_ok=True)
     with io.open(new_path, "w", encoding="utf-8") as f:
         f.write(json.dumps(pkg, ensure_ascii=False, indent=2) + "\n")
+    if isinstance(src, dict):
+        # fetch from the new source now: a wrong repo / path fails here with a clear message
+        sys.path.insert(0, os.path.join(ROOT, "tools"))
+        import sync_sources
+        sync_sources.ROOT = ROOT
+        try:
+            sync_sources.sync_one(new_path, False)
+        except sync_sources.SourceError as e:
+            raise ValueError("التحديث التلقائي: %s" % e)
     chk = subprocess.run([sys.executable, os.path.join(ROOT, "tools", "build_index.py"), "--check"],
                          cwd=ROOT, capture_output=True, text=True)
     if chk.returncode != 0:

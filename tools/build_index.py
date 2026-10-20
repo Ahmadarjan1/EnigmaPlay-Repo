@@ -369,6 +369,7 @@ def build(offline=False):
                 "author": p.get("author") or ((source_page(primary.get("url", "")) or "").split("/")[3:4] or [None])[0],
                 "homepage": p.get("homepage") or source_page(primary.get("url", "")),
                 "telnet": (" ".join(str(p.get("telnet") or "").split()))[:500] or None,   # manual install command
+                "auto_src": ((p.get("source") or {}).get("repo") or None) if isinstance(p.get("source"), dict) else None,
                 "i18n": p.get("i18n") or {},           # {"en": {"description": "..."}, "de": {...}}
                 "settings": p.get("settings") or {},
                 "order": int(p.get("order", 1000)) if str(p.get("order", "")).lstrip("-").isdigit() else 1000,

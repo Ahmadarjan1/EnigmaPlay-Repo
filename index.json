@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-19T12:34:12Z",
+ "generated": "2026-10-20T11:48:26Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -505,7 +505,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/apod"
+   "homepage": "https://github.com/OwnerPlugins/apod",
+   "auto_src": "OwnerPlugins/apod"
   },
   {
    "id": "arabicsavior-1",
@@ -551,7 +552,8 @@
     "3"
    ],
    "author": "fairbird",
-   "homepage": "https://github.com/fairbird/ArabicSavior"
+   "homepage": "https://github.com/fairbird/ArabicSavior",
+   "auto_src": "fairbird/ArabicSavior"
   },
   {
    "id": "astronomy",
@@ -669,7 +671,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/AthanTimes"
+   "homepage": "https://github.com/biko-73/AthanTimes",
+   "auto_src": "biko-73/AthanTimes"
   },
   {
    "id": "auto-dcw-key-add",
@@ -897,7 +900,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/BarryAllen"
+   "homepage": "https://github.com/biko-73/BarryAllen",
+   "auto_src": "biko-73/BarryAllen"
   },
   {
    "id": "bissfeedautokey",
@@ -1213,7 +1217,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/Calendar"
+   "homepage": "https://github.com/OwnerPlugins/Calendar",
+   "auto_src": "OwnerPlugins/Calendar"
   },
   {
    "id": "cccamimfo",
@@ -1361,6 +1366,7 @@
    "author": "ciefp",
    "homepage": "https://github.com/ciefp/CiefpKingSat",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpKingSat/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpKingSat",
    "i18n": {
     "en": {
      "description": "CiefpKingSat - overview of the kingofsat site, satellites, news frequencies"
@@ -1419,6 +1425,7 @@
     "3"
    ],
    "author": "ciefp",
+   "auto_src": "ciefp/CiefpKingSat",
    "i18n": {
     "en": {
      "description": "KingOfSat Viewer a plugin for Enigma2 receivers that allows viewing KingOfSat data directly on the TV screen. \nNew Version 2.2: DAB Radio Station Frequencies"
@@ -1473,6 +1480,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/WebCamE2PrenjSF",
    "i18n": {
     "en": {
      "description": "WebcamE2PRenjSF - webcam player and downloader"
@@ -1523,7 +1531,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/Ciplushelper"
+   "homepage": "https://github.com/OwnerPlugins/Ciplushelper",
+   "auto_src": "OwnerPlugins/Ciplushelper"
   },
   {
    "id": "commandcenter",
@@ -1615,7 +1624,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/CrashlogViewer"
+   "homepage": "https://github.com/OwnerPlugins/CrashlogViewer",
+   "auto_src": "OwnerPlugins/CrashlogViewer"
   },
   {
    "id": "cutsclear",
@@ -2644,7 +2654,8 @@
     "3"
    ],
    "author": "tarekzoka",
-   "homepage": "https://github.com/tarekzoka/EPGImport"
+   "homepage": "https://github.com/tarekzoka/EPGImport",
+   "auto_src": "tarekzoka/EPGImport"
   },
   {
    "id": "epgtranslator",
@@ -2736,7 +2747,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/EvgQuickSignal"
+   "homepage": "https://github.com/biko-73/EvgQuickSignal",
+   "auto_src": "biko-73/EvgQuickSignal"
   },
   {
    "id": "feedsfinder",
@@ -2900,7 +2912,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/Filmon"
+   "homepage": "https://github.com/OwnerPlugins/Filmon",
+   "auto_src": "OwnerPlugins/Filmon"
   },
   {
    "id": "foreca1",
@@ -2946,7 +2959,8 @@
     "3"
    ],
    "author": "Belfagor2005",
-   "homepage": "https://github.com/Belfagor2005/ForecaOne"
+   "homepage": "https://github.com/Belfagor2005/ForecaOne",
+   "auto_src": "Belfagor2005/ForecaOne"
   },
   {
    "id": "freearhey",
@@ -2992,7 +3006,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/freearhey"
+   "homepage": "https://github.com/OwnerPlugins/freearhey",
+   "auto_src": "OwnerPlugins/freearhey"
   },
   {
    "id": "furybiss",
@@ -3041,6 +3056,7 @@
    "package": "enigma2-plugin-extensions-furybiss",
    "author": "Islam Salama",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/islam-2412/FuryBiss/refs/heads/main/fury/installer.sh -O - | /bin/sh",
+   "auto_src": "islam-2412/FuryBiss",
    "i18n": {
     "en": {
      "description": "Feed Hunter with keys"
@@ -3175,7 +3191,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/HasBahCa"
+   "homepage": "https://github.com/OwnerPlugins/HasBahCa",
+   "auto_src": "OwnerPlugins/HasBahCa"
   },
   {
    "id": "historyzapselector",
@@ -3273,7 +3290,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/Horoscope"
+   "homepage": "https://github.com/OwnerPlugins/Horoscope",
+   "auto_src": "OwnerPlugins/Horoscope"
   },
   {
    "id": "image-downloader",
@@ -3486,6 +3504,7 @@
    ],
    "package": "enigma2-plugin-extensions-ipaudioplus",
    "author": "Ahmad Alarjan",
+   "auto_src": "Ahmadarjan1/IPAudioPlus-Releases",
    "i18n": {
     "en": {
      "description": "Live match commentary audio with accurate automatic picture/audio sync and a completely new interface"
@@ -3573,7 +3592,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/jediepgxtream"
+   "homepage": "https://github.com/biko-73/jediepgxtream",
+   "auto_src": "biko-73/jediepgxtream"
   },
   {
    "id": "keyadder",
@@ -3619,7 +3639,8 @@
     "3"
    ],
    "author": "fairbird",
-   "homepage": "https://github.com/fairbird/KeyAdder"
+   "homepage": "https://github.com/fairbird/KeyAdder",
+   "auto_src": "fairbird/KeyAdder"
   },
   {
    "id": "kiddac_skin_e2sentials",
@@ -4067,7 +4088,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/mmPicons"
+   "homepage": "https://github.com/OwnerPlugins/mmPicons",
+   "auto_src": "OwnerPlugins/mmPicons"
   },
   {
    "id": "moviebrowser",
@@ -4113,7 +4135,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/MovieBrowser"
+   "homepage": "https://github.com/OwnerPlugins/MovieBrowser",
+   "auto_src": "OwnerPlugins/MovieBrowser"
   },
   {
    "id": "multiboot-flashonline",
@@ -4407,6 +4430,7 @@
    ],
    "author": "gutosie",
    "homepage": "https://github.com/gutosie/neoboot",
+   "auto_src": "gutosie/neoboot",
    "i18n": {
     "en": {
      "description": "Multiboot straight from its developer gutosie: run several images on one receiver from a USB stick or hard disk. The first two images are free; more need a VIP code from the developer."
@@ -4541,7 +4565,8 @@
     "3"
    ],
    "author": "fairbird",
-   "homepage": "https://github.com/fairbird/NewVirtualKeyBoard"
+   "homepage": "https://github.com/fairbird/NewVirtualKeyBoard",
+   "auto_src": "fairbird/NewVirtualKeyBoard"
   },
   {
    "id": "novacampro",
@@ -4633,7 +4658,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/OAWeather"
+   "homepage": "https://github.com/biko-73/OAWeather",
+   "auto_src": "biko-73/OAWeather"
   },
   {
    "id": "oaweatheriet5",
@@ -4747,7 +4773,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/openmultiboot"
+   "homepage": "https://github.com/biko-73/openmultiboot",
+   "auto_src": "biko-73/openmultiboot"
   },
   {
    "id": "oscamstatus",
@@ -5021,7 +5048,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/radiogit"
+   "homepage": "https://github.com/biko-73/radiogit",
+   "auto_src": "biko-73/radiogit"
   },
   {
    "id": "radiom",
@@ -5113,7 +5141,8 @@
     "3"
    ],
    "author": "fairbird",
-   "homepage": "https://github.com/fairbird/RaedQuickSignal"
+   "homepage": "https://github.com/fairbird/RaedQuickSignal",
+   "auto_src": "fairbird/RaedQuickSignal"
   },
   {
    "id": "rakutentv",
@@ -5481,7 +5510,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/scsearch"
+   "homepage": "https://github.com/OwnerPlugins/scsearch",
+   "auto_src": "OwnerPlugins/scsearch"
   },
   {
    "id": "servicescanupdates",
@@ -5611,7 +5641,8 @@
     "3"
    ],
    "author": "tarekzoka",
-   "homepage": "https://github.com/tarekzoka/setpicon"
+   "homepage": "https://github.com/tarekzoka/setpicon",
+   "auto_src": "tarekzoka/setpicon"
   },
   {
    "id": "sherlockmod",
@@ -5657,7 +5688,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/Sherlockmod"
+   "homepage": "https://github.com/biko-73/Sherlockmod",
+   "auto_src": "biko-73/Sherlockmod"
   },
   {
    "id": "shiffe",
@@ -5829,7 +5861,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/SLwebcams"
+   "homepage": "https://github.com/OwnerPlugins/SLwebcams",
+   "auto_src": "OwnerPlugins/SLwebcams"
   },
   {
    "id": "smartaddonspanel",
@@ -5921,7 +5954,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/SubsSupport"
+   "homepage": "https://github.com/biko-73/SubsSupport",
+   "auto_src": "biko-73/SubsSupport"
   },
   {
    "id": "subssupportpro",
@@ -6165,7 +6199,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/TheWeather"
+   "homepage": "https://github.com/biko-73/TheWeather",
+   "auto_src": "biko-73/TheWeather"
   },
   {
    "id": "theweatheriet5",
@@ -6283,7 +6318,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/TMBD"
+   "homepage": "https://github.com/biko-73/TMBD",
+   "auto_src": "biko-73/TMBD"
   },
   {
    "id": "tssateditor",
@@ -6401,7 +6437,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/TVGarden"
+   "homepage": "https://github.com/OwnerPlugins/TVGarden",
+   "auto_src": "OwnerPlugins/TVGarden"
   },
   {
    "id": "vavoo",
@@ -6447,7 +6484,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/vavoo"
+   "homepage": "https://github.com/OwnerPlugins/vavoo",
+   "auto_src": "OwnerPlugins/vavoo"
   },
   {
    "id": "visualweather",
@@ -6665,7 +6703,8 @@
     "3"
    ],
    "author": "Belfagor2005",
-   "homepage": "https://github.com/Belfagor2005/WiFi-Manager"
+   "homepage": "https://github.com/Belfagor2005/WiFi-Manager",
+   "auto_src": "Belfagor2005/WiFi-Manager"
   },
   {
    "id": "wireguard-vpn",
@@ -6715,7 +6754,8 @@
     "3"
    ],
    "author": "m4dhouse",
-   "homepage": "https://github.com/m4dhouse/Wireguard-Vpn"
+   "homepage": "https://github.com/m4dhouse/Wireguard-Vpn",
+   "auto_src": "m4dhouse/Wireguard-Vpn"
   },
   {
    "id": "worldcam",
@@ -6761,7 +6801,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/WorldCam"
+   "homepage": "https://github.com/OwnerPlugins/WorldCam",
+   "auto_src": "OwnerPlugins/WorldCam"
   },
   {
    "id": "xmlupdatebyiet5",
@@ -6996,7 +7037,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/BouquetMakerXtream"
+   "homepage": "https://github.com/biko-73/BouquetMakerXtream",
+   "auto_src": "biko-73/BouquetMakerXtream"
   },
   {
    "id": "ciefpyoutube-2",
@@ -7057,6 +7099,7 @@
    "author": "ciefp",
    "homepage": "https://github.com/ciefp/CiefpYouTube",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpYouTube",
    "i18n": {
     "en": {
      "description": "CiefpYoutube - Youtube jukebox player, webcam player"
@@ -7221,7 +7264,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/Estalker"
+   "homepage": "https://github.com/biko-73/Estalker",
+   "auto_src": "biko-73/Estalker"
   },
   {
    "id": "estalker2webcontrol",
@@ -7359,7 +7403,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/ip2sat"
+   "homepage": "https://github.com/biko-73/ip2sat",
+   "auto_src": "biko-73/ip2sat"
   },
   {
    "id": "iptosat",
@@ -7405,7 +7450,8 @@
     "3"
    ],
    "author": "tarekzoka",
-   "homepage": "https://github.com/tarekzoka/iptosat"
+   "homepage": "https://github.com/tarekzoka/iptosat",
+   "auto_src": "tarekzoka/iptosat"
   },
   {
    "id": "iptvarchive",
@@ -7633,7 +7679,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/JediMakerXtream"
+   "homepage": "https://github.com/biko-73/JediMakerXtream",
+   "auto_src": "biko-73/JediMakerXtream"
   },
   {
    "id": "m3uconverter",
@@ -7833,7 +7880,8 @@
     "3"
    ],
    "author": "emilnabil",
-   "homepage": "https://github.com/emilnabil/MultiStalkerPro"
+   "homepage": "https://github.com/emilnabil/MultiStalkerPro",
+   "auto_src": "emilnabil/MultiStalkerPro"
   },
   {
    "id": "quarterpounder",
@@ -7947,7 +7995,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/StalkerPortalConverter"
+   "homepage": "https://github.com/OwnerPlugins/StalkerPortalConverter",
+   "auto_src": "OwnerPlugins/StalkerPortalConverter"
   },
   {
    "id": "xcplugin",
@@ -7997,7 +8046,8 @@
     "3"
    ],
    "author": "tarekzoka",
-   "homepage": "https://github.com/tarekzoka/xcplugin"
+   "homepage": "https://github.com/tarekzoka/xcplugin",
+   "auto_src": "tarekzoka/xcplugin"
   },
   {
    "id": "xklass",
@@ -8047,7 +8097,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/xklass"
+   "homepage": "https://github.com/biko-73/xklass",
+   "auto_src": "biko-73/xklass"
   },
   {
    "id": "xstreamity",
@@ -8097,7 +8148,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/xstreamity"
+   "homepage": "https://github.com/biko-73/xstreamity",
+   "auto_src": "biko-73/xstreamity"
   },
   {
    "id": "youtube",
@@ -9753,6 +9805,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpPlugins",
    "i18n": {
     "en": {
      "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
@@ -9813,6 +9866,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpBouquetUpdater/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpBouquetUpdater",
    "i18n": {
     "en": {
      "description": "CiefpBouquetUpdater - plugin allows for easy download and update of bouquets"
@@ -9875,6 +9929,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpChannelManager/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpChannelManager",
    "i18n": {
     "en": {
      "description": "CiefpChannelManager - plugin for managing bouquets, editing channels, deleting, moving channels, and moving bouquets."
@@ -9937,6 +9992,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2Converter/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpE2Converter",
    "i18n": {
     "en": {
      "description": "CiefpE2Converter - m3u playlist to userbouquet converter"
@@ -9999,6 +10055,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpE2editor/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/Ciefpe2editor",
    "i18n": {
     "en": {
      "description": "CiefpE2editor - plugin enigma2 editor"
@@ -10063,6 +10120,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEasySetup/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpEasySetup",
    "i18n": {
     "en": {
      "description": "CiefpEasySetup - plugin for automatic installation of various plugins"
@@ -10124,6 +10182,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpEPGshare/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpEPGshare",
    "i18n": {
     "en": {
      "description": "CiefpEPGshare - plugin for downloading EPG data from epgshare01.online"
@@ -10186,6 +10245,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpIPTVBouquets/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpIPTVBouquets",
    "i18n": {
     "en": {
      "description": "CiefpIPTVBouquets - plugin allows users to install, edit and delete IPTV bouquets"
@@ -10246,6 +10306,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpMojTvEPG/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpMojTvEPG",
    "i18n": {
     "en": {
      "description": "CiefpMojTvEPG - display of TV program EPG from the MojTV website"
@@ -10312,6 +10373,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenDirectories/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpOpenDirectories",
    "i18n": {
     "en": {
      "description": "CiefpOpenDirectories - plugin for viewing open directories on the web"
@@ -10371,6 +10433,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOpenSubtitles/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpOpenSubtitles",
    "i18n": {
     "en": {
      "description": "CiefpOpenSubtitles - plugin for searching and downloading subtitles with opensubtitles, uses subdl api key"
@@ -10429,6 +10492,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpOscamEditor/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpOscamEditor",
    "i18n": {
     "en": {
      "description": "CiefpOscamEditor - plugin for editing oscam files"
@@ -10492,6 +10556,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpParabolaCZ/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpParabolaCZ",
    "i18n": {
     "en": {
      "description": "CiefpParabolaCZ - parabola.cz site browser with text translation, uses groq api key for text translation"
@@ -10553,6 +10618,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPicturePlayer/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpPicturePlayer",
    "i18n": {
     "en": {
      "description": "CiefpPicturePlayer - image viewer online, network, local"
@@ -10617,6 +10683,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpPlugins/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpPlugins",
    "i18n": {
     "en": {
      "description": "CiefpPlugins - user can see information description and images for each of my plugins and install any"
@@ -10679,6 +10746,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpRottenTomatoes/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpRottenTomatoes",
    "i18n": {
     "en": {
      "description": "CiefpRottenTomatoes - plugin for viewing the description of movies series from the website rotten tomatoes"
@@ -10740,6 +10808,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSatelliteAnalyzer/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSatelliteAnalyzer",
    "i18n": {
     "en": {
      "description": "CiefpSatelliteAnalyzer - Astra-sm analyzer for t2mi and abertis channels"
@@ -10800,6 +10869,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSatelliteXmlEditor/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSatelliteXmlEditor",
    "i18n": {
     "en": {
      "description": "CiefpSatellitesXmlEditor - view and edit satellites.xml file"
@@ -10862,6 +10932,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpScreenGrab/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpScreenGrab",
    "i18n": {
     "en": {
      "description": "CiefpScreenGrab - plugin for creating screenshots and viewing images"
@@ -10922,6 +10993,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSelectSatellite/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSelectSatellite",
    "i18n": {
     "en": {
      "description": "CiefpSelectSatellite - plugin can create any version of enigma2 list from engine list by selecting satellites"
@@ -10983,6 +11055,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpSettingsDownloader/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSettingsDownloader",
    "i18n": {
     "en": {
      "description": "Ciefpsettings Downloader - plugin downloads all available versions of enigma2 lists from github"
@@ -11047,6 +11120,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpsettingsPanel",
    "i18n": {
     "en": {
      "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
@@ -11107,6 +11181,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertis/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSettingsT2miAbertis",
    "i18n": {
     "en": {
      "description": "CiefpT2MiAbertis - plugin for automatic installation of files for t2mi and abertis channels streamrelay."
@@ -11167,6 +11242,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSRTplayer/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSRTplayer",
    "i18n": {
     "en": {
      "description": "CiefpSRTplayer - SRT subtitle player for enigma2"
@@ -11223,6 +11299,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelayPY2/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSettingsStreamrelayPY2",
    "i18n": {
     "en": {
      "description": "CiefpStreamrelay py2 - plugin automatically generates and creates streamrelay bouquets"
@@ -11283,6 +11360,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsStreamrelay/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSettingsStreamrelay",
    "i18n": {
     "en": {
      "description": "CiefpStreamrelay py3 - plugin automatically generates and creates streamrelay bouquets"
@@ -11343,6 +11421,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpSettingsT2miAbertisOpenPLi",
    "i18n": {
     "en": {
      "description": "CiefpSettings T2MI Abertis OpenPLi 1.1\nis a customized version for OpenPLi\nwhich enables the installation and configuration of add-ons required for using T2MI and Abertis satellite settings."
@@ -11406,6 +11485,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/TitloviBrowser/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/TitloviBrowser",
    "i18n": {
     "en": {
      "description": "Titlovi Browser - plugin for searching and downloading subtitles from titlovi.com"
@@ -11468,6 +11548,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTMDBSearch/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTMDBSearch",
    "i18n": {
     "en": {
      "description": "CiefpTMDBSearch - search for descriptions of movies, series of trailers from the TMDB site, uses tmdb.omdb api key"
@@ -11528,6 +11609,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgram/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTvProgram",
    "i18n": {
     "en": {
      "description": "CiefpTvProgram - display of TV program EPG for SR, HR and BIH channels"
@@ -11588,6 +11670,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramA1HR/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTvProgramA1HR",
    "i18n": {
     "en": {
      "description": "CiefpTvProgramA1HR - display of TV program EPG for A1 Croatia"
@@ -11645,6 +11728,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSBB/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTvProgramSBB",
    "i18n": {
     "en": {
      "description": "CiefpTvProgramSBB - display of TV program EPG for SBB Serbia"
@@ -11706,6 +11790,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvProgramSK/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTvProgramSK",
    "i18n": {
     "en": {
      "description": "CiefpTvProgramSK - display of TV program EPG for SK channels"
@@ -11767,6 +11852,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpTvTodayDE/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpTvTodayDE",
    "i18n": {
     "en": {
      "description": "CiefpTvTodayDE - display of TV program EPG for DE channels"
@@ -11829,6 +11915,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVibes/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpVibes",
    "i18n": {
     "en": {
      "description": "CiefpVibes - Enigma2 music jukebox plugin local,online,network,opendirectory"
@@ -11893,6 +11980,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpVideoPlayer/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpVideoPlayer",
    "i18n": {
     "en": {
      "description": "CiefpVideoPlayer - video player online, network, local,use tmdb,omdb api key for TMDB posters"
@@ -11950,6 +12038,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/WebCamE2PrenjSF/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/WebCamE2PrenjSF",
    "i18n": {
     "en": {
      "description": "WebcamE2PRenjSF - webcam player and downloader"
@@ -12010,6 +12099,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpWhitelistStreamrelay/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpWhitelistStreamrelay",
    "i18n": {
     "en": {
      "description": "CiefpWhitelistStreamrelay - plugin for automatic generation of whitelist_streamrelay file"
@@ -12076,6 +12166,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpYouTube/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpYouTube",
    "i18n": {
     "en": {
      "description": "CiefpYoutube - Youtube jukebox player, webcam player"
@@ -12142,6 +12233,7 @@
    ],
    "author": "ciefp",
    "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",
+   "auto_src": "ciefp/CiefpsettingsPanel",
    "i18n": {
     "en": {
      "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
@@ -12354,7 +12446,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "levi-45/Addon"
   },
   {
    "id": "levimulticammanager",
@@ -12402,7 +12495,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "Belfagor2005/tvManager"
   },
   {
    "id": "linuxsat-panel",
@@ -12450,7 +12544,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "Belfagor2005/LinuxsatPanel"
   },
   {
    "id": "mohamedstore",
@@ -12534,7 +12629,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "Sat-Club/ONEupdaterE2"
   },
   {
    "id": "panelaio",
@@ -12678,7 +12774,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "Belfagor2005/SimpleZooomPanel"
   },
   {
    "id": "simplezoompanel",
@@ -12726,7 +12823,8 @@
    "python": [
     "2",
     "3"
-   ]
+   ],
+   "auto_src": "Belfagor2005/SimpleZooomPanel"
   },
   {
    "id": "smartaddonspanel-2",
@@ -12818,7 +12916,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/tvManager"
+   "homepage": "https://github.com/OwnerPlugins/tvManager",
+   "auto_src": "OwnerPlugins/tvManager"
   },
   {
    "id": "aglare-fhd",
@@ -13365,7 +13464,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/NitroAdvanceFHD"
+   "homepage": "https://github.com/biko-73/NitroAdvanceFHD",
+   "auto_src": "biko-73/NitroAdvanceFHD"
   },
   {
    "id": "novaler-s-fhd-green",
@@ -13572,7 +13672,8 @@
     "3"
    ],
    "author": "OwnerPlugins",
-   "homepage": "https://github.com/OwnerPlugins/revolutionpro"
+   "homepage": "https://github.com/OwnerPlugins/revolutionpro",
+   "auto_src": "OwnerPlugins/revolutionpro"
   },
   {
    "id": "slyk-q-1080",
@@ -13732,7 +13833,8 @@
     "3"
    ],
    "author": "emilnabil",
-   "homepage": "https://github.com/emilnabil/ncam"
+   "homepage": "https://github.com/emilnabil/ncam",
+   "auto_src": "emilnabil/ncam"
   },
   {
    "id": "oscam",
@@ -13775,7 +13877,8 @@
     "3"
    ],
    "author": "emilnabil",
-   "homepage": "https://github.com/emilnabil/oscam"
+   "homepage": "https://github.com/emilnabil/oscam",
+   "auto_src": "emilnabil/oscam"
   },
   {
    "id": "oscamicamall",
@@ -14059,7 +14162,8 @@
     "3"
    ],
    "author": "biko-73",
-   "homepage": "https://github.com/biko-73/FootOnSat"
+   "homepage": "https://github.com/biko-73/FootOnSat",
+   "auto_src": "biko-73/FootOnSat"
   },
   {
    "id": "simplysports",
@@ -15711,6 +15815,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "ZeGG1WA7Q+PatdRR7VR5EMS2Wk5zO0Kt7xj19pFnDuTCE/nTi4HvUBb9S4o6euqLtqbR5MRbXdgBQuSvVZP0Bw=="
+  "sig": "KgLhIkN0fB7VJelQHaq7M/bj2NcR953KaexFgCzMi3nfugLd5jkboyxyBSBbZIILI57nMf/ceAA88PGB4NvQDg=="
  }
 }

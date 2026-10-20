@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.80",
+  "version": "1.2.81",
   "updated": "2026-10-20",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.80/enigma2-plugin-extensions-enigmaplay_1.2.80_all.ipk"
+      "file": "files/enigmaplay/1.2.81/enigma2-plugin-extensions-enigmaplay_1.2.81_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.80/enigma2-plugin-extensions-enigmaplay_1.2.80_all.deb"
+      "file": "files/enigmaplay/1.2.81/enigma2-plugin-extensions-enigmaplay_1.2.81_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-20",
+      "text": "1.2.81 - الجوال ما عاد يعرض تحديثات وهمية لبلجنات محدّثة على الرسيفر (أرقام نسخ مثل vv2.0 أو نسخ الصورة git)"
+    },
     {
       "date": "2026-10-20",
       "text": "1.2.80 - الكتابة من تطبيق الجوال على كل الصور: النص اللي بتكتبه بتبويب «التحكم» بينكتب بالخانة المفتوحة على الرسيفر حتى لو OpenWebif قديم"
@@ -216,5 +220,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792523415
+  "updated_at": 1792525695
 }

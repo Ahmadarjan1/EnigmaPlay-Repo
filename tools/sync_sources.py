@@ -113,9 +113,22 @@ def safe_version(v):
     return v
 
 
+def repo_path(p, repo):
+    """A path given as a GitHub link (github.com/o/r/blob/<branch>/x, raw.githubusercontent.com/o/r/<ref>/x)
+    -> the path inside the repo."""
+    p = (p or "").strip()
+    m = re.match(r"^https?://(?:www\.)?github\.com/[^/]+/[^/]+/(?:blob|raw)/[^/]+/(.+)$", p) or \
+        re.match(r"^https?://raw\.githubusercontent\.com/[^/]+/[^/]+/(?:refs/heads/)?[^/]+/(.+)$", p)
+    return m.group(1) if m else p.lstrip("/")
+
+
 def upstream(src):
     """-> (version, [(type, filename, bytes)], release_notes)"""
     repo = src.get("repo", "")
+    for f in src.get("files") or []:
+        f["path"] = repo_path(f.get("path", ""), repo)
+    if src.get("version_file"):
+        src["version_file"] = repo_path(src["version_file"], repo)
     if not REPO_RE.match(repo):
         raise SourceError("source.repo must be owner/name, got %r" % repo)
     if src.get("release"):

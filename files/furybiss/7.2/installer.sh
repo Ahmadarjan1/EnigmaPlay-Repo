@@ -74,8 +74,8 @@ download_file() {
 # ==============================================================================
 clear
 print_divider
-echo -e "${GREEN}                 Installing FuryBiss Plugin (Smart Install)         ${NC}"
-echo -e "${MAGENTA}                 Maintainer: Islam Salama (Abou Yassin)               ${NC}"
+echo -e "${GREEN}                     Installing FuryBiss Plugin         ${NC}"
+echo -e "${YELLOW}                      Islam Salama (Abou Yassin)               ${NC}"
 print_divider
 echo ""
 
@@ -260,8 +260,8 @@ echo ""
 # نهاية التثبيت
 # ==============================================================================
 print_divider
-echo -e "${GREEN}             FuryBiss Installed Successfully!               ${NC}"
-echo -e "${YELLOW}                        Long live Egypt.               ${NC}"
+echo -e "${GREEN}               FuryBiss Installed Successfully!               ${NC}"
+echo -e "${YELLOW}                      ♥ LONG LIFE EGYPT ♥               ${NC}"
 echo -e "${CYAN}             Please wait... Restarting Enigma2 GUI...             ${NC}"
 print_divider
 

@@ -2,9 +2,9 @@
   "id": "furybiss",
   "name": "FuryBiss",
   "category": "extensions",
-  "version": "7.1",
-  "updated": "2026-10-17",
-  "updated_at": 1791885101,
+  "version": "7.2",
+  "updated": "2026-10-20",
+  "updated_at": 1792497372,
   "description": "بلاجين لجلب الفيدات بالشفرات",
   "author": "Islam Salama",
   "developer": "yassin_islam",
@@ -23,10 +23,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/furybiss/7.0/installer.sh"
+      "file": "files/furybiss/7.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-20",
+      "text": "7.2 - تحديث تلقائي من مصدر المطوّر (islam-2412/FuryBiss)"
+    },
     {
       "date": "2026-10-13",
       "text": "7.0 - امكانيه تغير skin البلاجين"
@@ -45,9 +49,9 @@
     "files": [
       {
         "type": "sh",
-        "path": "https://github.com/islam-2412/FuryBiss/blob/main/fury/installer.sh"
+        "path": "fury/installer.sh"
       }
     ],
-    "version_file": "version.txt"
+    "version_file": "fury/version.txt"
   }
 }

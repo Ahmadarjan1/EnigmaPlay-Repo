@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-20T11:48:26Z",
+ "generated": "2026-10-20T11:56:56Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3013,19 +3013,23 @@
    "id": "furybiss",
    "category": "extensions",
    "name": "FuryBiss",
-   "version": "7.1",
+   "version": "7.2",
    "description": "بلاجين لجلب الفيدات بالشفرات",
-   "updated": "17.10.2026",
-   "updated_ts": 1791885101,
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
+   "updated": "20.10.2026",
+   "updated_ts": 1792497372,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "20.10.2026",
+     "7.2 - تحديث تلقائي من مصدر المطوّر (islam-2412/FuryBiss)"
+    ],
     [
      "13.10.2026",
      "7.0 - امكانيه تغير skin البلاجين"
     ]
    ],
-   "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
+   "sha256": "de8f95b441a7b7a18c4334ff96c1857b495d947df1aa4dbeec8ec259423bca23",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/furybiss.png?v=75f42ff37f",
    "screenshots": [
@@ -3038,14 +3042,14 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.0/installer.sh",
-     "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c",
-     "size": 8795,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/furybiss/7.2/installer.sh",
+     "sha256": "de8f95b441a7b7a18c4334ff96c1857b495d947df1aa4dbeec8ec259423bca23",
+     "size": 8782,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/furybiss/7.0/installer.sh",
-       "sha256": "65060458ad59b44847739c0aacf2ebb8fe5c47d56a7cbad3a3031650e7d4c70c"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/furybiss/7.2/installer.sh",
+       "sha256": "de8f95b441a7b7a18c4334ff96c1857b495d947df1aa4dbeec8ec259423bca23"
       }
      ]
     }
@@ -15815,6 +15819,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "KgLhIkN0fB7VJelQHaq7M/bj2NcR953KaexFgCzMi3nfugLd5jkboyxyBSBbZIILI57nMf/ceAA88PGB4NvQDg=="
+  "sig": "/6WFiOkdlAV7CcHAWPGx73TQvhhPiXkHj3jJgPcWSbJHqYeNiLnMHPX95O3gGZFwt+YJPGKe75/oHhmukIagCg=="
  }
 }

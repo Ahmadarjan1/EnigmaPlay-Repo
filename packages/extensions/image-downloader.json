@@ -6,8 +6,7 @@
   "updated": "2026-10-09",
   "description": "حزمة جاهزة من Linuxsat-support، قسم بلجنات. الحزمة: Image Downloader v.2.0 all",
   "python": [
-    "2",
-    "3"
+    "2"
   ],
   "restart": false,
   "icon": "icons/category-extensions.png",

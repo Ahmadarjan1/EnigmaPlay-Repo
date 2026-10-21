@@ -121,6 +121,23 @@ def apply_edit(s):
     with io.open(old_path, encoding="utf-8") as f:
         pkg = json.load(f)
     old_ver = str(pkg.get("version", ""))
+    # new icon / screenshots uploaded from the panel
+    files = {f["name"]: f for f in s.get("files") or []}
+    if "icon" in files:
+        write(os.path.join(ROOT, "icons", pid + ".png"),
+              api("/v1/sync/file/%d/%s" % (s["sid"], "icon"), raw=True))
+        pkg["icon"] = "icons/%s.png" % pid
+    new_shots = sorted([n for n in files if n.startswith("shot")], key=lambda n: int(n[4:]))
+    if new_shots:
+        sdir = os.path.join(ROOT, "screenshots", pid)
+        if os.path.isdir(sdir):
+            shutil.rmtree(sdir)
+        shots = []
+        for i, n in enumerate(new_shots, 1):
+            ext = "jpg" if files[n]["mime"] == "image/jpeg" else "png"
+            write(os.path.join(sdir, "%d.%s" % (i, ext)), api("/v1/sync/file/%d/%s" % (s["sid"], n), raw=True))
+            shots.append("screenshots/%s/%d.%s" % (pid, i, ext))
+        pkg["screenshots"] = shots
     pkg["name"] = s["name"]
     pkg["category"] = cat
     pkg["version"] = ver

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-21T23:20:43Z",
+ "generated": "2026-10-21T23:34:51Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -44,6 +44,12 @@
    "name": "بانلات",
    "order": 7,
    "color": "#e37400"
+  },
+  {
+   "id": "settings",
+   "name": "ملفات قنوات",
+   "order": 9,
+   "color": "#00897b"
   },
   {
    "id": "tools",
@@ -12935,6 +12941,55 @@
    "auto_src": "OwnerPlugins/tvManager"
   },
   {
+   "id": "romeh-channels",
+   "category": "settings",
+   "name": "Channel List by rome7",
+   "version": "2026.10.21.1701",
+   "description": "ملف قنوات جاهز من المطوّر rome7 (Online 4 Tech): أكثر من 70 باقة مرتّبة للأقمار المشهورة (نايل سات وعرب سات وهوت بيرد وأسترا وغيرها) مع باقات قرآن ورياضة وأفلام ووثائقيات وأطفال. التثبيت بياخد نسخة احتياطية من قائمتك القديمة أول، وبيحدّث القائمة بدون إعادة تشغيل. وبيتحدّث تلقائياً كل ما المطوّر عدّل القائمة.",
+   "updated": "21.10.2026",
+   "updated_ts": 1792625646,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.10.21.1701/romeh-channels.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "21.10.2026",
+     "2026.10.21.1701 - أول إصدار بالمتجر"
+    ]
+   ],
+   "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-settings.png?v=683f98c4f8",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-settings/1.jpg?v=a543e3c381"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.10.21.1701/romeh-channels.sh",
+     "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
+     "size": 2479,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/romeh-channels/2026.10.21.1701/romeh-channels.sh",
+       "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "2",
+    "3"
+   ],
+   "author": "rome7 (Online 4 Tech)",
+   "homepage": "https://github.com/online4tech/Enigma2-Chanal-List-BYRomeh",
+   "auto_src": "Ahmadarjan1/EnigmaPlay-Repo",
+   "i18n": {
+    "en": {
+     "description": "Ready channel list by rome7 (Online 4 Tech): 70+ bouquets for the popular satellites with Quran, sports, movies, documentaries and kids bouquets. Installing keeps a backup of your old list first and reloads the list without a restart. Updates automatically whenever the developer changes the list."
+    }
+   }
+  },
+  {
    "id": "aglare-fhd",
    "category": "skins",
    "name": "Aglare-fhd",
@@ -15830,6 +15885,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "7CnXZuDNg7jPPKjAU1AjBb7hTL3cQ5bu0EBHNpytoitFMmOCEoCDqPlBqh4bOKZoARDcav456Oq6wRUqDoeMCQ=="
+  "sig": "eF3yDT75kIGbpXSd2lnhWnR0i9zBvnCF7zy1y6MfqD/b6KcjumGdZdMGOc97O+odmX1f/b3YJltmulXecqJlAw=="
  }
 }

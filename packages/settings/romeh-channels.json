@@ -10,9 +10,13 @@
     "3"
   ],
   "restart": false,
-  "icon": "icons/category-settings.png",
+  "icon": "icons/romeh-channels.png",
   "screenshots": [
-    "screenshots/category-settings/1.jpg"
+    "screenshots/romeh-channels/1.jpg",
+    "screenshots/romeh-channels/2.jpg",
+    "screenshots/romeh-channels/3.jpg",
+    "screenshots/romeh-channels/4.jpg",
+    "screenshots/romeh-channels/5.jpg"
   ],
   "downloads": [
     {

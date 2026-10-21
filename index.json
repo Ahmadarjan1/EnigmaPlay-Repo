@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-21T23:34:51Z",
+ "generated": "2026-10-21T23:57:30Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -12957,9 +12957,13 @@
     ]
    ],
    "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/category-settings.png?v=683f98c4f8",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/romeh-channels.png?v=8d81018029",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/category-settings/1.jpg?v=a543e3c381"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/1.jpg?v=029e8b5bf6",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/2.jpg?v=27056a8b19",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/3.jpg?v=24cf32ce12",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/4.jpg?v=294c6b898f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/5.jpg?v=a00c56afad"
    ],
    "downloads": [
     {
@@ -15885,6 +15889,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "eF3yDT75kIGbpXSd2lnhWnR0i9zBvnCF7zy1y6MfqD/b6KcjumGdZdMGOc97O+odmX1f/b3YJltmulXecqJlAw=="
+  "sig": "8zQG99RqTmjukCS2mC8YehRiJieOEMw6N8lUBZHK8NVVMNaf1fFYl6FX17i1zY7V5S7k6GKElAXioPQWEHfKDg=="
  }
 }

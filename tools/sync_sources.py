@@ -21,6 +21,9 @@ A manifest in packages/<category>/<id>.json may carry a "source" block:
       "version_from": "commit"
     }
 
+  Optional with version_from: "version_repo": "owner/other" and "version_path": "" (whole repo) to take
+  the date from another repository, e.g. a channel list whose installer is kept in this store repo.
+
   GitHub Releases (the latest release; version = tag without a leading "v"):
     "source": {
       "repo": "owner/name",
@@ -155,16 +158,26 @@ def upstream(src):
     raw = "https://raw.githubusercontent.com/%s/%s/" % (repo, branch)
     if src.get("version_from") == "commit":
         # the plugin has no version number: the last change of its files is the version
-        paths = [f.get("path", "") for f in src.get("files") or []]
+        # "version_repo" / "version_path": take the date from another repo (e.g. a channel list whose
+        # installer lives in the store repo) or from one path / the whole repo ("")
+        vrepo = src.get("version_repo") or repo
+        if not REPO_RE.match(vrepo):
+            raise SourceError("source.version_repo must be owner/name, got %r" % vrepo)
+        if "version_path" in src:
+            paths = [src.get("version_path") or ""]
+        else:
+            paths = [f.get("path", "") for f in src.get("files") or []]
+        vbranch = branch if vrepo == repo else (src.get("version_branch") or "")
         stamps = []
         for pth in paths or [""]:
-            q = "/repos/%s/commits?sha=%s&per_page=1%s" % (repo, branch, "&path=" + pth.lstrip("/") if pth else "")
+            q = "/repos/%s/commits?per_page=1%s%s" % (vrepo, "&sha=" + vbranch if vbranch else "",
+                                                     "&path=" + pth.lstrip("/") if pth else "")
             c = api(q)
             if c:
                 stamps.append((c[0].get("commit") or {}).get("committer", {}).get("date", ""))
         stamp = max([x for x in stamps if x] or [""])
         if not stamp:
-            raise SourceError("no commits found in %s" % repo)
+            raise SourceError("no commits found in %s" % vrepo)
         d = datetime.datetime.strptime(stamp[:16], "%Y-%m-%dT%H:%M")
         version = "%d.%d.%d.%02d%02d" % (d.year, d.month, d.day, d.hour, d.minute)
     else:

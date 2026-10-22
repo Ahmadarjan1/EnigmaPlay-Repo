@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-22T21:01:56Z",
+ "generated": "2026-10-22T21:35:15Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -427,6 +427,85 @@
     }
    },
    "featured": true
+  },
+  {
+   "id": "enigmatranslate",
+   "category": "extensions",
+   "name": "Enigma Translate",
+   "version": "1.0.64",
+   "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
+   "updated": "23.10.2026",
+   "status_codes": [
+    "Sub",
+    "Free"
+   ],
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "23.10.2026",
+     "1.0.64 - ترجمة متزامنة مع الكلام على قنوات DVB (تأخير صورة تلقائي لكل قناة بدون تجميد)، التيليتكست أولاً لأنه أسرع، التعرّف على الفلم من الصوت وجلب ترجمته العربية الجاهزة مع ضبط التوقيت، اتصال أسرع بالخدمات، وتحسين IPTV"
+    ],
+    [
+     "18.10.2026",
+     "1.0.35.2 - إضافة حقوق الملكية: البرنامج مجاني للاستخدام الشخصي، ويمنع نسخه أو تعديله أو إعادة نشره بدون إذن المؤلف"
+    ],
+    [
+     "18.10.2026",
+     "1.0.35.1 - إصلاح توقف البلجن عند فتحه بعد التثبيت (خطأ ai_provider على OpenBH وغيرها)"
+    ],
+    [
+     "18.10.2026",
+     "1.0.35 - أول إصدار على المتجر: ترجمة DVB والتيليتكست والأفلام والصوت، دعم IPTV باتصال واحد، إيقاف فوري، وأزرار ضبط التوقيت من الريموت"
+    ]
+   ],
+   "sha256": "8404b4e46eed2e2b59e7c792626b21cde8cf786ef992d2c77bc89d734708d8b4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmatranslate.png?v=e6ebf8f61c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/1.jpg?v=7800b265ec",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/2.jpg?v=02b21052a0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/3.jpg?v=ca03a38a46",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/4.jpg?v=d34435eac8"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.ipk",
+     "sha256": "8404b4e46eed2e2b59e7c792626b21cde8cf786ef992d2c77bc89d734708d8b4",
+     "size": 304466,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.ipk",
+       "sha256": "8404b4e46eed2e2b59e7c792626b21cde8cf786ef992d2c77bc89d734708d8b4"
+      }
+     ]
+    },
+    {
+     "type": "deb",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.deb",
+     "sha256": "5f0125a5f21118cc460d89e73f1e718c84298ffc80ccebab9c12221e083f8dd0",
+     "size": 306600,
+     "mirrors": [
+      {
+       "type": "deb",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.deb",
+       "sha256": "5f0125a5f21118cc460d89e73f1e718c84298ffc80ccebab9c12221e083f8dd0"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "enigma2-plugin-extensions-enigmatranslate",
+   "author": "Ahmad Al-Qaisi",
+   "i18n": {
+    "en": {
+     "description": "Live translation of foreign TV channels into Arabic: translates the channel's own DVB and teletext subtitles, fetches ready-made subtitles for movies and syncs them, and translates live audio with AI (Groq, Gemini and others) with a picture delay so subtitles match speech. Works on satellite, encrypted and single-connection IPTV channels. Arabic UI and a phone page for API keys."
+    }
+   }
   },
   {
    "id": "enigmaplay",
@@ -5448,6 +5527,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "jvC1CPp5fhWETOKBmPTIOhp4Q/dfc5mvxORuyIEYgpxfENVcxhlbgadn0JIIrPrk4LDJ+a52sRMEGkot5mZUCg=="
+  "sig": "aBifsXL1tF7bSgfcU1rl6gk6oURCDvPr0k/bE37keP3F5L3+3x2sEkVSAbHd+/vwA677OQz6fsTGFu2iASg3Bw=="
  }
 }

@@ -1,9 +1,8 @@
 name: Novaler plugins
 
 # The Novaler section: plugins Novaler publishes on novaler.com/dz/downloads/plugins, re-checked weekly.
+# weekly run switched off 2026-10-22: the store keeps only the plugins of chosen developers
 on:
-  schedule:
-    - cron: "41 5 * * 1"
   workflow_dispatch:
     inputs:
       dry:

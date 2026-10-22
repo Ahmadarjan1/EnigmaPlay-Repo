@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-22T15:12:28Z",
+ "generated": "2026-10-22T15:28:43Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -139,12 +139,12 @@
    ],
    "sha256": "4a52979c2c9aa38d67929ff48ee52739cf528aead092627c98e8e6e5288d1b36",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelhistory.png?v=73be893dae",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelhistory.png?v=e0b3ba20a1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/1.jpg?v=5b50d6cc4f",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/2.jpg?v=6e556763b0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/3.jpg?v=428d530503",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/4.jpg?v=ce08f96cb3"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/1.jpg?v=6ea87902ac",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/2.jpg?v=5eaa7c792a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/3.jpg?v=0d2a671ff1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelhistory/4.jpg?v=5adae7c39c"
    ],
    "downloads": [
     {
@@ -197,11 +197,11 @@
    ],
    "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat-2.png?v=e213acc9a6",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat-2.png?v=2e80795f09",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/1.jpg?v=e9e4743106",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=094ef1073a",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=66c31d25c0"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/1.jpg?v=aae877dd07",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/2.jpg?v=3b9cd280b0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat-2/3.jpg?v=d41f8871ea"
    ],
    "downloads": [
     {
@@ -261,9 +261,9 @@
    ],
    "sha256": "5e4f99d39adc868c76597fb53beb9a0833d6e505d6ee322417fca130350b51bc",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat.png?v=1af76834d1",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpkingsat.png?v=2e80795f09",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat/1.jpg?v=e9e4743106"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpkingsat/1.jpg?v=aae877dd07"
    ],
    "downloads": [
     {
@@ -313,10 +313,10 @@
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf-2.png?v=867c8bbf95",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf-2.png?v=9c6ad984f1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/1.jpg?v=3875189ebd",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/2.jpg?v=ff713aec5a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/1.jpg?v=e64d7d54a5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf-2/2.jpg?v=76c90ea702"
    ],
    "downloads": [
     {
@@ -382,10 +382,10 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaprayer.png?v=04e3d6f6b2",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/1.png?v=a56856867c",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/2.png?v=18ed049397",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/3.png?v=9ad6b87db8",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/4.png?v=50b361b102"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/1.jpg?v=500af5e361",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/2.jpg?v=1a5fca7b9d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/3.jpg?v=f706645ad8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmaprayer/4.jpg?v=5589f45bb1"
    ],
    "downloads": [
     {
@@ -432,16 +432,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.83",
+   "version": "1.2.84",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
    "updated": "22.10.2026",
-   "updated_ts": 1792681913,
+   "updated_ts": 1792682867,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.84/enigma2-plugin-extensions-enigmaplay_1.2.84_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "22.10.2026",
+     "1.2.84 - الأيقونات والصور جاهزة على الجهاز: بعد التشغيل بدقيقة ونص ومع فتح المتجر بتنزل كل الأيقونات وصور الواجهة بالخلفية وبتنحفظ (ما بتنمسح مع إعادة التشغيل)، والصور اللي ما عاد إلها بلجن بتنحذف لحالها"
+    ],
     [
      "22.10.2026",
      "1.2.83 - التنقل بالريموت صار أسرع: المتجر ما بيعيد رسم إلا اللي تغيّر على الشاشة، وما بيرجع يقرأ حالة البلجنات والأيقونات من الملفات مع كل ضغطة"
@@ -619,7 +623,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c",
+   "sha256": "791b6c3263c769282806145420dcab897dd1b25f719c99131f87adbecd0d06fc",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -631,27 +635,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
-     "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c",
-     "size": 2338524,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.84/enigma2-plugin-extensions-enigmaplay_1.2.84_all.ipk",
+     "sha256": "791b6c3263c769282806145420dcab897dd1b25f719c99131f87adbecd0d06fc",
+     "size": 2339788,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
-       "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.84/enigma2-plugin-extensions-enigmaplay_1.2.84_all.ipk",
+       "sha256": "791b6c3263c769282806145420dcab897dd1b25f719c99131f87adbecd0d06fc"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.deb",
-     "sha256": "693108a61ea65064107d623d7983c40f505fd2c95f7c02e4705587bd366e41f9",
-     "size": 2338528,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.84/enigma2-plugin-extensions-enigmaplay_1.2.84_all.deb",
+     "sha256": "716da8c50523c863d4e067dcd09fb5cd6b946f7e446f9e6fed5d62c4b9502f87",
+     "size": 2339792,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.deb",
-       "sha256": "693108a61ea65064107d623d7983c40f505fd2c95f7c02e4705587bd366e41f9"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.84/enigma2-plugin-extensions-enigmaplay_1.2.84_all.deb",
+       "sha256": "716da8c50523c863d4e067dcd09fb5cd6b946f7e446f9e6fed5d62c4b9502f87"
       }
      ]
     }
@@ -710,10 +714,10 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/e2tube.png?v=c05e69cb6b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/1.png?v=52780c540e",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/2.png?v=87025a3932",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/3.png?v=11490aabc3",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/4.png?v=7bccb0179c"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/1.jpg?v=e290dba663",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/2.jpg?v=8285e26de1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/3.jpg?v=60c99a6e8d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/e2tube/4.jpg?v=d36609c37f"
    ],
    "downloads": [
     {
@@ -1021,13 +1025,13 @@
    ],
    "sha256": "de8f95b441a7b7a18c4334ff96c1857b495d947df1aa4dbeec8ec259423bca23",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/furybiss.png?v=75f42ff37f",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/furybiss.png?v=f2ae6a0859",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/1.jpg?v=b067ce348c",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/2.jpg?v=9e2e5fb984",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/3.jpg?v=441e770cc2",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/4.jpg?v=25460bf8f1",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/5.jpg?v=37086d31fa"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/1.jpg?v=ffad2ab5b9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/2.jpg?v=57024c77ba",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/3.jpg?v=6371cc282e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/4.jpg?v=80930041e1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/furybiss/5.jpg?v=389ddf8e4a"
    ],
    "downloads": [
     {
@@ -1117,10 +1121,10 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ipaudioplus.png?v=f84d78d04e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/1.png?v=37c46df5c8",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/2.png?v=97ff36c658",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/3.png?v=78625dc9a1",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/4.png?v=57c12acd8a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/1.jpg?v=0ab8e412fd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/2.jpg?v=2aa7b28b74",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/3.jpg?v=fd5e5b6c0f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ipaudioplus/4.jpg?v=e8cf0a68fa"
    ],
    "downloads": [
     {
@@ -1183,9 +1187,9 @@
    ],
    "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube-2.png?v=a21a8e8b7c",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube-2.png?v=ba5d9a50b9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube-2/1.jpg?v=b6fe3ab850"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube-2/1.jpg?v=14e989acb0"
    ],
    "downloads": [
     {
@@ -1249,9 +1253,9 @@
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefp-plugins.png?v=cb00d1f366",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefp-plugins.png?v=85d1f5fd4e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefp-plugins/1.jpg?v=f5de2779e3"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefp-plugins/1.jpg?v=0ecb116da3"
    ],
    "downloads": [
     {
@@ -1310,9 +1314,9 @@
    ],
    "sha256": "664a32aef4712e9df4ffabf30f3776a393f9c8b740a1eea7b1af52801627592a",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpbouquetupdater.png?v=07ef2e354e",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpbouquetupdater.png?v=61441156c1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpbouquetupdater/1.jpg?v=f4f9baa42f"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpbouquetupdater/1.jpg?v=4421422494"
    ],
    "downloads": [
     {
@@ -1371,11 +1375,11 @@
    ],
    "sha256": "97b487557843f952169fe9f2713cc99f116b536a44e29a34528c56b4f9d82e0e",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelmanager.png?v=b5854f8b0e",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpchannelmanager.png?v=ad357ee4f0",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/1.jpg?v=19a1574bc0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/2.jpg?v=1e00358056",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/3.jpg?v=9a51ac44f6"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/1.jpg?v=2dd92a5212",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/2.jpg?v=c4d5be04c9",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpchannelmanager/3.jpg?v=88fd734dc3"
    ],
    "downloads": [
     {
@@ -1434,11 +1438,11 @@
    ],
    "sha256": "77e9c95c256cdc0e80b86f86fa0235d8342b7912ea6bcba5fccdf82eea5f5e58",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2converter.png?v=bb8eeda549",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2converter.png?v=07495b065c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/1.jpg?v=f5d6dfaa11",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/2.jpg?v=887b001bb5",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/3.jpg?v=ff69d0ed60"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/1.jpg?v=ad41de31f2",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/2.jpg?v=2f9969da63",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2converter/3.jpg?v=28f2847968"
    ],
    "downloads": [
     {
@@ -1497,11 +1501,11 @@
    ],
    "sha256": "d80288f49dc343ff4a0e19d8c4a92ea898a250069f619c11e79767e51971f4ee",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2editor.png?v=f884c80bff",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpe2editor.png?v=dbd1f17532",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/1.jpg?v=776743c922",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/2.jpg?v=80fd39e7ed",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/3.jpg?v=6369b0a35d"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/1.jpg?v=ec2e960664",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/2.jpg?v=2f17fa6c54",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpe2editor/3.jpg?v=0a510bf750"
    ],
    "downloads": [
     {
@@ -1564,9 +1568,9 @@
    ],
    "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpeasysetup.png?v=0eccc25543",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpeasysetup.png?v=c3c0f20925",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpeasysetup/1.jpg?v=4090244f1d"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpeasysetup/1.jpg?v=91ea8b2b0f"
    ],
    "downloads": [
     {
@@ -1625,10 +1629,10 @@
    ],
    "sha256": "a2bf43d098324ffecc169cbe755477c5f11cfee4c8b40dc28eb647432e3e5075",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpepgshare.png?v=55bd17250a",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpepgshare.png?v=58cfa3bcdc",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/1.jpg?v=9383b5cffe",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/2.jpg?v=dc22e1d881"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/1.jpg?v=fb89ffcff2",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpepgshare/2.jpg?v=d95c7fdc08"
    ],
    "downloads": [
     {
@@ -1687,11 +1691,11 @@
    ],
    "sha256": "1d5464dc099da7cd5693497e7ef31b6d3a3aab9c248c380872cd6cff4c9ecae2",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpiptvbouquets.png?v=6bf79d1cd9",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpiptvbouquets.png?v=10564cc9c8",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/1.jpg?v=be1eaf7fdc",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/2.jpg?v=c8d97f9bfb",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/3.jpg?v=45a1411972"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/1.jpg?v=eff7c9a7fc",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/2.jpg?v=6180f5edf4",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpiptvbouquets/3.jpg?v=3f44ebf6b3"
    ],
    "downloads": [
     {
@@ -1750,9 +1754,9 @@
    ],
    "sha256": "78d81da3b03256d8c12ae29afbe64d3fdcc5bbb664b0519bbb0fc901057b5d48",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpmojtvepg.png?v=46022fc346",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpmojtvepg.png?v=fa7449306a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpmojtvepg/1.jpg?v=9bc2a7ee57"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpmojtvepg/1.jpg?v=af4cf58a2b"
    ],
    "downloads": [
     {
@@ -1815,11 +1819,11 @@
    ],
    "sha256": "7031194b43e95be4dbe1e1b6bd1e2c3dbff4b6b166a8da82d0fd5c99eacaba73",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopendirectories.png?v=cd33cc3044",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopendirectories.png?v=b63f657f06",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/1.jpg?v=97da0c39e7",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/2.jpg?v=260e659f72",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/3.jpg?v=7f14e7d9c7"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/1.jpg?v=79583f5eb1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/2.jpg?v=92599a1d2d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopendirectories/3.jpg?v=679552274d"
    ],
    "downloads": [
     {
@@ -1874,12 +1878,12 @@
    ],
    "sha256": "e51eed65cbf5dcfe88e0546be46f43227c095bc5a40bad1a603d0410499a835b",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopensubtitles.png?v=d3a7700e1b",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpopensubtitles.png?v=077d508a89",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/1.jpg?v=89ae5f697b",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/2.jpg?v=a41a7af2d6",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/3.jpg?v=252df79a41",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/4.jpg?v=f2af9fb271"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/1.jpg?v=7733ef9e94",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/2.jpg?v=435bf751da",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/3.jpg?v=ee436624e0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpopensubtitles/4.jpg?v=0013995c2c"
    ],
    "downloads": [
     {
@@ -1934,11 +1938,11 @@
    ],
    "sha256": "82c495eb63c4c45522bdc23397b4cab4b5021508d8fb1c3a75f51b54e9aace25",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefposcameditor.png?v=96087381e9",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefposcameditor.png?v=cb2fb4d8aa",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/1.jpg?v=d9c757bde6",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/2.jpg?v=12921b4375",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/3.jpg?v=833067dc5a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/1.jpg?v=af7f0e7225",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/2.jpg?v=27eab561bf",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefposcameditor/3.jpg?v=bb435dac2b"
    ],
    "downloads": [
     {
@@ -1997,12 +2001,12 @@
    ],
    "sha256": "ee4693e465d6c568e801f2909adafd9af4ae1c8f05580cc2a327d1107eae125e",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpparabolacz.png?v=03f0ba810b",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpparabolacz.png?v=c9566ecc70",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/1.jpg?v=a6298bcc1f",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/2.jpg?v=ef487538d9",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/3.jpg?v=9a959ebae4",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/4.jpg?v=a5731b398c"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/1.jpg?v=5dcc01ce10",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/2.jpg?v=654c11e393",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/3.jpg?v=2609fb3457",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpparabolacz/4.jpg?v=bb40e1d0bb"
    ],
    "downloads": [
     {
@@ -2061,10 +2065,10 @@
    ],
    "sha256": "0b61cf9a16bef8baca51c7b3903a24e6d7760e5908fe81c8a3f65e139c687b0a",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefppictureplayer.png?v=05b697e5e2",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefppictureplayer.png?v=96f6b30ce1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/1.jpg?v=072d6d6b1a",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/2.jpg?v=c8215030de"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/1.jpg?v=ed1a7347fa",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefppictureplayer/2.jpg?v=affd2a743c"
    ],
    "downloads": [
     {
@@ -2127,9 +2131,9 @@
    ],
    "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpplugins.png?v=cb00d1f366",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpplugins.png?v=85d1f5fd4e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpplugins/1.jpg?v=0925cfb4bb"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpplugins/1.jpg?v=b0aafb1b05"
    ],
    "downloads": [
     {
@@ -2188,11 +2192,11 @@
    ],
    "sha256": "b4fca40bfb895c4aee380a9d29b84ffaabc88e971126b269b2846b15d78e6073",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefprottentomatoes.png?v=6f3f9f39ae",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefprottentomatoes.png?v=9f4c163cb7",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/1.jpg?v=402a5068b0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/2.jpg?v=351fcad90c",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/3.jpg?v=5fd5ed3b66"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/1.jpg?v=847c935cd3",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/2.jpg?v=82b92e31ff",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefprottentomatoes/3.jpg?v=012d6b2a43"
    ],
    "downloads": [
     {
@@ -2251,10 +2255,10 @@
    ],
    "sha256": "5b4ce4587e4383373c7f9175da6b67a43f48e35bcbfe15a0e17d0799177388fa",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatelliteanalyzer.png?v=7d7beea692",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatelliteanalyzer.png?v=c43f4c5a03",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/1.jpg?v=1be767cd0a",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/2.jpg?v=3611ea31e6"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/1.jpg?v=6781401987",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatelliteanalyzer/2.jpg?v=d773d27baa"
    ],
    "downloads": [
     {
@@ -2313,9 +2317,9 @@
    ],
    "sha256": "6829ec6689d622ad7cd30e68ac5c25e5258a2d208043c01e5368ed16bcfa1f4e",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatellitexmleditor.png?v=fa82f9397a",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsatellitexmleditor.png?v=d423807e34",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatellitexmleditor/1.jpg?v=44e54ae5d2"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsatellitexmleditor/1.jpg?v=33fe0a873d"
    ],
    "downloads": [
     {
@@ -2374,11 +2378,11 @@
    ],
    "sha256": "f53eb603e43eeabdd3d9a60b9233e50b6c9c67484e232befa1135e227103d966",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpscreengrab.png?v=7aff302b35",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpscreengrab.png?v=bf9aece72d",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/1.jpg?v=f605dbb337",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/2.jpg?v=c86e9cfd8b",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/3.jpg?v=81332462ab"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/1.jpg?v=082f0f8c24",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/2.jpg?v=adc35cd84d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpscreengrab/3.jpg?v=ad1c41a3ab"
    ],
    "downloads": [
     {
@@ -2437,9 +2441,9 @@
    ],
    "sha256": "dc353e3cdf480ac63af7ef2c2afd36e9c49c2ff34bc09aa7b2f7504cf8e4003a",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpselectsatellite.png?v=fe3151ea55",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpselectsatellite.png?v=e87674051b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpselectsatellite/1.jpg?v=6bea177e5a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpselectsatellite/1.jpg?v=5d01668a89"
    ],
    "downloads": [
     {
@@ -2498,10 +2502,10 @@
    ],
    "sha256": "febed1097c6aa92fb0dc97a789e949030e6a9ba7bc3229f8594f85d7510c9758",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingsdownloader.png?v=7bc347d2d1",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingsdownloader.png?v=a9fb3fbd92",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/1.jpg?v=10e95ba86d",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/2.jpg?v=a6d5be1137"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/1.jpg?v=d2eda5591e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingsdownloader/2.jpg?v=04c3344260"
    ],
    "downloads": [
     {
@@ -2564,9 +2568,9 @@
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingspanel.png?v=ee71e58643",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingspanel.png?v=27e05410c0",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingspanel/1.jpg?v=205cfdafd8"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingspanel/1.jpg?v=7ea51d52b7"
    ],
    "downloads": [
     {
@@ -2625,9 +2629,9 @@
    ],
    "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingst2miabertis.png?v=be95b1600a",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsettingst2miabertis.png?v=b54e0f6c71",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingst2miabertis/1.jpg?v=63d0b22ce7"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsettingst2miabertis/1.jpg?v=418da6d977"
    ],
    "downloads": [
     {
@@ -2686,9 +2690,9 @@
    ],
    "sha256": "605a9fcbb39da5e1c3bcb8ade07f4cf03f723426356ace982a90ab88f53e9a45",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsrtplayer.png?v=e5d20b5e7a",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsrtplayer.png?v=ef3832c7fc",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsrtplayer/1.jpg?v=a974615940"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsrtplayer/1.jpg?v=dcd1b8efee"
    ],
    "downloads": [
     {
@@ -2743,9 +2747,9 @@
    ],
    "sha256": "718c0c874b920c9557da96abd600fd4a914341cacf8727b6b112916420e8f5ec",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy2.png?v=c5227e0377",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy2.png?v=050db59dee",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy2/1.png?v=3417f53678"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy2/1.jpg?v=7d5071bf9c"
    ],
    "downloads": [
     {
@@ -2804,9 +2808,9 @@
    ],
    "sha256": "4bbeefe095728e4a55484a330035de25f85143dc201331e3f2cf621d96d5aa17",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy3.png?v=3f97bfe940",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpstreamrelaypy3.png?v=73c1923e73",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy3/1.jpg?v=e87102d43c"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpstreamrelaypy3/1.jpg?v=7d3dfbc8e5"
    ],
    "downloads": [
     {
@@ -2865,9 +2869,9 @@
    ],
    "sha256": "d08b146bf49d43a74b55af8c2dcb40864070707c55ad8f44c3652bbff39782cf",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpt2miabertisopenpli.png?v=317760b187",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpt2miabertisopenpli.png?v=71e489d92e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpt2miabertisopenpli/1.png?v=4d2de4b991"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpt2miabertisopenpli/1.jpg?v=0ca477b505"
    ],
    "downloads": [
     {
@@ -2926,12 +2930,12 @@
    ],
    "sha256": "efddc1513ebd74535badf8ae6102a24aaf3eca65fbf8be3e607874d06b20dac3",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptitlovibrowser.png?v=a0987fbb10",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptitlovibrowser.png?v=2edf7c13b8",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/1.jpg?v=5549cdfea0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/2.jpg?v=5549cdfea0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/3.jpg?v=205667c4e1",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/4.jpg?v=153cfa4ae1"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/1.jpg?v=80d74a5da8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/2.jpg?v=80d74a5da8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/3.jpg?v=d4345deddb",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptitlovibrowser/4.jpg?v=342d9e47cd"
    ],
    "downloads": [
     {
@@ -2990,11 +2994,11 @@
    ],
    "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptmdbsearch.png?v=80d40a92fc",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptmdbsearch.png?v=6482ce79db",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/1.jpg?v=fdc20d648a",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/2.jpg?v=ae625b1383",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/3.jpg?v=a1c4c08d55"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/1.jpg?v=85197480af",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/2.jpg?v=120adb0f0b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptmdbsearch/3.jpg?v=51856b652e"
    ],
    "downloads": [
     {
@@ -3053,9 +3057,9 @@
    ],
    "sha256": "45fae995cabc974f4b5c46d481d44b8f8bea194156fee3d592f20e0067181066",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogram.png?v=6be789cf12",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogram.png?v=1ab3c4e8e5",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogram/1.jpg?v=910aaaa4f5"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogram/1.jpg?v=5020641d00"
    ],
    "downloads": [
     {
@@ -3114,9 +3118,9 @@
    ],
    "sha256": "45a95d802f2edf6f858dc8f860be4055d8b532caf248878904b41713e80d183c",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprograma1hr.png?v=75ffdb5b27",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprograma1hr.png?v=75ed5da581",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprograma1hr/1.jpg?v=322b191839"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprograma1hr/1.jpg?v=fee780af51"
    ],
    "downloads": [
     {
@@ -3171,10 +3175,10 @@
    ],
    "sha256": "5b89d62c5d12ab51af4c51db076f2e5bfc641bbf08d04a77e2411e46ff24d812",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsbb.png?v=54f491ef29",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsbb.png?v=cad4d27a4b",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/1.jpg?v=a386480d1e",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/2.jpg?v=b8d06078c9"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/1.jpg?v=bbaac79f0c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsbb/2.jpg?v=0b68b0a4ec"
    ],
    "downloads": [
     {
@@ -3233,10 +3237,10 @@
    ],
    "sha256": "41080c7d4e02da27f2d7451f4e72be3f7b646e69814d2f37238602f49202536d",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsk.png?v=0a5932b465",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvprogramsk.png?v=cf2266a6a9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/1.jpg?v=7c2ead1ee9",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/2.jpg?v=937852c3e7"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/1.jpg?v=5763ed0050",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvprogramsk/2.jpg?v=2ea8338ad5"
    ],
    "downloads": [
     {
@@ -3295,10 +3299,10 @@
    ],
    "sha256": "71cf1be5c2eacff4a99a0ad6422966f4eb8db3d86b3eb295d7b14fa98dbf9735",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvtodayde.png?v=847b8e25db",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefptvtodayde.png?v=0112c83065",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/1.jpg?v=9b8a6b9239",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/2.jpg?v=17a9ff50a5"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/1.jpg?v=66cb10c596",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefptvtodayde/2.jpg?v=9226b0c6f6"
    ],
    "downloads": [
     {
@@ -3357,11 +3361,11 @@
    ],
    "sha256": "90af5ee0b8b6988327b0f57e19d11cd12322fc4036ff438fa195dadeb43b9845",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvibes.png?v=9d60c077b1",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvibes.png?v=e77172ae3e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/1.jpg?v=6976e48aef",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/2.jpg?v=c420dc727a",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/3.jpg?v=8027297a4b"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/1.jpg?v=c0c17995fe",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/2.jpg?v=8c6b588a42",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvibes/3.jpg?v=749ea83716"
    ],
    "downloads": [
     {
@@ -3420,13 +3424,13 @@
    ],
    "sha256": "be09093234102499c687e36e9be6979e51d00ee3902899726bcbabce5cc398f4",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvideoplayer.png?v=2dd04cdfa5",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpvideoplayer.png?v=0611a10e9f",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/1.jpg?v=636ba22f29",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/2.jpg?v=8a39b59903",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/3.jpg?v=7f8c05af3e",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/4.jpg?v=417d82d816",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/5.jpg?v=816238f0ca"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/1.jpg?v=38952a9368",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/2.jpg?v=118387ec93",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/3.jpg?v=ebe73e3501",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/4.jpg?v=039d6401a5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpvideoplayer/5.jpg?v=0757f052f5"
    ],
    "downloads": [
     {
@@ -3481,10 +3485,10 @@
    ],
    "sha256": "836b57595d97c35131bbd80b46e82de063c9b5d32ca0b691036c1613084af781",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf.png?v=867c8bbf95",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwebcame2prenjsf.png?v=9c6ad984f1",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/1.jpg?v=3875189ebd",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/2.jpg?v=ff713aec5a"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/1.jpg?v=e64d7d54a5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwebcame2prenjsf/2.jpg?v=76c90ea702"
    ],
    "downloads": [
     {
@@ -3543,9 +3547,9 @@
    ],
    "sha256": "fd133e6bad0ad6cf7ab30b107a8aa4e8ec346b24a7e70b425bda8cdb1c959a23",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwhiteliststreamrelay.png?v=e26ea0e83e",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpwhiteliststreamrelay.png?v=36fa46f970",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwhiteliststreamrelay/1.jpg?v=69082df908"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpwhiteliststreamrelay/1.jpg?v=bce6d4063f"
    ],
    "downloads": [
     {
@@ -3608,11 +3612,11 @@
    ],
    "sha256": "7ff73bbb15c4e65d8676351dc42042b6c84e047553953d6abbcb1e2218a9d7a8",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube.png?v=a21a8e8b7c",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpyoutube.png?v=ba5d9a50b9",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/1.jpg?v=7114ba099b",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/2.jpg?v=d1e8035d13",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/3.jpg?v=4ca139e4b1"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/1.jpg?v=ce033f1a7c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/2.jpg?v=72f731b2d2",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpyoutube/3.jpg?v=c66b5d90ef"
    ],
    "downloads": [
     {
@@ -3675,11 +3679,11 @@
    ],
    "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefsettingspanel.png?v=44d9349348",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefsettingspanel.png?v=0d8b2dfe4a",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/1.jpg?v=bc464d94e6",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/2.jpg?v=ed32a47649",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/3.jpg?v=a90c956910"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/1.jpg?v=39a7c16bc0",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/2.jpg?v=40c83c4310",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefsettingspanel/3.jpg?v=0a360ea466"
    ],
    "downloads": [
     {
@@ -3728,11 +3732,11 @@
    "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/romeh-channels.png?v=8d81018029",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/1.jpg?v=029e8b5bf6",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/2.jpg?v=27056a8b19",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/3.jpg?v=24cf32ce12",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/4.jpg?v=294c6b898f",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/5.jpg?v=a00c56afad"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/1.jpg?v=991ccc74e3",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/2.jpg?v=c972052498",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/3.jpg?v=852af49be8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/4.jpg?v=e29a12f56e",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/romeh-channels/5.jpg?v=f92ddf823c"
    ],
    "downloads": [
     {
@@ -3782,11 +3786,11 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplyscores.png?v=a6357d377c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/1.jpg?v=5bdd996982",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/2.jpg?v=da01ce17fc",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/3.jpg?v=8d7bd223ab",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/4.jpg?v=6b58aef1be",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/5.jpg?v=13e8436ad0"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/1.jpg?v=379fc9c4fd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/2.jpg?v=150f2d8e46",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/3.jpg?v=576a3ea4d5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/4.jpg?v=a09c49a864",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/5.jpg?v=35285937eb"
    ],
    "downloads": [
     {
@@ -3840,13 +3844,13 @@
    ],
    "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e",
    "restart": true,
-   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplysports.png?v=1255bbabce",
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplysports.png?v=821804952e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/1.jpg?v=ecbadb6716",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/2.jpg?v=f065dd6965",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/3.jpg?v=ac180c4b43",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/4.jpg?v=c5ab948a33",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/5.jpg?v=53de917be1"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/1.jpg?v=a66de24ebb",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/2.jpg?v=77872f0d88",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/3.jpg?v=bed3314992",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/4.jpg?v=896a12065f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/5.jpg?v=061f092d34"
    ],
    "downloads": [
     {
@@ -5432,6 +5436,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "r14TTya/U0dD6ibmuxeCDbpyIfQlxJafvQT7spGasFDLsdH0oQseKL9Ck+N1grErd4IQSoa31zUL6DkJF/8mBw=="
+  "sig": "6pEn7eKBxLE6EfQushM1G9n/czYNWZJyIoq4r2mFeS0oYYzu7s7b8AkmYXEV4qFK1wLzJ2LoaLn0vJKhErCNCg=="
  }
 }

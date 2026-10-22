@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-22T14:57:55Z",
+ "generated": "2026-10-22T15:12:28Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -432,16 +432,20 @@
    "id": "enigmaplay",
    "category": "extensions",
    "name": "EnigmaPlay",
-   "version": "1.2.82",
+   "version": "1.2.83",
    "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
-   "updated": "21.10.2026",
-   "updated_ts": 1792530405,
+   "updated": "22.10.2026",
+   "updated_ts": 1792681913,
    "status_codes": [
     "Uti"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "22.10.2026",
+     "1.2.83 - التنقل بالريموت صار أسرع: المتجر ما بيعيد رسم إلا اللي تغيّر على الشاشة، وما بيرجع يقرأ حالة البلجنات والأيقونات من الملفات مع كل ضغطة"
+    ],
     [
      "21.10.2026",
      "1.2.82 - استعادة البلجنات وتحديث الكل بضغطة وحدة: ما في إعادة تشغيل بالنص (البلجنات اللي بتعيد تشغيل الواجهة بتستنى للآخر)، ما في رسائل تأكيد بالنص، إذا تغيّر ملف عند المطوّر بينزل من النسخة الاحتياطية، وبالآخر إعادة تشغيل وحدة لحالها. وإذا انقطعت بإعادة تشغيل بتكمل لحالها"
@@ -615,7 +619,7 @@
      "1.2.40 - صفحة البلجن الجديدة، والتثبيت على رسيفراتك الأخرى من نفس الحساب"
     ]
    ],
-   "sha256": "b01cbd6d05e57490bb72fa6c832289e90e5430db409cf7f199df0e207d4f29ef",
+   "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmaplay.png?v=f264c49e9a",
    "screenshots": [
@@ -627,27 +631,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.ipk",
-     "sha256": "b01cbd6d05e57490bb72fa6c832289e90e5430db409cf7f199df0e207d4f29ef",
-     "size": 2337222,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
+     "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c",
+     "size": 2338524,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.ipk",
-       "sha256": "b01cbd6d05e57490bb72fa6c832289e90e5430db409cf7f199df0e207d4f29ef"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk",
+       "sha256": "f10ba88fed75ef20e4bd0c41d126015d6bf794281516f65a74b080b57c7f1f0c"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.deb",
-     "sha256": "0793d86026341e06f9e64a4156a539660a01f659d72705c2ccb87ee277be8130",
-     "size": 2337226,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.deb",
+     "sha256": "693108a61ea65064107d623d7983c40f505fd2c95f7c02e4705587bd366e41f9",
+     "size": 2338528,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.deb",
-       "sha256": "0793d86026341e06f9e64a4156a539660a01f659d72705c2ccb87ee277be8130"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.deb",
+       "sha256": "693108a61ea65064107d623d7983c40f505fd2c95f7c02e4705587bd366e41f9"
       }
      ]
     }
@@ -5428,6 +5432,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "fRq2oq7+tLsx9nFPfDXFiphzTi+J73bXEb+OrlhnytuGXJoc/Ow3y/W5YHjpF3jrzctTnvHaZ/ca0XfcsycpCQ=="
+  "sig": "r14TTya/U0dD6ibmuxeCDbpyIfQlxJafvQT7spGasFDLsdH0oQseKL9Ck+N1grErd4IQSoa31zUL6DkJF/8mBw=="
  }
 }

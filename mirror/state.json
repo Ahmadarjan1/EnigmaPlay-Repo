@@ -46,9 +46,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-21",
-"sha256": "b04461fd3b3beea818904b12d967c87c2e40384efdb9e697d138f06584ba4775",
-"size": 323992
+"date": "2026-10-22",
+"sha256": "22d2402f78def3819e93c69549a29c3a15163456e061f9cfb0e1b16c9bb5c081",
+"size": 325147
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -6055,6 +6055,11 @@
 "sha256": "62a2a7e302b84fb287b30addf6f3d5cca55e80964bd5ee5e6d3362bc98e465f5",
 "size": 820
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk": {
+"date": "2026-10-22",
+"sha256": "b415765fc715aa4bbea68a8f4e46e0a34c9f4c9f64236e334e76fb7a6fc07c42",
+"size": 51326
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/busybox-cron_1.22.1-r32_mips32el-nf.ipk": {
 "date": "2026-10-09",
 "sha256": "621c67da496a9756e7ee098e0b6178cdc602975f26a6cdc31d5ae5b88160ef98",
@@ -6440,6 +6445,11 @@
 "sha256": "033ed95e93bfddcbb1d8cd8a2ffef51dd84d0577a06265addd2ceba5b466f3d4",
 "size": 4077512
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-redflag-packagemanager_1.9_all.ipk": {
+"date": "2026-10-22",
+"sha256": "7ed82eb09e8b3758d93d388760538c536d5f6ce96bcd3738a69b1315fc05a8fc",
+"size": 76074
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk": {
 "date": "2026-10-09",
 "sha256": "f42085cbe07984945b0251ec867ace77fc6dd943db1eba9826abfeab6334b1b5",
@@ -6534,6 +6544,11 @@
 "date": "2026-10-09",
 "sha256": "b1439329be718177656e073267f761ab549b2fe46e159bc1d1b3d386967e9b76",
 "size": 97634
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-uydumarkettkgs_2.2.0_all.ipk": {
+"date": "2026-10-22",
+"sha256": "0ccd3de9b4b6e7ce01ce8a9306d32851d9c1377f9ea7e9e33e4dfb831b62d606",
+"size": 21666
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-vti-fccextender_0.3-Beta_all.ipk": {
 "date": "2026-10-09",
@@ -7575,6 +7590,11 @@
 "sha256": "117ea554e72f68014ea77354cd7a9fc3de043a5a70704458010341dd18202f7b",
 "size": 2934740
 },
+"gh/Belfagor2005/upload/oe2.5/varius/E2-Security_1.1.1_all.deb": {
+"date": "2026-10-22",
+"sha256": "b415765fc715aa4bbea68a8f4e46e0a34c9f4c9f64236e334e76fb7a6fc07c42",
+"size": 51326
+},
 "gh/Belfagor2005/upload/oe2.5/varius/TMBD_8.6-r5-by-Dima73-Mod-RAED_DreamOS.deb": {
 "date": "2026-10-09",
 "sha256": "cb96e12356b4582ff23fc69c99391e91ced96672d13654b1b758b35313f3b953",
@@ -8125,6 +8145,11 @@
 "sha256": "ca87abf8efa36050e89a71c10a6167965c4d1bb1d5dedb682a54d4f7152b6ea2",
 "size": 89164
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-panelaio_17.0.1_all.deb": {
+"date": "2026-10-22",
+"sha256": "2d2b3d9ba9a959407f0925d190ef9b1bed9610f9bc140c7c315ea8011cc17dba",
+"size": 406046
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-parsatv-1.1-oeOE2.6-all.deb": {
 "date": "2026-10-09",
 "sha256": "5fb45629bf6be6b7fb725d8057c620a239de900bb340f02cf31d0a34ae6c1366",
@@ -8571,13 +8596,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-22 20:39",
+"last_run": "2026-10-22 21:46",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-22",
-"files": 1714,
+"files": 1719,
 "upstream": "ok"
 }
 }

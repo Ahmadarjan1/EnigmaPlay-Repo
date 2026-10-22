@@ -2149,6 +2149,12 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
+"name": "E2 Security v.1.1.1 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/E2-Security_1.1.1_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
 "name": "E2iplayer v.h1+git3988+7977fec-r4 all",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-e2iplayer_h1+git3988+7977fec-r4_all.deb"
@@ -2506,6 +2512,12 @@
 "name": "New Virtual Keyboard v.13.8.20260425 all",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-systemplugins-newvirtualkeyboard_13.8.20260425_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
+"name": "Panel AIO v.17.0.1 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_17.0.1_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -3193,9 +3205,9 @@
 },
 {
 "section": "Panels Addons",
-"name": "Panel AIO v.16.0.0 all",
+"name": "Panel AIO v.17.0.1 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_16.0.0_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_17.0.1_all.ipk"
 },
 {
 "section": "Panels Addons",
@@ -4909,6 +4921,12 @@
 },
 {
 "section": "Utility Tools",
+"name": "E2 Security v.1.1.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk"
+},
+{
+"section": "Utility Tools",
 "name": "Eparted_0.13-r1 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"
@@ -5197,6 +5215,12 @@
 },
 {
 "section": "Utility Tools",
+"name": "Redflag Packagemanager v.1.9 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-redflag-packagemanager_1.9_all.ipk"
+},
+{
+"section": "Utility Tools",
 "name": "S4aupdater 23.12.27.1727 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-s4aupdater_23.12.27.1727_all.ipk"
@@ -5332,6 +5356,12 @@
 "name": "Translator Youtube Trailer v.1.1 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-translator_1.1_all.ipk"
+},
+{
+"section": "Utility Tools",
+"name": "Uydu Markettkgs v.2.2.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-uydumarkettkgs_2.2.0_all.ipk"
 },
 {
 "section": "Utility Tools",

@@ -36,6 +36,10 @@ jobs:
           SITE_DISPATCH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
         run: |
           if [ "$(git rev-list --count origin/main..HEAD)" = "0" ]; then echo "Nothing imported"; exit 0; fi
+          # pictures light for the receivers (icons 256 px, screenshots JPEG 1280 px)
+          pip install -q pillow && python3 tools/optimize_images.py || true
+          git add -A icons screenshots packages
+          git diff --cached --quiet || git commit -m "Optimize pictures [skip ci]"
           python3 tools/build_index.py --require-signature
           git add index.json
           git diff --cached --quiet || git commit -m "Update index.json [skip ci]"

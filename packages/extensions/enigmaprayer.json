@@ -17,10 +17,10 @@
  "restart": true,
  "icon": "icons/enigmaprayer.png",
  "screenshots": [
-  "screenshots/enigmaprayer/1.png",
-  "screenshots/enigmaprayer/2.png",
-  "screenshots/enigmaprayer/3.png",
-  "screenshots/enigmaprayer/4.png"
+  "screenshots/enigmaprayer/1.jpg",
+  "screenshots/enigmaprayer/2.jpg",
+  "screenshots/enigmaprayer/3.jpg",
+  "screenshots/enigmaprayer/4.jpg"
  ],
  "package": "enigma2-plugin-extensions-enigmaprayer",
  "downloads": [

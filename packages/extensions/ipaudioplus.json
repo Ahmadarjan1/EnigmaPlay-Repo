@@ -16,10 +16,10 @@
   "restart": true,
   "icon": "icons/ipaudioplus.png",
   "screenshots": [
-    "screenshots/ipaudioplus/1.png",
-    "screenshots/ipaudioplus/2.png",
-    "screenshots/ipaudioplus/3.png",
-    "screenshots/ipaudioplus/4.png"
+    "screenshots/ipaudioplus/1.jpg",
+    "screenshots/ipaudioplus/2.jpg",
+    "screenshots/ipaudioplus/3.jpg",
+    "screenshots/ipaudioplus/4.jpg"
   ],
   "package": "enigma2-plugin-extensions-ipaudioplus",
   "downloads": [

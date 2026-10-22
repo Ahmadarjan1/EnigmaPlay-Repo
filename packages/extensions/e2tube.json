@@ -16,10 +16,10 @@
  "restart": true,
  "icon": "icons/e2tube.png",
  "screenshots": [
-  "screenshots/e2tube/1.png",
-  "screenshots/e2tube/2.png",
-  "screenshots/e2tube/3.png",
-  "screenshots/e2tube/4.png"
+  "screenshots/e2tube/1.jpg",
+  "screenshots/e2tube/2.jpg",
+  "screenshots/e2tube/3.jpg",
+  "screenshots/e2tube/4.jpg"
  ],
  "package": "enigma2-plugin-extensions-e2tube",
  "downloads": [

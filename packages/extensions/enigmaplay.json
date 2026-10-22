@@ -3,7 +3,7 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.85",
+  "version": "1.2.86",
   "updated": "2026-10-22",
   "python": [
     "3"
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.85/enigma2-plugin-extensions-enigmaplay_1.2.85_all.ipk"
+      "file": "files/enigmaplay/1.2.86/enigma2-plugin-extensions-enigmaplay_1.2.86_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.85/enigma2-plugin-extensions-enigmaplay_1.2.85_all.deb"
+      "file": "files/enigmaplay/1.2.86/enigma2-plugin-extensions-enigmaplay_1.2.86_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-22",
+      "text": "1.2.86 - الرجوع للنسخة السابقة: قبل كل تحديث المتجر بيحفظ نسخة من البلجن مع إعداداته (على الهارد أو الفلاشة إذا موجودة). إذا خرب التحديث أو ما عجبك، زر «النسخة السابقة» بصفحة البلجن أو «النسخ السابقة» بالقائمة بيرجّعه متل ما كان، و«تحديث الكل» ما بيرجع يحدّثه لحتى تحدّثه بنفسك"
+    },
     {
       "date": "2026-10-22",
       "text": "1.2.85 - ترمنل من تطبيق الجوال: بتلصق أمر تثبيت بلجن أو رابطه من تبويب التحكم وبيتنفّذ على الرسيفر وبتشوف النتيجة مباشرة. أول مرة بتوافق من التلفزيون حتى ما يقدر أي جهاز ثاني يشغّل أوامر"
@@ -236,5 +240,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792684837
+  "updated_at": 1792690531
 }

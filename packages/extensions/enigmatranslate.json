@@ -1,0 +1,59 @@
+{
+  "id": "enigmatranslate",
+  "name": "Enigma Translate",
+  "category": "extensions",
+  "subcategory": "Sub",
+  "tags": [
+    "Free"
+  ],
+  "version": "1.0.64",
+  "updated": "2026-10-23",
+  "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
+  "author": "Ahmad Al-Qaisi",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/enigmatranslate.png",
+  "screenshots": [
+    "screenshots/enigmatranslate/1.jpg",
+    "screenshots/enigmatranslate/2.jpg",
+    "screenshots/enigmatranslate/3.jpg",
+    "screenshots/enigmatranslate/4.jpg"
+  ],
+  "package": "enigma2-plugin-extensions-enigmatranslate",
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.ipk"
+    },
+    {
+      "type": "deb",
+      "file": "files/enigmatranslate/1.0.64/enigma2-plugin-extensions-enigmatranslate_1.0.64_all.deb"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "1.0.64 - ترجمة متزامنة مع الكلام على قنوات DVB (تأخير صورة تلقائي لكل قناة بدون تجميد)، التيليتكست أولاً لأنه أسرع، التعرّف على الفلم من الصوت وجلب ترجمته العربية الجاهزة مع ضبط التوقيت، اتصال أسرع بالخدمات، وتحسين IPTV"
+    },
+    {
+      "date": "2026-10-18",
+      "text": "1.0.35.2 - إضافة حقوق الملكية: البرنامج مجاني للاستخدام الشخصي، ويمنع نسخه أو تعديله أو إعادة نشره بدون إذن المؤلف"
+    },
+    {
+      "date": "2026-10-18",
+      "text": "1.0.35.1 - إصلاح توقف البلجن عند فتحه بعد التثبيت (خطأ ai_provider على OpenBH وغيرها)"
+    },
+    {
+      "date": "2026-10-18",
+      "text": "1.0.35 - أول إصدار على المتجر: ترجمة DVB والتيليتكست والأفلام والصوت، دعم IPTV باتصال واحد، إيقاف فوري، وأزرار ضبط التوقيت من الريموت"
+    }
+  ],
+  "i18n": {
+    "en": {
+      "description": "Live translation of foreign TV channels into Arabic: translates the channel's own DVB and teletext subtitles, fetches ready-made subtitles for movies and syncs them, and translates live audio with AI (Groq, Gemini and others) with a picture delay so subtitles match speech. Works on satellite, encrypted and single-connection IPTV channels. Arabic UI and a phone page for API keys."
+    }
+  },
+  "featured": false
+}

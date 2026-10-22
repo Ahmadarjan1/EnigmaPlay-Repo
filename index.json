@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-21T23:57:30Z",
+ "generated": "2026-10-22T14:12:32Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -14240,6 +14240,66 @@
    "auto_src": "biko-73/FootOnSat"
   },
   {
+   "id": "simplyscores",
+   "category": "sports",
+   "name": "SimplyScores",
+   "version": "1.0",
+   "description": "New plugin: SimplyScores \n⚽📺 Match highlights, right on your TV!\n\nNo more scrolling on your phone. The latest football summaries and goals from TikTok now play straight on your satellite receiver, with live scores alongside 🔥\n\nMeet SimplyScores v1.0 for Enigma2, by reali22:\n\n✅ Match summaries and goals from TikTok channels, newest first\n✅ TikTok-style vertical feed; switch videos with the remote's arrow keys\n✅ Live scores: Champions League, Europa League, Conference League, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1\n✅ Add your favourite channels easily, even from your phone\n✅ Automatic updates from GitHub\n\n📥 Install: run this one line by Telnet or SSH:\n\nwget -q --no-check-certificate https://raw.githubusercontent.com/Ahmed-Mohammed-Abbas/SimplyScores/main/installer.sh -O - | /bin/sh",
+   "updated": "22.10.2026",
+   "updated_ts": 1792678350,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplyscores/1.0/enigma2-plugin-extensions-simplyscores_1.0_all.ipk",
+   "host": "github",
+   "changelog": [
+    [
+     "22.10.2026",
+     "1.0 - Completely new"
+    ]
+   ],
+   "sha256": "f33e0b4be4656dffb1febf493796e0c986fc8f65c85cfb5075c9c0a8a94dce75",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplyscores.png?v=a6357d377c",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/1.jpg?v=5bdd996982",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/2.jpg?v=da01ce17fc",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/3.jpg?v=8d7bd223ab",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/4.jpg?v=6b58aef1be",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplyscores/5.jpg?v=13e8436ad0"
+   ],
+   "downloads": [
+    {
+     "type": "ipk",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplyscores/1.0/enigma2-plugin-extensions-simplyscores_1.0_all.ipk",
+     "sha256": "f33e0b4be4656dffb1febf493796e0c986fc8f65c85cfb5075c9c0a8a94dce75",
+     "size": 147976,
+     "mirrors": [
+      {
+       "type": "ipk",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/simplyscores/1.0/enigma2-plugin-extensions-simplyscores_1.0_all.ipk",
+       "sha256": "f33e0b4be4656dffb1febf493796e0c986fc8f65c85cfb5075c9c0a8a94dce75"
+      }
+     ]
+    },
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplyscores/1.0/installer.sh",
+     "sha256": "c000342c8771b6317170caa4bce3b57e6635820b921bb617b4649e9c4c79a8b2",
+     "size": 1940,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/simplyscores/1.0/installer.sh",
+       "sha256": "c000342c8771b6317170caa4bce3b57e6635820b921bb617b4649e9c4c79a8b2"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "reali22",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/Ahmed-Mohammed-Abbas/SimplyScores/main/installer.sh -O - | /bin/sh"
+  },
+  {
    "id": "simplysports",
    "category": "sports",
    "name": "SimplySports",
@@ -15889,6 +15949,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "8zQG99RqTmjukCS2mC8YehRiJieOEMw6N8lUBZHK8NVVMNaf1fFYl6FX17i1zY7V5S7k6GKElAXioPQWEHfKDg=="
+  "sig": "5gGruJWr9Un4MzvlI5uh8RyccxLoXuH0jyUNxiEgh8CIbk2yCwJoAKwHoj53I439+h05l2GgGB0RkvWJQlByBA=="
  }
 }

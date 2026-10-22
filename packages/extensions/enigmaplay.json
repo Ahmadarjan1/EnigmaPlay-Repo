@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.82",
-  "updated": "2026-10-21",
+  "version": "1.2.83",
+  "updated": "2026-10-22",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.ipk"
+      "file": "files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.82/enigma2-plugin-extensions-enigmaplay_1.2.82_all.deb"
+      "file": "files/enigmaplay/1.2.83/enigma2-plugin-extensions-enigmaplay_1.2.83_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-22",
+      "text": "1.2.83 - التنقل بالريموت صار أسرع: المتجر ما بيعيد رسم إلا اللي تغيّر على الشاشة، وما بيرجع يقرأ حالة البلجنات والأيقونات من الملفات مع كل ضغطة"
+    },
     {
       "date": "2026-10-21",
       "text": "1.2.82 - استعادة البلجنات وتحديث الكل بضغطة وحدة: ما في إعادة تشغيل بالنص (البلجنات اللي بتعيد تشغيل الواجهة بتستنى للآخر)، ما في رسائل تأكيد بالنص، إذا تغيّر ملف عند المطوّر بينزل من النسخة الاحتياطية، وبالآخر إعادة تشغيل وحدة لحالها. وإذا انقطعت بإعادة تشغيل بتكمل لحالها"
@@ -224,5 +228,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792530405
+  "updated_at": 1792681913
 }

@@ -30,6 +30,8 @@ jobs:
           git config user.name  "enigmaplay-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           python3 tools/import_submissions.py
+          # categories added / edited / reordered in enigmaplay.org/site-admin, and plugins moved there
+          python3 tools/sync_categories.py || echo "::warning::category sync failed"
       - name: Rebuild index and push
         env:
           INDEX_SIGNING_KEY: ${{ secrets.INDEX_SIGNING_KEY }}

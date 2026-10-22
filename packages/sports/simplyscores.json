@@ -1,0 +1,40 @@
+{
+  "id": "simplyscores",
+  "name": "SimplyScores",
+  "category": "sports",
+  "version": "1.0",
+  "updated": "2026-10-22",
+  "updated_at": 1792678350,
+  "description": "New plugin: SimplyScores \n⚽📺 Match highlights, right on your TV!\n\nNo more scrolling on your phone. The latest football summaries and goals from TikTok now play straight on your satellite receiver, with live scores alongside 🔥\n\nMeet SimplyScores v1.0 for Enigma2, by reali22:\n\n✅ Match summaries and goals from TikTok channels, newest first\n✅ TikTok-style vertical feed; switch videos with the remote's arrow keys\n✅ Live scores: Champions League, Europa League, Conference League, Premier League, LaLiga, Serie A, Bundesliga, Ligue 1\n✅ Add your favourite channels easily, even from your phone\n✅ Automatic updates from GitHub\n\n📥 Install: run this one line by Telnet or SSH:\n\nwget -q --no-check-certificate https://raw.githubusercontent.com/Ahmed-Mohammed-Abbas/SimplyScores/main/installer.sh -O - | /bin/sh",
+  "author": "reali22",
+  "developer": "reali22",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/simplyscores.png",
+  "screenshots": [
+    "screenshots/simplyscores/1.jpg",
+    "screenshots/simplyscores/2.jpg",
+    "screenshots/simplyscores/3.jpg",
+    "screenshots/simplyscores/4.jpg",
+    "screenshots/simplyscores/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "ipk",
+      "file": "files/simplyscores/1.0/enigma2-plugin-extensions-simplyscores_1.0_all.ipk"
+    },
+    {
+      "type": "sh",
+      "file": "files/simplyscores/1.0/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-22",
+      "text": "1.0 - Completely new"
+    }
+  ],
+  "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/Ahmed-Mohammed-Abbas/SimplyScores/main/installer.sh -O - | /bin/sh"
+}

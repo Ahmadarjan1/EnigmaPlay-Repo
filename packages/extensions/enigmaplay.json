@@ -3,8 +3,8 @@
   "name": "EnigmaPlay",
   "category": "extensions",
   "subcategory": "Uti",
-  "version": "1.2.86",
-  "updated": "2026-10-22",
+  "version": "1.2.87",
+  "updated": "2026-10-23",
   "python": [
     "3"
   ],
@@ -13,11 +13,11 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmaplay/1.2.86/enigma2-plugin-extensions-enigmaplay_1.2.86_all.ipk"
+      "file": "files/enigmaplay/1.2.87/enigma2-plugin-extensions-enigmaplay_1.2.87_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmaplay/1.2.86/enigma2-plugin-extensions-enigmaplay_1.2.86_all.deb"
+      "file": "files/enigmaplay/1.2.87/enigma2-plugin-extensions-enigmaplay_1.2.87_all.deb"
     }
   ],
   "description": "متجر إضافات إنيجما2: تثبيت وتحديث البلجنات واستعادتها على أي صورة بحسابك",
@@ -30,6 +30,10 @@
     "screenshots/enigmaplay/4.jpg"
   ],
   "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "1.2.87 - الأقسام الجديدة اللي بتنضاف من لوحة إدارة الموقع بتظهر باسمها الإنجليزي للغات اللي ما إلها ترجمة، بدل الاسم العربي"
+    },
     {
       "date": "2026-10-22",
       "text": "1.2.86 - الرجوع للنسخة السابقة: قبل كل تحديث المتجر بيحفظ نسخة من البلجن مع إعداداته (على الهارد أو الفلاشة إذا موجودة). إذا خرب التحديث أو ما عجبك، زر «النسخة السابقة» بصفحة البلجن أو «النسخ السابقة» بالقائمة بيرجّعه متل ما كان، و«تحديث الكل» ما بيرجع يحدّثه لحتى تحدّثه بنفسك"
@@ -240,5 +244,5 @@
     }
   },
   "featured": true,
-  "updated_at": 1792690531
+  "updated_at": 1792702866
 }

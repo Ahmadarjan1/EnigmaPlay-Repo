@@ -2,8 +2,8 @@
   "id": "ciefpeasysetup",
   "name": "CiefpEasySetup",
   "category": "panels",
-  "version": "3.1",
-  "updated": "2026-10-18",
+  "version": "3.2",
+  "updated": "2026-10-23",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpeasysetup/3.1/installer.sh"
+      "file": "files/ciefpeasysetup/3.2/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "3.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
+    },
     {
       "date": "2026-10-18",
       "text": "3.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
@@ -60,5 +64,5 @@
       "description": "CiefpEasySetup - plugin for automatic installation of various plugins"
     }
   },
-  "updated_at": 1792322537
+  "updated_at": 1792794024
 }

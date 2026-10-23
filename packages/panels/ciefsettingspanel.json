@@ -2,8 +2,8 @@
   "id": "ciefsettingspanel",
   "name": "Ciefsettingspanel",
   "category": "panels",
-  "version": "7.2",
-  "updated": "2026-10-13",
+  "version": "7.3",
+  "updated": "2026-10-23",
   "description": "بانل تسطيب اضافات",
   "python": [
     "2",
@@ -19,10 +19,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefsettingspanel/7.2/installer.sh"
+      "file": "files/ciefsettingspanel/7.3/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "7.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    },
     {
       "date": "2026-10-11",
       "text": "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -54,7 +58,7 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpsettingsPanel/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1791911671,
+  "updated_at": 1792794035,
   "author": "ciefp",
   "developer": "ciefp",
   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpsettingsPanel/main/installer.sh -O - | /bin/sh",

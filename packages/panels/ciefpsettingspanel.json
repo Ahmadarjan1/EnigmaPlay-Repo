@@ -2,8 +2,8 @@
   "id": "ciefpsettingspanel",
   "name": "CiefpsettingsPanel",
   "category": "panels",
-  "version": "7.2",
-  "updated": "2026-10-12",
+  "version": "7.3",
+  "updated": "2026-10-23",
   "description": "بانل تسطيب اضافات",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpsettingspanel/7.2/installer.sh"
+      "file": "files/ciefpsettingspanel/7.3/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "7.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    },
     {
       "date": "2026-10-11",
       "text": "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -60,5 +64,5 @@
       "description": "Ciefpsettings Panel - plugin for installing various plugins via wget command"
     }
   },
-  "updated_at": 1791823955
+  "updated_at": 1792794030
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-23T19:30:24Z",
+ "generated": "2026-10-23T22:20:37Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1435,16 +1435,20 @@
    "id": "ciefp-plugins",
    "category": "panels",
    "name": "Ciefp-plugins",
-   "version": "4.5",
+   "version": "4.6",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "12.10.2026",
-   "updated_ts": 1791823959,
+   "updated": "23.10.2026",
+   "updated_ts": 1792794022,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.6/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "4.6 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "11.10.2026",
      "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -1471,13 +1475,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.5/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefp-plugins/4.6/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.5/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefp-plugins/4.6/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -1750,16 +1754,20 @@
    "id": "ciefpeasysetup",
    "category": "panels",
    "name": "CiefpEasySetup",
-   "version": "3.1",
+   "version": "3.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "18.10.2026",
-   "updated_ts": 1792322537,
+   "updated": "23.10.2026",
+   "updated_ts": 1792794024,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.1/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "3.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
+    ],
     [
      "18.10.2026",
      "3.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
@@ -1786,13 +1794,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.1/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.2/installer.sh",
      "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
      "size": 2666,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.1/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.2/installer.sh",
        "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320"
       }
      ]
@@ -2313,16 +2321,20 @@
    "id": "ciefpplugins",
    "category": "panels",
    "name": "CiefpPlugins",
-   "version": "4.5",
+   "version": "4.6",
    "description": "بانل تسطيب اضافات خاصة ببافل سييف",
-   "updated": "13.10.2026",
-   "updated_ts": 1791911689,
+   "updated": "23.10.2026",
+   "updated_ts": 1792794027,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.6/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "4.6 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
+    ],
     [
      "11.10.2026",
      "4.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpPlugins)"
@@ -2349,13 +2361,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.5/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpplugins/4.6/installer.sh",
      "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d",
      "size": 3129,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.5/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpplugins/4.6/installer.sh",
        "sha256": "051fd93e048fc0f184e6788684c14d321c003e1e2f05ef6549353c496965c68d"
       }
      ]
@@ -2750,16 +2762,20 @@
    "id": "ciefpsettingspanel",
    "category": "panels",
    "name": "CiefpsettingsPanel",
-   "version": "7.2",
+   "version": "7.3",
    "description": "بانل تسطيب اضافات",
-   "updated": "12.10.2026",
-   "updated_ts": 1791823955,
+   "updated": "23.10.2026",
+   "updated_ts": 1792794030,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.3/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "7.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "11.10.2026",
      "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -2786,13 +2802,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.2/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingspanel/7.3/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.2/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingspanel/7.3/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -3861,16 +3877,20 @@
    "id": "ciefsettingspanel",
    "category": "panels",
    "name": "Ciefsettingspanel",
-   "version": "7.2",
+   "version": "7.3",
    "description": "بانل تسطيب اضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791911671,
+   "updated": "23.10.2026",
+   "updated_ts": 1792794035,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.3/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "7.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
+    ],
     [
      "11.10.2026",
      "7.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpsettingsPanel)"
@@ -3899,13 +3919,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.2/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefsettingspanel/7.3/installer.sh",
      "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc",
      "size": 3166,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.2/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefsettingspanel/7.3/installer.sh",
        "sha256": "65c49a9f0e42c215ec4d5224d3599220fa9058c7b4dc76c04bb234ffed9806fc"
       }
      ]
@@ -5700,6 +5720,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "MOWZTehPLpPUW4gH3QS8i+1FyNSrTkjCKUKv5625tbylr5HcUmjfSuMpskxYQ7uhxxpshTMoaDYKxxrHDu+lCA=="
+  "sig": "ItukdYf3xXw0LFEfSwJeDV4qcsxjUsVEyZcKQHlAwa+E5+IFjKCqKpKjS1r0lruRRzON57Yw3mXv9/yhPK4wCQ=="
  }
 }

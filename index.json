@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-23T19:17:26Z",
+ "generated": "2026-10-23T19:30:24Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1258,6 +1258,59 @@
     }
    },
    "featured": true
+  },
+  {
+   "id": "subssupportpro",
+   "category": "extensions",
+   "name": "SubsSupportPro",
+   "version": "1.5.0",
+   "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download",
+   "updated": "23.10.2026",
+   "updated_ts": 1792783811,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/subssupportpro/1.5.0/myinstaller.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "23.10.2026",
+     "1.5.0 - أول إصدار"
+    ]
+   ],
+   "sha256": "21057ada2f27a1b439e9e72f5059ac7012f1470e3037ba542e5a3e336744f5e4",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/subssupportpro.png?v=612e46ee2e",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/subssupportpro/1.jpg?v=b987bdcb43",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/subssupportpro/2.jpg?v=832e3b47e4",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/subssupportpro/3.jpg?v=e3277236c5",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/subssupportpro/4.jpg?v=9a0e51634c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/subssupportpro/5.jpg?v=abff93b296"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/subssupportpro/1.5.0/myinstaller.sh",
+     "sha256": "21057ada2f27a1b439e9e72f5059ac7012f1470e3037ba542e5a3e336744f5e4",
+     "size": 5792,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/subssupportpro/1.5.0/myinstaller.sh",
+       "sha256": "21057ada2f27a1b439e9e72f5059ac7012f1470e3037ba542e5a3e336744f5e4"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "subssupportpro",
+   "author": "popking159",
+   "telnet": "wget -qO - https://raw.githubusercontent.com/popking159/SubsSupportPro/refs/heads/main/myinstaller.sh | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download"
+    }
+   }
   },
   {
    "id": "ciefpyoutube-2",
@@ -5647,6 +5700,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "INt9NcpKI9EdkFXDCCG6oPdgDaocfQAiWS4is1AAsUtAGjqKEYV3CIWGEFaUUhn7Udq8JRdek+dm/BDEGG7OAw=="
+  "sig": "MOWZTehPLpPUW4gH3QS8i+1FyNSrTkjCKUKv5625tbylr5HcUmjfSuMpskxYQ7uhxxpshTMoaDYKxxrHDu+lCA=="
  }
 }

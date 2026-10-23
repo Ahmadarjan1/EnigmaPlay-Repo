@@ -1,0 +1,42 @@
+{
+  "id": "k3bora",
+  "name": "UltraStalker",
+  "category": "iptv",
+  "version": "9.2.2",
+  "updated": "2026-10-23",
+  "updated_at": 1792783030,
+  "description": "All-in-one Enigma2 media hub for Live TV, Movies, Series, Local Media, Trailers, Search, Subtitles and more",
+  "author": "Ahmed L-HadarY",
+  "developer": "ahmad",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/k3bora.png",
+  "screenshots": [
+    "screenshots/k3bora/1.jpg",
+    "screenshots/k3bora/2.jpg",
+    "screenshots/k3bora/3.jpg",
+    "screenshots/k3bora/4.jpg",
+    "screenshots/k3bora/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/k3bora/9.2.2/install.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "9.2.2 - update.json"
+    }
+  ],
+  "package": "install.sh",
+  "telnet": "wget -qO- https://raw.githubusercontent.com/K3bOra/-UltraStalker/main/install.sh | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "All-in-one Enigma2 media hub for Live TV, Movies, Series, Local Media, Trailers, Search, Subtitles and more"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-22T22:33:51Z",
+ "generated": "2026-10-23T00:02:10Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -20,6 +20,12 @@
    "name": "رياضة",
    "order": 4,
    "color": "#2e7d32"
+  },
+  {
+   "id": "skins",
+   "name": "سكنات",
+   "order": 5,
+   "color": "#1a73e8"
   },
   {
    "id": "panels",
@@ -467,10 +473,10 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmatranslate.png?v=e6ebf8f61c",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/1.jpg?v=7800b265ec",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/2.jpg?v=02b21052a0",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/3.jpg?v=ca03a38a46",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/4.jpg?v=d34435eac8"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/1.jpg?v=eec1331099",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/2.jpg?v=a331cf51dd",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/3.jpg?v=3661e9caf1",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/enigmatranslate/4.jpg?v=c2aaa781c8"
    ],
    "downloads": [
     {
@@ -3862,6 +3868,59 @@
    }
   },
   {
+   "id": "dali44g",
+   "category": "skins",
+   "name": "Obsidian-FHD",
+   "version": "1.5.2",
+   "description": "Obsidian FHD: a modern 1080p skin for enigma2 (OpenPLi, OpenATV and other images)\nA dark \"Obsidian Telemetry\" skin: OLED-black canvas, electric-cyan and RF-amber accents, Inter for text and JetBrains Mono for technical data. It is built on the structure of PLi-FullNightHD, the reference Full HD skin maintained by OpenPLi, so all of its ~480 screen and plugin definitions use widget names that the OpenPLi code expects.\n\nResolution: 1920×1080 (the box must support Full HD skins)\nFonts: Inter, JetBrains Mono and Noto Kufi Arabic (for Arabic text) ship inside the skin (SIL OFL licence).\nWeather (optional): with the OAWeather plugin installed, the infobar shows the current weather in the top-left corner and the OAWeather screens use the Obsidian style. Without the plugin, nothing changes.",
+   "updated": "23.10.2026",
+   "updated_ts": 1792713717,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/dali44g/1.5.2/install.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "23.10.2026",
+     "1.5.2 - أول إصدار"
+    ]
+   ],
+   "sha256": "8a725775320b32172a08a2a2a1ca50e54ec44cf0d34f5b4f390d2182b95066e2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/dali44g.png?v=0d37ff7589",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/dali44g/1.jpg?v=a336e54772",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/dali44g/2.jpg?v=a9171cc69d",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/dali44g/3.jpg?v=c64bd6f42a",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/dali44g/4.jpg?v=7573b0f13f",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/dali44g/5.jpg?v=1e2e87dcf3"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/dali44g/1.5.2/install.sh",
+     "sha256": "8a725775320b32172a08a2a2a1ca50e54ec44cf0d34f5b4f390d2182b95066e2",
+     "size": 1130,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/dali44g/1.5.2/install.sh",
+       "sha256": "8a725775320b32172a08a2a2a1ca50e54ec44cf0d34f5b4f390d2182b95066e2"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "enigma2-plugin-skins-obsidian-fhd",
+   "author": "dali44g",
+   "telnet": "wget -qO- https://raw.githubusercontent.com/dali44g/Obsidian-FHD/main/install.sh | sh",
+   "i18n": {
+    "en": {
+     "description": "Obsidian FHD: a modern 1080p skin for enigma2 (OpenPLi, OpenATV and other images)\nA dark \"Obsidian Telemetry\" skin: OLED-black canvas, electric-cyan and RF-amber accents, Inter for text and JetBrains Mono for technical data. It is built on the structure of PLi-FullNightHD, the reference Full HD skin maintained by OpenPLi, so all of its ~480 screen and plugin definitions use widget names that the OpenPLi code expects.\n\nResolution: 1920×1080 (the box must support Full HD skins)\nFonts: Inter, JetBrains Mono and Noto Kufi Arabic (for Arabic text) ship inside the skin (SIL OFL licence).\nWeather (optional): with the OAWeather plugin installed, the infobar shows the current weather in the top-left corner and the OAWeather screens use the Obsidian style. Without the plugin, nothing changes."
+    }
+   }
+  },
+  {
    "id": "simplyscores",
    "category": "sports",
    "name": "SimplyScores",
@@ -5531,6 +5590,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "7abbNiONWnhjzrxGhWEIonM/zgUeA4aUwnbnW7Bd8jdNOolKzYHt54g5XZGIGLlP8TGe4If2CaDJ88gVBqgADw=="
+  "sig": "OiPkfBdzobnEH1SIifRdyWHxb2Uc6xAshtz5x+yRVN02fZLydJusMqLrHql1+GZtRaWyTr8cJ69xbxtIMGIVAQ=="
  }
 }

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-23T00:02:10Z",
+ "generated": "2026-10-23T00:23:37Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -438,16 +438,20 @@
    "id": "enigmatranslate",
    "category": "extensions",
    "name": "Enigma Translate",
-   "version": "1.0.64.1",
+   "version": "1.0.64.2",
    "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
    "updated": "23.10.2026",
    "status_codes": [
     "Sub",
     "Free"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.1/enigma2-plugin-extensions-enigmatranslate_1.0.64.1_all.ipk",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.ipk",
    "host": "github",
    "changelog": [
+    [
+     "23.10.2026",
+     "1.0.64.2 - إصلاح عدم ظهور البلجن على OpenATV 7.6 بعد تغيير حجم الخط أو أي إعداد رقمي (خطأ int '32.0')، ويتم إصلاح الإعدادات القديمة تلقائياً"
+    ],
     [
      "23.10.2026",
      "1.0.64.1 - إصلاح عدم ظهور البلجن في قائمة البلجنات على OpenATV والصور التي لا تحتوي مكتبة Pillow (تُثبَّت تلقائياً الآن)"
@@ -469,7 +473,7 @@
      "1.0.35 - أول إصدار على المتجر: ترجمة DVB والتيليتكست والأفلام والصوت، دعم IPTV باتصال واحد، إيقاف فوري، وأزرار ضبط التوقيت من الريموت"
     ]
    ],
-   "sha256": "b61b7c02f93e6ec1781d7be3da005cdebc6a28e93860f446f9cb96ada1a3116c",
+   "sha256": "2d49f7599e962ef6be2efc7ca171b01dc900c5e8ee76259967796d276935d955",
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/enigmatranslate.png?v=e6ebf8f61c",
    "screenshots": [
@@ -481,27 +485,27 @@
    "downloads": [
     {
      "type": "ipk",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.1/enigma2-plugin-extensions-enigmatranslate_1.0.64.1_all.ipk",
-     "sha256": "b61b7c02f93e6ec1781d7be3da005cdebc6a28e93860f446f9cb96ada1a3116c",
-     "size": 304630,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.ipk",
+     "sha256": "2d49f7599e962ef6be2efc7ca171b01dc900c5e8ee76259967796d276935d955",
+     "size": 304922,
      "mirrors": [
       {
        "type": "ipk",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64.1/enigma2-plugin-extensions-enigmatranslate_1.0.64.1_all.ipk",
-       "sha256": "b61b7c02f93e6ec1781d7be3da005cdebc6a28e93860f446f9cb96ada1a3116c"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.ipk",
+       "sha256": "2d49f7599e962ef6be2efc7ca171b01dc900c5e8ee76259967796d276935d955"
       }
      ]
     },
     {
      "type": "deb",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.1/enigma2-plugin-extensions-enigmatranslate_1.0.64.1_all.deb",
-     "sha256": "71a13b731d027d6d5bb7a1e5a70aead4e99c2d0d4c951e85185c04d7504dc09f",
-     "size": 306764,
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.deb",
+     "sha256": "c5c5f93333edd0ba67b714b8c021b7b233114241c0497280cea71964176cf27d",
+     "size": 307056,
      "mirrors": [
       {
        "type": "deb",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64.1/enigma2-plugin-extensions-enigmatranslate_1.0.64.1_all.deb",
-       "sha256": "71a13b731d027d6d5bb7a1e5a70aead4e99c2d0d4c951e85185c04d7504dc09f"
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.deb",
+       "sha256": "c5c5f93333edd0ba67b714b8c021b7b233114241c0497280cea71964176cf27d"
       }
      ]
     }
@@ -5590,6 +5594,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "OiPkfBdzobnEH1SIifRdyWHxb2Uc6xAshtz5x+yRVN02fZLydJusMqLrHql1+GZtRaWyTr8cJ69xbxtIMGIVAQ=="
+  "sig": "H7mytmH3Untnew++6f0OZERMf8cNrXxoOZKXCATCO93sE+3ZgTj1akj7ve5LkxICzIVPiuHtn/6Ab6PMnfITBQ=="
  }
 }

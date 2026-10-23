@@ -1,0 +1,42 @@
+{
+  "id": "dali44g",
+  "name": "Obsidian-FHD",
+  "category": "skins",
+  "version": "1.5.2",
+  "updated": "2026-10-23",
+  "updated_at": 1792713717,
+  "description": "Obsidian FHD: a modern 1080p skin for enigma2 (OpenPLi, OpenATV and other images)\nA dark \"Obsidian Telemetry\" skin: OLED-black canvas, electric-cyan and RF-amber accents, Inter for text and JetBrains Mono for technical data. It is built on the structure of PLi-FullNightHD, the reference Full HD skin maintained by OpenPLi, so all of its ~480 screen and plugin definitions use widget names that the OpenPLi code expects.\n\nResolution: 1920×1080 (the box must support Full HD skins)\nFonts: Inter, JetBrains Mono and Noto Kufi Arabic (for Arabic text) ship inside the skin (SIL OFL licence).\nWeather (optional): with the OAWeather plugin installed, the infobar shows the current weather in the top-left corner and the OAWeather screens use the Obsidian style. Without the plugin, nothing changes.",
+  "author": "dali44g",
+  "developer": "ahmad",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/dali44g.png",
+  "screenshots": [
+    "screenshots/dali44g/1.png",
+    "screenshots/dali44g/2.jpg",
+    "screenshots/dali44g/3.jpg",
+    "screenshots/dali44g/4.jpg",
+    "screenshots/dali44g/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/dali44g/1.5.2/install.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "1.5.2 - أول إصدار"
+    }
+  ],
+  "package": "enigma2-plugin-skins-obsidian-fhd",
+  "telnet": "wget -qO- https://raw.githubusercontent.com/dali44g/Obsidian-FHD/main/install.sh | sh",
+  "i18n": {
+    "en": {
+      "description": "Obsidian FHD: a modern 1080p skin for enigma2 (OpenPLi, OpenATV and other images)\nA dark \"Obsidian Telemetry\" skin: OLED-black canvas, electric-cyan and RF-amber accents, Inter for text and JetBrains Mono for technical data. It is built on the structure of PLi-FullNightHD, the reference Full HD skin maintained by OpenPLi, so all of its ~480 screen and plugin definitions use widget names that the OpenPLi code expects.\n\nResolution: 1920×1080 (the box must support Full HD skins)\nFonts: Inter, JetBrains Mono and Noto Kufi Arabic (for Arabic text) ship inside the skin (SIL OFL licence).\nWeather (optional): with the OAWeather plugin installed, the infobar shows the current weather in the top-left corner and the OAWeather screens use the Obsidian style. Without the plugin, nothing changes."
+    }
+  }
+}

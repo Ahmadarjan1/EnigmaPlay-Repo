@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-23T00:23:37Z",
+ "generated": "2026-10-23T19:17:26Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1322,6 +1322,59 @@
    "i18n": {
     "en": {
      "description": "CiefpYoutube - Youtube jukebox player, webcam player"
+    }
+   }
+  },
+  {
+   "id": "k3bora",
+   "category": "iptv",
+   "name": "UltraStalker",
+   "version": "9.2.2",
+   "description": "All-in-one Enigma2 media hub for Live TV, Movies, Series, Local Media, Trailers, Search, Subtitles and more",
+   "updated": "23.10.2026",
+   "updated_ts": 1792783030,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/k3bora/9.2.2/install.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "23.10.2026",
+     "9.2.2 - update.json"
+    ]
+   ],
+   "sha256": "19c7eb103658d5d3116fc7bf78f6e9151a4b071f7427738d863c1df6af878738",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/k3bora.png?v=f3a4bf22dd",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/k3bora/1.jpg?v=e0809c7282",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/k3bora/2.jpg?v=3791be6c04",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/k3bora/3.jpg?v=4992f31420",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/k3bora/4.jpg?v=067566e602",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/k3bora/5.jpg?v=ac4a668238"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/k3bora/9.2.2/install.sh",
+     "sha256": "19c7eb103658d5d3116fc7bf78f6e9151a4b071f7427738d863c1df6af878738",
+     "size": 5255,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/k3bora/9.2.2/install.sh",
+       "sha256": "19c7eb103658d5d3116fc7bf78f6e9151a4b071f7427738d863c1df6af878738"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "package": "install.sh",
+   "author": "Ahmed L-HadarY",
+   "telnet": "wget -qO- https://raw.githubusercontent.com/K3bOra/-UltraStalker/main/install.sh | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "All-in-one Enigma2 media hub for Live TV, Movies, Series, Local Media, Trailers, Search, Subtitles and more"
     }
    }
   },
@@ -5594,6 +5647,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "H7mytmH3Untnew++6f0OZERMf8cNrXxoOZKXCATCO93sE+3ZgTj1akj7ve5LkxICzIVPiuHtn/6Ab6PMnfITBQ=="
+  "sig": "INt9NcpKI9EdkFXDCCG6oPdgDaocfQAiWS4is1AAsUtAGjqKEYV3CIWGEFaUUhn7Udq8JRdek+dm/BDEGG7OAw=="
  }
 }

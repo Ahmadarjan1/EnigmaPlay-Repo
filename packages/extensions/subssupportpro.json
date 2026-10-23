@@ -1,0 +1,42 @@
+{
+  "id": "subssupportpro",
+  "name": "SubsSupportPro",
+  "category": "extensions",
+  "version": "1.5.0",
+  "updated": "2026-10-23",
+  "updated_at": 1792783811,
+  "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download",
+  "author": "popking159",
+  "developer": "ahmad",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/subssupportpro.png",
+  "screenshots": [
+    "screenshots/subssupportpro/1.jpg",
+    "screenshots/subssupportpro/2.jpg",
+    "screenshots/subssupportpro/3.jpg",
+    "screenshots/subssupportpro/4.jpg",
+    "screenshots/subssupportpro/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/subssupportpro/1.5.0/myinstaller.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-23",
+      "text": "1.5.0 - أول إصدار"
+    }
+  ],
+  "package": "subssupportpro",
+  "telnet": "wget -qO - https://raw.githubusercontent.com/popking159/SubsSupportPro/refs/heads/main/myinstaller.sh | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-24T16:30:22Z",
+ "generated": "2026-10-24T21:07:43Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -4169,11 +4169,11 @@
    "id": "simplysports",
    "category": "sports",
    "name": "SimplySports",
-   "version": "7.2",
+   "version": "7.3",
    "description": "هذا البلجن يعمل على توفير احتياجات المستخدم من معرفة النتائج، إيجاد القنوات الناقلة ضمن الجهاز، توفير مصادر بث بديلة او قنوات الفيد، ايجاد ملخصات المباريات، معرفة مسجلي الأهداف، إحصائيات المباريات مباشرة، تشكيلة الفرق، اخر الاخبار، توفير تعليق بالذكاء الاصطناعي، توفير فسحة للمنافسة بين المستخدمين في توقع المباريات،  توفير تغطية معظم الرياضات، تغطية كل دوريات العالم من خلال ساحة الرياضة ARENA.",
-   "updated": "18.10.2026",
-   "updated_ts": 1792331055,
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.2/simplysports_7.2.sh",
+   "updated": "24.10.2026",
+   "updated_ts": 1792876052,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.3/simplysports_7.3.sh",
    "host": "github",
    "changelog": [
     [
@@ -4185,22 +4185,22 @@
    "restart": true,
    "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/simplysports.png?v=821804952e",
    "screenshots": [
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/1.jpg?v=a66de24ebb",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/2.jpg?v=77872f0d88",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/3.jpg?v=bed3314992",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/4.jpg?v=896a12065f",
-    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/5.jpg?v=061f092d34"
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/1.jpg?v=80b19be82c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/2.jpg?v=1a4bfbcef8",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/3.jpg?v=a2711f91b3",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/4.jpg?v=25bd1da645",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/simplysports/5.jpg?v=d23d88e551"
    ],
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.2/simplysports_7.2.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/simplysports/7.3/simplysports_7.3.sh",
      "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e",
      "size": 376,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/simplysports/7.2/simplysports_7.2.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/simplysports/7.3/simplysports_7.3.sh",
        "sha256": "980bc38aac82ba4c2d307a5df65204cd851a4b5218c15b087e73a96427c7245e"
       }
      ]
@@ -5775,6 +5775,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "Y8zQOJw95wxLnx2ynZd63R4S4SXt0PsowvLKve1wn0jtloPBuwF+fA8kRI/U1EfyVi1BNIL/VujX4gDCbzzaDw=="
+  "sig": "cOng1b0qusp0u1HGE7x+1vUdbNRHwmo+FkkR03eTjLAE4XbfQEhs+guXEI/ULE88YCa2ITmm1zq2L4aKx0/wDA=="
  }
 }

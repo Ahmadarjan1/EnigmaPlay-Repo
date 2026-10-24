@@ -6,7 +6,7 @@
   "tags": [
     "Free"
   ],
-  "version": "1.0.64.2",
+  "version": "1.0.64.3",
   "updated": "2026-10-23",
   "description": "ترجمة فورية للقنوات الأجنبية للعربي: بيترجم ترجمة القناة نفسها (DVB والتيليتكست)، وبيجيب ترجمة جاهزة للأفلام والمسلسلات ويضبط توقيتها، وبيترجم الصوت مباشرة بالذكاء الاصطناعي (Groq و Gemini وغيرها) مع تأخير الصورة حتى تطلع الترجمة مع الكلام. بيشتغل على القنوات الفضائية والمشفّرة و IPTV باشتراك اتصال واحد. واجهة عربية، وصفحة على الجوال لإدخال المفاتيح.",
   "author": "Ahmad Al-Qaisi",
@@ -25,14 +25,18 @@
   "downloads": [
     {
       "type": "ipk",
-      "file": "files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.ipk"
+      "file": "files/enigmatranslate/1.0.64.3/enigma2-plugin-extensions-enigmatranslate_1.0.64.3_all.ipk"
     },
     {
       "type": "deb",
-      "file": "files/enigmatranslate/1.0.64.2/enigma2-plugin-extensions-enigmatranslate_1.0.64.2_all.deb"
+      "file": "files/enigmatranslate/1.0.64.3/enigma2-plugin-extensions-enigmatranslate_1.0.64.3_all.deb"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-24",
+      "text": "1.0.64.3 - إصلاح زر اختبار مفتاح Groq الذي كان يظهر (403) مع أن المفتاح صحيح"
+    },
     {
       "date": "2026-10-23",
       "text": "1.0.64.2 - إصلاح عدم ظهور البلجن على OpenATV 7.6 بعد تغيير حجم الخط أو أي إعداد رقمي (خطأ int '32.0')، ويتم إصلاح الإعدادات القديمة تلقائياً"

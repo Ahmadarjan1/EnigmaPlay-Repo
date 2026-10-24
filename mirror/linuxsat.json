@@ -1369,9 +1369,9 @@
 },
 {
 "section": "KiddaC OE2.0",
-"name": "XStreamity v.5.70.20261019 all",
+"name": "XStreamity v.5.72.20261024 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.70.20261019_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.72.20261024_all.ipk"
 },
 {
 "section": "KiddaC OE2.0",
@@ -1417,9 +1417,9 @@
 },
 {
 "section": "KiddaC OE2.2/2.5/2.6",
-"name": "XStreamity v.5.70_20261019 all",
+"name": "XStreamity v.5.72_20261024 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.70_20261019_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.72_20261024_all.deb"
 },
 {
 "section": "KiddaC OE2.2/2.5/2.6",
@@ -2752,6 +2752,12 @@
 "name": "Telekomsport v.2.0+git93+b0dca2f-r0",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-telekomsport_2.0+git93+b0dca2f-r0.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
+"name": "The Weather v.5.23 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_5.23_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -5584,6 +5590,12 @@
 "name": "OaWeather-iet v.1.4B all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_weather/enigma2-plugin-extensions-oaweatheriet5_1.4B_all.ipk"
+},
+{
+"section": "WeatherTools",
+"name": "The Weather v.5.23 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-theweather_5.23_all.ipk"
 },
 {
 "section": "WeatherTools",

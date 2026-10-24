@@ -1,0 +1,40 @@
+{
+  "id": "ciefpxfiles",
+  "name": "CiefpXfiles",
+  "category": "iptv",
+  "version": "1.0.3",
+  "updated": "2026-10-24",
+  "updated_at": 1792844344,
+  "description": "CiefpXfiles - إضافة Xtream IPTV لأجهزة Enigma2 (بايثون 3)",
+  "author": "ciefp",
+  "developer": "ciefp",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/ciefpxfiles.png",
+  "screenshots": [
+    "screenshots/ciefpxfiles/1.jpg",
+    "screenshots/ciefpxfiles/2.jpg",
+    "screenshots/ciefpxfiles/3.jpg",
+    "screenshots/ciefpxfiles/4.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ciefpxfiles/1.0.3/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-10-24",
+      "text": "1.0.3 - أول إصدار"
+    }
+  ],
+  "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpXfiles/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpXfiles - Xtream IPTV plugin for Enigma2 (Python 3)"
+    }
+  }
+}

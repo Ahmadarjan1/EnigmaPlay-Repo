@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-10-23T22:20:37Z",
+ "generated": "2026-10-24T12:19:17Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1309,6 +1309,57 @@
    "i18n": {
     "en": {
      "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download"
+    }
+   }
+  },
+  {
+   "id": "ciefpxfiles",
+   "category": "iptv",
+   "name": "CiefpXfiles",
+   "version": "1.0.3",
+   "description": "CiefpXfiles - إضافة Xtream IPTV لأجهزة Enigma2 (بايثون 3)",
+   "updated": "24.10.2026",
+   "updated_ts": 1792844344,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpxfiles/1.0.3/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "24.10.2026",
+     "1.0.3 - أول إصدار"
+    ]
+   ],
+   "sha256": "05ad3e0716eabdeec334f1788a8981affa1798ae3963beb0e59bce0cdd1f3f84",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpxfiles.png?v=21ffa05b71",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpxfiles/1.jpg?v=d4141c65f7",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpxfiles/2.jpg?v=16e9452f2b",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpxfiles/3.jpg?v=ca7130131c",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpxfiles/4.jpg?v=55c9997a7b"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpxfiles/1.0.3/installer.sh",
+     "sha256": "05ad3e0716eabdeec334f1788a8981affa1798ae3963beb0e59bce0cdd1f3f84",
+     "size": 3385,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpxfiles/1.0.3/installer.sh",
+       "sha256": "05ad3e0716eabdeec334f1788a8981affa1798ae3963beb0e59bce0cdd1f3f84"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q --no-check-certificate https://raw.githubusercontent.com/ciefp/CiefpXfiles/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpXfiles - Xtream IPTV plugin for Enigma2 (Python 3)"
     }
    }
   },
@@ -5720,6 +5771,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "ItukdYf3xXw0LFEfSwJeDV4qcsxjUsVEyZcKQHlAwa+E5+IFjKCqKpKjS1r0lruRRzON57Yw3mXv9/yhPK4wCQ=="
+  "sig": "srAXo8k08qcaewHsuliwKfCzOynv6osoCPvBekym52CN7qErxYanuFGh4uhucecg8Toog1SY5VQY0zBo9kbsBg=="
  }
 }

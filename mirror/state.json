@@ -26,9 +26,9 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-10-11",
-"sha256": "5e9f54010dac75ac37445a86ee8e3b0197c525ff2bf2119e26b73996becd0363",
-"size": 93440
+"date": "2026-10-26",
+"sha256": "1b814623f133f84838f1f354b19924e7d17abbe51eadfba38b0bce9d62ffead8",
+"size": 93439
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
 "date": "2026-10-09",
@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-10-26",
-"sha256": "43076f35e7c3094d1ec516d9b965742e378167e533ede346eb5e4d9afd5fd302",
+"sha256": "217a7a9390ed1a4b5d801a3f286cdbb8d38598b07ec19c2ed50b90e3c309dc26",
 "size": 325863
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2704,6 +2704,16 @@
 "date": "2026-10-09",
 "sha256": "c3c8c476e4f7b19566dabd7b340fa04d51f8a83e49a9c3d94e89ae6eb1c22e85",
 "size": 102228
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.9_all.deb": {
+"date": "2026-10-26",
+"sha256": "6bcbb90eabf08481f5a43ac300817e0944750700a7a9ec365e9b9c9a3023a50c",
+"size": 79360
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-parsatv_1.9_all.ipk": {
+"date": "2026-10-26",
+"sha256": "984bf93e780a29074cd38ec2967d8e88f9ee1cf01a3db55951be7d4ce7545975",
+"size": 107374
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.deb": {
 "date": "2026-10-09",
@@ -8626,13 +8636,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-10-26 17:16",
+"last_run": "2026-10-26 18:24",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-10-26",
-"files": 1725,
+"files": 1727,
 "upstream": "ok"
 }
 }

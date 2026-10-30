@@ -232,13 +232,13 @@
   }
  },
  "Novaler openvix backup": {
+  "OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip": {
+   "link": "https://www.novaler.com/uploads/enigmapro/openvix/OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip",
+   "name": "OpenViX-6.9.006-novaler4kpro-backup-20261029_usb.zip"
+  },
   "openvix-6.8-novaler4kpro-backup-20251208_usb.zip": {
    "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-6.8-novaler4kpro-backup-20251208_usb.zip",
    "name": "openvix-6.8-novaler4kpro-backup-20251208_usb.zip"
-  },
-  "openvix-7.0-novaler4kpro-backup-20260607_usb.zip": {
-   "link": "https://www.novaler.com/uploads/enigmapro/openvix/openvix-7.0-novaler4kpro-backup-20260607_usb.zip",
-   "name": "openvix-7.0-novaler4kpro-backup-20260607_usb.zip"
   }
  },
  "Novaler pkt": {

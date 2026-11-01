@@ -2533,6 +2533,12 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
+"name": "OpenCam View v2.0.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-opencamview_2.0.2_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
 "name": "Openvpn v.2.5.9-r0.0 mipsel",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/openvpn_2.5.9-r0.0__mipsel.deb"
@@ -5593,9 +5599,9 @@
 },
 {
 "section": "Webcam Tools",
-"name": "World Cam 4.4 all",
+"name": "OpenCam View v2.0.2 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-worldcam_4.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_webcam/enigma2-plugin-extensions-opencamview_2.0.2_all.ipk"
 },
 {
 "section": "Adult OE2.0",

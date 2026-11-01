@@ -46,9 +46,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-10-26",
-"sha256": "217a7a9390ed1a4b5d801a3f286cdbb8d38598b07ec19c2ed50b90e3c309dc26",
-"size": 325863
+"date": "2026-11-01",
+"sha256": "8ffaa7120f356ba3f2889b65d41bbef8c554797e745d46b15c4e847d183f2fa9",
+"size": 322541
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -271,9 +271,9 @@
 "size": 13386002
 },
 "gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2-skin-mohammedskin_all.ipk": {
-"date": "2026-10-12",
-"sha256": "98b71ffa577fb6659af248542ddd24bf116c2fa383a4b193fceb5e29f06b39eb",
-"size": 65668168
+"date": "2026-11-01",
+"sha256": "05358cdb126f40b4cc93f632efd5db2826bcc51e83593769b879f0929fe48fc0",
+"size": 90525188
 },
 "gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2_plugin_skins_areadeltasat_fhd_dragon_4_2_Poster_Backdrop.ipk": {
 "date": "2026-10-09",
@@ -2340,6 +2340,16 @@
 "sha256": "25e95588b83944a54bf1e17705e89319bb527385e6bfa574b9d66d3f223f988f",
 "size": 8317324
 },
+"gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.73.20261031_all.ipk": {
+"date": "2026-11-01",
+"sha256": "8c600a5e9791dc37103b054299f6f621ecb62778f90e99f702658316d4b8d9d2",
+"size": 8798122
+},
+"gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.73_20261101_all.deb": {
+"date": "2026-11-01",
+"sha256": "f3594ba538d03d9ead5a1a89f5971187cd377ae795678eeb3a5c36e7c4abd3b8",
+"size": 8318460
+},
 "gh/Belfagor2005/upload/oe2.0/kiddac/enigma2-plugin-skincomponents-kiddac-shared-skin_1.14_all.ipk": {
 "date": "2026-10-09",
 "sha256": "843b817438ea15b3cdd28f25a96dddebe38fccf68b4b75703ab904eded7dfda6",
@@ -2921,14 +2931,14 @@
 "size": 2522650
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.deb": {
-"date": "2026-10-09",
-"sha256": "f598d403e729de9dc63bf54a3fd2a51029888fc7d1911e5f8733d6b6c5b66d71",
-"size": 1519080
+"date": "2026-11-01",
+"sha256": "99fa8d226f06cefdfaa426dbb567a33f8fdd15142ecc2215aa199e815c56e360",
+"size": 1504472
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.ipk": {
-"date": "2026-10-26",
-"sha256": "f206a281342df9a3139ceaf28be018ea108a2839fe9874fec47e47c8ce6c0131",
-"size": 2045860
+"date": "2026-11-01",
+"sha256": "35db90320e92678f5483a1b3fe7db4348335ffd74eef266c8060f68fcd45a6cc",
+"size": 2054856
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.8_all.deb": {
 "date": "2026-10-09",
@@ -5679,6 +5689,66 @@
 "date": "2026-10-09",
 "sha256": "49cbcf55267dc6fcbe4d838649fdcda2f71302f92f6dc85bf2aa49c22209bdb4",
 "size": 3613918
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.12.6_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-11-01",
+"sha256": "b2a65180762cc2e9fecf26fd22a88c551b5240515b19a0dbda2d754b79f9a35e",
+"size": 5443172
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.12.6_cortexa7hf-vfp.ipk": {
+"date": "2026-11-01",
+"sha256": "b0b8e7a4e6d7cc3a8cc7603293fbe0e2be85bbb596a281d249fc590c2202667b",
+"size": 5446424
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.12.6_cortexa9hf-neon.ipk": {
+"date": "2026-11-01",
+"sha256": "809621122cd01deba4da89e6fe105b4d0a473e991ca6bee619748da9db970265",
+"size": 5418422
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.12.6_mips32el.ipk": {
+"date": "2026-11-01",
+"sha256": "ef63bf6a02f0229f4da4fb15c25463b3e32c8c5cd050094307b6e41a0048e125",
+"size": 4833094
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.13_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-11-01",
+"sha256": "6e1421bce1e8ff98dd111cb95c4e4231c47672209ab2ba9d4eaf791241656f76",
+"size": 4814170
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.13_cortexa7hf-vfp.ipk": {
+"date": "2026-11-01",
+"sha256": "1120d2f56d93a64072a87f6a82c6a30474eacb116dce6765a056fb425c43e666",
+"size": 4827070
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.13_cortexa9hf-neon.ipk": {
+"date": "2026-11-01",
+"sha256": "b36a2b7f137bcca09b92d2cdab2ee36c3ece0664ce033c8a310d050267d3d9c6",
+"size": 4804856
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.13_mips32el.ipk": {
+"date": "2026-11-01",
+"sha256": "70ba7964e5124c0a07524a5b382fe47b9183dda6ac168e216918dfdba9150652",
+"size": 4319048
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.14_cortexa15hf-neon-vfpv4.ipk": {
+"date": "2026-11-01",
+"sha256": "1edc46303f5a0be68377d915ede674af197f337a0d5bd7dddfb52ec2537728e5",
+"size": 4838664
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.14_cortexa7hf-vfp.ipk": {
+"date": "2026-11-01",
+"sha256": "4f24bd5b41a1aa77f67c56a974001118064626f72b0ddc38ac4f393271fae850",
+"size": 4850576
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.14_cortexa9hf-neon.ipk": {
+"date": "2026-11-01",
+"sha256": "ac8011099192d761474d86c1be70f97b62265834635523139e2f4fb94e061f4d",
+"size": 4827770
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.28.1_py3_3.14_mips32el.ipk": {
+"date": "2026-11-01",
+"sha256": "0caded5d977367d056f19874a1306fb01be99693963168700f19213fbf7639e9",
+"size": 4329498
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-hdfradio_2.3.0_py3_3.10.4_cortexa15hf-neon-vfpv4.ipk": {
 "date": "2026-10-09",
@@ -8636,13 +8706,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-01 18:43",
+"last_run": "2026-11-01 19:51",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-01",
-"files": 1727,
+"files": 1741,
 "upstream": "ok"
 }
 }

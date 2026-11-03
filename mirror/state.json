@@ -46,9 +46,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-02",
-"sha256": "4bffc093c57849cecd1881e41014fbc5873ad6513c89989f318d36b8cc595e67",
-"size": 323042
+"date": "2026-11-03",
+"sha256": "316311028deb10d49aec40f17382e802f20b3a3580bab212485b5c50ca429c35",
+"size": 323507
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -824,6 +824,11 @@
 "date": "2026-10-26",
 "sha256": "b0afde15ea3afea5923c9caee8c012f5c70ae616e463dea1104079c05284a1f9",
 "size": 4680334
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.65_all.ipk": {
+"date": "2026-11-03",
+"sha256": "acd7b63fdf6c8f6a117177003e29c3bb66e06f01d772196982f6a8333be922f8",
+"size": 17252474
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
 "date": "2026-10-09",
@@ -2926,9 +2931,9 @@
 "size": 1623896
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_3.0_all.ipk": {
-"date": "2026-10-11",
-"sha256": "843728ffcad7c0de02b25551a987aebb4cf4f6fccbdc9ef29a364646a1dbb9b4",
-"size": 2522650
+"date": "2026-11-03",
+"sha256": "88611081edab6ae96d4a635f72459d384e08e63064a99cf69b0fc074f80f761b",
+"size": 1525018
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.4_all.deb": {
 "date": "2026-11-01",
@@ -5414,6 +5419,11 @@
 "date": "2026-10-09",
 "sha256": "460a729641ff26973e0343c78c11f8d0c412779e9adf0d3d017bed2116fc3de6",
 "size": 90806
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconhub_0.1.40_all.ipk": {
+"date": "2026-11-03",
+"sha256": "909dd86f2872857ec78f93db5c59bbd4f3cef7200a2a39adaee604d9659a2af9",
+"size": 2885936
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk": {
 "date": "2026-10-09",
@@ -8731,13 +8741,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-03 20:07",
+"last_run": "2026-11-03 21:17",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-03",
-"files": 1746,
+"files": 1748,
 "upstream": "ok"
 }
 }

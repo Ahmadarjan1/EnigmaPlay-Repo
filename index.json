@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-03T19:38:09Z",
+ "generated": "2026-11-04T00:41:18Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -4011,13 +4011,17 @@
    "id": "romeh-channels",
    "category": "settings",
    "name": "Channel List by rome7",
-   "version": "2026.11.3.1908",
+   "version": "2026.11.3.2037",
    "description": "ملف قنوات جاهز من المطوّر rome7 (Online 4 Tech): أكثر من 70 باقة مرتّبة للأقمار المشهورة (نايل سات وعرب سات وهوت بيرد وأسترا وغيرها) مع باقات قرآن ورياضة وأفلام ووثائقيات وأطفال. التثبيت بياخد نسخة احتياطية من قائمتك القديمة أول، وبيحدّث القائمة بدون إعادة تشغيل. وبيتحدّث تلقائياً كل ما المطوّر عدّل القائمة.",
-   "updated": "03.11.2026",
-   "updated_ts": 1793734689,
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.3.1908/romeh-channels.sh",
+   "updated": "04.11.2026",
+   "updated_ts": 1793752878,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.3.2037/romeh-channels.sh",
    "host": "github",
    "changelog": [
+    [
+     "04.11.2026",
+     "2026.11.3.2037 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
+    ],
     [
      "03.11.2026",
      "2026.11.3.1908 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
@@ -4067,13 +4071,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.3.1908/romeh-channels.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.3.2037/romeh-channels.sh",
      "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
      "size": 2479,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/romeh-channels/2026.11.3.1908/romeh-channels.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/romeh-channels/2026.11.3.2037/romeh-channels.sh",
        "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9"
       }
      ]
@@ -5815,6 +5819,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "yEccZ5UiqD+LUMFWPBq0UrHZmUNkXuH2gzYZGbBMPKbqdbNQjhfmXEG+OItaAWVikwtDPTF7mzH3PBeJtKgdAQ=="
+  "sig": "kBE1dS0iN6onmWdIVPiCiktLtFQWqgyF9v4Qn3JYBCjSgPlsCuPzA8Z0O1Hjw3Ou2Ei+LzNlSeapKdCYQVpvDQ=="
  }
 }

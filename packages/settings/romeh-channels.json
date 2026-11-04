@@ -2,7 +2,7 @@
   "id": "romeh-channels",
   "name": "Channel List by rome7",
   "category": "settings",
-  "version": "2026.11.3.2037",
+  "version": "2026.11.4.0658",
   "updated": "2026-11-04",
   "description": "ملف قنوات جاهز من المطوّر rome7 (Online 4 Tech): أكثر من 70 باقة مرتّبة للأقمار المشهورة (نايل سات وعرب سات وهوت بيرد وأسترا وغيرها) مع باقات قرآن ورياضة وأفلام ووثائقيات وأطفال. التثبيت بياخد نسخة احتياطية من قائمتك القديمة أول، وبيحدّث القائمة بدون إعادة تشغيل. وبيتحدّث تلقائياً كل ما المطوّر عدّل القائمة.",
   "python": [
@@ -21,10 +21,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/romeh-channels/2026.11.3.2037/romeh-channels.sh"
+      "file": "files/romeh-channels/2026.11.4.0658/romeh-channels.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-04",
+      "text": "2026.11.4.0658 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
+    },
     {
       "date": "2026-11-04",
       "text": "2026.11.3.2037 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
@@ -86,5 +90,5 @@
     "version_repo": "online4tech/Enigma2-Chanal-List-BYRomeh",
     "version_path": ""
   },
-  "updated_at": 1793752878
+  "updated_at": 1793777690
 }

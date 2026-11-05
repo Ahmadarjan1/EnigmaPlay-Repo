@@ -1375,9 +1375,9 @@
 },
 {
 "section": "KiddaC OE2.0",
-"name": "XStreamity v.5.73.20261031 all",
+"name": "XStreamity v.5.74.20261104 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.73.20261031_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.74.20261104_all.ipk"
 },
 {
 "section": "KiddaC OE2.0",
@@ -1420,6 +1420,12 @@
 "name": "xKlass v.1.80.20260325 all",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xklass_1.80_20260325.deb"
+},
+{
+"section": "KiddaC OE2.2/2.5/2.6",
+"name": "XStreamity v.5.74_20261104 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/kiddac/enigma2-plugin-extensions-xstreamity_5.74_20261104_all.deb"
 },
 {
 "section": "KiddaC OE2.2/2.5/2.6",

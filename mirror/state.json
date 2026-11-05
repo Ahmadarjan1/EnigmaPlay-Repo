@@ -47,8 +47,8 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-05",
-"sha256": "3e591a6f80c820b12b7e4c809c2d8826258374cef77234694c2a2ea54d98eea5",
-"size": 323508
+"sha256": "fff4ace72ba8fe6c66bd465cd719b25cb0275ab20be85f4d8bc4b9e791f1f39b",
+"size": 323736
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -829,6 +829,11 @@
 "date": "2026-11-03",
 "sha256": "acd7b63fdf6c8f6a117177003e29c3bb66e06f01d772196982f6a8333be922f8",
 "size": 17252474
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.69_all.ipk": {
+"date": "2026-11-05",
+"sha256": "ed6ce655b3506606c9f424b5b55854453dd39bce7aac2572691c4318c1c07f4e",
+"size": 17255968
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
 "date": "2026-10-09",
@@ -6340,6 +6345,11 @@
 "sha256": "f9a20fd26e492c692a1c685ff3e4a5e32cd668592ef6135e6e468a00c192ee17",
 "size": 30908
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-e2toolkit_2.4_all.ipk": {
+"date": "2026-11-05",
+"sha256": "033f9bf4effb1bbd1ba5d1aba42d3cdc022e7f6a73783ebb8edc85db57c4d2f8",
+"size": 45376
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-enigma2uninstaller_1.0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "a8ad4a9e1646f9ec4ac793325b202a1d0a4e2ef3ee20c34e51e88864b21cae97",
@@ -8751,13 +8761,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-05 18:37",
+"last_run": "2026-11-05 19:45",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-05",
-"files": 1750,
+"files": 1752,
 "upstream": "ok"
 }
 }

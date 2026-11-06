@@ -2053,9 +2053,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Levi45 freeserver v.3.1 all",
+"name": "Levi45 freeserver v.3.5 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.1_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.5_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -4165,9 +4165,9 @@
 },
 {
 "section": "Keys Tools OE2.0",
-"name": "Levi45 freeserver 3.1 all",
+"name": "Levi45 freeserver 3.5 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.1_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.5_all.ipk"
 },
 {
 "section": "Keys Tools OE2.0",

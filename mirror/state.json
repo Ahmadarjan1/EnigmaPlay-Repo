@@ -46,8 +46,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-05",
-"sha256": "fff4ace72ba8fe6c66bd465cd719b25cb0275ab20be85f4d8bc4b9e791f1f39b",
+"date": "2026-11-06",
+"sha256": "d35baddbc93634ae4e3b3dc39252e3109e0ee712d889c68365ac4b13fa79c1d2",
 "size": 323736
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2199,6 +2199,11 @@
 "date": "2026-10-23",
 "sha256": "5b1bf61a87c21c92e79f5bc8f5961f6e97b12e235ac3d1d2c7e6b7aa226db9e7",
 "size": 47070
+},
+"gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.5_all.ipk": {
+"date": "2026-11-06",
+"sha256": "bc5c00327200a74b8e3c827adf51ad7e4afeb3176d88205405da1ccd39d43fcf",
+"size": 57978
 },
 "gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk": {
 "date": "2026-10-09",
@@ -8155,6 +8160,11 @@
 "sha256": "e618fa9ce7bebefe2a51aaf9c06aca59ad6e362f65291a08f1a5cdcb30e0e2fa",
 "size": 41932
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.5_all.deb": {
+"date": "2026-11-06",
+"sha256": "162910704135531df87afaca6fd49d08dc562c401f7fe21454b59f2f33e070f2",
+"size": 50500
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45iptv_1.3_all.deb": {
 "date": "2026-10-09",
 "sha256": "2d0ecd17328d02e42792b4869cec2612f413bfe289573bd16503c78a565651a2",
@@ -8761,13 +8771,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-06 18:12",
+"last_run": "2026-11-06 19:19",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-06",
-"files": 1752,
+"files": 1754,
 "upstream": "ok"
 }
 }

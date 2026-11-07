@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-05T20:43:27Z",
+ "generated": "2026-11-07T10:26:39Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2894,16 +2894,20 @@
    "id": "ciefpsettingst2miabertis",
    "category": "panels",
    "name": "CiefpSettingsT2miAbertis",
-   "version": "2.9",
+   "version": "3.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "12.10.2026",
-   "updated_ts": 1791823957,
+   "updated": "07.11.2026",
+   "updated_ts": 1794047195,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/2.9/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.0/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "07.11.2026",
+     "3.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
+    ],
     [
      "10.10.2026",
      "2.9 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
@@ -2926,13 +2930,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/2.9/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.0/installer.sh",
      "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee",
      "size": 3202,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingst2miabertis/2.9/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingst2miabertis/3.0/installer.sh",
        "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee"
       }
      ]
@@ -3134,16 +3138,20 @@
    "id": "ciefpt2miabertisopenpli",
    "category": "panels",
    "name": "CiefpT2miAbertisOpenPLi",
-   "version": "2.2",
+   "version": "2.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791911894,
+   "updated": "07.11.2026",
+   "updated_ts": 1794047196,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpt2miabertisopenpli/2.2/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpt2miabertisopenpli/2.3/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "07.11.2026",
+     "2.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertisOpenPLi)"
+    ],
     [
      "10.10.2026",
      "2.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertisOpenPLi)"
@@ -3166,13 +3174,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpt2miabertisopenpli/2.2/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpt2miabertisopenpli/2.3/installer.sh",
      "sha256": "d08b146bf49d43a74b55af8c2dcb40864070707c55ad8f44c3652bbff39782cf",
      "size": 3279,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpt2miabertisopenpli/2.2/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpt2miabertisopenpli/2.3/installer.sh",
        "sha256": "d08b146bf49d43a74b55af8c2dcb40864070707c55ad8f44c3652bbff39782cf"
       }
      ]
@@ -4011,13 +4019,17 @@
    "id": "romeh-channels",
    "category": "settings",
    "name": "Channel List by rome7",
-   "version": "2026.11.5.1733",
+   "version": "2026.11.7.1026",
    "description": "ملف قنوات جاهز من المطوّر rome7 (Online 4 Tech): أكثر من 70 باقة مرتّبة للأقمار المشهورة (نايل سات وعرب سات وهوت بيرد وأسترا وغيرها) مع باقات قرآن ورياضة وأفلام ووثائقيات وأطفال. التثبيت بياخد نسخة احتياطية من قائمتك القديمة أول، وبيحدّث القائمة بدون إعادة تشغيل. وبيتحدّث تلقائياً كل ما المطوّر عدّل القائمة.",
-   "updated": "05.11.2026",
-   "updated_ts": 1793911406,
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.5.1733/romeh-channels.sh",
+   "updated": "07.11.2026",
+   "updated_ts": 1794047199,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.7.1026/romeh-channels.sh",
    "host": "github",
    "changelog": [
+    [
+     "07.11.2026",
+     "2026.11.7.1026 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
+    ],
     [
      "05.11.2026",
      "2026.11.5.1733 - تحديث تلقائي من مصدر المطوّر (Ahmadarjan1/EnigmaPlay-Repo)"
@@ -4087,13 +4099,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.5.1733/romeh-channels.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/romeh-channels/2026.11.7.1026/romeh-channels.sh",
      "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9",
      "size": 2479,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/romeh-channels/2026.11.5.1733/romeh-channels.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/romeh-channels/2026.11.7.1026/romeh-channels.sh",
        "sha256": "1e241b3e2d92e9111b7c72e7726f69ffcede4403554b30062e54332f69ab2ef9"
       }
      ]
@@ -5835,6 +5847,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "Az8mp8YeqR58Vk9PhjXMzKF1bDHeatEpoRMDWGF6ZOKEN8SWmBTZoDCHjmpaUbHPSjK5vwAgWSdBM8xjN/kzCA=="
+  "sig": "66KApC2ykhVYbgox6GVl27zhk/KiJsCNG6xa525KDyLyy2Km0YFIrgoAEO0dzvFxk0DmHqJpXfqovI/amgw5Cw=="
  }
 }

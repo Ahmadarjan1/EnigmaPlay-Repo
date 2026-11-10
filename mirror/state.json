@@ -10,6 +10,26 @@
 "sha256": "1422fa0fc62524573b7cea695fd6bd8f26e00b8bf2717420ddd4b6e3516193a9",
 "size": 882
 },
+"gh/Belfagor2005/upload/.github/ISSUE_TEMPLATE/bug_report.md": {
+"date": "2026-11-10",
+"sha256": "23ee2b69d7e851e67a6262fc230df4a48281725ae520ced573426ac43debaf51",
+"size": 775
+},
+"gh/Belfagor2005/upload/.github/ISSUE_TEMPLATE/config.yml": {
+"date": "2026-11-10",
+"sha256": "ba710a91e3094cf8ca6cc13764cc850a356e72d3405e5dd5b95a15999b3d6292",
+"size": 285
+},
+"gh/Belfagor2005/upload/.github/ISSUE_TEMPLATE/domanda.md": {
+"date": "2026-11-10",
+"sha256": "5f2759d770d720a19f572495f2347f8a94c831407199c05d4cfbcc247b43a2d4",
+"size": 494
+},
+"gh/Belfagor2005/upload/.github/ISSUE_TEMPLATE/feature_request.md": {
+"date": "2026-11-10",
+"sha256": "091d1f8cb9dc36760a88950a61b09edd7a0f5b9db079015a1bf656a68b9d3e84",
+"size": 628
+},
 "gh/Belfagor2005/upload/.github/workflows/build-and-publish-ipk.yml": {
 "date": "2026-10-09",
 "sha256": "ce804bee2b78eac98228230078a6666d48c6db82bf412f955de63b87761fe5b0",
@@ -8781,13 +8801,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-10 20:37",
+"last_run": "2026-11-10 21:52",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-10",
-"files": 1756,
+"files": 1760,
 "upstream": "ok"
 }
 }

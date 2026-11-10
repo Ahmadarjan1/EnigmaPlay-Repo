@@ -46,8 +46,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-06",
-"sha256": "d35baddbc93634ae4e3b3dc39252e3109e0ee712d889c68365ac4b13fa79c1d2",
+"date": "2026-11-10",
+"sha256": "0f1d3b0f5642c6546aaac316200d1867556f11ef407bdbafbb2eae72665200dd",
 "size": 323736
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2890,6 +2890,11 @@
 "sha256": "6b5ed3e3e7ef17f2470f2e71c8950d0099d5f06f1eef02bf9f9d296ea280a179",
 "size": 779110
 },
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-stalkerportalconverter_1.7_all.ipk": {
+"date": "2026-11-10",
+"sha256": "91154aec66677f2389c9aeb5d5dff8765cfe7549ced77bd1347005ad2e37dfae",
+"size": 630480
+},
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-streamproxy_1.3_20260807_all.deb": {
 "date": "2026-10-09",
 "sha256": "7d22f4e7fc490537f5bc02212ac9f3b9d4b66650996ab372a160f41be3640d93",
@@ -5444,6 +5449,11 @@
 "date": "2026-11-03",
 "sha256": "909dd86f2872857ec78f93db5c59bbd4f3cef7200a2a39adaee604d9659a2af9",
 "size": 2885936
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconhub_0.1.44_all.ipk": {
+"date": "2026-11-10",
+"sha256": "ed9866a3ef2b40c47e7f30b733e0fb0f27f99be1b1f07c355edbd5dfcbaf3fbd",
+"size": 2945520
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_picon/enigma2-plugin-extensions-piconmanager_2.6-20250511-r0_all.ipk": {
 "date": "2026-10-09",
@@ -8771,13 +8781,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-10 19:29",
+"last_run": "2026-11-10 20:37",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-10",
-"files": 1754,
+"files": 1756,
 "upstream": "ok"
 }
 }

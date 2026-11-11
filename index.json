@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-11T15:25:36Z",
+ "generated": "2026-11-11T22:48:23Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1868,16 +1868,20 @@
    "id": "ciefpeasysetup",
    "category": "panels",
    "name": "CiefpEasySetup",
-   "version": "3.2",
+   "version": "3.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "23.10.2026",
-   "updated_ts": 1792794024,
+   "updated": "11.11.2026",
+   "updated_ts": 1794437291,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.2/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.3/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "11.11.2026",
+     "3.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
+    ],
     [
      "23.10.2026",
      "3.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpEasySetup)"
@@ -1908,13 +1912,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.2/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpeasysetup/3.3/installer.sh",
      "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320",
      "size": 2666,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.2/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpeasysetup/3.3/installer.sh",
        "sha256": "f5154f5f55b1478da7cffc5f1c9bc874dc918e6ca93a7d6eb0746f51aa8d6320"
       }
      ]
@@ -5926,6 +5930,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "0sd+iHHzgppxaqO0RoRNC0JyThrAeMUwnYZaEDdDa8yvtnqRQS/uIdHmasEZzkBeOBO/Ur1uHJ8rSVS0cyCCDw=="
+  "sig": "hoKZdQ/Mni0iAVMPx4YWZu7bgafTnKVcBuNh3sFBsJWaNjqJf94qw0YAeQ5nQweCtC7jpUshVX2A3voPEU2QCQ=="
  }
 }

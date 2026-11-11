@@ -46,8 +46,8 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-11-01",
-"sha256": "eb3a8ac0216edcaaf588c073e5a2e3372ea4bccb6510b8d0a404ced188bd2eb9",
+"date": "2026-11-11",
+"sha256": "00fbf0365c5e3be22e40fbbdd3ed380e9a7153136dcc951bb6d7ec02004f7e7c",
 "size": 95473
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -66,8 +66,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-10",
-"sha256": "0f1d3b0f5642c6546aaac316200d1867556f11ef407bdbafbb2eae72665200dd",
+"date": "2026-11-11",
+"sha256": "bff609ec3c8cc884130ebb5490f4d8c067bd6d0df9a0c6b9110e430bbab0a016",
 "size": 323736
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -3049,6 +3049,16 @@
 "date": "2026-10-09",
 "sha256": "a5aef5ad12230f7b3a6073ed0051fbff800f5ee2ba272538c85078635fa77006",
 "size": 2762074
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.2_all.deb": {
+"date": "2026-11-11",
+"sha256": "6ac9070879bafe60a625d7d3a840a51f689b08abe486dab0f9bc496a9ca7a417",
+"size": 2612796
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.2_all.ipk": {
+"date": "2026-11-11",
+"sha256": "2fd8fb7ac91292830ead501f53df3876cf8cac6ba793ec3ff2c0cb6e4ea8bbe6",
+"size": 2815772
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb": {
 "date": "2026-10-09",
@@ -8801,13 +8811,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-11 14:37",
+"last_run": "2026-11-11 15:43",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-11",
-"files": 1760,
+"files": 1762,
 "upstream": "ok"
 }
 }

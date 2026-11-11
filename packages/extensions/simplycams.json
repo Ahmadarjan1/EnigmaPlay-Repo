@@ -1,0 +1,40 @@
+{
+  "id": "simplycams",
+  "name": "SimplyCams",
+  "category": "extensions",
+  "version": "1.0",
+  "updated": "2026-11-11",
+  "updated_at": 1794372545,
+  "description": "كاميرات منزلك على جهاز Enigma2\n\nSimplyCams يعرض كاميرات IP وأجهزة DVR في شبكتك على جهاز الاستقبال Vu+ أو أي جهاز Enigma2 آخر، بشكل شبكة كاميرات تشبه أجهزة التسجيل الأمنية. من تطوير reali22.",
+  "author": "reali22",
+  "developer": "reali22",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/simplycams.png",
+  "screenshots": [
+    "screenshots/simplycams/1.jpg",
+    "screenshots/simplycams/2.jpg",
+    "screenshots/simplycams/3.jpg",
+    "screenshots/simplycams/4.jpg",
+    "screenshots/simplycams/5.png"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/simplycams/1.0/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-11",
+      "text": "1.0 - Camera grid of 4 or 9, single camera or list. The selected camera plays live; the other tiles show pictures that refresh automatically. Full-screen view with a thin info bar. Messages appear as a thin bar, so they never cover the picture. PTZ on the arrow keys. On cameras that pan and tilt, the arrow keys move the camera directly. ⏪/⏩ zoom, and MENU saves and recalls 9 positions. Snapshots saved to your disk or USB stick. Network search and Auto-fill. The plugin finds your cameras and fills in t"
+    }
+  ],
+  "i18n": {
+    "en": {
+      "description": "SimplyCams 1.0 – watch your home cameras on your Enigma2 receiver\n\nSimplyCams shows your IP cameras and DVRs on your Vu+ or other Enigma2 receiver, in a camera grid like a security recorder. Plugin by reali22.\n\n🔗 https://github.com/Ahmed-Mohammed-Abbas/SimplyCams"
+    }
+  }
+}

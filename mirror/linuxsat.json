@@ -1033,6 +1033,12 @@
 },
 {
 "section": "Iptv Tools",
+"name": "Mediaplayer3 v1.5 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/mediaplayer3_1.5.000_all.ipk"
+},
+{
+"section": "Iptv Tools",
 "name": "Merlin Music Player v.7.4 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-merlinmusicplayer_7.4.ipk"
@@ -2521,9 +2527,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Panel AIO v.17.0.1 all",
+"name": "Panel AIO v.18.0.0 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_17.0.1_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-panelaio_18.0.0_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -3223,9 +3229,9 @@
 },
 {
 "section": "Panels Addons",
-"name": "Panel AIO v.17.0.1 all",
+"name": "Panel AIO v.18.0.0 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_17.0.1_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-panelaio_18.0.0_all.ipk"
 },
 {
 "section": "Panels Addons",
@@ -3818,6 +3824,12 @@
 {
 "section": "Radio Tools",
 "name": "Hdfradio_2.28.1_py3_3.12.6_cortexa15hf-neon-vfpv4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-radioteca_1.9_all.ipk"
+},
+{
+"section": "Radio Tools",
+"name": "Ipaudiopro_1.4_aarch64 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_radio/enigma2-plugin-extensions-ipaudiopro_1.4_aarch64.ipk"
 },
@@ -4807,9 +4819,9 @@
 },
 {
 "section": "Utility Tools",
-"name": "E2 Toolkit v.2.4 all",
+"name": "E2 Toolkit v.2.6 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-e2toolkit_2.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-e2toolkit_2.7_all.ipk"
 },
 {
 "section": "Utility Tools",
@@ -5092,6 +5104,12 @@
 "name": "Quarter Pounder 6.2.0m all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-quarterpounder-6.2.0m.ipk"
+},
+{
+"section": "Utility Tools",
+"name": "Radar Aerlain v1.0.4 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-radaraerei_1.0.4_all.ipk"
 },
 {
 "section": "Utility Tools",
@@ -6961,9 +6979,9 @@
 },
 {
 "section": "Skins Oe Based",
-"name": "FHD GLASS v.1.0.69 all",
+"name": "FHD GLASS v.1.0.80 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.69_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.80_all.ipk"
 },
 {
 "section": "Skins Oe Based",

@@ -2,8 +2,8 @@
   "id": "ciefpsettingst2miabertis",
   "name": "CiefpSettingsT2miAbertis",
   "category": "panels",
-  "version": "3.0",
-  "updated": "2026-11-07",
+  "version": "3.1",
+  "updated": "2026-11-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpsettingst2miabertis/3.0/installer.sh"
+      "file": "files/ciefpsettingst2miabertis/3.1/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-13",
+      "text": "3.1 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
+    },
     {
       "date": "2026-11-07",
       "text": "3.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
@@ -60,5 +64,5 @@
       "description": "CiefpT2MiAbertis - plugin for automatic installation of files for t2mi and abertis channels streamrelay."
     }
   },
-  "updated_at": 1794047195
+  "updated_at": 1794613248
 }

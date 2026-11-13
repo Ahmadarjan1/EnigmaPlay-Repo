@@ -2,8 +2,8 @@
   "id": "ciefpt2miabertisopenpli",
   "name": "CiefpT2miAbertisOpenPLi",
   "category": "panels",
-  "version": "2.3",
-  "updated": "2026-11-07",
+  "version": "2.4",
+  "updated": "2026-11-13",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -17,10 +17,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefpt2miabertisopenpli/2.3/installer.sh"
+      "file": "files/ciefpt2miabertisopenpli/2.4/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-13",
+      "text": "2.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertisOpenPLi)"
+    },
     {
       "date": "2026-11-07",
       "text": "2.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertisOpenPLi)"
@@ -52,7 +56,7 @@
     "version_file": "usr/lib/enigma2/python/Plugins/Extensions/CiefpSettingsT2miAbertisOpenPLi/plugin.py",
     "version_regex": "(?i)(?:version\\s*[=:]\\s*[\"']?v?|\\bv)([0-9]+\\.[0-9]+(?:\\.[0-9]+)?)\\b"
   },
-  "updated_at": 1794047196,
+  "updated_at": 1794613249,
   "author": "ciefp",
   "developer": "ciefp",
   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSettingsT2miAbertisOpenPLi/main/installer.sh -O - | /bin/sh",

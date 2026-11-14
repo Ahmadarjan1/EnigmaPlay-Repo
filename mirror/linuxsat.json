@@ -2437,9 +2437,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Linuxsat-Panel v.3.0.7 all",
+"name": "Linuxsat-Panel v.3.0.8 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_3.0.7_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_3.0.8_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -3205,9 +3205,9 @@
 },
 {
 "section": "Panels Addons",
-"name": "Linuxsat-Panel v.3.0.7 all",
+"name": "Linuxsat-Panel v.3.0.8 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.7_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.8_all.ipk"
 },
 {
 "section": "Panels Addons",

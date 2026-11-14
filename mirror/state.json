@@ -66,9 +66,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-13",
-"sha256": "8655aae1d97658a9b27d70990fb7773024e40ed7fd61e76dd914e4fbb9c73db6",
-"size": 324657
+"date": "2026-11-14",
+"sha256": "28beaa67d65237dee93ced965be79c52434698246090fd4dc2dc860291cd024e",
+"size": 325407
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -124,6 +124,11 @@
 "date": "2026-10-09",
 "sha256": "802bda34238ddffad24ab56c1273a434d7cb15db597d7f35e195b0465207e734",
 "size": 4089460
+},
+"gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2-plugin-skin-satellite-forum-fullhd_1.0_all.ipk": {
+"date": "2026-11-14",
+"sha256": "f8b2ce06e33a42434dd39edc83de119204b7a8c685dafaf358240ea5fa943a51",
+"size": 5688926
 },
 "gh/Belfagor2005/upload/oe2.0/Skin_All/enigma2-plugin-skin-xmas-red-fhd_1.1_all.ipk": {
 "date": "2026-10-09",
@@ -2230,6 +2235,11 @@
 "sha256": "bc5c00327200a74b8e3c827adf51ad7e4afeb3176d88205405da1ccd39d43fcf",
 "size": 57978
 },
+"gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.6_all.ipk": {
+"date": "2026-11-14",
+"sha256": "e7467dae63d84ab0a189b3eae79bc66b8836db6be1aea2aebaf61268ea77e454",
+"size": 62200
+},
 "gh/Belfagor2005/upload/oe2.0/freeccam/enigma2-plugin-extensions-ncamaddons_1.4-r0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "5b16232deab3af25ce75e8a400007df7b329be857163c213de7a5e63b363b3e8",
@@ -4205,6 +4215,11 @@
 "sha256": "d3a60be657b396d0e92d288ab50993bfc9b806f2ba5b12aab9d571782e76610a",
 "size": 20724
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.ipk": {
+"date": "2026-11-14",
+"sha256": "c5485bba266782b54fca9ef2d266700c7f98822b4a1466d83e510b711855e041",
+"size": 21156
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-cccam-arm_232_all.ipk": {
 "date": "2026-10-09",
 "sha256": "ad4db7c2dab1e4ef83b48c132b5238ebbba29b46d6ed1ab8aa893d6ec140ec91",
@@ -4249,6 +4264,11 @@
 "date": "2026-10-09",
 "sha256": "f05a35b4c07de4cced9591b7734d882bd6512fedbb3d05102121cfdf78ea9620",
 "size": 14105946
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.ipk": {
+"date": "2026-11-14",
+"sha256": "6321fc02ea633cdef6495c59d513138b03238afbb120bcba240efb665ad0dfad",
+"size": 35643362
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py2_11777-emu-r801_all.ipk": {
 "date": "2026-10-09",
@@ -5630,6 +5650,11 @@
 "sha256": "112353a6d4a8e452fceb7c5072b5e7913359d01cac79584ec74483ffee09ec47",
 "size": 1049126
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.ipk": {
+"date": "2026-11-14",
+"sha256": "959a1f237acfb724e3d682484a7b7ceac22170e4020c096d06a0e7c8499f8a85",
+"size": 988296
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.6_all.ipk": {
 "date": "2026-10-09",
 "sha256": "a3d6d76e0bfdc75214b242dddb43333d23dce14c71d126b26a924e02bf0ca9fd",
@@ -6149,6 +6174,16 @@
 "date": "2026-10-23",
 "sha256": "960c894728e1fa2383c9aa12589af8f50497892ffe32f09cd45dd64e67e87fdc",
 "size": 22634
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45streamrelay_1.0_all.deb": {
+"date": "2026-11-14",
+"sha256": "acc453ae219db6ff6607990caf2a0390de06663d884dfefc26aa4d7b8e278973",
+"size": 31284
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45streamrelay_1.0_all.ipk": {
+"date": "2026-11-14",
+"sha256": "99176d426f8f3fb94c3944e7d868a7cd9320b121e2a3044f6cc6ac770f868bdf",
+"size": 32508
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-pre-isettinge2-v3.2.deb": {
 "date": "2026-10-09",
@@ -7425,6 +7460,11 @@
 "sha256": "10deff5d886a3756e0df022250f989c5d3b7d799ae650d610c7663a03e882082",
 "size": 19812
 },
+"gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.deb": {
+"date": "2026-11-14",
+"sha256": "c920e3b822cecf45a1808fec8388d2118be9123b5d6a0d1a1ca14925a8b3ec30",
+"size": 20192
+},
 "gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-opendreambox-mirror-feed_all.deb": {
 "date": "2026-10-09",
 "sha256": "a7043238fc67498fd1017ba7ba2ad6d58b87219ccd17a8a8290f16419aadd0a8",
@@ -7454,6 +7494,11 @@
 "date": "2026-10-09",
 "sha256": "2a9ea262058f4cb69e5d5b32fa1fd67cf089e5193571760392b826cfc5d9945c",
 "size": 6330152
+},
+"gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.deb": {
+"date": "2026-11-14",
+"sha256": "c28cf2ed7576dad90d4f108b8a922593fc2f63b972c665d007410cc11afebb8a",
+"size": 21592652
 },
 "gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-osdreambox_11.719.deb": {
 "date": "2026-10-09",
@@ -8265,6 +8310,11 @@
 "sha256": "162910704135531df87afaca6fd49d08dc562c401f7fe21454b59f2f33e070f2",
 "size": 50500
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.6_all.deb": {
+"date": "2026-11-14",
+"sha256": "5bdc8635a2910fc7a5cf1b70963e452b0cbc22aa483cfe76b722d723f0e1e913",
+"size": 54004
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45iptv_1.3_all.deb": {
 "date": "2026-10-09",
 "sha256": "2d0ecd17328d02e42792b4869cec2612f413bfe289573bd16503c78a565651a2",
@@ -8279,6 +8329,11 @@
 "date": "2026-10-09",
 "sha256": "3080b00e58e82f46de6195281232a8c92bc177623e3fae7cbc4765a8f49ffe50",
 "size": 977040
+},
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.deb": {
+"date": "2026-11-14",
+"sha256": "3180dbaf8fb6fefdeb015764f2e493664da2679ef4547c14a890b7b8d997a6d2",
+"size": 925484
 },
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_3.0.6_all.deb": {
 "date": "2026-10-09",
@@ -8881,13 +8936,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-14 11:52",
+"last_run": "2026-11-14 12:58",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-14",
-"files": 1776,
+"files": 1787,
 "upstream": "ok"
 }
 }

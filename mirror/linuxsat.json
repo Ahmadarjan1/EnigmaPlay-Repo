@@ -103,6 +103,12 @@
 },
 {
 "section": "Bouquets Tools",
+"name": "Levi45 streamrelay 1.0_all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45streamrelay_1.0_all.ipk"
+},
+{
+"section": "Bouquets Tools",
 "name": "Update Icam Settings v.2.1 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-updateicamsettings_2.1_all.ipk"
@@ -2059,9 +2065,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Levi45 freeserver v.3.5 all",
+"name": "Levi45 freeserver v.3.6 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.5_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver_3.6_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -2347,6 +2353,12 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
+"name": "Levi45 streamrelay_1.0 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-levi45streamrelay_1.0_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
 "name": "iSetting START v.1.5",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/isettings/enigma2-plugin-extensions-isettinge2-start-1.5.deb"
@@ -2413,9 +2425,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Levi45 MultiCam Manager v.10.2-r6 all",
+"name": "Levi45 MultiCam Manager v.10.3-r1 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -3181,9 +3193,9 @@
 },
 {
 "section": "Panels Addons",
-"name": "Levi45 MultiCam Manager v.10.2-r6 all",
+"name": "Levi45 MultiCam Manager v.10.3-r1 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.3-r1_all.ipk"
 },
 {
 "section": "Panels Addons",
@@ -3889,9 +3901,9 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "Levi45emulator v1.4 all",
+"name": "Levi45emulator v1.5 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
@@ -3931,9 +3943,9 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "Oscam Icam emu pcsc levi45 11968-803 all",
+"name": "Oscam Icam emu pcsc levi45 11975-803 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11968-803_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
@@ -4051,9 +4063,9 @@
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",
-"name": "Levi45emulator 1.4 all  all",
+"name": "Levi45emulator 1.5 all  all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.4_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-extensions-levi45emulator_1.5_all.deb"
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",
@@ -4087,9 +4099,9 @@
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",
-"name": "Oscam Icam emu pcsc levi45 11968-803 all",
+"name": "Oscam Icam emu pcsc levi45 11975-803 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11968-803_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.deb"
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",
@@ -4177,9 +4189,9 @@
 },
 {
 "section": "Keys Tools OE2.0",
-"name": "Levi45 freeserver 3.5 all",
+"name": "Levi45 freeserver 3.6 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.5_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/freeccam/enigma2-plugin-extensions-levi45-freeserver_3.6_all.ipk"
 },
 {
 "section": "Keys Tools OE2.0",
@@ -6088,6 +6100,12 @@
 "name": "FHD Areadeltasat Dragon Poster Backdrop v.4.2 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2_plugin_skins_areadeltasat_fhd_dragon_4_2_Poster_Backdrop.ipk"
+},
+{
+"section": "Skins All",
+"name": "FHD satellite-forum-fullhd_1.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skin_All/enigma2-plugin-skin-satellite-forum-fullhd_1.0_all.ipk"
 },
 {
 "section": "Skins All",

@@ -2431,9 +2431,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Levi45 Addon Panel v.10.2-r0 all",
+"name": "Levi45 Addon Panel v.10.3 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.2-r0_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.3_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -3199,9 +3199,9 @@
 },
 {
 "section": "Panels Addons",
-"name": "Levi45 Addon Panel v.10.2-r0 all",
+"name": "Levi45 Addon Panel v.10.3 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.2-r0_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.3_all.ipk"
 },
 {
 "section": "Panels Addons",
@@ -3943,9 +3943,9 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "Oscam Icam emu pcsc levi45 11975-803 all",
+"name": "Oscam Icam emu pcsc levi45 11986-803 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11986-803_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
@@ -4099,9 +4099,9 @@
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",
-"name": "Oscam Icam emu pcsc levi45 11975-803 all",
+"name": "Oscam Icam emu pcsc levi45 11986-803 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11975-803_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11986-803_all.deb"
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",

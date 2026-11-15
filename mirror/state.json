@@ -66,9 +66,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-14",
-"sha256": "ea192f074b7746967d8f5e9b57b3dafcf0309641666ff2d0ba9d69471ecc5c19",
-"size": 325407
+"date": "2026-11-15",
+"sha256": "4ff492b423dd8e50769459f95023ccca1619da40a279520579ff6f1a6bc3bc10",
+"size": 325395
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -4270,6 +4270,11 @@
 "sha256": "6321fc02ea633cdef6495c59d513138b03238afbb120bcba240efb665ad0dfad",
 "size": 35643362
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11986-803_all.ipk": {
+"date": "2026-11-15",
+"sha256": "27c4d19e60c488c7cbf62116845985ded779db3fdb52c198e954238b3373d4b4",
+"size": 36022742
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py2_11777-emu-r801_all.ipk": {
 "date": "2026-10-09",
 "sha256": "9fbbbf07c4a7d2a1d9b1d1578ea04eb0e876bd9b54cb1e81b414b6a3dbbb1ea6",
@@ -5644,6 +5649,11 @@
 "date": "2026-10-23",
 "sha256": "f492502b3990614b2d1749b261a6985637438f0edb5ce016a5425393a26e2310",
 "size": 132938
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45-addon_10.3_all.ipk": {
+"date": "2026-11-15",
+"sha256": "39878cf40c50d9a335d8d7d37493cc26181486b39fe45e7f6aeba744d28dd309",
+"size": 266242
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-levi45multicammanager_10.2-r6_all.ipk": {
 "date": "2026-10-09",
@@ -7505,6 +7515,11 @@
 "sha256": "c28cf2ed7576dad90d4f108b8a922593fc2f63b972c665d007410cc11afebb8a",
 "size": 21592652
 },
+"gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11986-803_all.deb": {
+"date": "2026-11-15",
+"sha256": "06278d02d1e9d9432e5051cd0a0378c6f79f68f4076c585bb2c1e7b490df232d",
+"size": 22340616
+},
 "gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-osdreambox_11.719.deb": {
 "date": "2026-10-09",
 "sha256": "358bb446533a7691bcf87eaea9103b2021095956f03e37af1a7358c1fe5a0eea",
@@ -8290,6 +8305,11 @@
 "sha256": "64c3f619a1362dd3c22ae3c91b5777837c30cf383942766655563ec6b0c9d57e",
 "size": 127788
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-addon_10.3_all.deb": {
+"date": "2026-11-15",
+"sha256": "69f843fede8177f9fa28e15b1817ac63b4ec74ce10d1704d69c184c9ee850e95",
+"size": 261804
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-levi45-freeserver-dreambox_2.6_all.deb": {
 "date": "2026-10-09",
 "sha256": "164a393f34962a39f86d1c45b92048bbe61373f37d1e280c8e6d32b4b8c136f0",
@@ -8946,13 +8966,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-15 15:39",
+"last_run": "2026-11-15 16:46",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-15",
-"files": 1789,
+"files": 1793,
 "upstream": "ok"
 }
 }

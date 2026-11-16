@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-14T19:58:10Z",
+ "generated": "2026-11-16T22:18:54Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2516,16 +2516,20 @@
    "id": "ciefprottentomatoes",
    "category": "panels",
    "name": "CiefpRottenTomatoes",
-   "version": "1.4",
+   "version": "1.5",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791927074,
+   "updated": "16.11.2026",
+   "updated_ts": 1794867525,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefprottentomatoes/1.4/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefprottentomatoes/1.5/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "16.11.2026",
+     "1.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpRottenTomatoes)"
+    ],
     [
      "10.10.2026",
      "1.4 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpRottenTomatoes)"
@@ -2550,13 +2554,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefprottentomatoes/1.4/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefprottentomatoes/1.5/installer.sh",
      "sha256": "b4fca40bfb895c4aee380a9d29b84ffaabc88e971126b269b2846b15d78e6073",
      "size": 4880,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefprottentomatoes/1.4/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefprottentomatoes/1.5/installer.sh",
        "sha256": "b4fca40bfb895c4aee380a9d29b84ffaabc88e971126b269b2846b15d78e6073"
       }
      ]
@@ -3342,16 +3346,20 @@
    "id": "ciefptmdbsearch",
    "category": "panels",
    "name": "CiefpTMDBSearch",
-   "version": "2.6",
+   "version": "2.7",
    "description": "بانل تسطيب إضافات",
-   "updated": "12.10.2026",
-   "updated_ts": 1791823962,
+   "updated": "16.11.2026",
+   "updated_ts": 1794867530,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.6/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.7/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "16.11.2026",
+     "2.7 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
+    ],
     [
      "10.10.2026",
      "2.6 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
@@ -3376,13 +3384,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.6/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.7/installer.sh",
      "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277",
      "size": 3147,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefptmdbsearch/2.6/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefptmdbsearch/2.7/installer.sh",
        "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277"
       }
      ]
@@ -5945,6 +5953,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "JhPtcHFaOxW/dnz3PjT7QrTo+Me7LTJsMvkYMDXdGI1I8T63avX+F4b4h5FyN9FMyfwWxbnUgz2wAUv2ghSPDQ=="
+  "sig": "AyUBC4UehsfdX7dH17g01b/JOcMdZ3NNEtzWVgwi0+Sxd245a0UsqNBUobfHFyayQc4H+DCCjT+JKsdGK8TtDw=="
  }
 }

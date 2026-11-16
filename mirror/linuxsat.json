@@ -1735,6 +1735,12 @@
 },
 {
 "section": "Lululla Zone OE2.0",
+"name": "Televideo RAI v.1.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-televideorai_1.0_all.ipk"
+},
+{
+"section": "Lululla Zone OE2.0",
 "name": "TvDream v.1.4 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.ipk"
@@ -3943,6 +3949,12 @@
 },
 {
 "section": "Softcams OE2.0",
+"name": "Oscam 11986-emu-r802 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam_11986-emu-r802_all.ipk"
+},
+{
+"section": "Softcams OE2.0",
 "name": "Oscam Icam emu pcsc levi45 11986-803 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11986-803_all.ipk"
@@ -4003,15 +4015,15 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "GosatPlus Oscam 11860-emu-r802 ipk",
+"name": "GosatPlus Oscam 11986-emu-r802 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11860-emu-r802_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-oscam_11986-emu-r802_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
-"name": "GosatPlus Ncam 14.2-r3 ipk",
+"name": "GosatPlus Ncam 15.2-r0 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_14.4-r0_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-gosatplus-ncam_15.2-r0_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
@@ -4021,15 +4033,15 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "Powercam Oscam 11860-emu-r802 ipk",
+"name": "Powercam Oscam 11986-emu-r802 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11860-emu-r802_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-oscam_11986-emu-r802_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
-"name": "Powercam Ncam 14.2-r3 ipk",
+"name": "Powercam Ncam 15.2-r0 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_14.4-r0_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-powercam-ncam_15.2-r0_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
@@ -4039,27 +4051,27 @@
 },
 {
 "section": "Softcams OE2.0",
-"name": "Supcam Ncam 14.4-r0 ipk",
+"name": "Supcam Ncam 15.2-r0 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_14.4-r0_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-ncam_15.2-r0_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
-"name": "Supcam Oscam 11860-emu-r802 ipk",
+"name": "Supcam Oscam 11986-emu-r802 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11860-emu-r802_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-supcam-oscam_11986-emu-r802_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
-"name": "Ultracam Ncam 14.2-r3 ipk",
+"name": "Ultracam Ncam 15.2-r0 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-ncam_14.2-r3_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-ncam_15.2-r0_all.ipk"
 },
 {
 "section": "Softcams OE2.0",
-"name": "Ultracam Oscam 11860-emu-r802 ipk",
+"name": "Ultracam Oscam 11986-emu-r802 ipk",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11860-emu-r802_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-ultracam-oscam_11986-emu-r802_all.ipk"
 },
 {
 "section": "Softcams OE2.2/2.5/2.6",

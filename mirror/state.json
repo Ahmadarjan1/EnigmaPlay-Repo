@@ -46,8 +46,8 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-11-16",
-"sha256": "cf523de488a0877989344445c92cd41903a18bbc776987d16300da099ee73cba",
+"date": "2026-11-17",
+"sha256": "db0c03324e933fad64e4d9f58251d662f5f94c63f7df833846a60e37e5d72bac",
 "size": 96648
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -67,7 +67,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-17",
-"sha256": "e314a0ec2624cda68ef8c94909416f4072032c43527dfe393e8a0a00d77d8f92",
+"sha256": "6790ea2b2f8e434a31f315946d44b7319281c29a47e42817f901c3025d9826f6",
 "size": 326583
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2534,6 +2534,11 @@
 "date": "2026-10-09",
 "sha256": "ba063a1c452db2648538421ee4f34f0d868c7d5a778e993d42c0c317e1bd98bb",
 "size": 1591008
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-ci-plus-helper_7.1_all.deb": {
+"date": "2026-11-17",
+"sha256": "0d9be5e28341b39aeb1313bb246726bcc629225cb3c5a842a5380102ddb15922",
+"size": 1505084
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-clearmem_1.11_all.ipk": {
 "date": "2026-10-09",
@@ -6510,6 +6515,11 @@
 "sha256": "1a39bfa217973682eaf1da933e3ba93f49291583578440194fb12b550eb4e145",
 "size": 3111184
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_7.1_all.ipk": {
+"date": "2026-11-17",
+"sha256": "e997ba34a34f3c850bd5307b45f03352f80f988fbb0b3b1e1e3d74c75580eff0",
+"size": 2712908
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-ci_plus_helper-openpli8.x_5_all.ipk": {
 "date": "2026-10-09",
 "sha256": "d5fa04d5fdaa0307fdbc0be08bd28a35b0b648bfd5682c18c7b6558c947788e3",
@@ -9046,13 +9056,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-17 19:31",
+"last_run": "2026-11-17 20:40",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-17",
-"files": 1809,
+"files": 1811,
 "upstream": "ok"
 }
 }

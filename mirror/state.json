@@ -66,8 +66,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-16",
-"sha256": "761661883e9aeb773480e26f22372b7750cbb0736539df956005a4933b93ac82",
+"date": "2026-11-17",
+"sha256": "e314a0ec2624cda68ef8c94909416f4072032c43527dfe393e8a0a00d77d8f92",
 "size": 326583
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -4290,6 +4290,11 @@
 "sha256": "27c4d19e60c488c7cbf62116845985ded779db3fdb52c198e954238b3373d4b4",
 "size": 36022742
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11989-803_all.ipk": {
+"date": "2026-11-17",
+"sha256": "f1aa341514e7f1d33e07c3411b7c8057edbd6ed02485ac8d6d20f53da6bf112f",
+"size": 34853868
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_emulator/allbox/enigma2-plugin-softcams-oscam-icam-py2_11777-emu-r801_all.ipk": {
 "date": "2026-10-09",
 "sha256": "9fbbbf07c4a7d2a1d9b1d1578ea04eb0e876bd9b54cb1e81b414b6a3dbbb1ea6",
@@ -7580,6 +7585,11 @@
 "sha256": "06278d02d1e9d9432e5051cd0a0378c6f79f68f4076c585bb2c1e7b490df232d",
 "size": 22340616
 },
+"gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-emu-pcsc-levi45_11989-803_all.deb": {
+"date": "2026-11-17",
+"sha256": "28952a02d572b7dd7f05a256b3a2e598215afac32cdf70b77f28f4e37484ba32",
+"size": 20392108
+},
 "gh/Belfagor2005/upload/oe2.5/Emulators/Allbox/enigma2-plugin-softcams-oscam-osdreambox_11.719.deb": {
 "date": "2026-10-09",
 "sha256": "358bb446533a7691bcf87eaea9103b2021095956f03e37af1a7358c1fe5a0eea",
@@ -9036,13 +9046,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-17 17:15",
+"last_run": "2026-11-17 18:23",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-17",
-"files": 1807,
+"files": 1809,
 "upstream": "ok"
 }
 }

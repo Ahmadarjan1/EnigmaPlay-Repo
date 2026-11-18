@@ -247,6 +247,12 @@
 },
 {
 "section": "Bouquets Tools",
+"name": "LCN Settings Builder v.2.1.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-extensions-lcnsettingbuilder_2.1.1_all.ipk"
+},
+{
+"section": "Bouquets Tools",
 "name": "LCN Scanner 2.0 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_settings/enigma2-plugin-systemplugins-lcnscanner_2.0_all.ipk"
@@ -1519,9 +1525,9 @@
 },
 {
 "section": "Lululla Zone OE2.0",
-"name": "Ciplus helper Merged Lululla v.7.1 all",
+"name": "Ciplus helper Merged Lululla v.7.2 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_7.1_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_7.2_all.ipk"
 },
 {
 "section": "Lululla Zone OE2.0",
@@ -4789,9 +4795,9 @@
 },
 {
 "section": "Utility Tools",
-"name": "Ciplus helper Lululla v.6.8 all",
+"name": "Ciplus helper Merged Lululla v.7.1 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_6.8_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ci-plus-helper_7.1_all.ipk"
 },
 {
 "section": "Utility Tools",

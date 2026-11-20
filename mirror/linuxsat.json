@@ -817,9 +817,9 @@
 },
 {
 "section": "Iptv Tools",
-"name": "Custom Iptvarchive Maker Pro v.8.1 all",
+"name": "Custom Iptvarchive Maker Pro v.8.2 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.1.all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.2.all.ipk"
 },
 {
 "section": "Iptv Tools",
@@ -847,9 +847,9 @@
 },
 {
 "section": "Iptv Tools",
-"name": "E2iptvlab v0.1-20261022c all",
+"name": "E2iptvlab v0.1-20261111c all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iptvlab_0.1-20261022c_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iptvlab_0.1-20261111c_all.ipk"
 },
 {
 "section": "Iptv Tools",
@@ -925,9 +925,9 @@
 },
 {
 "section": "Iptv Tools",
-"name": "Iptv Archive v.2.0.91 all",
+"name": "Iptv Archive v.2.0.94 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.91_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.94_all.ipk"
 },
 {
 "section": "Iptv Tools",
@@ -937,9 +937,15 @@
 },
 {
 "section": "Iptv Tools",
-"name": "Iptvdream v.6.6.7 all",
+"name": "Iptvdream v.8.0.1 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_8.0.1_all.ipk"
+},
+{
+"section": "Iptv Tools",
+"name": "Iptvdream all v.4.123 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream-all_4.123_all.ipk"
 },
 {
 "section": "Iptv Tools",
@@ -1006,6 +1012,12 @@
 "name": "Justwatch v.1.2.1 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/enigma2-plugin-extensions-justwatch_1.2.1_all.ipk"
+},
+{
+"section": "Iptv Tools",
+"name": "Kareem_IPTV all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_iptv/Kareem_IPTV.ipk"
 },
 {
 "section": "Iptv Tools",
@@ -2353,9 +2365,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Iptv Archive v.2.0.91 all",
+"name": "Iptv Archive v.2.0.94 all",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.91_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.94_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",

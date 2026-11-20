@@ -2,8 +2,8 @@
   "id": "ciefptmdbsearch",
   "name": "CiefpTMDBSearch",
   "category": "panels",
-  "version": "2.7",
-  "updated": "2026-11-16",
+  "version": "3.0",
+  "updated": "2026-11-20",
   "description": "بانل تسطيب إضافات",
   "python": [
     "2",
@@ -19,10 +19,14 @@
   "downloads": [
     {
       "type": "sh",
-      "file": "files/ciefptmdbsearch/2.7/installer.sh"
+      "file": "files/ciefptmdbsearch/3.0/installer.sh"
     }
   ],
   "changelog": [
+    {
+      "date": "2026-11-20",
+      "text": "3.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
+    },
     {
       "date": "2026-11-16",
       "text": "2.7 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
@@ -62,5 +66,5 @@
       "description": "CiefpTMDBSearch - search for descriptions of movies, series of trailers from the TMDB site, uses tmdb.omdb api key"
     }
   },
-  "updated_at": 1794867530
+  "updated_at": 1795209393
 }

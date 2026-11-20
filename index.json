@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-19T22:17:02Z",
+ "generated": "2026-11-20T21:16:38Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3346,16 +3346,20 @@
    "id": "ciefptmdbsearch",
    "category": "panels",
    "name": "CiefpTMDBSearch",
-   "version": "2.7",
+   "version": "3.0",
    "description": "بانل تسطيب إضافات",
-   "updated": "16.11.2026",
-   "updated_ts": 1794867530,
+   "updated": "20.11.2026",
+   "updated_ts": 1795209393,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.7/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/3.0/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "20.11.2026",
+     "3.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
+    ],
     [
      "16.11.2026",
      "2.7 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpTMDBSearch)"
@@ -3384,13 +3388,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/2.7/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefptmdbsearch/3.0/installer.sh",
      "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277",
      "size": 3147,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefptmdbsearch/2.7/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefptmdbsearch/3.0/installer.sh",
        "sha256": "886df2b9121a2925da47cef7e88e503fefebd648ac31921581e965e2350d7277"
       }
      ]
@@ -5953,6 +5957,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "MkdeRj4oTYhAJigJvMit/x4Q0JDh8/5V5nTikNtMqvIIpPinihPVXCZIJyXEexfW6EfEwDSA01bb2bnSbM9bDA=="
+  "sig": "wwQU7IwWT9RSlDI5t3ofMk2j4YFMkCrCsrA7fhK7YmkPWa9i9H6hrmoos38BTiPqPA4zuv6yPwL4OJdiNvW1CA=="
  }
 }

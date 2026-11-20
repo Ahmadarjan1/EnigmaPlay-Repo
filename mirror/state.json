@@ -31,9 +31,9 @@
 "size": 628
 },
 "gh/Belfagor2005/upload/.github/workflows/build-and-publish-ipk.yml": {
-"date": "2026-10-09",
-"sha256": "ce804bee2b78eac98228230078a6666d48c6db82bf412f955de63b87761fe5b0",
-"size": 2425
+"date": "2026-11-20",
+"sha256": "bbf335354d6c963f9e6524da5aa5475654d15f7666c0ec46acc49155777de81d",
+"size": 3009
 },
 "gh/Belfagor2005/upload/.gitignore": {
 "date": "2026-10-09",
@@ -9126,7 +9126,7 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-20 20:40",
+"last_run": "2026-11-20 21:48",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {

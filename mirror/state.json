@@ -67,8 +67,8 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-20",
-"sha256": "f371ef395d0873be8f65a40e38097d2445274806302a4c7b8a759f41d0d82a1b",
-"size": 326852
+"sha256": "42cdc83fc2688771cee9b88aa0181c00ed3a915f0616b598268468064d7b16fe",
+"size": 327282
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -5025,6 +5025,11 @@
 "sha256": "672329df6983f66d243fb284e755a76b76d075fdc6a95c5d50ba8b515b763a07",
 "size": 63136
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/Kareem_IPTV.ipk": {
+"date": "2026-11-20",
+"sha256": "99f18b4371c7cf92005f11eff2d1af5ddf375851b10f2b0ab7d9c95da58a55eb",
+"size": 666576
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/XtreamTVarmv7a_4K_0.2.3.ipk": {
 "date": "2026-10-09",
 "sha256": "89cbad5a4f7f9751bff35b047d463136e34b8e244380cf75fbe8ae6fbb3c7efb",
@@ -5060,6 +5065,11 @@
 "sha256": "cd46cc40d8757c005dadf617cb0eabfa18ec477f7a37dfbb10277125dbaeb2a0",
 "size": 388353
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-customiptvarchivemakerpro_v8.2.all.ipk": {
+"date": "2026-11-20",
+"sha256": "9b4b571aea720bd20ff4a3a13edbd2cde10759bbd7c3b4fb1a5775c9d0c31274",
+"size": 481396
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-dreamplex_2.1.4_all.ipk": {
 "date": "2026-10-09",
 "sha256": "3218e293dead6ebd1aa72a6d1dab7bb9c30ea23b55a983072ae682da1812fcbe",
@@ -5084,6 +5094,11 @@
 "date": "2026-11-02",
 "sha256": "36dcd9ce4e3e03bd0a1ea346e9e648a654ccb10985a04149f90eaa655cfb4253",
 "size": 405518
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2iptvlab_0.1-20261111c_all.ipk": {
+"date": "2026-11-20",
+"sha256": "5a1fe5e1cc799713dd68d93ba33ab190116076b15f0c9944c50082a91e7bdc69",
+"size": 442204
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-e2m3u2bouquet_2.0.12_all.ipk": {
 "date": "2026-10-09",
@@ -5155,15 +5170,30 @@
 "sha256": "b51a3ff0fe6fb724d89fcacc034666cae549a59c79dc90c6e76ed17222bac6cf",
 "size": 1167886
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvarchive_2.0.94_all.ipk": {
+"date": "2026-11-20",
+"sha256": "db14803fa9938131b23e55211cb2f98594bf1922c9459f7026ab2d294b112dd3",
+"size": 1250910
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvbouquet_1.0_r0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "09b61033fd395951da9f0e31da3f82c8dacd8689c8d0d565a25f5d11b7319798",
 "size": 151206
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream-all_4.123_all.ipk": {
+"date": "2026-11-20",
+"sha256": "baaf6d055b220fcc33fb00ed176e366d459a41dd5a44f86ff6e0396366db648d",
+"size": 2210180
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_6.6.7_all.ipk": {
 "date": "2026-10-09",
 "sha256": "b4220660f8563c641ed99a2070e9a7342fc3a0425baf2f54978cd6fcc537a880",
 "size": 323054
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_8.0.1_all.ipk": {
+"date": "2026-11-20",
+"sha256": "ec064dd09254e3b4cd4fe371bd1462f0f55b40ee15f6f8afefa96d87e7ad0bd6",
+"size": 388296
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk": {
 "date": "2026-10-09",
@@ -8370,6 +8400,11 @@
 "sha256": "350d109d8557af8dd254e86a66e987febba3fa33a955938604abe9d72cb9aa05",
 "size": 1167886
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-iptvarchive_2.0.94_all.deb": {
+"date": "2026-11-20",
+"sha256": "e79f28ee5f08c876e3d4281cfdf4943b6770575825df66b9a55935d74d43e068",
+"size": 1251004
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-iptvdream_6.0.4_all_dreamos.deb": {
 "date": "2026-10-09",
 "sha256": "8e1f530b927b6571f26db63b88fe0878921d9757b24c7d3f6b14b48245ace1fa",
@@ -9081,13 +9116,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-20 18:24",
+"last_run": "2026-11-20 19:32",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-20",
-"files": 1816,
+"files": 1823,
 "upstream": "ok"
 }
 }

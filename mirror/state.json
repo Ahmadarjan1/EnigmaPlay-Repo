@@ -46,13 +46,13 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-11-18",
-"sha256": "8f0519b86c97906dad48dfbadc979d4a7832d80475b5f2dc19009eb8c45ae38b",
+"date": "2026-11-20",
+"sha256": "d96003c688fcef00ce0b58ed391eec1a3c97bf51f1a995ec2a1836af13d315e5",
 "size": 96648
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
-"date": "2026-11-16",
-"sha256": "26d7b804231a826163d1d53f89d12aa1b400fe3a725032ecdf8b4c031c967d11",
+"date": "2026-11-20",
+"sha256": "27fb8c4de38758ee70110540a02c61504323fa85c25c410dc777e08577a17a95",
 "size": 17797
 },
 "gh/Belfagor2005/upload/README.md": {
@@ -66,8 +66,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-18",
-"sha256": "640f9a1eefd5ac42e2caf52277d145b278ece0df0aaf995e7b868d3e7e078b46",
+"date": "2026-11-20",
+"sha256": "f371ef395d0873be8f65a40e38097d2445274806302a4c7b8a759f41d0d82a1b",
 "size": 326852
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -5750,6 +5750,11 @@
 "sha256": "b89ca3f5095c2addc596a92e733207e001693782b03fc2667c0ba8a7dd3d802d",
 "size": 16213702
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-linuxsat-panel_3.0.9_all.ipk": {
+"date": "2026-11-20",
+"sha256": "b3896b66b4920ab19dcd1426dc21973a72e74f49aec13cdb02af53f6b40fca28",
+"size": 16418104
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_ppanel/enigma2-plugin-extensions-magicpanel_v5_all.ipk": {
 "date": "2026-10-09",
 "sha256": "8d9d8da7a4b8eae5968b386d89c184a929976a485f93e1bc21f8e8739c281d4f",
@@ -8475,6 +8480,11 @@
 "sha256": "7f3c8f6ef2e12e1c21e3e0aed2b2b5c3390248d43cf8dc4e66e55a44b1ad6916",
 "size": 14614336
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-linuxsat-panel_3.0.9_all.deb": {
+"date": "2026-11-20",
+"sha256": "90fd779dec84783ece84bfe489c36a45dfa1ed747170ed3e4f64a3166fd35462",
+"size": 14785940
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-livefootball_8.6_all.deb": {
 "date": "2026-10-09",
 "sha256": "82616f820d3082affd4a98df7c49323a46828707af3c2c705bc3d329ad2e8f8a",
@@ -9071,13 +9081,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-20 16:12",
+"last_run": "2026-11-20 17:18",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-20",
-"files": 1814,
+"files": 1816,
 "upstream": "ok"
 }
 }

@@ -1687,9 +1687,9 @@
 },
 {
 "section": "Lululla Zone OE2.0",
-"name": "RadioM v.1.5 all",
+"name": "RadioM v.1.6 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.5_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.6_all.ipk"
 },
 {
 "section": "Lululla Zone OE2.0",
@@ -2680,6 +2680,12 @@
 "name": "Quarterpounder v.6.2.0.20201122 all",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-quarterpounder_6.2.0.20201122_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
+"name": "Remote Channel Converter-dreamos v.2.0.2 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugins-remotechannelconverter-dreamos_2.0.2_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",

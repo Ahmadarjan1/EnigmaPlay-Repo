@@ -46,8 +46,8 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-11-20",
-"sha256": "61968e387f205ac341f39bcfb362c5dfbe7ae8e5671543b4f130bf285de3f9f8",
+"date": "2026-11-21",
+"sha256": "5d4c93bd762dbdecf490bf73f2392ec92f604006db7233e995ff76caf9b951c2",
 "size": 96648
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -66,8 +66,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-20",
-"sha256": "6a56c5f012ff65ed7531fbb8870dd71281eb3d7b0d8e858f17bf4363866523fd",
+"date": "2026-11-21",
+"sha256": "0d71eb67fb40bdb4216a9fb16ee1987715acc217c966e5ce3d9c57d00d6f8183",
 "size": 327282
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -3029,6 +3029,16 @@
 "date": "2026-11-20",
 "sha256": "06ba0a4330f24b4e2ac2ecd0c949658e15247ad034b0c53daa5d2702838abbde",
 "size": 1107846
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.deb": {
+"date": "2026-11-21",
+"sha256": "8894952103ce527fadc57b9c8d96de556e0f0a3793cc52c607a48f4cf6508019",
+"size": 1080936
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.ipk": {
+"date": "2026-11-21",
+"sha256": "96be82b84820508daac30c2ae89ea4711a3e38ab88d54ce2b245328ba0c0d4d0",
+"size": 1156574
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.8_all.deb": {
 "date": "2026-10-09",
@@ -9126,13 +9136,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-21 12:09",
+"last_run": "2026-11-21 13:19",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-21",
-"files": 1825,
+"files": 1827,
 "upstream": "ok"
 }
 }

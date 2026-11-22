@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
 "date": "2026-11-22",
-"sha256": "db905d4cdeba62d61da2e8447c42f13eb6b6de9ddce19f81d18e8189deedf5e9",
+"sha256": "e89c10266ffdaf26371b8e6b73ddf50a23352b6687881a29ed51d4c4b1cbeb73",
 "size": 96646
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -67,7 +67,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-22",
-"sha256": "3a6d5a90ebe1b40d8832d1b263e85d273e26a4d902b718212b174eddff2b6eb6",
+"sha256": "1fb61e554fa6702671c5dff64ecba402b47e11b422cfad567f4b93cad94aa4a3",
 "size": 329948
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -3154,6 +3154,16 @@
 "date": "2026-11-22",
 "sha256": "64456776411d9c91643a41e68e6c2f7b0aa3820ce3387765b368e73db74d91a5",
 "size": 11496004
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.91_all.deb": {
+"date": "2026-11-22",
+"sha256": "e8a0990c5da969d8ed1af08e68b3230d2fc422bbba2e57469b41ceda0d2edda1",
+"size": 7756292
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.91_all.ipk": {
+"date": "2026-11-22",
+"sha256": "c4e2a2e94450d013f6a4836622efef3293b950b37480f0a2f1ad3a00fcf33859",
+"size": 11664090
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.4_all.deb": {
 "date": "2026-10-09",
@@ -9281,13 +9291,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-22 19:21",
+"last_run": "2026-11-22 20:28",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-22",
-"files": 1856,
+"files": 1858,
 "upstream": "ok"
 }
 }

@@ -46,9 +46,9 @@
 "size": 714
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
-"date": "2026-11-21",
-"sha256": "68d9a550d64488fe3414224996f8a1e589a17c5f42b8d877ebe38565b7c5bb1f",
-"size": 96646
+"date": "2026-11-22",
+"sha256": "a09001eeddde4ea76f6063bdb19e8d27dfa2d28d800be10bddbbad62531a28fe",
+"size": 96647
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
 "date": "2026-11-20",
@@ -66,8 +66,8 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-21",
-"sha256": "51b2ca981901322d27e67cacce8734505c0f3b6f682fee103df1c8f62162060b",
+"date": "2026-11-22",
+"sha256": "fc541eddaf5e1759623de6ed7973d8eaf8c1caf7e663a1eb1eae00f6c5630e6c",
 "size": 327542
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -3055,6 +3055,11 @@
 "sha256": "96be82b84820508daac30c2ae89ea4711a3e38ab88d54ce2b245328ba0c0d4d0",
 "size": 1156574
 },
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.7_all.ipk": {
+"date": "2026-11-22",
+"sha256": "cf660c7cb32bbe56e3cf2075e43e32bb911a8d234deed1c8d829418e212c45df",
+"size": 1291014
+},
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-tvspro-xxx_1.8_all.deb": {
 "date": "2026-10-09",
 "sha256": "859d584f7133e88f05ab1ec8e3ae8b16f1811a43557a64d6f610a230406de08e",
@@ -3104,6 +3109,16 @@
 "date": "2026-11-11",
 "sha256": "bdd46ea225a53705f0f4149f7f62cc58c670b2f8a86a4ab85befc52c97e7e6aa",
 "size": 10318722
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.90_all.deb": {
+"date": "2026-11-22",
+"sha256": "2654e0955f9d1ecbd9b948deae3635475e1783aa0d2dea05ee67988c3ba00e2d",
+"size": 7714388
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.90_all.ipk": {
+"date": "2026-11-22",
+"sha256": "64456776411d9c91643a41e68e6c2f7b0aa3820ce3387765b368e73db74d91a5",
+"size": 11496004
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.4_all.deb": {
 "date": "2026-10-09",
@@ -9161,13 +9176,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-22 10:29",
+"last_run": "2026-11-22 11:35",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-22",
-"files": 1832,
+"files": 1835,
 "upstream": "ok"
 }
 }

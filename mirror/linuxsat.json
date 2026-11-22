@@ -1795,9 +1795,9 @@
 },
 {
 "section": "Lululla Zone OE2.0",
-"name": "WiFi Manager v.1.4 all",
+"name": "WiFi Manager v.1.5 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.5_all.ipk"
 },
 {
 "section": "Lululla Zone OE2.0",
@@ -2104,6 +2104,12 @@
 "name": "cfg Zoom Final FIX7x all",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-cfg_Zoom_Final_FIX7x_all.deb"
+},
+{
+"section": "Plugins OE2.2/2.5/2.6",
+"name": "Channel Lingo v.1.1 all",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-ChannelLingo_1.1_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -4807,6 +4813,12 @@
 },
 {
 "section": "Utility Tools",
+"name": "Channel Lingo v.1.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-ChannelLingo_1.1_all.ipk"
+},
+{
+"section": "Utility Tools",
 "name": "Ci OFF/ON v.1.2 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-systemplugins-cioffon_1.2_all.ipk"
@@ -7051,9 +7063,9 @@
 },
 {
 "section": "Skins Oe Based",
-"name": "FHD GLASS v.1.0.80 all",
+"name": "FHD GLASS v.1.0.82 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.80_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.82_all.ipk"
 },
 {
 "section": "Skins Oe Based",

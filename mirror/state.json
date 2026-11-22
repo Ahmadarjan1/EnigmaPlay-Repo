@@ -47,8 +47,8 @@
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
 "date": "2026-11-22",
-"sha256": "a09001eeddde4ea76f6063bdb19e8d27dfa2d28d800be10bddbbad62531a28fe",
-"size": 96647
+"sha256": "d6dbe27241af44e5bf8d5e65ad2c6f6f6a8a0e4bfaa18511607e1d2bf3d77f2d",
+"size": 96646
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
 "date": "2026-11-20",
@@ -67,8 +67,8 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-22",
-"sha256": "02be9f255e9847618c5cbd0cb97c4325b60b875869071463c50a8f22035d34af",
-"size": 327542
+"sha256": "b91c53e294b7fc48c0ad7c8571cec0fc1d97b137033d34b00f1fe8725556c8e5",
+"size": 328034
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -864,6 +864,11 @@
 "date": "2026-11-13",
 "sha256": "323e6702297883f88a9261ecf0ecd12b7bf43c4a7c550d585ef40ebee8d3746b",
 "size": 18248720
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.82_all.ipk": {
+"date": "2026-11-22",
+"sha256": "cc0f7b2cd0a7fae6d43735a9dec3977cb1686325af77eb629da279e2bf5d8148",
+"size": 18388056
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
 "date": "2026-10-09",
@@ -3129,6 +3134,16 @@
 "date": "2026-10-09",
 "sha256": "2c28d3b4d9896499637ab0b19164f56ec2c181dd17737428ae66fdbf209b78fd",
 "size": 1012584
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.5_all.deb": {
+"date": "2026-11-22",
+"sha256": "62ae972a6b35005180b582755fc35183bd79fe81a54756d94840bd00e186f5ca",
+"size": 1037012
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.5_all.ipk": {
+"date": "2026-11-22",
+"sha256": "4a44dac3ffbe21d22497091805926eff0b4b616fc5c5e96cd854efc0c9ed091a",
+"size": 2813252
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.1_all.deb": {
 "date": "2026-10-09",
@@ -6515,6 +6530,11 @@
 "sha256": "02797ded9fb8822041df3d045c9380739218dc1ffa7654ec22de86e6b7ef0486",
 "size": 11366
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-ChannelLingo_1.1_all.ipk": {
+"date": "2026-11-22",
+"sha256": "cb486a8fb04e80dfc1e5121e225f75d3bb226e7e0798ed3743fee61819332a3e",
+"size": 44616736
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-aihdcontrolerpichmod_2.9_all.ipk": {
 "date": "2026-10-09",
 "sha256": "145556362c49fd096efaceff8526aef665d10f82255bbabed009a064ac23c8bf",
@@ -8135,6 +8155,11 @@
 "sha256": "cd3611cb4db56362265d328d2aec1cecf07308a6da439d83229f58978a41f2cd",
 "size": 2031208
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-ChannelLingo_1.1_all.deb": {
+"date": "2026-11-22",
+"sha256": "adb109301c8a6fa07e62a6ad95b2261145504b5df22accb4d27afb6c2f8400e8",
+"size": 43694504
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-E2m3u2bouquet_1.0.99_all.deb": {
 "date": "2026-10-09",
 "sha256": "613d908a606f11e1c265f3510fb761f70b7f859b1be6880349a22c28b14cdc7c",
@@ -9186,13 +9211,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-22 13:50",
+"last_run": "2026-11-22 14:55",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-22",
-"files": 1837,
+"files": 1842,
 "upstream": "ok"
 }
 }

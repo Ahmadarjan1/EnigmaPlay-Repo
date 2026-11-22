@@ -67,7 +67,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-22",
-"sha256": "fc541eddaf5e1759623de6ed7973d8eaf8c1caf7e663a1eb1eae00f6c5630e6c",
+"sha256": "02be9f255e9847618c5cbd0cb97c4325b60b875869071463c50a8f22035d34af",
 "size": 327542
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -6990,6 +6990,11 @@
 "sha256": "68bf17757cf0d55eb8864ffb8e4a65e8cfdddb3dc9b07737aa90a417dcde1557",
 "size": 1729904
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupportpro_1.9_all.ipk": {
+"date": "2026-11-22",
+"sha256": "16e090a17a4000a1f16b233f8125e8851fb876604553dd0b4fd176eb22cc617e",
+"size": 1895020
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-suptv_4.4_all.ipk": {
 "date": "2026-10-09",
 "sha256": "d01ad5ad3e1e8abedac7bae32a6f4a4b1151ff5c93f3918a3e4ddbf26fee538f",
@@ -8845,6 +8850,11 @@
 "sha256": "20bbc9e311f40a2c4741e27b51cd56095ffa41acf43fee68a2d4c2d4cc6ed22b",
 "size": 1729860
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-subssupportpro_1.9_all.deb": {
+"date": "2026-11-22",
+"sha256": "a542b39a11b1815f219abbeccee199599436a93287d5eb2402364676e2bb2f6b",
+"size": 1440888
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-surfsharkvpn_1.0.5_all.deb": {
 "date": "2026-10-09",
 "sha256": "f14bb9e83de2e91534d6adc1028efc0b7fd0da99a5e0a01a45ada5f53410fd28",
@@ -9176,13 +9186,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-22 12:42",
+"last_run": "2026-11-22 13:50",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-22",
-"files": 1835,
+"files": 1837,
 "upstream": "ok"
 }
 }

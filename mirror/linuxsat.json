@@ -2797,9 +2797,9 @@
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
-"name": "Subs Support Pro by Odem2014 v.1.4",
+"name": "Subs Support Pro by Odem2014 v.1.9",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupportpro_1.4_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.5/varius/enigma2-plugin-extensions-subssupportpro_1.9_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
@@ -5287,9 +5287,9 @@
 },
 {
 "section": "Utility Tools",
-"name": "Subs Support Pro 1.4 by Odem2014 all",
+"name": "Subs Support Pro 1.9 by Odem2014 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupportpro_1.4_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-subssupportpro_1.9_all.ipk"
 },
 {
 "section": "Utility Tools",

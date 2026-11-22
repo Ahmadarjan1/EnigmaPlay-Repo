@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
 "date": "2026-11-22",
-"sha256": "d6dbe27241af44e5bf8d5e65ad2c6f6f6a8a0e4bfaa18511607e1d2bf3d77f2d",
+"sha256": "db905d4cdeba62d61da2e8447c42f13eb6b6de9ddce19f81d18e8189deedf5e9",
 "size": 96646
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -67,8 +67,8 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-22",
-"sha256": "b91c53e294b7fc48c0ad7c8571cec0fc1d97b137033d34b00f1fe8725556c8e5",
-"size": 328034
+"sha256": "3a6d5a90ebe1b40d8832d1b263e85d273e26a4d902b718212b174eddff2b6eb6",
+"size": 329948
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -795,6 +795,11 @@
 "sha256": "6ca711ce2f41b7cbb637339bb412272d99f7cafa442c426276008d100036e08a",
 "size": 25970668
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_OBH/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openbhvix_all.ipk": {
+"date": "2026-11-22",
+"sha256": "3757bbbfced43fa25cc09d4d12853dcfc79cfb129866813aa60cee451d003005",
+"size": 34461590
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_OBH/enigma2-plugin-skins-cobaltfhd_OBH-V3-16.11.2025_all.ipk": {
 "date": "2026-10-18",
 "sha256": "cf7586be67c6ea1c5cab3ec6912215655b61a8b3187440490f7c03426a7aebae",
@@ -869,6 +874,11 @@
 "date": "2026-11-22",
 "sha256": "cc0f7b2cd0a7fae6d43735a9dec3977cb1686325af77eb629da279e2bf5d8148",
 "size": 18388056
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.83_all.ipk": {
+"date": "2026-11-22",
+"sha256": "502d71a840f280be868c2199c8031dac60a26cf5955968085dc256d1ab5c3727",
+"size": 18387972
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
 "date": "2026-10-09",
@@ -975,6 +985,11 @@
 "sha256": "ae89a3327c0858ab238b6291bf7f7f562237590fdcc095e2266afd3b20cae69a",
 "size": 3039570
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openatv_all.ipk": {
+"date": "2026-11-22",
+"sha256": "43c9ce95e98f7c7fe06ef2168ec8bd10087186d137dece2a1c60280086cc561a",
+"size": 34355424
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-cobaltfhd3_atv-python3_all.ipk": {
 "date": "2026-10-09",
 "sha256": "ea2b81d6c5f843b89dbffb93144ba2b94dc7e51eda4e9595cbfde8936350b171",
@@ -1049,6 +1064,11 @@
 "date": "2026-10-09",
 "sha256": "e811e5baae40d8b1484a3facd27c9fd0996f1ba6d6ea521c2bf807035cdc84eb",
 "size": 3422312
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-obsidian-fhd_1.8.0_all.ipk": {
+"date": "2026-11-22",
+"sha256": "8fd6f771bf5d1e0c40f20112bd13e66cb904dd4ce298dd26cf5db4162c1d342e",
+"size": 3084736
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenAtv/enigma2-plugin-skins-revolution-pro_full.6.8.dragon_all.ipk": {
 "date": "2026-10-09",
@@ -1209,6 +1229,11 @@
 "date": "2026-10-09",
 "sha256": "aea8d34c09900d7e51e6158a8915f8761dc46cd67c4ad6ce32ba62f6d91384d2",
 "size": 9056064
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cineview-fhd-mla_1.1.7.2.8+openpli_all.ipk": {
+"date": "2026-11-22",
+"sha256": "8be479d8c96a59d75cfca29d03065462e02855993acd65cb279350d6e4c5c88e",
+"size": 34566326
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_OpenPli/enigma2-plugin-skins-cino.pli.fhd_by.drsat.OpenPLi_all.ipk": {
 "date": "2026-10-09",
@@ -2759,6 +2784,11 @@
 "date": "2026-10-09",
 "sha256": "f80bc9311a370dee8f78cff65f421d11b023995c694451d8e1a1bca088199be1",
 "size": 2404080
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-moviebrowser_4.2_all.deb": {
+"date": "2026-11-22",
+"sha256": "d6c665f183792d26408b1ed489383e848084193f317e8cc88e345757dcba7c96",
+"size": 2438136
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-mylust_1.0_all.deb": {
 "date": "2026-10-09",
@@ -5265,6 +5295,11 @@
 "sha256": "ec064dd09254e3b4cd4fe371bd1462f0f55b40ee15f6f8afefa96d87e7ad0bd6",
 "size": 388296
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvdream_9.0.0_all.ipk": {
+"date": "2026-11-22",
+"sha256": "49e8c4a7281c623fbbf98b9d7bf8dd16b2dd39e41145240f26a9fc02a6c6cfa0",
+"size": 1565388
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-iptvlistupdater_1.63.git9930f82968-r28_mips32el.ipk": {
 "date": "2026-10-09",
 "sha256": "771d635d48d7a5162ce54c6ac406d5dbe9e49e68c543c0539edf339b56a71fee",
@@ -5334,6 +5369,11 @@
 "date": "2026-10-09",
 "sha256": "9a00f51e7bcd14dbd6d90268bb10575a8d204d77250799d7aa6a32f4c4e0ad91",
 "size": 2931972
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.2_all.ipk": {
+"date": "2026-11-22",
+"sha256": "a4a21161fbd60c6adb7de8e45801ebeaf9c8095631f74d08f4a4aef6899740ca",
+"size": 3057194
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk": {
 "date": "2026-10-09",
@@ -6180,10 +6220,20 @@
 "sha256": "b74cf6b69d2a1a7f1ef90b55b599dc91fbdd22d0443428fdad0be452d26f7c5b",
 "size": 513784
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_settings/enigma2-plugin-extensions-rcsc-settvbox4u_2.1.0_all.ipk": {
+"date": "2026-11-22",
+"sha256": "716e2b6c735afd70b6b9648d215d9c66d97ec7de08c82d428491888feb862994",
+"size": 120706
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_settings/enigma2-plugin-extensions-satvenus-settings_5.0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "5fd22da0044ae2f96e639f086a451c65ae62724ee93a269b56ae7fbd2660ff55",
 "size": 93642
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_settings/enigma2-plugin-extensions-servicescanupdatesiet5_3.1_all.ipk": {
+"date": "2026-11-22",
+"sha256": "1321c9f3b944a8960698742fc58c8cd5347a8d57eb8c90c6537ce79062d7c3c5",
+"size": 24586
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_settings/enigma2-plugin-extensions-settingsmaker_2.2_mips32el.ipk": {
 "date": "2026-10-09",
@@ -6500,6 +6550,11 @@
 "sha256": "62a2a7e302b84fb287b30addf6f3d5cca55e80964bd5ee5e6d3362bc98e465f5",
 "size": 820
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/E2-Currency-Pro.ipk": {
+"date": "2026-11-22",
+"sha256": "78ffc8dcc001f636ed1ecf2d0d694b95619594e549ede4970ec692a91b31481b",
+"size": 317754
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/E2-Security_1.1.1_all.ipk": {
 "date": "2026-10-22",
 "sha256": "b415765fc715aa4bbea68a8f4e46e0a34c9f4c9f64236e334e76fb7a6fc07c42",
@@ -6744,6 +6799,11 @@
 "date": "2026-10-09",
 "sha256": "8e3e101cf7461b96898050c4be8fd72da02db508ef3dc28dea2c04c83ec5a44d",
 "size": 2777628
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-gsu_13.41-r4_all.ipk": {
+"date": "2026-11-22",
+"sha256": "48d8f90a6f1665f28e777b615f4dd25b1b8afc0b85128685965d44b66134acb2",
+"size": 3692762
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-hardwareinfo_5.1_all.ipk": {
 "date": "2026-10-09",
@@ -8495,6 +8555,11 @@
 "sha256": "8e1f530b927b6571f26db63b88fe0878921d9757b24c7d3f6b14b48245ace1fa",
 "size": 112208
 },
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-iptvdream_9.0.0_all.deb": {
+"date": "2026-11-22",
+"sha256": "49e8c4a7281c623fbbf98b9d7bf8dd16b2dd39e41145240f26a9fc02a6c6cfa0",
+"size": 1565388
+},
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-iptvremote_1.0.5_all.deb": {
 "date": "2026-10-09",
 "sha256": "d4a6b46efcf5edcb19e4bb6755cfd08f098927ad2281e11dc8790c1bd4903f60",
@@ -8834,6 +8899,11 @@
 "date": "2026-10-09",
 "sha256": "bdb9deac969cdd78cdb35e0f8c2273089c62a9d8821b41fb6cfa1b8e20715dbf",
 "size": 529716
+},
+"gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-servicescanupdatesiet5_3.1_all.deb": {
+"date": "2026-11-22",
+"sha256": "01c6b895ad9ba6fa8cf73d115754fa1cc8b4498e29bf3ff5143707d4c6281610",
+"size": 22468
 },
 "gh/Belfagor2005/upload/oe2.5/varius/enigma2-plugin-extensions-settingscleaner_0.1.9_all.deb": {
 "date": "2026-10-09",
@@ -9211,13 +9281,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-22 18:16",
+"last_run": "2026-11-22 19:21",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-22",
-"files": 1842,
+"files": 1856,
 "upstream": "ok"
 }
 }

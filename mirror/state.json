@@ -66,9 +66,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-22",
-"sha256": "1fb61e554fa6702671c5dff64ecba402b47e11b422cfad567f4b93cad94aa4a3",
-"size": 329948
+"date": "2026-11-23",
+"sha256": "ab87f2639a4c25b8cf745b361164dfbf1c07cf8326bf985d9ec10bc0130ba1b8",
+"size": 330173
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -880,6 +880,11 @@
 "sha256": "502d71a840f280be868c2199c8031dac60a26cf5955968085dc256d1ab5c3727",
 "size": 18387972
 },
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.86_all.ipk": {
+"date": "2026-11-23",
+"sha256": "40ff2a80fbe32b7c7b69c2b61335fca64d6e00bbc37489e4e5efe2972561f6c2",
+"size": 18393684
+},
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-fury-fhd_7.0_all.ipk": {
 "date": "2026-10-09",
 "sha256": "befa3010bcc6471d55c67d07ae12ea8dbb5326b009ab8159369717729c7ac107",
@@ -929,6 +934,11 @@
 "date": "2026-10-09",
 "sha256": "7c70be04b83968ed8d9c3a57446846148ed90d6d80001486ec88c6012ab4e93e",
 "size": 6247364
+},
+"gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxypro_1.1_all.ipk": {
+"date": "2026-11-23",
+"sha256": "7f66b07a4834066bd9089014242a5969b7395e118a42e3b3414a9254d673a7a5",
+"size": 2370730
 },
 "gh/Belfagor2005/upload/oe2.0/Skins_Oebased/enigma2-plugin-skins-metrixfhd-neo_V.7s_v2_all.ipk": {
 "date": "2026-10-09",
@@ -9291,13 +9301,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-23 13:03",
+"last_run": "2026-11-23 14:11",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-23",
-"files": 1858,
+"files": 1860,
 "upstream": "ok"
 }
 }

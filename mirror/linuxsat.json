@@ -7093,9 +7093,9 @@
 },
 {
 "section": "Skins Oe Based",
-"name": "FHD GLASS v.1.0.83 all",
+"name": "FHD GLASS v.1.0.86 all",
 "type": "ipk",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.83_all.ipk"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-fullhdglass_1.0.86_all.ipk"
 },
 {
 "section": "Skins Oe Based",
@@ -7162,6 +7162,12 @@
 "name": "FHD Maxy v.1.4 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxy-fhd_1.4_all.ipk"
+},
+{
+"section": "Skins Oe Based",
+"name": "FHD Maxy Pro v.1.1 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/Skins_Oebased/enigma2-plugin-skins-maxypro_1.1_all.ipk"
 },
 {
 "section": "Skins Oe Based",

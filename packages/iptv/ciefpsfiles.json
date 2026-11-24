@@ -1,0 +1,41 @@
+{
+  "id": "ciefpsfiles",
+  "name": "CiefpSfiles",
+  "category": "iptv",
+  "version": "2.3.2",
+  "updated": "2026-11-24",
+  "updated_at": 1795492462,
+  "description": "يُعد CiefpSfiles إضافة متطورة لأجهزة Enigma2، مخصصة لتشغيل محتوى IPTV من بوابات Stalker/Ministra. تدعم الإضافة البث التلفزيوني المباشر، والأفلام (حسب الطلب - VOD)، والمسلسلات، وتوفر واجهتين: واحدة عصرية وأنيقة، وأخرى كلاسيكية. كما تتيح الإضافة جلب الأوصاف، وملصقات الأعمال، ومعلومات طاقم التمثيل تلقائياً من موقع TMDB.",
+  "author": "ciefp",
+  "developer": "ciefp",
+  "python": [
+    "3"
+  ],
+  "restart": true,
+  "icon": "icons/ciefpsfiles.png",
+  "screenshots": [
+    "screenshots/ciefpsfiles/1.jpg",
+    "screenshots/ciefpsfiles/2.jpg",
+    "screenshots/ciefpsfiles/3.jpg",
+    "screenshots/ciefpsfiles/4.jpg",
+    "screenshots/ciefpsfiles/5.jpg"
+  ],
+  "downloads": [
+    {
+      "type": "sh",
+      "file": "files/ciefpsfiles/2.3.2/installer.sh"
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-24",
+      "text": "2.3.2 - أول إصدار"
+    }
+  ],
+  "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSfiles/main/installer.sh -O - | /bin/sh",
+  "i18n": {
+    "en": {
+      "description": "CiefpSfiles is an advanced Enigma2 plugin for playing IPTV content from Stalker/Ministra portals.\nIt supports Live TV, Movies (VOD), and Series, featuring both a beautiful modern interface and a classic one, along with the automatic retrieval of descriptions, posters, and cast information from TMDB."
+    }
+  }
+}

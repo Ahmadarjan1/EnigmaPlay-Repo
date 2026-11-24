@@ -4921,6 +4921,12 @@
 },
 {
 "section": "Utility Tools",
+"name": "E2 Tvplayer v.1.1.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/enigma2-plugin-extensions-e2tvplayer_1.1.0_all.ipk"
+},
+{
+"section": "Utility Tools",
 "name": "Eparted_0.13-r1 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/plugin_utility/eparted_0.13-r1_all.ipk"

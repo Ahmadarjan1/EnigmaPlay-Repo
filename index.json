@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-20T21:16:38Z",
+ "generated": "2026-11-24T03:54:35Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -1364,6 +1364,58 @@
    "i18n": {
     "en": {
      "description": "An upgrade of the previous SubsSupport plugin.\nThe main new features :\n* It is different name , different package .\n\n* It is completely skinned for HD and FHD .\n* Add only the working providers\n>>> API key providers : subdl , subsource , opensubtitle , Wyzie .\n\n>>> Free providers : subf2m , Subtitlesmora , novalermora , localdrive .\n* Add support for provider logo .\n* Add color themes : 'Ember, Arctic, Royal, Graphite, Aurora, Neon, Sunset'\n\n* Add Locale Translator tool , thanks Lululla\n* New country flags .\n* Show update status in main screen .\n\n* It supports both python 2 and python 3 for opensource images only\nIPK download"
+    }
+   }
+  },
+  {
+   "id": "ciefpsfiles",
+   "category": "iptv",
+   "name": "CiefpSfiles",
+   "version": "2.3.2",
+   "description": "يُعد CiefpSfiles إضافة متطورة لأجهزة Enigma2، مخصصة لتشغيل محتوى IPTV من بوابات Stalker/Ministra. تدعم الإضافة البث التلفزيوني المباشر، والأفلام (حسب الطلب - VOD)، والمسلسلات، وتوفر واجهتين: واحدة عصرية وأنيقة، وأخرى كلاسيكية. كما تتيح الإضافة جلب الأوصاف، وملصقات الأعمال، ومعلومات طاقم التمثيل تلقائياً من موقع TMDB.",
+   "updated": "24.11.2026",
+   "updated_ts": 1795492462,
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsfiles/2.3.2/installer.sh",
+   "host": "github",
+   "changelog": [
+    [
+     "24.11.2026",
+     "2.3.2 - أول إصدار"
+    ]
+   ],
+   "sha256": "345a17ec277d00076c205aebbe4e520a0a3aec22213317fb33b8d2067c2893e2",
+   "restart": true,
+   "icon_url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/icons/ciefpsfiles.png?v=ed10d83571",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsfiles/1.jpg?v=cc033eee61",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsfiles/2.jpg?v=c9dc1a9176",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsfiles/3.jpg?v=e8bde36f06",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsfiles/4.jpg?v=913b15f812",
+    "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/screenshots/ciefpsfiles/5.jpg?v=f9331548a8"
+   ],
+   "downloads": [
+    {
+     "type": "sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsfiles/2.3.2/installer.sh",
+     "sha256": "345a17ec277d00076c205aebbe4e520a0a3aec22213317fb33b8d2067c2893e2",
+     "size": 3429,
+     "mirrors": [
+      {
+       "type": "sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsfiles/2.3.2/installer.sh",
+       "sha256": "345a17ec277d00076c205aebbe4e520a0a3aec22213317fb33b8d2067c2893e2"
+      }
+     ]
+    }
+   ],
+   "python": [
+    "3"
+   ],
+   "author": "ciefp",
+   "telnet": "wget -q \"--no-check-certificate\" https://raw.githubusercontent.com/ciefp/CiefpSfiles/main/installer.sh -O - | /bin/sh",
+   "i18n": {
+    "en": {
+     "description": "CiefpSfiles is an advanced Enigma2 plugin for playing IPTV content from Stalker/Ministra portals.\nIt supports Live TV, Movies (VOD), and Series, featuring both a beautiful modern interface and a classic one, along with the automatic retrieval of descriptions, posters, and cast information from TMDB."
     }
    }
   },
@@ -5957,6 +6009,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "wwQU7IwWT9RSlDI5t3ofMk2j4YFMkCrCsrA7fhK7YmkPWa9i9H6hrmoos38BTiPqPA4zuv6yPwL4OJdiNvW1CA=="
+  "sig": "a65mJMHo121Ak0anka5hVH0N3/dvDdRD+gzHSfgQE32Tu3ZjIOL68xXCRXuVC2pkFpYVs1nNLYlXMaCE31HkAw=="
  }
 }

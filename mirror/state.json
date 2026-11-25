@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
 "date": "2026-11-25",
-"sha256": "841cdd4a43a0f28824ebbe57e87cf9471660db3ee7ff3efbdf45a0d0c7e27c6f",
+"sha256": "44b2556fba720d70898a7c5ad32084dd91e2d0a52a7136eb59cb4ff4c82863b1",
 "size": 96646
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -67,7 +67,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-25",
-"sha256": "61e7c6ab60aeb5dda9133ebf925bcea075226f0e00d68c08b118741f3411ecf8",
+"sha256": "38e41932bca5fc7ca998f0d4d57e0612552a798bc770cee6a8376e6c145dd683",
 "size": 330418
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -3180,6 +3180,16 @@
 "sha256": "c4e2a2e94450d013f6a4836622efef3293b950b37480f0a2f1ad3a00fcf33859",
 "size": 11664090
 },
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.92_all.deb": {
+"date": "2026-11-25",
+"sha256": "d2ec45884dd55e3ceb38b081425d1b836a9b86c1b5743b576a236222e1aa5bd3",
+"size": 7849064
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.92_all.ipk": {
+"date": "2026-11-25",
+"sha256": "0f9b58ccdb945b53ce942b1da487236af94fcfda6765919bfbddce5da98f9ab3",
+"size": 11744198
+},
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.4_all.deb": {
 "date": "2026-10-09",
 "sha256": "2fdc3d2cc3ac5e62ac2cfd2a88ded91e09d5bc9de0e3bde9f6a3424fd2205c2a",
@@ -3239,6 +3249,16 @@
 "date": "2026-11-25",
 "sha256": "ae6bde6625a6bcaf64c55871a68ca6d31412fb764254763bab39a2052af0f646",
 "size": 6736330
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.6_all.deb": {
+"date": "2026-11-25",
+"sha256": "96ad0a58336d608509fe31918e425c829dd251d87bbe843f2415c2afed1f1148",
+"size": 6483080
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-worldcam_7.6_all.ipk": {
+"date": "2026-11-25",
+"sha256": "a5e07cb09dfaa8876c0344d06c8b589788399d50827c38f56c3273ba798d4381",
+"size": 6736372
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb": {
 "date": "2026-10-09",
@@ -9331,13 +9351,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-25 17:28",
+"last_run": "2026-11-25 18:33",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-25",
-"files": 1866,
+"files": 1870,
 "upstream": "ok"
 }
 }

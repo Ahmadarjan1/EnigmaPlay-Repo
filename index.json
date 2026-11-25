@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-24T03:54:35Z",
+ "generated": "2026-11-25T17:25:02Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -2246,16 +2246,20 @@
    "id": "ciefpopensubtitles",
    "category": "panels",
    "name": "CiefpOpenSubtitles",
-   "version": "1.5",
+   "version": "1.6",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791911898,
+   "updated": "25.11.2026",
+   "updated_ts": 1795627492,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopensubtitles/1.5/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopensubtitles/1.6/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "25.11.2026",
+     "1.6 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpOpenSubtitles)"
+    ],
     [
      "10.10.2026",
      "1.5 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpOpenSubtitles)"
@@ -2277,13 +2281,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopensubtitles/1.5/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpopensubtitles/1.6/installer.sh",
      "sha256": "e51eed65cbf5dcfe88e0546be46f43227c095bc5a40bad1a603d0410499a835b",
      "size": 3171,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpopensubtitles/1.5/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpopensubtitles/1.6/installer.sh",
        "sha256": "e51eed65cbf5dcfe88e0546be46f43227c095bc5a40bad1a603d0410499a835b"
       }
      ]
@@ -6009,6 +6013,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "a65mJMHo121Ak0anka5hVH0N3/dvDdRD+gzHSfgQE32Tu3ZjIOL68xXCRXuVC2pkFpYVs1nNLYlXMaCE31HkAw=="
+  "sig": "yq3efJJ4DFv0vltEB3VBC4Z5Oxl+MRKg8XJ27Qm7IgugS9Ts2C71G/UL4LXmeftEZRBiOUltP+soIG3qVm5ODA=="
  }
 }

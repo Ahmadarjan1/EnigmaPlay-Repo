@@ -47,7 +47,7 @@
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.0.txt": {
 "date": "2026-11-26",
-"sha256": "317e3bd7f9391efc097ae05772b37d5296dda12ce9c62d8da53c7892e6fa8021",
+"sha256": "124d8dc255f54dea861ea3f87955ca4d0dc8cb6fb6921ddbe7d7c23fd258c2be",
 "size": 96646
 },
 "gh/Belfagor2005/upload/GitHub_upload_oe2.5.txt": {
@@ -67,7 +67,7 @@
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
 "date": "2026-11-26",
-"sha256": "8c25426fd4a3137e035f7b9d024a87821dd18424e400f8d62f7c6ac18eb15b51",
+"sha256": "aa82362f1e7eebcde302f871949f09eb11f20c6116aabe9065eea4bd5c7f8525",
 "size": 330418
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
@@ -2810,6 +2810,11 @@
 "sha256": "738fef229fbce7feb504407f9332c3d8d4c77ee8225c11891cd2048aada960f6",
 "size": 3056080
 },
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-moviebrowser_4.4_all.deb": {
+"date": "2026-11-26",
+"sha256": "b73ba684a58a5fbde2defa30532d5494125b8dd540dc5a571aee3ac79e12df10",
+"size": 2274524
+},
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-mylust_1.0_all.deb": {
 "date": "2026-10-09",
 "sha256": "2f935806c7238bca0f4153f61e7433c2f3edf2c9502c0ebbcdcd977b86ad98c1",
@@ -5439,6 +5444,11 @@
 "date": "2026-11-26",
 "sha256": "5d1930dabb5c5a055b4871b122a0d70d4ac4b028519af233a07adc5bb2ba2f81",
 "size": 5107096
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviebrowser_4.4_all.ipk": {
+"date": "2026-11-26",
+"sha256": "a67898759b204361aeb7e333be4c1bb5607b86cce0724653d87f4d1915c10b4f",
+"size": 2802816
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_iptv/enigma2-plugin-extensions-moviecutcenter_1.09-20220330_all.ipk": {
 "date": "2026-10-09",
@@ -9366,13 +9376,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-26 11:10",
+"last_run": "2026-11-26 12:16",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-26",
-"files": 1873,
+"files": 1875,
 "upstream": "ok"
 }
 }

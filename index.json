@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-25T17:25:02Z",
+ "generated": "2026-11-26T01:50:23Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3090,16 +3090,20 @@
    "id": "ciefpsrtplayer",
    "category": "panels",
    "name": "CiefpSRTplayer",
-   "version": "1.0",
+   "version": "1.2",
    "description": "بانل تسطيب إضافات",
-   "updated": "13.10.2026",
-   "updated_ts": 1791923965,
+   "updated": "26.11.2026",
+   "updated_ts": 1795657816,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsrtplayer/1.0/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsrtplayer/1.2/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "26.11.2026",
+     "1.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSRTplayer)"
+    ],
     [
      "10.10.2026",
      "1.0 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSRTplayer)"
@@ -3122,13 +3126,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsrtplayer/1.0/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsrtplayer/1.2/installer.sh",
      "sha256": "605a9fcbb39da5e1c3bcb8ade07f4cf03f723426356ace982a90ab88f53e9a45",
      "size": 3142,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsrtplayer/1.0/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsrtplayer/1.2/installer.sh",
        "sha256": "605a9fcbb39da5e1c3bcb8ade07f4cf03f723426356ace982a90ab88f53e9a45"
       }
      ]
@@ -6013,6 +6017,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "yq3efJJ4DFv0vltEB3VBC4Z5Oxl+MRKg8XJ27Qm7IgugS9Ts2C71G/UL4LXmeftEZRBiOUltP+soIG3qVm5ODA=="
+  "sig": "LeXmSFuCih93jTJHpZ4bPZfR4d/qUI024CR0VdDmsLzVpO43qFoick/u89EHSjl1e0hGAz83tL9UpzS7keQhDg=="
  }
 }

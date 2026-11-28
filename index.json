@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "generated": "2026-11-27T22:06:38Z",
+ "generated": "2026-11-28T13:14:43Z",
  "repo": "Ahmadarjan1/EnigmaPlay-Repo",
  "categories": [
   {
@@ -3021,16 +3021,20 @@
    "id": "ciefpsettingst2miabertis",
    "category": "panels",
    "name": "CiefpSettingsT2miAbertis",
-   "version": "3.2",
+   "version": "3.3",
    "description": "بانل تسطيب إضافات",
-   "updated": "27.11.2026",
-   "updated_ts": 1795817191,
+   "updated": "28.11.2026",
+   "updated_ts": 1795871679,
    "status_codes": [
     "Pan"
    ],
-   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.2/installer.sh",
+   "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.3/installer.sh",
    "host": "github",
    "changelog": [
+    [
+     "28.11.2026",
+     "3.3 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
+    ],
     [
      "27.11.2026",
      "3.2 - تحديث تلقائي من مصدر المطوّر (ciefp/CiefpSettingsT2miAbertis)"
@@ -3065,13 +3069,13 @@
    "downloads": [
     {
      "type": "sh",
-     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.2/installer.sh",
+     "url": "https://raw.githubusercontent.com/Ahmadarjan1/EnigmaPlay-Repo/main/files/ciefpsettingst2miabertis/3.3/installer.sh",
      "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee",
      "size": 3202,
      "mirrors": [
       {
        "type": "sh",
-       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingst2miabertis/3.2/installer.sh",
+       "url": "https://github.com/Ahmadarjan1/EnigmaPlay-Repo/raw/main/files/ciefpsettingst2miabertis/3.3/installer.sh",
        "sha256": "fe36a96848f7aa41feb472ba2e8f4b12693de5e528c6114cbd77243a24a9fdee"
       }
      ]
@@ -6021,6 +6025,6 @@
  "signature": {
   "alg": "ed25519",
   "key": "0081b60cc47292f388c5ea642d350b1becc0cb6b6729e22bc048af78c95b7a61",
-  "sig": "92FK51bQMnbmukjJ94YQNrxlw/M1NtwxA4gpc42I7qsR2utNVdvkJniVnkhF+od56Dkbu8sVzRwevuTyF38pBA=="
+  "sig": "nh2D2Spr4RFWZ72DtWYAibW8OKpUs9ucZNKlWMXOjWU5b6tiXgVtHuWL6km6pD29MQT0/kpZ3W2dS+s/lJ8NDw=="
  }
 }

@@ -66,9 +66,9 @@
 "size": 772
 },
 "gh/Belfagor2005/upload/fill/addons_2024.xml": {
-"date": "2026-11-27",
-"sha256": "d15470ebe6f27dbbcbbb6c68fb1874e8c4d2011ae62de1e617dbbea7f12aa89d",
-"size": 330418
+"date": "2026-11-28",
+"sha256": "1ba971aca9a206abb35809436c49c293949a9510f57dca215e2ec323f60bcdc2",
+"size": 331175
 },
 "gh/Belfagor2005/upload/fill/info.txt": {
 "date": "2026-10-09",
@@ -3292,13 +3292,13 @@
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.deb": {
 "date": "2026-11-28",
-"sha256": "6ea2b6faeb08fb4e09f45c972defd3acd028137dcfdc66987277e2ababd84b17",
-"size": 1444736
+"sha256": "5eaa023c81b3f6feb674d0d7404ef4ba2120a67132dec19d39bc61f92f92de30",
+"size": 1444712
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.ipk": {
 "date": "2026-11-28",
-"sha256": "aa24395bc638b2e6410acde72ac2ba73046f10b1efc1b135acbacb956aad961c",
-"size": 2165798
+"sha256": "315d0947097464253b5532fac462e44cf443bddf1db0812f76dc25dccada90e7",
+"size": 2165112
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb": {
 "date": "2026-10-09",
@@ -6270,6 +6270,11 @@
 "sha256": "4609bf9d35fcfaf49812a0dc3f7f85d0c109044a880e40d26d178b831cee0da7",
 "size": 867140
 },
+"gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-radio-warder-evolution_0.2.4_all.ipk": {
+"date": "2026-11-28",
+"sha256": "5dc30e6f8c51600ca0ec9acbb911eb17026431d56421058a63ac28d606073f90",
+"size": 10769804
+},
 "gh/Belfagor2005/upload/oe2.0/plugin_radio/enigma2-plugin-extensions-radioteca_1.9_all.ipk": {
 "date": "2026-11-13",
 "sha256": "f08c90cb0c6255fb663bf65c239e154f0f510279d87820e15cfc3470f50bc02b",
@@ -6919,6 +6924,11 @@
 "date": "2026-10-09",
 "sha256": "8e3e101cf7461b96898050c4be8fd72da02db508ef3dc28dea2c04c83ec5a44d",
 "size": 2777628
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-gsu_0.41.9_all.ipk": {
+"date": "2026-11-28",
+"sha256": "718c24cf792b0c7ec82f658910638463a3ee1d7ed4f789424e1e38922f2005c7",
+"size": 21994226
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_utility/enigma2-plugin-extensions-gsu_13.41-r4_all.ipk": {
 "date": "2026-11-22",
@@ -7574,6 +7584,11 @@
 "date": "2026-10-09",
 "sha256": "5a19b7dd852cc7d4691c01d8ce68a4272f6db2470770a38182790bf5848e7b08",
 "size": 124654
+},
+"gh/Belfagor2005/upload/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube-warder-evolution_1.0.7_all.ipk": {
+"date": "2026-11-28",
+"sha256": "83a0a5f55efcb6f9c2af5e970d77f5d714b4bd33f5ae00a6f118acc512fa0a15",
+"size": 11649460
 },
 "gh/Belfagor2005/upload/oe2.0/plugin_youtube/enigma2-plugin-extensions-youtube_1+git1078+adb94bf-r0-Mod-RAED.deb": {
 "date": "2026-10-09",
@@ -9416,13 +9431,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-28 13:06",
+"last_run": "2026-11-28 14:13",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-28",
-"files": 1883,
+"files": 1886,
 "upstream": "ok"
 }
 }

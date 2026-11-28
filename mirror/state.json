@@ -3040,10 +3040,15 @@
 "sha256": "c45b571eeb52c2e9ce5b9d0d20092e6dea12f791d6fc3529bbc9dbc1232d71e0",
 "size": 1285384
 },
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-televideorai_1.0_all.deb": {
+"date": "2026-11-28",
+"sha256": "8adaa659b172d42d86fcd6bd11a3cb6ffc899037f429469ade5891cbcda5bbaa",
+"size": 10236
+},
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-televideorai_1.0_all.ipk": {
-"date": "2026-11-16",
-"sha256": "126e8b2e1c91740c914e6263c8972823224c3af9138c4c3a7e9a122fd8abfb3f",
-"size": 11020
+"date": "2026-11-28",
+"sha256": "eb267c9b0080feb3d61a5f312227838c5126f64dedba6fd4bcb6a38f5a795a6d",
+"size": 11022
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-theweather-py2-py3_2.4_r3_all.ipk": {
 "date": "2026-10-09",
@@ -3284,6 +3289,16 @@
 "date": "2026-11-27",
 "sha256": "f4547f20422df0f653590b3e0dab2767cfe3876c872974eb6cc34b1a5956ef0a",
 "size": 6714422
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.deb": {
+"date": "2026-11-28",
+"sha256": "6ea2b6faeb08fb4e09f45c972defd3acd028137dcfdc66987277e2ababd84b17",
+"size": 1444736
+},
+"gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.ipk": {
+"date": "2026-11-28",
+"sha256": "aa24395bc638b2e6410acde72ac2ba73046f10b1efc1b135acbacb956aad961c",
+"size": 2165798
 },
 "gh/Belfagor2005/upload/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb": {
 "date": "2026-10-09",
@@ -9401,13 +9416,13 @@
 "size": 5103
 }
 },
-"last_run": "2026-11-28 11:59",
+"last_run": "2026-11-28 13:06",
 "pending_uploads": 1,
 "repos": {
 "gh/Belfagor2005/upload": {
 "branch": "main",
 "checked": "2026-11-28",
-"files": 1880,
+"files": 1883,
 "upstream": "ok"
 }
 }

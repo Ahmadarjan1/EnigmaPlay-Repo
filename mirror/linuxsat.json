@@ -1813,6 +1813,12 @@
 },
 {
 "section": "Lululla Zone OE2.0",
+"name": "Xc Diamond v.1.0 all",
+"type": "ipk",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.ipk"
+},
+{
+"section": "Lululla Zone OE2.0",
 "name": "Xc Forever Gold v.5.2 all",
 "type": "ipk",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.ipk"
@@ -1825,13 +1831,19 @@
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Softcam Manager v.3.6",
+"name": "Acherone v.1.4",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-acherone_1.4_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Apod Picture of the Day v.2.2 all",
+"name": "Advanced Screenshot v.1.2",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-advancedscreenshot_1.2_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "APOD v.2.2",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-apod_2.2_all.deb"
 },
@@ -1843,9 +1855,57 @@
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Backsncovers v.1.5",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-backsncovers_1.5_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Backup Suite v.3.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-backupsuite_3.0-r12_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Bouquet Updater v.3.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-bouquetupdater_3.1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Calendar Planner v.2.1",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-calendar_2.1_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "CI Plus Helper v.7.2",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ci-plus-helper_7.2_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Command Center v.1.4",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-commandcenter_1.4_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "DD RSS Reader v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-ddrssreader_1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
 "name": "FilmOn v.2.6",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-filmon_2.6_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Foreca One v.1.3.5",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-foreca-one_1.3.5_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
@@ -1861,15 +1921,51 @@
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "M3U Iptv v.1.1",
+"name": "Horoscope v.1.2",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-m3uiptv_1.1_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-horoscope_1.2_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "mmPicons v.1.6 mMark",
+"name": "HypnoTube v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-hypnotube_1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Lotto Statistiche v.1.2",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-lottostatistiche_1.2_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Merlin Music Player v.7.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-merlinmusicplayer_7.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "mmPicons v.1.6",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-mmpicons_1.6_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Movie Browser v.4.4",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-moviebrowser_4.4_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "OAWeather v.4.1",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oaweather_4.1_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Oroscopo Italia v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-oroscopo_1.0_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
@@ -1879,63 +1975,87 @@
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "RadioGit v.1.2 all",
+"name": "Plugins Panel v.1.1",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-pluginspanel_1.1_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "RadioGit v.1.2",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiogit_1.2_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "RadioM v.1.2 all",
+"name": "RadioM v.1.6",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.2_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-radiom_1.6_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "RSS Reader v.1.14 all",
+"name": "RaiPlay v.1.9",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-raiplay_1.9_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "RSILive v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rsilive_1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "RSS Reader v.1.14",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-rssreader_1.14_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Scsearch v.1.30.1 all",
+"name": "Scsearch v.1.30.1",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-scsearch_1.30.1_pub_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Softcam Key Updater v.6.1-12.20 all",
+"name": "TvDream v.1.2",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-softcamkeyupdater_6.1-12.20_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.2_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "S.T.V.C.L. v.1.4 all",
+"name": "TVGarden v.3.0",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-stvcl_1.4_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvgarden_3.0_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "TvDream v.1.4",
+"name": "Softcam Manager v.3.6",
 "type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvdream_1.4_all.deb"
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvmanager_3.6_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Rai Play v.1.5 all",
-"type": "deb",
-"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvraipreview_1.5_all.deb"
-},
-{
-"section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "TvToM3U Convert v.2.1",
+"name": "TvToM3U v.2.1",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-tvtom3upanel_2.1_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Uninstaller v.1.0 all",
+"name": "Uninstaller v.1.0",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-uninstaller_1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Vavoo v.1.92",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-vavoo_1.92_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "WiFi Manager v.1.5",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-wifimanager_1.5_all.deb"
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
@@ -1945,9 +2065,33 @@
 },
 {
 "section": "Lululla Zone OE2.2/2.5/2.6",
-"name": "Xc Forever Gold v.5.2 all",
+"name": "XC Diamond v.1.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcdiamond_1.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "XC Forever Gold v.5.2",
 "type": "deb",
 "url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xcplugin-forever_5.2_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "XXX Plugin v.1.4",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-extensions-xxxplugin_1.4_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Metrix Confluence XP Pro Skin v.3.0",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-skins-metrixconfluencexp-pro-atv-dragon-lululla_3.0_all.deb"
+},
+{
+"section": "Lululla Zone OE2.2/2.5/2.6",
+"name": "Ozeta Skin v.2.0.3",
+"type": "deb",
+"url": "https://github.com/Belfagor2005/upload/raw/main/oe2.0/lululla/enigma2-plugin-skins-ozeta_2.0.3_all.deb"
 },
 {
 "section": "Plugins OE2.2/2.5/2.6",
